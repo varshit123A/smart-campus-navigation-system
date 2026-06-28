@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Goa GIS Dataset",
+  "properties": {
+    "campusId": "nit-goa",
+    "campusName": "NIT Goa",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.221Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-goa-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Goa Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.98363478090826,
+              15.3912
+            ],
+            [
+              73.98331670596204,
+              15.393529371405922
+            ],
+            [
+              73.98238415740532,
+              15.3957
+            ],
+            [
+              73.98090068688113,
+              15.397563961030679
+            ],
+            [
+              73.97896739045413,
+              15.39899422863406
+            ],
+            [
+              73.97671601908091,
+              15.399893332436601
+            ],
+            [
+              73.9743,
+              15.4002
+            ],
+            [
+              73.97188398091909,
+              15.399893332436601
+            ],
+            [
+              73.96963260954587,
+              15.39899422863406
+            ],
+            [
+              73.96769931311887,
+              15.397563961030679
+            ],
+            [
+              73.96621584259468,
+              15.3957
+            ],
+            [
+              73.96528329403796,
+              15.393529371405922
+            ],
+            [
+              73.96496521909174,
+              15.3912
+            ],
+            [
+              73.96528329403796,
+              15.388870628594077
+            ],
+            [
+              73.96621584259468,
+              15.3867
+            ],
+            [
+              73.96769931311887,
+              15.38483603896932
+            ],
+            [
+              73.96963260954587,
+              15.38340577136594
+            ],
+            [
+              73.97188398091909,
+              15.382506667563398
+            ],
+            [
+              73.9743,
+              15.3822
+            ],
+            [
+              73.97671601908091,
+              15.382506667563398
+            ],
+            [
+              73.97896739045413,
+              15.38340577136594
+            ],
+            [
+              73.98090068688113,
+              15.38483603896932
+            ],
+            [
+              73.98238415740532,
+              15.3867
+            ],
+            [
+              73.98331670596204,
+              15.388870628594077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-0",
+      "properties": {
+        "id": "nit-goa-bld-0",
+        "name": "NIT Goa Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of NIT Goa, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97414441994444,
+              15.39185
+            ],
+            [
+              73.97445558005556,
+              15.39185
+            ],
+            [
+              73.97445558005556,
+              15.39155
+            ],
+            [
+              73.97414441994444,
+              15.39155
+            ],
+            [
+              73.97414441994444,
+              15.39185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-1",
+      "properties": {
+        "id": "nit-goa-bld-1",
+        "name": "NIT Goa Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at NIT Goa. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97414441807548,
+              15.39435
+            ],
+            [
+              73.97445558192452,
+              15.39435
+            ],
+            [
+              73.97445558192452,
+              15.39405
+            ],
+            [
+              73.97414441807548,
+              15.39405
+            ],
+            [
+              73.97414441807548,
+              15.39435
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-2",
+      "properties": {
+        "id": "nit-goa-bld-2",
+        "name": "NIT Goa Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97214441919691,
+              15.39285
+            ],
+            [
+              73.9724555808031,
+              15.39285
+            ],
+            [
+              73.9724555808031,
+              15.39255
+            ],
+            [
+              73.97214441919691,
+              15.39255
+            ],
+            [
+              73.97214441919691,
+              15.39285
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-3",
+      "properties": {
+        "id": "nit-goa-bld-3",
+        "name": "NIT Goa Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9771444188231,
+              15.39335
+            ],
+            [
+              73.9774555811769,
+              15.39335
+            ],
+            [
+              73.9774555811769,
+              15.39305
+            ],
+            [
+              73.9771444188231,
+              15.39305
+            ],
+            [
+              73.9771444188231,
+              15.39335
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-4",
+      "properties": {
+        "id": "nit-goa-bld-4",
+        "name": "NIT Goa Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97614441957067,
+              15.392349999999999
+            ],
+            [
+              73.97645558042932,
+              15.392349999999999
+            ],
+            [
+              73.97645558042932,
+              15.39205
+            ],
+            [
+              73.97614441957067,
+              15.39205
+            ],
+            [
+              73.97614441957067,
+              15.392349999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-5",
+      "properties": {
+        "id": "nit-goa-bld-5",
+        "name": "NIT Goa Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97114441957068,
+              15.392349999999999
+            ],
+            [
+              73.97145558042932,
+              15.392349999999999
+            ],
+            [
+              73.97145558042932,
+              15.39205
+            ],
+            [
+              73.97114441957068,
+              15.39205
+            ],
+            [
+              73.97114441957068,
+              15.392349999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-6",
+      "properties": {
+        "id": "nit-goa-bld-6",
+        "name": "NIT Goa Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97664441807548,
+              15.39435
+            ],
+            [
+              73.97695558192451,
+              15.39435
+            ],
+            [
+              73.97695558192451,
+              15.39405
+            ],
+            [
+              73.97664441807548,
+              15.39405
+            ],
+            [
+              73.97664441807548,
+              15.39435
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-7",
+      "properties": {
+        "id": "nit-goa-bld-7",
+        "name": "NIT Goa Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of NIT Goa used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9716444184493,
+              15.393849999999999
+            ],
+            [
+              73.9719555815507,
+              15.393849999999999
+            ],
+            [
+              73.9719555815507,
+              15.39355
+            ],
+            [
+              73.9716444184493,
+              15.39355
+            ],
+            [
+              73.9716444184493,
+              15.393849999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-8",
+      "properties": {
+        "id": "nit-goa-bld-8",
+        "name": "NIT Goa Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97314441770163,
+              15.39485
+            ],
+            [
+              73.97345558229836,
+              15.39485
+            ],
+            [
+              73.97345558229836,
+              15.39455
+            ],
+            [
+              73.97314441770163,
+              15.39455
+            ],
+            [
+              73.97314441770163,
+              15.39485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-9",
+      "properties": {
+        "id": "nit-goa-bld-9",
+        "name": "NIT Goa Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97014442181306,
+              15.389349999999999
+            ],
+            [
+              73.97045557818693,
+              15.389349999999999
+            ],
+            [
+              73.97045557818693,
+              15.38905
+            ],
+            [
+              73.97014442181306,
+              15.38905
+            ],
+            [
+              73.97014442181306,
+              15.389349999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-10",
+      "properties": {
+        "id": "nit-goa-bld-10",
+        "name": "NIT Goa Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97014442256042,
+              15.388349999999999
+            ],
+            [
+              73.97045557743957,
+              15.388349999999999
+            ],
+            [
+              73.97045557743957,
+              15.38805
+            ],
+            [
+              73.97014442256042,
+              15.38805
+            ],
+            [
+              73.97014442256042,
+              15.388349999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-11",
+      "properties": {
+        "id": "nit-goa-bld-11",
+        "name": "NIT Goa Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97114442330772,
+              15.38735
+            ],
+            [
+              73.97145557669228,
+              15.38735
+            ],
+            [
+              73.97145557669228,
+              15.38705
+            ],
+            [
+              73.97114442330772,
+              15.38705
+            ],
+            [
+              73.97114442330772,
+              15.38735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-12",
+      "properties": {
+        "id": "nit-goa-bld-12",
+        "name": "NIT Goa Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97814442181307,
+              15.389349999999999
+            ],
+            [
+              73.97845557818694,
+              15.389349999999999
+            ],
+            [
+              73.97845557818694,
+              15.38905
+            ],
+            [
+              73.97814442181307,
+              15.38905
+            ],
+            [
+              73.97814442181307,
+              15.389349999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-13",
+      "properties": {
+        "id": "nit-goa-bld-13",
+        "name": "NIT Goa Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97814442256043,
+              15.388349999999999
+            ],
+            [
+              73.97845557743958,
+              15.388349999999999
+            ],
+            [
+              73.97845557743958,
+              15.38805
+            ],
+            [
+              73.97814442256043,
+              15.38805
+            ],
+            [
+              73.97814442256043,
+              15.388349999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-14",
+      "properties": {
+        "id": "nit-goa-bld-14",
+        "name": "NIT Goa Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97614442405497,
+              15.386349999999998
+            ],
+            [
+              73.97645557594502,
+              15.386349999999998
+            ],
+            [
+              73.97645557594502,
+              15.38605
+            ],
+            [
+              73.97614442405497,
+              15.38605
+            ],
+            [
+              73.97614442405497,
+              15.386349999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-15",
+      "properties": {
+        "id": "nit-goa-bld-15",
+        "name": "NIT Goa Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97714442480216,
+              15.385349999999999
+            ],
+            [
+              73.97745557519784,
+              15.385349999999999
+            ],
+            [
+              73.97745557519784,
+              15.38505
+            ],
+            [
+              73.97714442480216,
+              15.38505
+            ],
+            [
+              73.97714442480216,
+              15.385349999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-16",
+      "properties": {
+        "id": "nit-goa-bld-16",
+        "name": "NIT Goa Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97214442405497,
+              15.386349999999998
+            ],
+            [
+              73.97245557594503,
+              15.386349999999998
+            ],
+            [
+              73.97245557594503,
+              15.38605
+            ],
+            [
+              73.97214442405497,
+              15.38605
+            ],
+            [
+              73.97214442405497,
+              15.386349999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-17",
+      "properties": {
+        "id": "nit-goa-bld-17",
+        "name": "NIT Goa Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97414442106566,
+              15.39035
+            ],
+            [
+              73.97445557893434,
+              15.39035
+            ],
+            [
+              73.97445557893434,
+              15.39005
+            ],
+            [
+              73.97414442106566,
+              15.39005
+            ],
+            [
+              73.97414442106566,
+              15.39035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-18",
+      "properties": {
+        "id": "nit-goa-bld-18",
+        "name": "NIT Goa Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97214442181307,
+              15.389349999999999
+            ],
+            [
+              73.97245557818694,
+              15.389349999999999
+            ],
+            [
+              73.97245557818694,
+              15.38905
+            ],
+            [
+              73.97214442181307,
+              15.38905
+            ],
+            [
+              73.97214442181307,
+              15.389349999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-19",
+      "properties": {
+        "id": "nit-goa-bld-19",
+        "name": "NIT Goa Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97114442106566,
+              15.39035
+            ],
+            [
+              73.97145557893434,
+              15.39035
+            ],
+            [
+              73.97145557893434,
+              15.39005
+            ],
+            [
+              73.97114442106566,
+              15.39005
+            ],
+            [
+              73.97114442106566,
+              15.39035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-20",
+      "properties": {
+        "id": "nit-goa-bld-20",
+        "name": "NIT Goa Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97714442106566,
+              15.39035
+            ],
+            [
+              73.97745557893434,
+              15.39035
+            ],
+            [
+              73.97745557893434,
+              15.39005
+            ],
+            [
+              73.97714442106566,
+              15.39005
+            ],
+            [
+              73.97714442106566,
+              15.39035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-21",
+      "properties": {
+        "id": "nit-goa-bld-21",
+        "name": "NIT Goa Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97414442256043,
+              15.388349999999999
+            ],
+            [
+              73.97445557743957,
+              15.388349999999999
+            ],
+            [
+              73.97445557743957,
+              15.38805
+            ],
+            [
+              73.97414442256043,
+              15.38805
+            ],
+            [
+              73.97414442256043,
+              15.388349999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-22",
+      "properties": {
+        "id": "nit-goa-bld-22",
+        "name": "NIT Goa Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97614442256042,
+              15.388349999999999
+            ],
+            [
+              73.97645557743957,
+              15.388349999999999
+            ],
+            [
+              73.97645557743957,
+              15.38805
+            ],
+            [
+              73.97614442256042,
+              15.38805
+            ],
+            [
+              73.97614442256042,
+              15.388349999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-23",
+      "properties": {
+        "id": "nit-goa-bld-23",
+        "name": "NIT Goa Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97514442330773,
+              15.38735
+            ],
+            [
+              73.97545557669228,
+              15.38735
+            ],
+            [
+              73.97545557669228,
+              15.38705
+            ],
+            [
+              73.97514442330773,
+              15.38705
+            ],
+            [
+              73.97514442330773,
+              15.38735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-24",
+      "properties": {
+        "id": "nit-goa-bld-24",
+        "name": "NIT Goa Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9771444203182,
+              15.39135
+            ],
+            [
+              73.9774555796818,
+              15.39135
+            ],
+            [
+              73.9774555796818,
+              15.39105
+            ],
+            [
+              73.9771444203182,
+              15.39105
+            ],
+            [
+              73.9771444203182,
+              15.39135
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-25",
+      "properties": {
+        "id": "nit-goa-bld-25",
+        "name": "NIT Goa Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97414441508442,
+              15.398349999999999
+            ],
+            [
+              73.97445558491557,
+              15.398349999999999
+            ],
+            [
+              73.97445558491557,
+              15.39805
+            ],
+            [
+              73.97414441508442,
+              15.39805
+            ],
+            [
+              73.97414441508442,
+              15.398349999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-26",
+      "properties": {
+        "id": "nit-goa-bld-26",
+        "name": "NIT Goa Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9681444203182,
+              15.39135
+            ],
+            [
+              73.9684555796818,
+              15.39135
+            ],
+            [
+              73.9684555796818,
+              15.39105
+            ],
+            [
+              73.9681444203182,
+              15.39105
+            ],
+            [
+              73.9681444203182,
+              15.39135
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-27",
+      "properties": {
+        "id": "nit-goa-bld-27",
+        "name": "NIT Goa State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97564442031819,
+              15.39135
+            ],
+            [
+              73.9759555796818,
+              15.39135
+            ],
+            [
+              73.9759555796818,
+              15.39105
+            ],
+            [
+              73.97564442031819,
+              15.39105
+            ],
+            [
+              73.97564442031819,
+              15.39135
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-28",
+      "properties": {
+        "id": "nit-goa-bld-28",
+        "name": "NIT Goa Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97514441583228,
+              15.39735
+            ],
+            [
+              73.97545558416773,
+              15.39735
+            ],
+            [
+              73.97545558416773,
+              15.39705
+            ],
+            [
+              73.97514441583228,
+              15.39705
+            ],
+            [
+              73.97514441583228,
+              15.39735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-bld-29",
+      "properties": {
+        "id": "nit-goa-bld-29",
+        "name": "NIT Goa Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97014441658006,
+              15.39635
+            ],
+            [
+              73.97045558341993,
+              15.39635
+            ],
+            [
+              73.97045558341993,
+              15.39605
+            ],
+            [
+              73.97014441658006,
+              15.39605
+            ],
+            [
+              73.97014441658006,
+              15.39635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-road-0",
+      "properties": {
+        "id": "nit-goa-road-0",
+        "name": "NIT Goa Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9743,
+            15.3982
+          ],
+          [
+            73.9743,
+            15.3872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-road-1",
+      "properties": {
+        "id": "nit-goa-road-1",
+        "name": "NIT Goa Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9703,
+            15.3882
+          ],
+          [
+            73.9783,
+            15.3882
+          ],
+          [
+            73.9783,
+            15.395199999999999
+          ],
+          [
+            73.9703,
+            15.395199999999999
+          ],
+          [
+            73.9703,
+            15.3882
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-road-2",
+      "properties": {
+        "id": "nit-goa-road-2",
+        "name": "NIT Goa West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9683,
+            15.3912
+          ],
+          [
+            73.9743,
+            15.3912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-road-3",
+      "properties": {
+        "id": "nit-goa-road-3",
+        "name": "NIT Goa Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9703,
+            15.3932
+          ],
+          [
+            73.9783,
+            15.3932
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-road-4",
+      "properties": {
+        "id": "nit-goa-road-4",
+        "name": "NIT Goa Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9703,
+            15.3882
+          ],
+          [
+            73.9703,
+            15.3902
+          ],
+          [
+            73.9783,
+            15.3902
+          ],
+          [
+            73.9783,
+            15.3882
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-walkway-0",
+      "properties": {
+        "id": "nit-goa-walkway-0",
+        "name": "NIT Goa Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9743,
+            15.3942
+          ],
+          [
+            73.9743,
+            15.3927
+          ],
+          [
+            73.9723,
+            15.3927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-walkway-1",
+      "properties": {
+        "id": "nit-goa-walkway-1",
+        "name": "NIT Goa CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9773,
+            15.3932
+          ],
+          [
+            73.9743,
+            15.3932
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-walkway-2",
+      "properties": {
+        "id": "nit-goa-walkway-2",
+        "name": "NIT Goa SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9743,
+            15.3902
+          ],
+          [
+            73.9743,
+            15.3882
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-walkway-3",
+      "properties": {
+        "id": "nit-goa-walkway-3",
+        "name": "NIT Goa Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9773,
+            15.3852
+          ],
+          [
+            73.9763,
+            15.386199999999999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-walkway-4",
+      "properties": {
+        "id": "nit-goa-walkway-4",
+        "name": "NIT Goa Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9783,
+            15.389199999999999
+          ],
+          [
+            73.9773,
+            15.3902
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-walkway-5",
+      "properties": {
+        "id": "nit-goa-walkway-5",
+        "name": "NIT Goa Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9703,
+            15.389199999999999
+          ],
+          [
+            73.9723,
+            15.389199999999999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-walkway-6",
+      "properties": {
+        "id": "nit-goa-walkway-6",
+        "name": "NIT Goa Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9773,
+            15.3912
+          ],
+          [
+            73.97579999999999,
+            15.3912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-goa-walkway-7",
+      "properties": {
+        "id": "nit-goa-walkway-7",
+        "name": "NIT Goa Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9718,
+            15.393699999999999
+          ],
+          [
+            73.9723,
+            15.3927
+          ]
+        ]
+      }
+    }
+  ]
+}

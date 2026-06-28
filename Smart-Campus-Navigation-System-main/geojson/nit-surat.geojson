@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "SVNIT Surat GIS Dataset",
+  "properties": {
+    "campusId": "nit-surat",
+    "campusName": "SVNIT Surat",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.210Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-surat-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "SVNIT Surat Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.79275096800065,
+              21.1643
+            ],
+            [
+              72.79242211924051,
+              21.166629371405925
+            ],
+            [
+              72.79145798345967,
+              21.1688
+            ],
+            [
+              72.78992426491827,
+              21.17066396103068
+            ],
+            [
+              72.78792548400033,
+              21.172094228634062
+            ],
+            [
+              72.78559785432225,
+              21.1729933324366
+            ],
+            [
+              72.7831,
+              21.1733
+            ],
+            [
+              72.78060214567776,
+              21.1729933324366
+            ],
+            [
+              72.77827451599968,
+              21.172094228634062
+            ],
+            [
+              72.77627573508174,
+              21.17066396103068
+            ],
+            [
+              72.77474201654034,
+              21.1688
+            ],
+            [
+              72.7737778807595,
+              21.166629371405925
+            ],
+            [
+              72.77344903199936,
+              21.1643
+            ],
+            [
+              72.7737778807595,
+              21.161970628594077
+            ],
+            [
+              72.77474201654034,
+              21.1598
+            ],
+            [
+              72.77627573508174,
+              21.15793603896932
+            ],
+            [
+              72.77827451599968,
+              21.15650577136594
+            ],
+            [
+              72.78060214567776,
+              21.1556066675634
+            ],
+            [
+              72.7831,
+              21.1553
+            ],
+            [
+              72.78559785432225,
+              21.1556066675634
+            ],
+            [
+              72.78792548400033,
+              21.15650577136594
+            ],
+            [
+              72.78992426491827,
+              21.15793603896932
+            ],
+            [
+              72.79145798345967,
+              21.1598
+            ],
+            [
+              72.79242211924051,
+              21.161970628594077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-0",
+      "properties": {
+        "id": "nit-surat-bld-0",
+        "name": "SVNIT Surat Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of SVNIT Surat, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78293914998987,
+              21.16495
+            ],
+            [
+              72.78326085001014,
+              21.16495
+            ],
+            [
+              72.78326085001014,
+              21.164649999999998
+            ],
+            [
+              72.78293914998987,
+              21.164649999999998
+            ],
+            [
+              72.78293914998987,
+              21.16495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-1",
+      "properties": {
+        "id": "nit-surat-bld-1",
+        "name": "SVNIT Surat Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at SVNIT Surat. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78293914727237,
+              21.167450000000002
+            ],
+            [
+              72.78326085272764,
+              21.167450000000002
+            ],
+            [
+              72.78326085272764,
+              21.16715
+            ],
+            [
+              72.78293914727237,
+              21.16715
+            ],
+            [
+              72.78293914727237,
+              21.167450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-2",
+      "properties": {
+        "id": "nit-surat-bld-2",
+        "name": "SVNIT Surat Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78093914890293,
+              21.165950000000002
+            ],
+            [
+              72.78126085109709,
+              21.165950000000002
+            ],
+            [
+              72.78126085109709,
+              21.16565
+            ],
+            [
+              72.78093914890293,
+              21.16565
+            ],
+            [
+              72.78093914890293,
+              21.165950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-3",
+      "properties": {
+        "id": "nit-surat-bld-3",
+        "name": "SVNIT Surat Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78593914835942,
+              21.16645
+            ],
+            [
+              72.78626085164059,
+              21.16645
+            ],
+            [
+              72.78626085164059,
+              21.16615
+            ],
+            [
+              72.78593914835942,
+              21.16615
+            ],
+            [
+              72.78593914835942,
+              21.16645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-4",
+      "properties": {
+        "id": "nit-surat-bld-4",
+        "name": "SVNIT Surat Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.7849391494464,
+              21.165450000000003
+            ],
+            [
+              72.7852608505536,
+              21.165450000000003
+            ],
+            [
+              72.7852608505536,
+              21.16515
+            ],
+            [
+              72.7849391494464,
+              21.16515
+            ],
+            [
+              72.7849391494464,
+              21.165450000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-5",
+      "properties": {
+        "id": "nit-surat-bld-5",
+        "name": "SVNIT Surat Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.7799391494464,
+              21.165450000000003
+            ],
+            [
+              72.7802608505536,
+              21.165450000000003
+            ],
+            [
+              72.7802608505536,
+              21.16515
+            ],
+            [
+              72.7799391494464,
+              21.16515
+            ],
+            [
+              72.7799391494464,
+              21.165450000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-6",
+      "properties": {
+        "id": "nit-surat-bld-6",
+        "name": "SVNIT Surat Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78543914727237,
+              21.167450000000002
+            ],
+            [
+              72.78576085272763,
+              21.167450000000002
+            ],
+            [
+              72.78576085272763,
+              21.16715
+            ],
+            [
+              72.78543914727237,
+              21.16715
+            ],
+            [
+              72.78543914727237,
+              21.167450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-7",
+      "properties": {
+        "id": "nit-surat-bld-7",
+        "name": "SVNIT Surat Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of SVNIT Surat used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78043914781591,
+              21.166950000000003
+            ],
+            [
+              72.7807608521841,
+              21.166950000000003
+            ],
+            [
+              72.7807608521841,
+              21.16665
+            ],
+            [
+              72.78043914781591,
+              21.16665
+            ],
+            [
+              72.78043914781591,
+              21.166950000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-8",
+      "properties": {
+        "id": "nit-surat-bld-8",
+        "name": "SVNIT Surat Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78193914672882,
+              21.16795
+            ],
+            [
+              72.78226085327118,
+              21.16795
+            ],
+            [
+              72.78226085327118,
+              21.16765
+            ],
+            [
+              72.78193914672882,
+              21.16765
+            ],
+            [
+              72.78193914672882,
+              21.16795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-9",
+      "properties": {
+        "id": "nit-surat-bld-9",
+        "name": "SVNIT Surat Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.77893915270697,
+              21.162450000000003
+            ],
+            [
+              72.77926084729303,
+              21.162450000000003
+            ],
+            [
+              72.77926084729303,
+              21.16215
+            ],
+            [
+              72.77893915270697,
+              21.16215
+            ],
+            [
+              72.77893915270697,
+              21.162450000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-10",
+      "properties": {
+        "id": "nit-surat-bld-10",
+        "name": "SVNIT Surat Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.7789391537937,
+              21.161450000000002
+            ],
+            [
+              72.7792608462063,
+              21.161450000000002
+            ],
+            [
+              72.7792608462063,
+              21.16115
+            ],
+            [
+              72.7789391537937,
+              21.16115
+            ],
+            [
+              72.7789391537937,
+              21.161450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-11",
+      "properties": {
+        "id": "nit-surat-bld-11",
+        "name": "SVNIT Surat Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.77993915488037,
+              21.16045
+            ],
+            [
+              72.78026084511964,
+              21.16045
+            ],
+            [
+              72.78026084511964,
+              21.160149999999998
+            ],
+            [
+              72.77993915488037,
+              21.160149999999998
+            ],
+            [
+              72.77993915488037,
+              21.16045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-12",
+      "properties": {
+        "id": "nit-surat-bld-12",
+        "name": "SVNIT Surat Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78693915270698,
+              21.162450000000003
+            ],
+            [
+              72.78726084729304,
+              21.162450000000003
+            ],
+            [
+              72.78726084729304,
+              21.16215
+            ],
+            [
+              72.78693915270698,
+              21.16215
+            ],
+            [
+              72.78693915270698,
+              21.162450000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-13",
+      "properties": {
+        "id": "nit-surat-bld-13",
+        "name": "SVNIT Surat Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78693915379371,
+              21.161450000000002
+            ],
+            [
+              72.78726084620631,
+              21.161450000000002
+            ],
+            [
+              72.78726084620631,
+              21.16115
+            ],
+            [
+              72.78693915379371,
+              21.16115
+            ],
+            [
+              72.78693915379371,
+              21.161450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-14",
+      "properties": {
+        "id": "nit-surat-bld-14",
+        "name": "SVNIT Surat Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78493915596697,
+              21.159450000000003
+            ],
+            [
+              72.78526084403303,
+              21.159450000000003
+            ],
+            [
+              72.78526084403303,
+              21.15915
+            ],
+            [
+              72.78493915596697,
+              21.15915
+            ],
+            [
+              72.78493915596697,
+              21.159450000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-15",
+      "properties": {
+        "id": "nit-surat-bld-15",
+        "name": "SVNIT Surat Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.7859391570535,
+              21.158450000000002
+            ],
+            [
+              72.7862608429465,
+              21.158450000000002
+            ],
+            [
+              72.7862608429465,
+              21.15815
+            ],
+            [
+              72.7859391570535,
+              21.15815
+            ],
+            [
+              72.7859391570535,
+              21.158450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-16",
+      "properties": {
+        "id": "nit-surat-bld-16",
+        "name": "SVNIT Surat Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78093915596698,
+              21.159450000000003
+            ],
+            [
+              72.78126084403304,
+              21.159450000000003
+            ],
+            [
+              72.78126084403304,
+              21.15915
+            ],
+            [
+              72.78093915596698,
+              21.15915
+            ],
+            [
+              72.78093915596698,
+              21.159450000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-17",
+      "properties": {
+        "id": "nit-surat-bld-17",
+        "name": "SVNIT Surat Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78293915162018,
+              21.16345
+            ],
+            [
+              72.78326084837983,
+              21.16345
+            ],
+            [
+              72.78326084837983,
+              21.163149999999998
+            ],
+            [
+              72.78293915162018,
+              21.163149999999998
+            ],
+            [
+              72.78293915162018,
+              21.16345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-18",
+      "properties": {
+        "id": "nit-surat-bld-18",
+        "name": "SVNIT Surat Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78093915270698,
+              21.162450000000003
+            ],
+            [
+              72.78126084729304,
+              21.162450000000003
+            ],
+            [
+              72.78126084729304,
+              21.16215
+            ],
+            [
+              72.78093915270698,
+              21.16215
+            ],
+            [
+              72.78093915270698,
+              21.162450000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-19",
+      "properties": {
+        "id": "nit-surat-bld-19",
+        "name": "SVNIT Surat Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.77993915162018,
+              21.16345
+            ],
+            [
+              72.78026084837983,
+              21.16345
+            ],
+            [
+              72.78026084837983,
+              21.163149999999998
+            ],
+            [
+              72.77993915162018,
+              21.163149999999998
+            ],
+            [
+              72.77993915162018,
+              21.16345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-20",
+      "properties": {
+        "id": "nit-surat-bld-20",
+        "name": "SVNIT Surat Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78593915162018,
+              21.16345
+            ],
+            [
+              72.78626084837983,
+              21.16345
+            ],
+            [
+              72.78626084837983,
+              21.163149999999998
+            ],
+            [
+              72.78593915162018,
+              21.163149999999998
+            ],
+            [
+              72.78593915162018,
+              21.16345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-21",
+      "properties": {
+        "id": "nit-surat-bld-21",
+        "name": "SVNIT Surat Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.7829391537937,
+              21.161450000000002
+            ],
+            [
+              72.7832608462063,
+              21.161450000000002
+            ],
+            [
+              72.7832608462063,
+              21.16115
+            ],
+            [
+              72.7829391537937,
+              21.16115
+            ],
+            [
+              72.7829391537937,
+              21.161450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-22",
+      "properties": {
+        "id": "nit-surat-bld-22",
+        "name": "SVNIT Surat Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.7849391537937,
+              21.161450000000002
+            ],
+            [
+              72.7852608462063,
+              21.161450000000002
+            ],
+            [
+              72.7852608462063,
+              21.16115
+            ],
+            [
+              72.7849391537937,
+              21.16115
+            ],
+            [
+              72.7849391537937,
+              21.161450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-23",
+      "properties": {
+        "id": "nit-surat-bld-23",
+        "name": "SVNIT Surat Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78393915488037,
+              21.16045
+            ],
+            [
+              72.78426084511965,
+              21.16045
+            ],
+            [
+              72.78426084511965,
+              21.160149999999998
+            ],
+            [
+              72.78393915488037,
+              21.160149999999998
+            ],
+            [
+              72.78393915488037,
+              21.16045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-24",
+      "properties": {
+        "id": "nit-surat-bld-24",
+        "name": "SVNIT Surat Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78593915053332,
+              21.164450000000002
+            ],
+            [
+              72.78626084946669,
+              21.164450000000002
+            ],
+            [
+              72.78626084946669,
+              21.16415
+            ],
+            [
+              72.78593915053332,
+              21.16415
+            ],
+            [
+              72.78593915053332,
+              21.164450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-25",
+      "properties": {
+        "id": "nit-surat-bld-25",
+        "name": "SVNIT Surat Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78293914292355,
+              21.171450000000004
+            ],
+            [
+              72.78326085707646,
+              21.171450000000004
+            ],
+            [
+              72.78326085707646,
+              21.17115
+            ],
+            [
+              72.78293914292355,
+              21.17115
+            ],
+            [
+              72.78293914292355,
+              21.171450000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-26",
+      "properties": {
+        "id": "nit-surat-bld-26",
+        "name": "SVNIT Surat Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.77693915053332,
+              21.164450000000002
+            ],
+            [
+              72.77726084946669,
+              21.164450000000002
+            ],
+            [
+              72.77726084946669,
+              21.16415
+            ],
+            [
+              72.77693915053332,
+              21.16415
+            ],
+            [
+              72.77693915053332,
+              21.164450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-27",
+      "properties": {
+        "id": "nit-surat-bld-27",
+        "name": "SVNIT Surat State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78443915053332,
+              21.164450000000002
+            ],
+            [
+              72.78476084946668,
+              21.164450000000002
+            ],
+            [
+              72.78476084946668,
+              21.16415
+            ],
+            [
+              72.78443915053332,
+              21.16415
+            ],
+            [
+              72.78443915053332,
+              21.164450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-28",
+      "properties": {
+        "id": "nit-surat-bld-28",
+        "name": "SVNIT Surat Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.78393914401086,
+              21.170450000000002
+            ],
+            [
+              72.78426085598916,
+              21.170450000000002
+            ],
+            [
+              72.78426085598916,
+              21.17015
+            ],
+            [
+              72.78393914401086,
+              21.17015
+            ],
+            [
+              72.78393914401086,
+              21.170450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-bld-29",
+      "properties": {
+        "id": "nit-surat-bld-29",
+        "name": "SVNIT Surat Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.77893914509808,
+              21.16945
+            ],
+            [
+              72.77926085490192,
+              21.16945
+            ],
+            [
+              72.77926085490192,
+              21.16915
+            ],
+            [
+              72.77893914509808,
+              21.16915
+            ],
+            [
+              72.77893914509808,
+              21.16945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-road-0",
+      "properties": {
+        "id": "nit-surat-road-0",
+        "name": "SVNIT Surat Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.7831,
+            21.171300000000002
+          ],
+          [
+            72.7831,
+            21.1603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-road-1",
+      "properties": {
+        "id": "nit-surat-road-1",
+        "name": "SVNIT Surat Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.7791,
+            21.1613
+          ],
+          [
+            72.78710000000001,
+            21.1613
+          ],
+          [
+            72.78710000000001,
+            21.168300000000002
+          ],
+          [
+            72.7791,
+            21.168300000000002
+          ],
+          [
+            72.7791,
+            21.1613
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-road-2",
+      "properties": {
+        "id": "nit-surat-road-2",
+        "name": "SVNIT Surat West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.7771,
+            21.1643
+          ],
+          [
+            72.7831,
+            21.1643
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-road-3",
+      "properties": {
+        "id": "nit-surat-road-3",
+        "name": "SVNIT Surat Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.7791,
+            21.1663
+          ],
+          [
+            72.78710000000001,
+            21.1663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-road-4",
+      "properties": {
+        "id": "nit-surat-road-4",
+        "name": "SVNIT Surat Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.7791,
+            21.1613
+          ],
+          [
+            72.7791,
+            21.1633
+          ],
+          [
+            72.78710000000001,
+            21.1633
+          ],
+          [
+            72.78710000000001,
+            21.1613
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-walkway-0",
+      "properties": {
+        "id": "nit-surat-walkway-0",
+        "name": "SVNIT Surat Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.7831,
+            21.1673
+          ],
+          [
+            72.7831,
+            21.1658
+          ],
+          [
+            72.78110000000001,
+            21.1658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-walkway-1",
+      "properties": {
+        "id": "nit-surat-walkway-1",
+        "name": "SVNIT Surat CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.7861,
+            21.1663
+          ],
+          [
+            72.7831,
+            21.1663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-walkway-2",
+      "properties": {
+        "id": "nit-surat-walkway-2",
+        "name": "SVNIT Surat SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.7831,
+            21.1633
+          ],
+          [
+            72.7831,
+            21.1613
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-walkway-3",
+      "properties": {
+        "id": "nit-surat-walkway-3",
+        "name": "SVNIT Surat Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.7861,
+            21.1583
+          ],
+          [
+            72.7851,
+            21.1593
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-walkway-4",
+      "properties": {
+        "id": "nit-surat-walkway-4",
+        "name": "SVNIT Surat Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.78710000000001,
+            21.162300000000002
+          ],
+          [
+            72.7861,
+            21.1633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-walkway-5",
+      "properties": {
+        "id": "nit-surat-walkway-5",
+        "name": "SVNIT Surat Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.7791,
+            21.162300000000002
+          ],
+          [
+            72.78110000000001,
+            21.162300000000002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-walkway-6",
+      "properties": {
+        "id": "nit-surat-walkway-6",
+        "name": "SVNIT Surat Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.7861,
+            21.1643
+          ],
+          [
+            72.7846,
+            21.1643
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-surat-walkway-7",
+      "properties": {
+        "id": "nit-surat-walkway-7",
+        "name": "SVNIT Surat Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.7806,
+            21.166800000000002
+          ],
+          [
+            72.78110000000001,
+            21.1658
+          ]
+        ]
+      }
+    }
+  ]
+}

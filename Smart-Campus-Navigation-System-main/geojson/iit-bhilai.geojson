@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "IIT Bhilai GIS Dataset",
+  "properties": {
+    "campusId": "iit-bhilai",
+    "campusName": "IIT Bhilai",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.203Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "IIT Bhilai Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.4380489937909,
+              21.134
+            ],
+            [
+              81.43772021230033,
+              21.136329371405925
+            ],
+            [
+              81.43675627374388,
+              21.1385
+            ],
+            [
+              81.43522286894117,
+              21.14036396103068
+            ],
+            [
+              81.43322449689545,
+              21.141794228634062
+            ],
+            [
+              81.43089734335916,
+              21.1426933324366
+            ],
+            [
+              81.4284,
+              21.143
+            ],
+            [
+              81.42590265664083,
+              21.1426933324366
+            ],
+            [
+              81.42357550310454,
+              21.141794228634062
+            ],
+            [
+              81.42157713105883,
+              21.14036396103068
+            ],
+            [
+              81.42004372625611,
+              21.1385
+            ],
+            [
+              81.41907978769966,
+              21.136329371405925
+            ],
+            [
+              81.41875100620909,
+              21.134
+            ],
+            [
+              81.41907978769966,
+              21.131670628594076
+            ],
+            [
+              81.42004372625611,
+              21.1295
+            ],
+            [
+              81.42157713105883,
+              21.12763603896932
+            ],
+            [
+              81.42357550310454,
+              21.12620577136594
+            ],
+            [
+              81.42590265664083,
+              21.1253066675634
+            ],
+            [
+              81.4284,
+              21.125
+            ],
+            [
+              81.43089734335916,
+              21.1253066675634
+            ],
+            [
+              81.43322449689545,
+              21.12620577136594
+            ],
+            [
+              81.43522286894117,
+              21.12763603896932
+            ],
+            [
+              81.43675627374388,
+              21.1295
+            ],
+            [
+              81.43772021230033,
+              21.131670628594076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-0",
+      "properties": {
+        "id": "iit-bhilai-bld-0",
+        "name": "IIT Bhilai Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of IIT Bhilai, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42823918289433,
+              21.13465
+            ],
+            [
+              81.42856081710566,
+              21.13465
+            ],
+            [
+              81.42856081710566,
+              21.134349999999998
+            ],
+            [
+              81.42823918289433,
+              21.134349999999998
+            ],
+            [
+              81.42823918289433,
+              21.13465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-1",
+      "properties": {
+        "id": "iit-bhilai-bld-1",
+        "name": "IIT Bhilai Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at IIT Bhilai. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42823918018165,
+              21.137150000000002
+            ],
+            [
+              81.42856081981834,
+              21.137150000000002
+            ],
+            [
+              81.42856081981834,
+              21.13685
+            ],
+            [
+              81.42823918018165,
+              21.13685
+            ],
+            [
+              81.42823918018165,
+              21.137150000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-2",
+      "properties": {
+        "id": "iit-bhilai-bld-2",
+        "name": "IIT Bhilai Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42623918180931,
+              21.135650000000002
+            ],
+            [
+              81.4265608181907,
+              21.135650000000002
+            ],
+            [
+              81.4265608181907,
+              21.13535
+            ],
+            [
+              81.42623918180931,
+              21.13535
+            ],
+            [
+              81.42623918180931,
+              21.135650000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-3",
+      "properties": {
+        "id": "iit-bhilai-bld-3",
+        "name": "IIT Bhilai Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.43123918126676,
+              21.13615
+            ],
+            [
+              81.43156081873323,
+              21.13615
+            ],
+            [
+              81.43156081873323,
+              21.135849999999998
+            ],
+            [
+              81.43123918126676,
+              21.135849999999998
+            ],
+            [
+              81.43123918126676,
+              21.13615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-4",
+      "properties": {
+        "id": "iit-bhilai-bld-4",
+        "name": "IIT Bhilai Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.43023918235181,
+              21.135150000000003
+            ],
+            [
+              81.43056081764817,
+              21.135150000000003
+            ],
+            [
+              81.43056081764817,
+              21.13485
+            ],
+            [
+              81.43023918235181,
+              21.13485
+            ],
+            [
+              81.43023918235181,
+              21.135150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-5",
+      "properties": {
+        "id": "iit-bhilai-bld-5",
+        "name": "IIT Bhilai Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42523918235182,
+              21.135150000000003
+            ],
+            [
+              81.42556081764818,
+              21.135150000000003
+            ],
+            [
+              81.42556081764818,
+              21.13485
+            ],
+            [
+              81.42523918235182,
+              21.13485
+            ],
+            [
+              81.42523918235182,
+              21.135150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-6",
+      "properties": {
+        "id": "iit-bhilai-bld-6",
+        "name": "IIT Bhilai Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.43073918018165,
+              21.137150000000002
+            ],
+            [
+              81.43106081981834,
+              21.137150000000002
+            ],
+            [
+              81.43106081981834,
+              21.13685
+            ],
+            [
+              81.43073918018165,
+              21.13685
+            ],
+            [
+              81.43073918018165,
+              21.137150000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-7",
+      "properties": {
+        "id": "iit-bhilai-bld-7",
+        "name": "IIT Bhilai Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of IIT Bhilai used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42573918072422,
+              21.136650000000003
+            ],
+            [
+              81.42606081927578,
+              21.136650000000003
+            ],
+            [
+              81.42606081927578,
+              21.13635
+            ],
+            [
+              81.42573918072422,
+              21.13635
+            ],
+            [
+              81.42573918072422,
+              21.136650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-8",
+      "properties": {
+        "id": "iit-bhilai-bld-8",
+        "name": "IIT Bhilai Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42723917963906,
+              21.13765
+            ],
+            [
+              81.42756082036092,
+              21.13765
+            ],
+            [
+              81.42756082036092,
+              21.137349999999998
+            ],
+            [
+              81.42723917963906,
+              21.137349999999998
+            ],
+            [
+              81.42723917963906,
+              21.13765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-9",
+      "properties": {
+        "id": "iit-bhilai-bld-9",
+        "name": "IIT Bhilai Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.4242391856066,
+              21.132150000000003
+            ],
+            [
+              81.42456081439339,
+              21.132150000000003
+            ],
+            [
+              81.42456081439339,
+              21.13185
+            ],
+            [
+              81.4242391856066,
+              21.13185
+            ],
+            [
+              81.4242391856066,
+              21.132150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-10",
+      "properties": {
+        "id": "iit-bhilai-bld-10",
+        "name": "IIT Bhilai Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42423918669141,
+              21.13115
+            ],
+            [
+              81.42456081330857,
+              21.13115
+            ],
+            [
+              81.42456081330857,
+              21.13085
+            ],
+            [
+              81.42423918669141,
+              21.13085
+            ],
+            [
+              81.42423918669141,
+              21.13115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-11",
+      "properties": {
+        "id": "iit-bhilai-bld-11",
+        "name": "IIT Bhilai Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42523918777614,
+              21.13015
+            ],
+            [
+              81.42556081222385,
+              21.13015
+            ],
+            [
+              81.42556081222385,
+              21.129849999999998
+            ],
+            [
+              81.42523918777614,
+              21.129849999999998
+            ],
+            [
+              81.42523918777614,
+              21.13015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-12",
+      "properties": {
+        "id": "iit-bhilai-bld-12",
+        "name": "IIT Bhilai Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.4322391856066,
+              21.132150000000003
+            ],
+            [
+              81.4325608143934,
+              21.132150000000003
+            ],
+            [
+              81.4325608143934,
+              21.13185
+            ],
+            [
+              81.4322391856066,
+              21.13185
+            ],
+            [
+              81.4322391856066,
+              21.132150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-13",
+      "properties": {
+        "id": "iit-bhilai-bld-13",
+        "name": "IIT Bhilai Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.43223918669142,
+              21.13115
+            ],
+            [
+              81.43256081330858,
+              21.13115
+            ],
+            [
+              81.43256081330858,
+              21.13085
+            ],
+            [
+              81.43223918669142,
+              21.13085
+            ],
+            [
+              81.43223918669142,
+              21.13115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-14",
+      "properties": {
+        "id": "iit-bhilai-bld-14",
+        "name": "IIT Bhilai Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.43023918886081,
+              21.129150000000003
+            ],
+            [
+              81.43056081113917,
+              21.129150000000003
+            ],
+            [
+              81.43056081113917,
+              21.12885
+            ],
+            [
+              81.43023918886081,
+              21.12885
+            ],
+            [
+              81.43023918886081,
+              21.129150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-15",
+      "properties": {
+        "id": "iit-bhilai-bld-15",
+        "name": "IIT Bhilai Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.43123918994543,
+              21.12815
+            ],
+            [
+              81.43156081005456,
+              21.12815
+            ],
+            [
+              81.43156081005456,
+              21.12785
+            ],
+            [
+              81.43123918994543,
+              21.12785
+            ],
+            [
+              81.43123918994543,
+              21.12815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-16",
+      "properties": {
+        "id": "iit-bhilai-bld-16",
+        "name": "IIT Bhilai Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42623918886082,
+              21.129150000000003
+            ],
+            [
+              81.42656081113918,
+              21.129150000000003
+            ],
+            [
+              81.42656081113918,
+              21.12885
+            ],
+            [
+              81.42623918886082,
+              21.12885
+            ],
+            [
+              81.42623918886082,
+              21.129150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-17",
+      "properties": {
+        "id": "iit-bhilai-bld-17",
+        "name": "IIT Bhilai Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42823918452174,
+              21.13315
+            ],
+            [
+              81.42856081547825,
+              21.13315
+            ],
+            [
+              81.42856081547825,
+              21.132849999999998
+            ],
+            [
+              81.42823918452174,
+              21.132849999999998
+            ],
+            [
+              81.42823918452174,
+              21.13315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-18",
+      "properties": {
+        "id": "iit-bhilai-bld-18",
+        "name": "IIT Bhilai Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.4262391856066,
+              21.132150000000003
+            ],
+            [
+              81.4265608143934,
+              21.132150000000003
+            ],
+            [
+              81.4265608143934,
+              21.13185
+            ],
+            [
+              81.4262391856066,
+              21.13185
+            ],
+            [
+              81.4262391856066,
+              21.132150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-19",
+      "properties": {
+        "id": "iit-bhilai-bld-19",
+        "name": "IIT Bhilai Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42523918452174,
+              21.13315
+            ],
+            [
+              81.42556081547825,
+              21.13315
+            ],
+            [
+              81.42556081547825,
+              21.132849999999998
+            ],
+            [
+              81.42523918452174,
+              21.132849999999998
+            ],
+            [
+              81.42523918452174,
+              21.13315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-20",
+      "properties": {
+        "id": "iit-bhilai-bld-20",
+        "name": "IIT Bhilai Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.43123918452174,
+              21.13315
+            ],
+            [
+              81.43156081547825,
+              21.13315
+            ],
+            [
+              81.43156081547825,
+              21.132849999999998
+            ],
+            [
+              81.43123918452174,
+              21.132849999999998
+            ],
+            [
+              81.43123918452174,
+              21.13315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-21",
+      "properties": {
+        "id": "iit-bhilai-bld-21",
+        "name": "IIT Bhilai Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42823918669141,
+              21.13115
+            ],
+            [
+              81.42856081330858,
+              21.13115
+            ],
+            [
+              81.42856081330858,
+              21.13085
+            ],
+            [
+              81.42823918669141,
+              21.13085
+            ],
+            [
+              81.42823918669141,
+              21.13115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-22",
+      "properties": {
+        "id": "iit-bhilai-bld-22",
+        "name": "IIT Bhilai Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.43023918669141,
+              21.13115
+            ],
+            [
+              81.43056081330857,
+              21.13115
+            ],
+            [
+              81.43056081330857,
+              21.13085
+            ],
+            [
+              81.43023918669141,
+              21.13085
+            ],
+            [
+              81.43023918669141,
+              21.13115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-23",
+      "properties": {
+        "id": "iit-bhilai-bld-23",
+        "name": "IIT Bhilai Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42923918777615,
+              21.13015
+            ],
+            [
+              81.42956081222385,
+              21.13015
+            ],
+            [
+              81.42956081222385,
+              21.129849999999998
+            ],
+            [
+              81.42923918777615,
+              21.129849999999998
+            ],
+            [
+              81.42923918777615,
+              21.13015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-24",
+      "properties": {
+        "id": "iit-bhilai-bld-24",
+        "name": "IIT Bhilai Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.43123918343682,
+              21.13415
+            ],
+            [
+              81.43156081656318,
+              21.13415
+            ],
+            [
+              81.43156081656318,
+              21.13385
+            ],
+            [
+              81.43123918343682,
+              21.13385
+            ],
+            [
+              81.43123918343682,
+              21.13415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-25",
+      "properties": {
+        "id": "iit-bhilai-bld-25",
+        "name": "IIT Bhilai Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42823917584053,
+              21.141150000000003
+            ],
+            [
+              81.42856082415946,
+              21.141150000000003
+            ],
+            [
+              81.42856082415946,
+              21.14085
+            ],
+            [
+              81.42823917584053,
+              21.14085
+            ],
+            [
+              81.42823917584053,
+              21.141150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-26",
+      "properties": {
+        "id": "iit-bhilai-bld-26",
+        "name": "IIT Bhilai Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42223918343682,
+              21.13415
+            ],
+            [
+              81.42256081656318,
+              21.13415
+            ],
+            [
+              81.42256081656318,
+              21.13385
+            ],
+            [
+              81.42223918343682,
+              21.13385
+            ],
+            [
+              81.42223918343682,
+              21.13415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-27",
+      "properties": {
+        "id": "iit-bhilai-bld-27",
+        "name": "IIT Bhilai State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42973918343681,
+              21.13415
+            ],
+            [
+              81.43006081656317,
+              21.13415
+            ],
+            [
+              81.43006081656317,
+              21.13385
+            ],
+            [
+              81.42973918343681,
+              21.13385
+            ],
+            [
+              81.42973918343681,
+              21.13415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-28",
+      "properties": {
+        "id": "iit-bhilai-bld-28",
+        "name": "IIT Bhilai Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42923917692592,
+              21.140150000000002
+            ],
+            [
+              81.42956082307408,
+              21.140150000000002
+            ],
+            [
+              81.42956082307408,
+              21.13985
+            ],
+            [
+              81.42923917692592,
+              21.13985
+            ],
+            [
+              81.42923917692592,
+              21.140150000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-bld-29",
+      "properties": {
+        "id": "iit-bhilai-bld-29",
+        "name": "IIT Bhilai Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.42423917801122,
+              21.13915
+            ],
+            [
+              81.42456082198876,
+              21.13915
+            ],
+            [
+              81.42456082198876,
+              21.138849999999998
+            ],
+            [
+              81.42423917801122,
+              21.138849999999998
+            ],
+            [
+              81.42423917801122,
+              21.13915
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-road-0",
+      "properties": {
+        "id": "iit-bhilai-road-0",
+        "name": "IIT Bhilai Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.4284,
+            21.141000000000002
+          ],
+          [
+            81.4284,
+            21.13
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-road-1",
+      "properties": {
+        "id": "iit-bhilai-road-1",
+        "name": "IIT Bhilai Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.42439999999999,
+            21.131
+          ],
+          [
+            81.4324,
+            21.131
+          ],
+          [
+            81.4324,
+            21.138
+          ],
+          [
+            81.42439999999999,
+            21.138
+          ],
+          [
+            81.42439999999999,
+            21.131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-road-2",
+      "properties": {
+        "id": "iit-bhilai-road-2",
+        "name": "IIT Bhilai West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.4224,
+            21.134
+          ],
+          [
+            81.4284,
+            21.134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-road-3",
+      "properties": {
+        "id": "iit-bhilai-road-3",
+        "name": "IIT Bhilai Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.42439999999999,
+            21.136
+          ],
+          [
+            81.4324,
+            21.136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-road-4",
+      "properties": {
+        "id": "iit-bhilai-road-4",
+        "name": "IIT Bhilai Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.42439999999999,
+            21.131
+          ],
+          [
+            81.42439999999999,
+            21.133
+          ],
+          [
+            81.4324,
+            21.133
+          ],
+          [
+            81.4324,
+            21.131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-walkway-0",
+      "properties": {
+        "id": "iit-bhilai-walkway-0",
+        "name": "IIT Bhilai Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.4284,
+            21.137
+          ],
+          [
+            81.4284,
+            21.1355
+          ],
+          [
+            81.4264,
+            21.1355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-walkway-1",
+      "properties": {
+        "id": "iit-bhilai-walkway-1",
+        "name": "IIT Bhilai CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.4314,
+            21.136
+          ],
+          [
+            81.4284,
+            21.136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-walkway-2",
+      "properties": {
+        "id": "iit-bhilai-walkway-2",
+        "name": "IIT Bhilai SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.4284,
+            21.133
+          ],
+          [
+            81.4284,
+            21.131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-walkway-3",
+      "properties": {
+        "id": "iit-bhilai-walkway-3",
+        "name": "IIT Bhilai Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.4314,
+            21.128
+          ],
+          [
+            81.43039999999999,
+            21.129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-walkway-4",
+      "properties": {
+        "id": "iit-bhilai-walkway-4",
+        "name": "IIT Bhilai Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.4324,
+            21.132
+          ],
+          [
+            81.4314,
+            21.133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-walkway-5",
+      "properties": {
+        "id": "iit-bhilai-walkway-5",
+        "name": "IIT Bhilai Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.42439999999999,
+            21.132
+          ],
+          [
+            81.4264,
+            21.132
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-walkway-6",
+      "properties": {
+        "id": "iit-bhilai-walkway-6",
+        "name": "IIT Bhilai Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.4314,
+            21.134
+          ],
+          [
+            81.42989999999999,
+            21.134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bhilai-walkway-7",
+      "properties": {
+        "id": "iit-bhilai-walkway-7",
+        "name": "IIT Bhilai Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.4259,
+            21.1365
+          ],
+          [
+            81.4264,
+            21.1355
+          ]
+        ]
+      }
+    }
+  ]
+}

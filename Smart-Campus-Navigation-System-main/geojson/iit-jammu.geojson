@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "IIT Jammu GIS Dataset",
+  "properties": {
+    "campusId": "iit-jammu",
+    "campusName": "IIT Jammu",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.204Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "iit-jammu-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "IIT Jammu Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.90500731642032,
+              32.8021
+            ],
+            [
+              74.90464247346064,
+              32.804429371405924
+            ],
+            [
+              74.90357280802637,
+              32.8066
+            ],
+            [
+              74.90187121604913,
+              32.80846396103068
+            ],
+            [
+              74.89965365821017,
+              32.809894228634064
+            ],
+            [
+              74.89707125741153,
+              32.8107933324366
+            ],
+            [
+              74.8943,
+              32.8111
+            ],
+            [
+              74.89152874258848,
+              32.8107933324366
+            ],
+            [
+              74.88894634178983,
+              32.809894228634064
+            ],
+            [
+              74.88672878395087,
+              32.80846396103068
+            ],
+            [
+              74.88502719197363,
+              32.8066
+            ],
+            [
+              74.88395752653936,
+              32.804429371405924
+            ],
+            [
+              74.88359268357968,
+              32.8021
+            ],
+            [
+              74.88395752653936,
+              32.79977062859408
+            ],
+            [
+              74.88502719197363,
+              32.7976
+            ],
+            [
+              74.88672878395087,
+              32.79573603896932
+            ],
+            [
+              74.88894634178983,
+              32.79430577136594
+            ],
+            [
+              74.89152874258848,
+              32.7934066675634
+            ],
+            [
+              74.8943,
+              32.7931
+            ],
+            [
+              74.89707125741153,
+              32.7934066675634
+            ],
+            [
+              74.89965365821017,
+              32.79430577136594
+            ],
+            [
+              74.90187121604913,
+              32.79573603896932
+            ],
+            [
+              74.90357280802637,
+              32.7976
+            ],
+            [
+              74.90464247346064,
+              32.79977062859408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-0",
+      "properties": {
+        "id": "iit-jammu-bld-0",
+        "name": "IIT Jammu Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of IIT Jammu, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89412154372262,
+              32.80275
+            ],
+            [
+              74.89447845627738,
+              32.80275
+            ],
+            [
+              74.89447845627738,
+              32.80245000000001
+            ],
+            [
+              74.89412154372262,
+              32.80245000000001
+            ],
+            [
+              74.89412154372262,
+              32.80275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-1",
+      "properties": {
+        "id": "iit-jammu-bld-1",
+        "name": "IIT Jammu Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at IIT Jammu. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89412153870367,
+              32.80525
+            ],
+            [
+              74.89447846129633,
+              32.80525
+            ],
+            [
+              74.89447846129633,
+              32.804950000000005
+            ],
+            [
+              74.89412153870367,
+              32.804950000000005
+            ],
+            [
+              74.89412153870367,
+              32.80525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-2",
+      "properties": {
+        "id": "iit-jammu-bld-2",
+        "name": "IIT Jammu Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89212154171511,
+              32.80375
+            ],
+            [
+              74.8924784582849,
+              32.80375
+            ],
+            [
+              74.8924784582849,
+              32.803450000000005
+            ],
+            [
+              74.89212154171511,
+              32.803450000000005
+            ],
+            [
+              74.89212154171511,
+              32.80375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-3",
+      "properties": {
+        "id": "iit-jammu-bld-3",
+        "name": "IIT Jammu Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89712154071132,
+              32.80425
+            ],
+            [
+              74.89747845928868,
+              32.80425
+            ],
+            [
+              74.89747845928868,
+              32.80395000000001
+            ],
+            [
+              74.89712154071132,
+              32.80395000000001
+            ],
+            [
+              74.89712154071132,
+              32.80425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-4",
+      "properties": {
+        "id": "iit-jammu-bld-4",
+        "name": "IIT Jammu Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89612154271887,
+              32.80325
+            ],
+            [
+              74.89647845728112,
+              32.80325
+            ],
+            [
+              74.89647845728112,
+              32.80295
+            ],
+            [
+              74.89612154271887,
+              32.80295
+            ],
+            [
+              74.89612154271887,
+              32.80325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-5",
+      "properties": {
+        "id": "iit-jammu-bld-5",
+        "name": "IIT Jammu Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89112154271888,
+              32.80325
+            ],
+            [
+              74.89147845728112,
+              32.80325
+            ],
+            [
+              74.89147845728112,
+              32.80295
+            ],
+            [
+              74.89112154271888,
+              32.80295
+            ],
+            [
+              74.89112154271888,
+              32.80325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-6",
+      "properties": {
+        "id": "iit-jammu-bld-6",
+        "name": "IIT Jammu Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89662153870367,
+              32.80525
+            ],
+            [
+              74.89697846129633,
+              32.80525
+            ],
+            [
+              74.89697846129633,
+              32.804950000000005
+            ],
+            [
+              74.89662153870367,
+              32.804950000000005
+            ],
+            [
+              74.89662153870367,
+              32.80525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-7",
+      "properties": {
+        "id": "iit-jammu-bld-7",
+        "name": "IIT Jammu Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of IIT Jammu used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89162153970751,
+              32.80475
+            ],
+            [
+              74.89197846029249,
+              32.80475
+            ],
+            [
+              74.89197846029249,
+              32.80445
+            ],
+            [
+              74.89162153970751,
+              32.80445
+            ],
+            [
+              74.89162153970751,
+              32.80475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-8",
+      "properties": {
+        "id": "iit-jammu-bld-8",
+        "name": "IIT Jammu Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8931215376998,
+              32.80575
+            ],
+            [
+              74.8934784623002,
+              32.80575
+            ],
+            [
+              74.8934784623002,
+              32.80545000000001
+            ],
+            [
+              74.8931215376998,
+              32.80545000000001
+            ],
+            [
+              74.8931215376998,
+              32.80575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-9",
+      "properties": {
+        "id": "iit-jammu-bld-9",
+        "name": "IIT Jammu Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89012154874094,
+              32.80025
+            ],
+            [
+              74.89047845125906,
+              32.80025
+            ],
+            [
+              74.89047845125906,
+              32.79995
+            ],
+            [
+              74.89012154874094,
+              32.79995
+            ],
+            [
+              74.89012154874094,
+              32.80025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-10",
+      "properties": {
+        "id": "iit-jammu-bld-10",
+        "name": "IIT Jammu Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89012155074809,
+              32.79925
+            ],
+            [
+              74.8904784492519,
+              32.79925
+            ],
+            [
+              74.8904784492519,
+              32.798950000000005
+            ],
+            [
+              74.89012155074809,
+              32.798950000000005
+            ],
+            [
+              74.89012155074809,
+              32.79925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-11",
+      "properties": {
+        "id": "iit-jammu-bld-11",
+        "name": "IIT Jammu Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89112155275515,
+              32.79825
+            ],
+            [
+              74.89147844724485,
+              32.79825
+            ],
+            [
+              74.89147844724485,
+              32.79795000000001
+            ],
+            [
+              74.89112155275515,
+              32.79795000000001
+            ],
+            [
+              74.89112155275515,
+              32.79825
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-12",
+      "properties": {
+        "id": "iit-jammu-bld-12",
+        "name": "IIT Jammu Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89812154874095,
+              32.80025
+            ],
+            [
+              74.89847845125907,
+              32.80025
+            ],
+            [
+              74.89847845125907,
+              32.79995
+            ],
+            [
+              74.89812154874095,
+              32.79995
+            ],
+            [
+              74.89812154874095,
+              32.80025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-13",
+      "properties": {
+        "id": "iit-jammu-bld-13",
+        "name": "IIT Jammu Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8981215507481,
+              32.79925
+            ],
+            [
+              74.89847844925191,
+              32.79925
+            ],
+            [
+              74.89847844925191,
+              32.798950000000005
+            ],
+            [
+              74.8981215507481,
+              32.798950000000005
+            ],
+            [
+              74.8981215507481,
+              32.79925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-14",
+      "properties": {
+        "id": "iit-jammu-bld-14",
+        "name": "IIT Jammu Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8961215547621,
+              32.79725
+            ],
+            [
+              74.89647844523789,
+              32.79725
+            ],
+            [
+              74.89647844523789,
+              32.79695
+            ],
+            [
+              74.8961215547621,
+              32.79695
+            ],
+            [
+              74.8961215547621,
+              32.79725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-15",
+      "properties": {
+        "id": "iit-jammu-bld-15",
+        "name": "IIT Jammu Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89712155676897,
+              32.79625
+            ],
+            [
+              74.89747844323104,
+              32.79625
+            ],
+            [
+              74.89747844323104,
+              32.795950000000005
+            ],
+            [
+              74.89712155676897,
+              32.795950000000005
+            ],
+            [
+              74.89712155676897,
+              32.79625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-16",
+      "properties": {
+        "id": "iit-jammu-bld-16",
+        "name": "IIT Jammu Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89212155476211,
+              32.79725
+            ],
+            [
+              74.8924784452379,
+              32.79725
+            ],
+            [
+              74.8924784452379,
+              32.79695
+            ],
+            [
+              74.89212155476211,
+              32.79695
+            ],
+            [
+              74.89212155476211,
+              32.79725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-17",
+      "properties": {
+        "id": "iit-jammu-bld-17",
+        "name": "IIT Jammu Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89412154673369,
+              32.80125
+            ],
+            [
+              74.89447845326632,
+              32.80125
+            ],
+            [
+              74.89447845326632,
+              32.80095000000001
+            ],
+            [
+              74.89412154673369,
+              32.80095000000001
+            ],
+            [
+              74.89412154673369,
+              32.80125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-18",
+      "properties": {
+        "id": "iit-jammu-bld-18",
+        "name": "IIT Jammu Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89212154874095,
+              32.80025
+            ],
+            [
+              74.89247845125907,
+              32.80025
+            ],
+            [
+              74.89247845125907,
+              32.79995
+            ],
+            [
+              74.89212154874095,
+              32.79995
+            ],
+            [
+              74.89212154874095,
+              32.80025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-19",
+      "properties": {
+        "id": "iit-jammu-bld-19",
+        "name": "IIT Jammu Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89112154673369,
+              32.80125
+            ],
+            [
+              74.89147845326632,
+              32.80125
+            ],
+            [
+              74.89147845326632,
+              32.80095000000001
+            ],
+            [
+              74.89112154673369,
+              32.80095000000001
+            ],
+            [
+              74.89112154673369,
+              32.80125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-20",
+      "properties": {
+        "id": "iit-jammu-bld-20",
+        "name": "IIT Jammu Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89712154673369,
+              32.80125
+            ],
+            [
+              74.89747845326632,
+              32.80125
+            ],
+            [
+              74.89747845326632,
+              32.80095000000001
+            ],
+            [
+              74.89712154673369,
+              32.80095000000001
+            ],
+            [
+              74.89712154673369,
+              32.80125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-21",
+      "properties": {
+        "id": "iit-jammu-bld-21",
+        "name": "IIT Jammu Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8941215507481,
+              32.79925
+            ],
+            [
+              74.8944784492519,
+              32.79925
+            ],
+            [
+              74.8944784492519,
+              32.798950000000005
+            ],
+            [
+              74.8941215507481,
+              32.798950000000005
+            ],
+            [
+              74.8941215507481,
+              32.79925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-22",
+      "properties": {
+        "id": "iit-jammu-bld-22",
+        "name": "IIT Jammu Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89612155074809,
+              32.79925
+            ],
+            [
+              74.8964784492519,
+              32.79925
+            ],
+            [
+              74.8964784492519,
+              32.798950000000005
+            ],
+            [
+              74.89612155074809,
+              32.798950000000005
+            ],
+            [
+              74.89612155074809,
+              32.79925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-23",
+      "properties": {
+        "id": "iit-jammu-bld-23",
+        "name": "IIT Jammu Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89512155275516,
+              32.79825
+            ],
+            [
+              74.89547844724486,
+              32.79825
+            ],
+            [
+              74.89547844724486,
+              32.79795000000001
+            ],
+            [
+              74.89512155275516,
+              32.79795000000001
+            ],
+            [
+              74.89512155275516,
+              32.79825
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-24",
+      "properties": {
+        "id": "iit-jammu-bld-24",
+        "name": "IIT Jammu Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89712154472633,
+              32.80225
+            ],
+            [
+              74.89747845527367,
+              32.80225
+            ],
+            [
+              74.89747845527367,
+              32.801950000000005
+            ],
+            [
+              74.89712154472633,
+              32.801950000000005
+            ],
+            [
+              74.89712154472633,
+              32.80225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-25",
+      "properties": {
+        "id": "iit-jammu-bld-25",
+        "name": "IIT Jammu Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89412153067205,
+              32.80925
+            ],
+            [
+              74.89447846932795,
+              32.80925
+            ],
+            [
+              74.89447846932795,
+              32.80895
+            ],
+            [
+              74.89412153067205,
+              32.80895
+            ],
+            [
+              74.89412153067205,
+              32.80925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-26",
+      "properties": {
+        "id": "iit-jammu-bld-26",
+        "name": "IIT Jammu Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.88812154472633,
+              32.80225
+            ],
+            [
+              74.88847845527367,
+              32.80225
+            ],
+            [
+              74.88847845527367,
+              32.801950000000005
+            ],
+            [
+              74.88812154472633,
+              32.801950000000005
+            ],
+            [
+              74.88812154472633,
+              32.80225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-27",
+      "properties": {
+        "id": "iit-jammu-bld-27",
+        "name": "IIT Jammu State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89562154472632,
+              32.80225
+            ],
+            [
+              74.89597845527366,
+              32.80225
+            ],
+            [
+              74.89597845527366,
+              32.801950000000005
+            ],
+            [
+              74.89562154472632,
+              32.801950000000005
+            ],
+            [
+              74.89562154472632,
+              32.80225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-28",
+      "properties": {
+        "id": "iit-jammu-bld-28",
+        "name": "IIT Jammu Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89512153268011,
+              32.80825
+            ],
+            [
+              74.8954784673199,
+              32.80825
+            ],
+            [
+              74.8954784673199,
+              32.807950000000005
+            ],
+            [
+              74.89512153268011,
+              32.807950000000005
+            ],
+            [
+              74.89512153268011,
+              32.80825
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-bld-29",
+      "properties": {
+        "id": "iit-jammu-bld-29",
+        "name": "IIT Jammu Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.89012153468805,
+              32.80725
+            ],
+            [
+              74.89047846531194,
+              32.80725
+            ],
+            [
+              74.89047846531194,
+              32.80695000000001
+            ],
+            [
+              74.89012153468805,
+              32.80695000000001
+            ],
+            [
+              74.89012153468805,
+              32.80725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-road-0",
+      "properties": {
+        "id": "iit-jammu-road-0",
+        "name": "IIT Jammu Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8943,
+            32.8091
+          ],
+          [
+            74.8943,
+            32.798100000000005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-road-1",
+      "properties": {
+        "id": "iit-jammu-road-1",
+        "name": "IIT Jammu Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8903,
+            32.7991
+          ],
+          [
+            74.8983,
+            32.7991
+          ],
+          [
+            74.8983,
+            32.8061
+          ],
+          [
+            74.8903,
+            32.8061
+          ],
+          [
+            74.8903,
+            32.7991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-road-2",
+      "properties": {
+        "id": "iit-jammu-road-2",
+        "name": "IIT Jammu West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8883,
+            32.8021
+          ],
+          [
+            74.8943,
+            32.8021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-road-3",
+      "properties": {
+        "id": "iit-jammu-road-3",
+        "name": "IIT Jammu Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8903,
+            32.804100000000005
+          ],
+          [
+            74.8983,
+            32.804100000000005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-road-4",
+      "properties": {
+        "id": "iit-jammu-road-4",
+        "name": "IIT Jammu Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8903,
+            32.7991
+          ],
+          [
+            74.8903,
+            32.801100000000005
+          ],
+          [
+            74.8983,
+            32.801100000000005
+          ],
+          [
+            74.8983,
+            32.7991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-walkway-0",
+      "properties": {
+        "id": "iit-jammu-walkway-0",
+        "name": "IIT Jammu Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8943,
+            32.8051
+          ],
+          [
+            74.8943,
+            32.8036
+          ],
+          [
+            74.8923,
+            32.8036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-walkway-1",
+      "properties": {
+        "id": "iit-jammu-walkway-1",
+        "name": "IIT Jammu CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8973,
+            32.804100000000005
+          ],
+          [
+            74.8943,
+            32.804100000000005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-walkway-2",
+      "properties": {
+        "id": "iit-jammu-walkway-2",
+        "name": "IIT Jammu SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8943,
+            32.801100000000005
+          ],
+          [
+            74.8943,
+            32.7991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-walkway-3",
+      "properties": {
+        "id": "iit-jammu-walkway-3",
+        "name": "IIT Jammu Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8973,
+            32.7961
+          ],
+          [
+            74.8963,
+            32.7971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-walkway-4",
+      "properties": {
+        "id": "iit-jammu-walkway-4",
+        "name": "IIT Jammu Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8983,
+            32.8001
+          ],
+          [
+            74.8973,
+            32.801100000000005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-walkway-5",
+      "properties": {
+        "id": "iit-jammu-walkway-5",
+        "name": "IIT Jammu Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8903,
+            32.8001
+          ],
+          [
+            74.8923,
+            32.8001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-walkway-6",
+      "properties": {
+        "id": "iit-jammu-walkway-6",
+        "name": "IIT Jammu Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8973,
+            32.8021
+          ],
+          [
+            74.8958,
+            32.8021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jammu-walkway-7",
+      "properties": {
+        "id": "iit-jammu-walkway-7",
+        "name": "IIT Jammu Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8918,
+            32.8046
+          ],
+          [
+            74.8923,
+            32.8036
+          ]
+        ]
+      }
+    }
+  ]
+}

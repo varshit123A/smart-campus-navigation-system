@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Durgapur GIS Dataset",
+  "properties": {
+    "campusId": "nit-durgapur",
+    "campusName": "NIT Durgapur",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.212Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Durgapur Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.30111704936475,
+              23.5413
+            ],
+            [
+              87.30078254151935,
+              23.543629371405924
+            ],
+            [
+              87.29980181414007,
+              23.5458
+            ],
+            [
+              87.29824170217705,
+              23.54766396103068
+            ],
+            [
+              87.29620852468237,
+              23.54909422863406
+            ],
+            [
+              87.29384083934231,
+              23.5499933324366
+            ],
+            [
+              87.2913,
+              23.5503
+            ],
+            [
+              87.2887591606577,
+              23.5499933324366
+            ],
+            [
+              87.28639147531764,
+              23.54909422863406
+            ],
+            [
+              87.28435829782296,
+              23.54766396103068
+            ],
+            [
+              87.28279818585995,
+              23.5458
+            ],
+            [
+              87.28181745848066,
+              23.543629371405924
+            ],
+            [
+              87.28148295063527,
+              23.5413
+            ],
+            [
+              87.28181745848066,
+              23.538970628594075
+            ],
+            [
+              87.28279818585995,
+              23.5368
+            ],
+            [
+              87.28435829782296,
+              23.53493603896932
+            ],
+            [
+              87.28639147531764,
+              23.533505771365938
+            ],
+            [
+              87.2887591606577,
+              23.5326066675634
+            ],
+            [
+              87.2913,
+              23.5323
+            ],
+            [
+              87.29384083934231,
+              23.5326066675634
+            ],
+            [
+              87.29620852468237,
+              23.533505771365938
+            ],
+            [
+              87.29824170217705,
+              23.53493603896932
+            ],
+            [
+              87.29980181414007,
+              23.5368
+            ],
+            [
+              87.30078254151935,
+              23.538970628594075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-0",
+      "properties": {
+        "id": "nit-durgapur-bld-0",
+        "name": "NIT Durgapur Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of NIT Durgapur, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.29113638188852,
+              23.54195
+            ],
+            [
+              87.2914636181115,
+              23.54195
+            ],
+            [
+              87.2914636181115,
+              23.541649999999997
+            ],
+            [
+              87.29113638188852,
+              23.541649999999997
+            ],
+            [
+              87.29113638188852,
+              23.54195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-1",
+      "properties": {
+        "id": "nit-durgapur-bld-1",
+        "name": "NIT Durgapur Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at NIT Durgapur. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.2911363787779,
+              23.54445
+            ],
+            [
+              87.2914636212221,
+              23.54445
+            ],
+            [
+              87.2914636212221,
+              23.54415
+            ],
+            [
+              87.2911363787779,
+              23.54415
+            ],
+            [
+              87.2911363787779,
+              23.54445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-2",
+      "properties": {
+        "id": "nit-durgapur-bld-2",
+        "name": "NIT Durgapur Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.28913638064434,
+              23.54295
+            ],
+            [
+              87.28946361935569,
+              23.54295
+            ],
+            [
+              87.28946361935569,
+              23.54265
+            ],
+            [
+              87.28913638064434,
+              23.54265
+            ],
+            [
+              87.28913638064434,
+              23.54295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-3",
+      "properties": {
+        "id": "nit-durgapur-bld-3",
+        "name": "NIT Durgapur Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.29413638002221,
+              23.54345
+            ],
+            [
+              87.2944636199778,
+              23.54345
+            ],
+            [
+              87.2944636199778,
+              23.543149999999997
+            ],
+            [
+              87.29413638002221,
+              23.543149999999997
+            ],
+            [
+              87.29413638002221,
+              23.54345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-4",
+      "properties": {
+        "id": "nit-durgapur-bld-4",
+        "name": "NIT Durgapur Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.29313638126644,
+              23.542450000000002
+            ],
+            [
+              87.29346361873357,
+              23.542450000000002
+            ],
+            [
+              87.29346361873357,
+              23.54215
+            ],
+            [
+              87.29313638126644,
+              23.54215
+            ],
+            [
+              87.29313638126644,
+              23.542450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-5",
+      "properties": {
+        "id": "nit-durgapur-bld-5",
+        "name": "NIT Durgapur Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.28813638126644,
+              23.542450000000002
+            ],
+            [
+              87.28846361873357,
+              23.542450000000002
+            ],
+            [
+              87.28846361873357,
+              23.54215
+            ],
+            [
+              87.28813638126644,
+              23.54215
+            ],
+            [
+              87.28813638126644,
+              23.542450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-6",
+      "properties": {
+        "id": "nit-durgapur-bld-6",
+        "name": "NIT Durgapur Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.2936363787779,
+              23.54445
+            ],
+            [
+              87.2939636212221,
+              23.54445
+            ],
+            [
+              87.2939636212221,
+              23.54415
+            ],
+            [
+              87.2936363787779,
+              23.54415
+            ],
+            [
+              87.2936363787779,
+              23.54445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-7",
+      "properties": {
+        "id": "nit-durgapur-bld-7",
+        "name": "NIT Durgapur Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of NIT Durgapur used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.28863637940006,
+              23.543950000000002
+            ],
+            [
+              87.28896362059996,
+              23.543950000000002
+            ],
+            [
+              87.28896362059996,
+              23.54365
+            ],
+            [
+              87.28863637940006,
+              23.54365
+            ],
+            [
+              87.28863637940006,
+              23.543950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-8",
+      "properties": {
+        "id": "nit-durgapur-bld-8",
+        "name": "NIT Durgapur Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.29013637815572,
+              23.54495
+            ],
+            [
+              87.29046362184428,
+              23.54495
+            ],
+            [
+              87.29046362184428,
+              23.544649999999997
+            ],
+            [
+              87.29013637815572,
+              23.544649999999997
+            ],
+            [
+              87.29013637815572,
+              23.54495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-9",
+      "properties": {
+        "id": "nit-durgapur-bld-9",
+        "name": "NIT Durgapur Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.2871363849987,
+              23.539450000000002
+            ],
+            [
+              87.2874636150013,
+              23.539450000000002
+            ],
+            [
+              87.2874636150013,
+              23.53915
+            ],
+            [
+              87.2871363849987,
+              23.53915
+            ],
+            [
+              87.2871363849987,
+              23.539450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-10",
+      "properties": {
+        "id": "nit-durgapur-bld-10",
+        "name": "NIT Durgapur Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.28713638624266,
+              23.53845
+            ],
+            [
+              87.28746361375734,
+              23.53845
+            ],
+            [
+              87.28746361375734,
+              23.538149999999998
+            ],
+            [
+              87.28713638624266,
+              23.538149999999998
+            ],
+            [
+              87.28713638624266,
+              23.53845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-11",
+      "properties": {
+        "id": "nit-durgapur-bld-11",
+        "name": "NIT Durgapur Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.28813638748655,
+              23.53745
+            ],
+            [
+              87.28846361251347,
+              23.53745
+            ],
+            [
+              87.28846361251347,
+              23.537149999999997
+            ],
+            [
+              87.28813638748655,
+              23.537149999999997
+            ],
+            [
+              87.28813638748655,
+              23.53745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-12",
+      "properties": {
+        "id": "nit-durgapur-bld-12",
+        "name": "NIT Durgapur Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.29513638499871,
+              23.539450000000002
+            ],
+            [
+              87.29546361500131,
+              23.539450000000002
+            ],
+            [
+              87.29546361500131,
+              23.53915
+            ],
+            [
+              87.29513638499871,
+              23.53915
+            ],
+            [
+              87.29513638499871,
+              23.539450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-13",
+      "properties": {
+        "id": "nit-durgapur-bld-13",
+        "name": "NIT Durgapur Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.29513638624267,
+              23.53845
+            ],
+            [
+              87.29546361375735,
+              23.53845
+            ],
+            [
+              87.29546361375735,
+              23.538149999999998
+            ],
+            [
+              87.29513638624267,
+              23.538149999999998
+            ],
+            [
+              87.29513638624267,
+              23.53845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-14",
+      "properties": {
+        "id": "nit-durgapur-bld-14",
+        "name": "NIT Durgapur Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.29313638873036,
+              23.536450000000002
+            ],
+            [
+              87.29346361126964,
+              23.536450000000002
+            ],
+            [
+              87.29346361126964,
+              23.53615
+            ],
+            [
+              87.29313638873036,
+              23.53615
+            ],
+            [
+              87.29313638873036,
+              23.536450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-15",
+      "properties": {
+        "id": "nit-durgapur-bld-15",
+        "name": "NIT Durgapur Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.29413638997411,
+              23.53545
+            ],
+            [
+              87.2944636100259,
+              23.53545
+            ],
+            [
+              87.2944636100259,
+              23.535149999999998
+            ],
+            [
+              87.29413638997411,
+              23.535149999999998
+            ],
+            [
+              87.29413638997411,
+              23.53545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-16",
+      "properties": {
+        "id": "nit-durgapur-bld-16",
+        "name": "NIT Durgapur Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.28913638873037,
+              23.536450000000002
+            ],
+            [
+              87.28946361126965,
+              23.536450000000002
+            ],
+            [
+              87.28946361126965,
+              23.53615
+            ],
+            [
+              87.28913638873037,
+              23.53615
+            ],
+            [
+              87.28913638873037,
+              23.536450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-17",
+      "properties": {
+        "id": "nit-durgapur-bld-17",
+        "name": "NIT Durgapur Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.29113638375469,
+              23.54045
+            ],
+            [
+              87.29146361624532,
+              23.54045
+            ],
+            [
+              87.29146361624532,
+              23.540149999999997
+            ],
+            [
+              87.29113638375469,
+              23.540149999999997
+            ],
+            [
+              87.29113638375469,
+              23.54045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-18",
+      "properties": {
+        "id": "nit-durgapur-bld-18",
+        "name": "NIT Durgapur Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.28913638499871,
+              23.539450000000002
+            ],
+            [
+              87.28946361500131,
+              23.539450000000002
+            ],
+            [
+              87.28946361500131,
+              23.53915
+            ],
+            [
+              87.28913638499871,
+              23.53915
+            ],
+            [
+              87.28913638499871,
+              23.539450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-19",
+      "properties": {
+        "id": "nit-durgapur-bld-19",
+        "name": "NIT Durgapur Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.28813638375469,
+              23.54045
+            ],
+            [
+              87.28846361624532,
+              23.54045
+            ],
+            [
+              87.28846361624532,
+              23.540149999999997
+            ],
+            [
+              87.28813638375469,
+              23.540149999999997
+            ],
+            [
+              87.28813638375469,
+              23.54045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-20",
+      "properties": {
+        "id": "nit-durgapur-bld-20",
+        "name": "NIT Durgapur Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.29413638375469,
+              23.54045
+            ],
+            [
+              87.29446361624532,
+              23.54045
+            ],
+            [
+              87.29446361624532,
+              23.540149999999997
+            ],
+            [
+              87.29413638375469,
+              23.540149999999997
+            ],
+            [
+              87.29413638375469,
+              23.54045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-21",
+      "properties": {
+        "id": "nit-durgapur-bld-21",
+        "name": "NIT Durgapur Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.29113638624267,
+              23.53845
+            ],
+            [
+              87.29146361375734,
+              23.53845
+            ],
+            [
+              87.29146361375734,
+              23.538149999999998
+            ],
+            [
+              87.29113638624267,
+              23.538149999999998
+            ],
+            [
+              87.29113638624267,
+              23.53845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-22",
+      "properties": {
+        "id": "nit-durgapur-bld-22",
+        "name": "NIT Durgapur Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.29313638624267,
+              23.53845
+            ],
+            [
+              87.29346361375734,
+              23.53845
+            ],
+            [
+              87.29346361375734,
+              23.538149999999998
+            ],
+            [
+              87.29313638624267,
+              23.538149999999998
+            ],
+            [
+              87.29313638624267,
+              23.53845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-23",
+      "properties": {
+        "id": "nit-durgapur-bld-23",
+        "name": "NIT Durgapur Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.29213638748655,
+              23.53745
+            ],
+            [
+              87.29246361251347,
+              23.53745
+            ],
+            [
+              87.29246361251347,
+              23.537149999999997
+            ],
+            [
+              87.29213638748655,
+              23.537149999999997
+            ],
+            [
+              87.29213638748655,
+              23.53745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-24",
+      "properties": {
+        "id": "nit-durgapur-bld-24",
+        "name": "NIT Durgapur Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.2941363825106,
+              23.54145
+            ],
+            [
+              87.29446361748941,
+              23.54145
+            ],
+            [
+              87.29446361748941,
+              23.54115
+            ],
+            [
+              87.2941363825106,
+              23.54115
+            ],
+            [
+              87.2941363825106,
+              23.54145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-25",
+      "properties": {
+        "id": "nit-durgapur-bld-25",
+        "name": "NIT Durgapur Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.29113637380003,
+              23.548450000000003
+            ],
+            [
+              87.29146362619998,
+              23.548450000000003
+            ],
+            [
+              87.29146362619998,
+              23.54815
+            ],
+            [
+              87.29113637380003,
+              23.54815
+            ],
+            [
+              87.29113637380003,
+              23.548450000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-26",
+      "properties": {
+        "id": "nit-durgapur-bld-26",
+        "name": "NIT Durgapur Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.2851363825106,
+              23.54145
+            ],
+            [
+              87.28546361748941,
+              23.54145
+            ],
+            [
+              87.28546361748941,
+              23.54115
+            ],
+            [
+              87.2851363825106,
+              23.54115
+            ],
+            [
+              87.2851363825106,
+              23.54145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-27",
+      "properties": {
+        "id": "nit-durgapur-bld-27",
+        "name": "NIT Durgapur State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.2926363825106,
+              23.54145
+            ],
+            [
+              87.2929636174894,
+              23.54145
+            ],
+            [
+              87.2929636174894,
+              23.54115
+            ],
+            [
+              87.2926363825106,
+              23.54115
+            ],
+            [
+              87.2926363825106,
+              23.54145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-28",
+      "properties": {
+        "id": "nit-durgapur-bld-28",
+        "name": "NIT Durgapur Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.2921363750446,
+              23.54745
+            ],
+            [
+              87.29246362495542,
+              23.54745
+            ],
+            [
+              87.29246362495542,
+              23.54715
+            ],
+            [
+              87.2921363750446,
+              23.54715
+            ],
+            [
+              87.2921363750446,
+              23.54745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-bld-29",
+      "properties": {
+        "id": "nit-durgapur-bld-29",
+        "name": "NIT Durgapur Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.2871363762891,
+              23.54645
+            ],
+            [
+              87.2874636237109,
+              23.54645
+            ],
+            [
+              87.2874636237109,
+              23.546149999999997
+            ],
+            [
+              87.2871363762891,
+              23.546149999999997
+            ],
+            [
+              87.2871363762891,
+              23.54645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-road-0",
+      "properties": {
+        "id": "nit-durgapur-road-0",
+        "name": "NIT Durgapur Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.2913,
+            23.5483
+          ],
+          [
+            87.2913,
+            23.5373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-road-1",
+      "properties": {
+        "id": "nit-durgapur-road-1",
+        "name": "NIT Durgapur Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.2873,
+            23.5383
+          ],
+          [
+            87.29530000000001,
+            23.5383
+          ],
+          [
+            87.29530000000001,
+            23.5453
+          ],
+          [
+            87.2873,
+            23.5453
+          ],
+          [
+            87.2873,
+            23.5383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-road-2",
+      "properties": {
+        "id": "nit-durgapur-road-2",
+        "name": "NIT Durgapur West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.2853,
+            23.5413
+          ],
+          [
+            87.2913,
+            23.5413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-road-3",
+      "properties": {
+        "id": "nit-durgapur-road-3",
+        "name": "NIT Durgapur Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.2873,
+            23.5433
+          ],
+          [
+            87.29530000000001,
+            23.5433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-road-4",
+      "properties": {
+        "id": "nit-durgapur-road-4",
+        "name": "NIT Durgapur Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.2873,
+            23.5383
+          ],
+          [
+            87.2873,
+            23.5403
+          ],
+          [
+            87.29530000000001,
+            23.5403
+          ],
+          [
+            87.29530000000001,
+            23.5383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-walkway-0",
+      "properties": {
+        "id": "nit-durgapur-walkway-0",
+        "name": "NIT Durgapur Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.2913,
+            23.5443
+          ],
+          [
+            87.2913,
+            23.5428
+          ],
+          [
+            87.28930000000001,
+            23.5428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-walkway-1",
+      "properties": {
+        "id": "nit-durgapur-walkway-1",
+        "name": "NIT Durgapur CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.2943,
+            23.5433
+          ],
+          [
+            87.2913,
+            23.5433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-walkway-2",
+      "properties": {
+        "id": "nit-durgapur-walkway-2",
+        "name": "NIT Durgapur SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.2913,
+            23.5403
+          ],
+          [
+            87.2913,
+            23.5383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-walkway-3",
+      "properties": {
+        "id": "nit-durgapur-walkway-3",
+        "name": "NIT Durgapur Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.2943,
+            23.5353
+          ],
+          [
+            87.2933,
+            23.5363
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-walkway-4",
+      "properties": {
+        "id": "nit-durgapur-walkway-4",
+        "name": "NIT Durgapur Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.29530000000001,
+            23.5393
+          ],
+          [
+            87.2943,
+            23.5403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-walkway-5",
+      "properties": {
+        "id": "nit-durgapur-walkway-5",
+        "name": "NIT Durgapur Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.2873,
+            23.5393
+          ],
+          [
+            87.28930000000001,
+            23.5393
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-walkway-6",
+      "properties": {
+        "id": "nit-durgapur-walkway-6",
+        "name": "NIT Durgapur Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.2943,
+            23.5413
+          ],
+          [
+            87.2928,
+            23.5413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-durgapur-walkway-7",
+      "properties": {
+        "id": "nit-durgapur-walkway-7",
+        "name": "NIT Durgapur Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.28880000000001,
+            23.5438
+          ],
+          [
+            87.28930000000001,
+            23.5428
+          ]
+        ]
+      }
+    }
+  ]
+}

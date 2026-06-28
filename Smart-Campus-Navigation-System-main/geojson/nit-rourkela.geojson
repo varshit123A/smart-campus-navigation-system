@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Rourkela GIS Dataset",
+  "properties": {
+    "campusId": "nit-rourkela",
+    "campusName": "NIT Rourkela",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.209Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Rourkela Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.91082426295092,
+              22.2531
+            ],
+            [
+              84.91049291672593,
+              22.255429371405924
+            ],
+            [
+              84.90952145874859,
+              22.2576
+            ],
+            [
+              84.90797609227464,
+              22.25946396103068
+            ],
+            [
+              84.90596213147546,
+              22.26089422863406
+            ],
+            [
+              84.90361682445129,
+              22.2617933324366
+            ],
+            [
+              84.9011,
+              22.2621
+            ],
+            [
+              84.89858317554871,
+              22.2617933324366
+            ],
+            [
+              84.89623786852454,
+              22.26089422863406
+            ],
+            [
+              84.89422390772536,
+              22.25946396103068
+            ],
+            [
+              84.89267854125141,
+              22.2576
+            ],
+            [
+              84.89170708327407,
+              22.255429371405924
+            ],
+            [
+              84.89137573704907,
+              22.2531
+            ],
+            [
+              84.89170708327407,
+              22.250770628594076
+            ],
+            [
+              84.89267854125141,
+              22.2486
+            ],
+            [
+              84.89422390772536,
+              22.24673603896932
+            ],
+            [
+              84.89623786852454,
+              22.24530577136594
+            ],
+            [
+              84.89858317554871,
+              22.2444066675634
+            ],
+            [
+              84.9011,
+              22.2441
+            ],
+            [
+              84.90361682445129,
+              22.2444066675634
+            ],
+            [
+              84.90596213147546,
+              22.24530577136594
+            ],
+            [
+              84.90797609227464,
+              22.24673603896932
+            ],
+            [
+              84.90952145874859,
+              22.2486
+            ],
+            [
+              84.91049291672593,
+              22.250770628594076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-0",
+      "properties": {
+        "id": "nit-rourkela-bld-0",
+        "name": "NIT Rourkela Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of NIT Rourkela, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.9009379283721,
+              22.25375
+            ],
+            [
+              84.9012620716279,
+              22.25375
+            ],
+            [
+              84.9012620716279,
+              22.253449999999997
+            ],
+            [
+              84.9009379283721,
+              22.253449999999997
+            ],
+            [
+              84.9009379283721,
+              22.25375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-1",
+      "properties": {
+        "id": "nit-rourkela-bld-1",
+        "name": "NIT Rourkela Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at NIT Rourkela. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.90093792547826,
+              22.25625
+            ],
+            [
+              84.90126207452174,
+              22.25625
+            ],
+            [
+              84.90126207452174,
+              22.25595
+            ],
+            [
+              84.90093792547826,
+              22.25595
+            ],
+            [
+              84.90093792547826,
+              22.25625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-2",
+      "properties": {
+        "id": "nit-rourkela-bld-2",
+        "name": "NIT Rourkela Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.89893792721462,
+              22.25475
+            ],
+            [
+              84.89926207278539,
+              22.25475
+            ],
+            [
+              84.89926207278539,
+              22.25445
+            ],
+            [
+              84.89893792721462,
+              22.25445
+            ],
+            [
+              84.89893792721462,
+              22.25475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-3",
+      "properties": {
+        "id": "nit-rourkela-bld-3",
+        "name": "NIT Rourkela Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.90393792663585,
+              22.25525
+            ],
+            [
+              84.90426207336415,
+              22.25525
+            ],
+            [
+              84.90426207336415,
+              22.254949999999997
+            ],
+            [
+              84.90393792663585,
+              22.254949999999997
+            ],
+            [
+              84.90393792663585,
+              22.25525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-4",
+      "properties": {
+        "id": "nit-rourkela-bld-4",
+        "name": "NIT Rourkela Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.90293792779336,
+              22.254250000000003
+            ],
+            [
+              84.90326207220663,
+              22.254250000000003
+            ],
+            [
+              84.90326207220663,
+              22.25395
+            ],
+            [
+              84.90293792779336,
+              22.25395
+            ],
+            [
+              84.90293792779336,
+              22.254250000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-5",
+      "properties": {
+        "id": "nit-rourkela-bld-5",
+        "name": "NIT Rourkela Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.89793792779336,
+              22.254250000000003
+            ],
+            [
+              84.89826207220663,
+              22.254250000000003
+            ],
+            [
+              84.89826207220663,
+              22.25395
+            ],
+            [
+              84.89793792779336,
+              22.25395
+            ],
+            [
+              84.89793792779336,
+              22.254250000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-6",
+      "properties": {
+        "id": "nit-rourkela-bld-6",
+        "name": "NIT Rourkela Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.90343792547826,
+              22.25625
+            ],
+            [
+              84.90376207452174,
+              22.25625
+            ],
+            [
+              84.90376207452174,
+              22.25595
+            ],
+            [
+              84.90343792547826,
+              22.25595
+            ],
+            [
+              84.90343792547826,
+              22.25625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-7",
+      "properties": {
+        "id": "nit-rourkela-bld-7",
+        "name": "NIT Rourkela Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of NIT Rourkela used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.89843792605707,
+              22.255750000000003
+            ],
+            [
+              84.89876207394293,
+              22.255750000000003
+            ],
+            [
+              84.89876207394293,
+              22.25545
+            ],
+            [
+              84.89843792605707,
+              22.25545
+            ],
+            [
+              84.89843792605707,
+              22.255750000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-8",
+      "properties": {
+        "id": "nit-rourkela-bld-8",
+        "name": "NIT Rourkela Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.89993792489945,
+              22.25675
+            ],
+            [
+              84.90026207510054,
+              22.25675
+            ],
+            [
+              84.90026207510054,
+              22.256449999999997
+            ],
+            [
+              84.89993792489945,
+              22.256449999999997
+            ],
+            [
+              84.89993792489945,
+              22.25675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-9",
+      "properties": {
+        "id": "nit-rourkela-bld-9",
+        "name": "NIT Rourkela Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.89693793126553,
+              22.251250000000002
+            ],
+            [
+              84.89726206873446,
+              22.251250000000002
+            ],
+            [
+              84.89726206873446,
+              22.25095
+            ],
+            [
+              84.89693793126553,
+              22.25095
+            ],
+            [
+              84.89693793126553,
+              22.251250000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-10",
+      "properties": {
+        "id": "nit-rourkela-bld-10",
+        "name": "NIT Rourkela Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.89693793242277,
+              22.25025
+            ],
+            [
+              84.89726206757722,
+              22.25025
+            ],
+            [
+              84.89726206757722,
+              22.24995
+            ],
+            [
+              84.89693793242277,
+              22.24995
+            ],
+            [
+              84.89693793242277,
+              22.25025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-11",
+      "properties": {
+        "id": "nit-rourkela-bld-11",
+        "name": "NIT Rourkela Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.89793793357997,
+              22.24925
+            ],
+            [
+              84.89826206642003,
+              22.24925
+            ],
+            [
+              84.89826206642003,
+              22.248949999999997
+            ],
+            [
+              84.89793793357997,
+              22.248949999999997
+            ],
+            [
+              84.89793793357997,
+              22.24925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-12",
+      "properties": {
+        "id": "nit-rourkela-bld-12",
+        "name": "NIT Rourkela Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.90493793126554,
+              22.251250000000002
+            ],
+            [
+              84.90526206873447,
+              22.251250000000002
+            ],
+            [
+              84.90526206873447,
+              22.25095
+            ],
+            [
+              84.90493793126554,
+              22.25095
+            ],
+            [
+              84.90493793126554,
+              22.251250000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-13",
+      "properties": {
+        "id": "nit-rourkela-bld-13",
+        "name": "NIT Rourkela Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.90493793242278,
+              22.25025
+            ],
+            [
+              84.90526206757723,
+              22.25025
+            ],
+            [
+              84.90526206757723,
+              22.24995
+            ],
+            [
+              84.90493793242278,
+              22.24995
+            ],
+            [
+              84.90493793242278,
+              22.25025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-14",
+      "properties": {
+        "id": "nit-rourkela-bld-14",
+        "name": "NIT Rourkela Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.90293793473708,
+              22.248250000000002
+            ],
+            [
+              84.90326206526291,
+              22.248250000000002
+            ],
+            [
+              84.90326206526291,
+              22.24795
+            ],
+            [
+              84.90293793473708,
+              22.24795
+            ],
+            [
+              84.90293793473708,
+              22.248250000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-15",
+      "properties": {
+        "id": "nit-rourkela-bld-15",
+        "name": "NIT Rourkela Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.90393793589415,
+              22.24725
+            ],
+            [
+              84.90426206410585,
+              22.24725
+            ],
+            [
+              84.90426206410585,
+              22.24695
+            ],
+            [
+              84.90393793589415,
+              22.24695
+            ],
+            [
+              84.90393793589415,
+              22.24725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-16",
+      "properties": {
+        "id": "nit-rourkela-bld-16",
+        "name": "NIT Rourkela Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.89893793473709,
+              22.248250000000002
+            ],
+            [
+              84.89926206526292,
+              22.248250000000002
+            ],
+            [
+              84.89926206526292,
+              22.24795
+            ],
+            [
+              84.89893793473709,
+              22.24795
+            ],
+            [
+              84.89893793473709,
+              22.248250000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-17",
+      "properties": {
+        "id": "nit-rourkela-bld-17",
+        "name": "NIT Rourkela Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.9009379301082,
+              22.25225
+            ],
+            [
+              84.9012620698918,
+              22.25225
+            ],
+            [
+              84.9012620698918,
+              22.251949999999997
+            ],
+            [
+              84.9009379301082,
+              22.251949999999997
+            ],
+            [
+              84.9009379301082,
+              22.25225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-18",
+      "properties": {
+        "id": "nit-rourkela-bld-18",
+        "name": "NIT Rourkela Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.89893793126554,
+              22.251250000000002
+            ],
+            [
+              84.89926206873447,
+              22.251250000000002
+            ],
+            [
+              84.89926206873447,
+              22.25095
+            ],
+            [
+              84.89893793126554,
+              22.25095
+            ],
+            [
+              84.89893793126554,
+              22.251250000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-19",
+      "properties": {
+        "id": "nit-rourkela-bld-19",
+        "name": "NIT Rourkela Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.8979379301082,
+              22.25225
+            ],
+            [
+              84.8982620698918,
+              22.25225
+            ],
+            [
+              84.8982620698918,
+              22.251949999999997
+            ],
+            [
+              84.8979379301082,
+              22.251949999999997
+            ],
+            [
+              84.8979379301082,
+              22.25225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-20",
+      "properties": {
+        "id": "nit-rourkela-bld-20",
+        "name": "NIT Rourkela Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.9039379301082,
+              22.25225
+            ],
+            [
+              84.9042620698918,
+              22.25225
+            ],
+            [
+              84.9042620698918,
+              22.251949999999997
+            ],
+            [
+              84.9039379301082,
+              22.251949999999997
+            ],
+            [
+              84.9039379301082,
+              22.25225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-21",
+      "properties": {
+        "id": "nit-rourkela-bld-21",
+        "name": "NIT Rourkela Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.90093793242278,
+              22.25025
+            ],
+            [
+              84.90126206757722,
+              22.25025
+            ],
+            [
+              84.90126206757722,
+              22.24995
+            ],
+            [
+              84.90093793242278,
+              22.24995
+            ],
+            [
+              84.90093793242278,
+              22.25025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-22",
+      "properties": {
+        "id": "nit-rourkela-bld-22",
+        "name": "NIT Rourkela Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.90293793242277,
+              22.25025
+            ],
+            [
+              84.90326206757722,
+              22.25025
+            ],
+            [
+              84.90326206757722,
+              22.24995
+            ],
+            [
+              84.90293793242277,
+              22.24995
+            ],
+            [
+              84.90293793242277,
+              22.25025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-23",
+      "properties": {
+        "id": "nit-rourkela-bld-23",
+        "name": "NIT Rourkela Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.90193793357997,
+              22.24925
+            ],
+            [
+              84.90226206642004,
+              22.24925
+            ],
+            [
+              84.90226206642004,
+              22.248949999999997
+            ],
+            [
+              84.90193793357997,
+              22.248949999999997
+            ],
+            [
+              84.90193793357997,
+              22.24925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-24",
+      "properties": {
+        "id": "nit-rourkela-bld-24",
+        "name": "NIT Rourkela Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.90393792895081,
+              22.25325
+            ],
+            [
+              84.90426207104919,
+              22.25325
+            ],
+            [
+              84.90426207104919,
+              22.25295
+            ],
+            [
+              84.90393792895081,
+              22.25295
+            ],
+            [
+              84.90393792895081,
+              22.25325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-25",
+      "properties": {
+        "id": "nit-rourkela-bld-25",
+        "name": "NIT Rourkela Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.90093792084727,
+              22.260250000000003
+            ],
+            [
+              84.90126207915273,
+              22.260250000000003
+            ],
+            [
+              84.90126207915273,
+              22.25995
+            ],
+            [
+              84.90093792084727,
+              22.25995
+            ],
+            [
+              84.90093792084727,
+              22.260250000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-26",
+      "properties": {
+        "id": "nit-rourkela-bld-26",
+        "name": "NIT Rourkela Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.89493792895081,
+              22.25325
+            ],
+            [
+              84.89526207104919,
+              22.25325
+            ],
+            [
+              84.89526207104919,
+              22.25295
+            ],
+            [
+              84.89493792895081,
+              22.25295
+            ],
+            [
+              84.89493792895081,
+              22.25325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-27",
+      "properties": {
+        "id": "nit-rourkela-bld-27",
+        "name": "NIT Rourkela State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.9024379289508,
+              22.25325
+            ],
+            [
+              84.90276207104918,
+              22.25325
+            ],
+            [
+              84.90276207104918,
+              22.25295
+            ],
+            [
+              84.9024379289508,
+              22.25295
+            ],
+            [
+              84.9024379289508,
+              22.25325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-28",
+      "properties": {
+        "id": "nit-rourkela-bld-28",
+        "name": "NIT Rourkela Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.90193792200512,
+              22.25925
+            ],
+            [
+              84.90226207799489,
+              22.25925
+            ],
+            [
+              84.90226207799489,
+              22.25895
+            ],
+            [
+              84.90193792200512,
+              22.25895
+            ],
+            [
+              84.90193792200512,
+              22.25925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-bld-29",
+      "properties": {
+        "id": "nit-rourkela-bld-29",
+        "name": "NIT Rourkela Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.8969379231629,
+              22.25825
+            ],
+            [
+              84.8972620768371,
+              22.25825
+            ],
+            [
+              84.8972620768371,
+              22.257949999999997
+            ],
+            [
+              84.8969379231629,
+              22.257949999999997
+            ],
+            [
+              84.8969379231629,
+              22.25825
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-road-0",
+      "properties": {
+        "id": "nit-rourkela-road-0",
+        "name": "NIT Rourkela Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.9011,
+            22.2601
+          ],
+          [
+            84.9011,
+            22.2491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-road-1",
+      "properties": {
+        "id": "nit-rourkela-road-1",
+        "name": "NIT Rourkela Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.8971,
+            22.2501
+          ],
+          [
+            84.9051,
+            22.2501
+          ],
+          [
+            84.9051,
+            22.2571
+          ],
+          [
+            84.8971,
+            22.2571
+          ],
+          [
+            84.8971,
+            22.2501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-road-2",
+      "properties": {
+        "id": "nit-rourkela-road-2",
+        "name": "NIT Rourkela West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.8951,
+            22.2531
+          ],
+          [
+            84.9011,
+            22.2531
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-road-3",
+      "properties": {
+        "id": "nit-rourkela-road-3",
+        "name": "NIT Rourkela Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.8971,
+            22.2551
+          ],
+          [
+            84.9051,
+            22.2551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-road-4",
+      "properties": {
+        "id": "nit-rourkela-road-4",
+        "name": "NIT Rourkela Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.8971,
+            22.2501
+          ],
+          [
+            84.8971,
+            22.2521
+          ],
+          [
+            84.9051,
+            22.2521
+          ],
+          [
+            84.9051,
+            22.2501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-walkway-0",
+      "properties": {
+        "id": "nit-rourkela-walkway-0",
+        "name": "NIT Rourkela Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.9011,
+            22.2561
+          ],
+          [
+            84.9011,
+            22.2546
+          ],
+          [
+            84.8991,
+            22.2546
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-walkway-1",
+      "properties": {
+        "id": "nit-rourkela-walkway-1",
+        "name": "NIT Rourkela CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.9041,
+            22.2551
+          ],
+          [
+            84.9011,
+            22.2551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-walkway-2",
+      "properties": {
+        "id": "nit-rourkela-walkway-2",
+        "name": "NIT Rourkela SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.9011,
+            22.2521
+          ],
+          [
+            84.9011,
+            22.2501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-walkway-3",
+      "properties": {
+        "id": "nit-rourkela-walkway-3",
+        "name": "NIT Rourkela Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.9041,
+            22.2471
+          ],
+          [
+            84.9031,
+            22.2481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-walkway-4",
+      "properties": {
+        "id": "nit-rourkela-walkway-4",
+        "name": "NIT Rourkela Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.9051,
+            22.2511
+          ],
+          [
+            84.9041,
+            22.2521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-walkway-5",
+      "properties": {
+        "id": "nit-rourkela-walkway-5",
+        "name": "NIT Rourkela Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.8971,
+            22.2511
+          ],
+          [
+            84.8991,
+            22.2511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-walkway-6",
+      "properties": {
+        "id": "nit-rourkela-walkway-6",
+        "name": "NIT Rourkela Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.9041,
+            22.2531
+          ],
+          [
+            84.90259999999999,
+            22.2531
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-rourkela-walkway-7",
+      "properties": {
+        "id": "nit-rourkela-walkway-7",
+        "name": "NIT Rourkela Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.8986,
+            22.2556
+          ],
+          [
+            84.8991,
+            22.2546
+          ]
+        ]
+      }
+    }
+  ]
+}

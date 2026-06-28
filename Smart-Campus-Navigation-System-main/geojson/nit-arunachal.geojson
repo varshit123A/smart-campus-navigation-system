@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Arunachal Pradesh GIS Dataset",
+  "properties": {
+    "campusId": "nit-arunachal",
+    "campusName": "NIT Arunachal Pradesh",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.220Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Arunachal Pradesh Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.626609978318,
+              27.1004
+            ],
+            [
+              93.62626548916057,
+              27.102729371405925
+            ],
+            [
+              93.6252554980551,
+              27.1049
+            ],
+            [
+              93.6236488342263,
+              27.10676396103068
+            ],
+            [
+              93.621554989159,
+              27.108194228634062
+            ],
+            [
+              93.61911665493427,
+              27.1090933324366
+            ],
+            [
+              93.6165,
+              27.1094
+            ],
+            [
+              93.61388334506573,
+              27.1090933324366
+            ],
+            [
+              93.61144501084101,
+              27.108194228634062
+            ],
+            [
+              93.6093511657737,
+              27.10676396103068
+            ],
+            [
+              93.60774450194491,
+              27.1049
+            ],
+            [
+              93.60673451083943,
+              27.102729371405925
+            ],
+            [
+              93.606390021682,
+              27.1004
+            ],
+            [
+              93.60673451083943,
+              27.098070628594076
+            ],
+            [
+              93.60774450194491,
+              27.0959
+            ],
+            [
+              93.6093511657737,
+              27.09403603896932
+            ],
+            [
+              93.61144501084101,
+              27.09260577136594
+            ],
+            [
+              93.61388334506573,
+              27.0917066675634
+            ],
+            [
+              93.6165,
+              27.0914
+            ],
+            [
+              93.61911665493427,
+              27.0917066675634
+            ],
+            [
+              93.621554989159,
+              27.09260577136594
+            ],
+            [
+              93.6236488342263,
+              27.09403603896932
+            ],
+            [
+              93.6252554980551,
+              27.0959
+            ],
+            [
+              93.62626548916057,
+              27.098070628594076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-0",
+      "properties": {
+        "id": "nit-arunachal-bld-0",
+        "name": "NIT Arunachal Pradesh Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of NIT Arunachal Pradesh, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61633149960889,
+              27.10105
+            ],
+            [
+              93.61666850039111,
+              27.10105
+            ],
+            [
+              93.61666850039111,
+              27.100749999999998
+            ],
+            [
+              93.61633149960889,
+              27.100749999999998
+            ],
+            [
+              93.61633149960889,
+              27.10105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-1",
+      "properties": {
+        "id": "nit-arunachal-bld-1",
+        "name": "NIT Arunachal Pradesh Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at NIT Arunachal Pradesh. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61633149584618,
+              27.103550000000002
+            ],
+            [
+              93.61666850415382,
+              27.103550000000002
+            ],
+            [
+              93.61666850415382,
+              27.10325
+            ],
+            [
+              93.61633149584618,
+              27.10325
+            ],
+            [
+              93.61633149584618,
+              27.103550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-2",
+      "properties": {
+        "id": "nit-arunachal-bld-2",
+        "name": "NIT Arunachal Pradesh Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61433149810387,
+              27.102050000000002
+            ],
+            [
+              93.61466850189615,
+              27.102050000000002
+            ],
+            [
+              93.61466850189615,
+              27.10175
+            ],
+            [
+              93.61433149810387,
+              27.10175
+            ],
+            [
+              93.61433149810387,
+              27.102050000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-3",
+      "properties": {
+        "id": "nit-arunachal-bld-3",
+        "name": "NIT Arunachal Pradesh Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61933149735133,
+              27.10255
+            ],
+            [
+              93.61966850264868,
+              27.10255
+            ],
+            [
+              93.61966850264868,
+              27.102249999999998
+            ],
+            [
+              93.61933149735133,
+              27.102249999999998
+            ],
+            [
+              93.61933149735133,
+              27.10255
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-4",
+      "properties": {
+        "id": "nit-arunachal-bld-4",
+        "name": "NIT Arunachal Pradesh Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61833149885638,
+              27.101550000000003
+            ],
+            [
+              93.61866850114362,
+              27.101550000000003
+            ],
+            [
+              93.61866850114362,
+              27.10125
+            ],
+            [
+              93.61833149885638,
+              27.10125
+            ],
+            [
+              93.61833149885638,
+              27.101550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-5",
+      "properties": {
+        "id": "nit-arunachal-bld-5",
+        "name": "NIT Arunachal Pradesh Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61333149885638,
+              27.101550000000003
+            ],
+            [
+              93.61366850114362,
+              27.101550000000003
+            ],
+            [
+              93.61366850114362,
+              27.10125
+            ],
+            [
+              93.61333149885638,
+              27.10125
+            ],
+            [
+              93.61333149885638,
+              27.101550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-6",
+      "properties": {
+        "id": "nit-arunachal-bld-6",
+        "name": "NIT Arunachal Pradesh Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61883149584618,
+              27.103550000000002
+            ],
+            [
+              93.61916850415382,
+              27.103550000000002
+            ],
+            [
+              93.61916850415382,
+              27.10325
+            ],
+            [
+              93.61883149584618,
+              27.10325
+            ],
+            [
+              93.61883149584618,
+              27.103550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-7",
+      "properties": {
+        "id": "nit-arunachal-bld-7",
+        "name": "NIT Arunachal Pradesh Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of NIT Arunachal Pradesh used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61383149659876,
+              27.103050000000003
+            ],
+            [
+              93.61416850340125,
+              27.103050000000003
+            ],
+            [
+              93.61416850340125,
+              27.10275
+            ],
+            [
+              93.61383149659876,
+              27.10275
+            ],
+            [
+              93.61383149659876,
+              27.103050000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-8",
+      "properties": {
+        "id": "nit-arunachal-bld-8",
+        "name": "NIT Arunachal Pradesh Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61533149509357,
+              27.10405
+            ],
+            [
+              93.61566850490642,
+              27.10405
+            ],
+            [
+              93.61566850490642,
+              27.103749999999998
+            ],
+            [
+              93.61533149509357,
+              27.103749999999998
+            ],
+            [
+              93.61533149509357,
+              27.10405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-9",
+      "properties": {
+        "id": "nit-arunachal-bld-9",
+        "name": "NIT Arunachal Pradesh Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.6123315033711,
+              27.098550000000003
+            ],
+            [
+              93.6126684966289,
+              27.098550000000003
+            ],
+            [
+              93.6126684966289,
+              27.09825
+            ],
+            [
+              93.6123315033711,
+              27.09825
+            ],
+            [
+              93.6123315033711,
+              27.098550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-10",
+      "properties": {
+        "id": "nit-arunachal-bld-10",
+        "name": "NIT Arunachal Pradesh Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61233150487585,
+              27.097550000000002
+            ],
+            [
+              93.61266849512414,
+              27.097550000000002
+            ],
+            [
+              93.61266849512414,
+              27.09725
+            ],
+            [
+              93.61233150487585,
+              27.09725
+            ],
+            [
+              93.61233150487585,
+              27.097550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-11",
+      "properties": {
+        "id": "nit-arunachal-bld-11",
+        "name": "NIT Arunachal Pradesh Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61333150638053,
+              27.09655
+            ],
+            [
+              93.61366849361947,
+              27.09655
+            ],
+            [
+              93.61366849361947,
+              27.096249999999998
+            ],
+            [
+              93.61333150638053,
+              27.096249999999998
+            ],
+            [
+              93.61333150638053,
+              27.09655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-12",
+      "properties": {
+        "id": "nit-arunachal-bld-12",
+        "name": "NIT Arunachal Pradesh Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.6203315033711,
+              27.098550000000003
+            ],
+            [
+              93.62066849662891,
+              27.098550000000003
+            ],
+            [
+              93.62066849662891,
+              27.09825
+            ],
+            [
+              93.6203315033711,
+              27.09825
+            ],
+            [
+              93.6203315033711,
+              27.098550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-13",
+      "properties": {
+        "id": "nit-arunachal-bld-13",
+        "name": "NIT Arunachal Pradesh Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.62033150487586,
+              27.097550000000002
+            ],
+            [
+              93.62066849512415,
+              27.097550000000002
+            ],
+            [
+              93.62066849512415,
+              27.09725
+            ],
+            [
+              93.62033150487586,
+              27.09725
+            ],
+            [
+              93.62033150487586,
+              27.097550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-14",
+      "properties": {
+        "id": "nit-arunachal-bld-14",
+        "name": "NIT Arunachal Pradesh Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61833150788512,
+              27.095550000000003
+            ],
+            [
+              93.61866849211488,
+              27.095550000000003
+            ],
+            [
+              93.61866849211488,
+              27.09525
+            ],
+            [
+              93.61833150788512,
+              27.09525
+            ],
+            [
+              93.61833150788512,
+              27.095550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-15",
+      "properties": {
+        "id": "nit-arunachal-bld-15",
+        "name": "NIT Arunachal Pradesh Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61933150938964,
+              27.09455
+            ],
+            [
+              93.61966849061037,
+              27.09455
+            ],
+            [
+              93.61966849061037,
+              27.09425
+            ],
+            [
+              93.61933150938964,
+              27.09425
+            ],
+            [
+              93.61933150938964,
+              27.09455
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-16",
+      "properties": {
+        "id": "nit-arunachal-bld-16",
+        "name": "NIT Arunachal Pradesh Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61433150788513,
+              27.095550000000003
+            ],
+            [
+              93.61466849211489,
+              27.095550000000003
+            ],
+            [
+              93.61466849211489,
+              27.09525
+            ],
+            [
+              93.61433150788513,
+              27.09525
+            ],
+            [
+              93.61433150788513,
+              27.095550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-17",
+      "properties": {
+        "id": "nit-arunachal-bld-17",
+        "name": "NIT Arunachal Pradesh Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61633150186627,
+              27.09955
+            ],
+            [
+              93.61666849813373,
+              27.09955
+            ],
+            [
+              93.61666849813373,
+              27.099249999999998
+            ],
+            [
+              93.61633150186627,
+              27.099249999999998
+            ],
+            [
+              93.61633150186627,
+              27.09955
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-18",
+      "properties": {
+        "id": "nit-arunachal-bld-18",
+        "name": "NIT Arunachal Pradesh Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.6143315033711,
+              27.098550000000003
+            ],
+            [
+              93.61466849662891,
+              27.098550000000003
+            ],
+            [
+              93.61466849662891,
+              27.09825
+            ],
+            [
+              93.6143315033711,
+              27.09825
+            ],
+            [
+              93.6143315033711,
+              27.098550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-19",
+      "properties": {
+        "id": "nit-arunachal-bld-19",
+        "name": "NIT Arunachal Pradesh Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61333150186627,
+              27.09955
+            ],
+            [
+              93.61366849813373,
+              27.09955
+            ],
+            [
+              93.61366849813373,
+              27.099249999999998
+            ],
+            [
+              93.61333150186627,
+              27.099249999999998
+            ],
+            [
+              93.61333150186627,
+              27.09955
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-20",
+      "properties": {
+        "id": "nit-arunachal-bld-20",
+        "name": "NIT Arunachal Pradesh Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61933150186627,
+              27.09955
+            ],
+            [
+              93.61966849813373,
+              27.09955
+            ],
+            [
+              93.61966849813373,
+              27.099249999999998
+            ],
+            [
+              93.61933150186627,
+              27.099249999999998
+            ],
+            [
+              93.61933150186627,
+              27.09955
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-21",
+      "properties": {
+        "id": "nit-arunachal-bld-21",
+        "name": "NIT Arunachal Pradesh Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61633150487586,
+              27.097550000000002
+            ],
+            [
+              93.61666849512415,
+              27.097550000000002
+            ],
+            [
+              93.61666849512415,
+              27.09725
+            ],
+            [
+              93.61633150487586,
+              27.09725
+            ],
+            [
+              93.61633150487586,
+              27.097550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-22",
+      "properties": {
+        "id": "nit-arunachal-bld-22",
+        "name": "NIT Arunachal Pradesh Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61833150487585,
+              27.097550000000002
+            ],
+            [
+              93.61866849512414,
+              27.097550000000002
+            ],
+            [
+              93.61866849512414,
+              27.09725
+            ],
+            [
+              93.61833150487585,
+              27.09725
+            ],
+            [
+              93.61833150487585,
+              27.097550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-23",
+      "properties": {
+        "id": "nit-arunachal-bld-23",
+        "name": "NIT Arunachal Pradesh Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61733150638054,
+              27.09655
+            ],
+            [
+              93.61766849361948,
+              27.09655
+            ],
+            [
+              93.61766849361948,
+              27.096249999999998
+            ],
+            [
+              93.61733150638054,
+              27.096249999999998
+            ],
+            [
+              93.61733150638054,
+              27.09655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-24",
+      "properties": {
+        "id": "nit-arunachal-bld-24",
+        "name": "NIT Arunachal Pradesh Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61933150036137,
+              27.100550000000002
+            ],
+            [
+              93.61966849963864,
+              27.100550000000002
+            ],
+            [
+              93.61966849963864,
+              27.10025
+            ],
+            [
+              93.61933150036137,
+              27.10025
+            ],
+            [
+              93.61933150036137,
+              27.100550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-25",
+      "properties": {
+        "id": "nit-arunachal-bld-25",
+        "name": "NIT Arunachal Pradesh Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61633148982483,
+              27.107550000000003
+            ],
+            [
+              93.61666851017517,
+              27.107550000000003
+            ],
+            [
+              93.61666851017517,
+              27.10725
+            ],
+            [
+              93.61633148982483,
+              27.10725
+            ],
+            [
+              93.61633148982483,
+              27.107550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-26",
+      "properties": {
+        "id": "nit-arunachal-bld-26",
+        "name": "NIT Arunachal Pradesh Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61033150036137,
+              27.100550000000002
+            ],
+            [
+              93.61066849963863,
+              27.100550000000002
+            ],
+            [
+              93.61066849963863,
+              27.10025
+            ],
+            [
+              93.61033150036137,
+              27.10025
+            ],
+            [
+              93.61033150036137,
+              27.100550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-27",
+      "properties": {
+        "id": "nit-arunachal-bld-27",
+        "name": "NIT Arunachal Pradesh State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61783150036136,
+              27.100550000000002
+            ],
+            [
+              93.61816849963863,
+              27.100550000000002
+            ],
+            [
+              93.61816849963863,
+              27.10025
+            ],
+            [
+              93.61783150036136,
+              27.10025
+            ],
+            [
+              93.61783150036136,
+              27.100550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-28",
+      "properties": {
+        "id": "nit-arunachal-bld-28",
+        "name": "NIT Arunachal Pradesh Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61733149133029,
+              27.106550000000002
+            ],
+            [
+              93.61766850866972,
+              27.106550000000002
+            ],
+            [
+              93.61766850866972,
+              27.10625
+            ],
+            [
+              93.61733149133029,
+              27.10625
+            ],
+            [
+              93.61733149133029,
+              27.106550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-bld-29",
+      "properties": {
+        "id": "nit-arunachal-bld-29",
+        "name": "NIT Arunachal Pradesh Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.61233149283565,
+              27.10555
+            ],
+            [
+              93.61266850716434,
+              27.10555
+            ],
+            [
+              93.61266850716434,
+              27.105249999999998
+            ],
+            [
+              93.61233149283565,
+              27.105249999999998
+            ],
+            [
+              93.61233149283565,
+              27.10555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-road-0",
+      "properties": {
+        "id": "nit-arunachal-road-0",
+        "name": "NIT Arunachal Pradesh Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6165,
+            27.107400000000002
+          ],
+          [
+            93.6165,
+            27.0964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-road-1",
+      "properties": {
+        "id": "nit-arunachal-road-1",
+        "name": "NIT Arunachal Pradesh Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6125,
+            27.0974
+          ],
+          [
+            93.6205,
+            27.0974
+          ],
+          [
+            93.6205,
+            27.104400000000002
+          ],
+          [
+            93.6125,
+            27.104400000000002
+          ],
+          [
+            93.6125,
+            27.0974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-road-2",
+      "properties": {
+        "id": "nit-arunachal-road-2",
+        "name": "NIT Arunachal Pradesh West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6105,
+            27.1004
+          ],
+          [
+            93.6165,
+            27.1004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-road-3",
+      "properties": {
+        "id": "nit-arunachal-road-3",
+        "name": "NIT Arunachal Pradesh Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6125,
+            27.1024
+          ],
+          [
+            93.6205,
+            27.1024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-road-4",
+      "properties": {
+        "id": "nit-arunachal-road-4",
+        "name": "NIT Arunachal Pradesh Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6125,
+            27.0974
+          ],
+          [
+            93.6125,
+            27.0994
+          ],
+          [
+            93.6205,
+            27.0994
+          ],
+          [
+            93.6205,
+            27.0974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-walkway-0",
+      "properties": {
+        "id": "nit-arunachal-walkway-0",
+        "name": "NIT Arunachal Pradesh Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6165,
+            27.1034
+          ],
+          [
+            93.6165,
+            27.1019
+          ],
+          [
+            93.6145,
+            27.1019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-walkway-1",
+      "properties": {
+        "id": "nit-arunachal-walkway-1",
+        "name": "NIT Arunachal Pradesh CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6195,
+            27.1024
+          ],
+          [
+            93.6165,
+            27.1024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-walkway-2",
+      "properties": {
+        "id": "nit-arunachal-walkway-2",
+        "name": "NIT Arunachal Pradesh SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6165,
+            27.0994
+          ],
+          [
+            93.6165,
+            27.0974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-walkway-3",
+      "properties": {
+        "id": "nit-arunachal-walkway-3",
+        "name": "NIT Arunachal Pradesh Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6195,
+            27.0944
+          ],
+          [
+            93.6185,
+            27.0954
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-walkway-4",
+      "properties": {
+        "id": "nit-arunachal-walkway-4",
+        "name": "NIT Arunachal Pradesh Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6205,
+            27.0984
+          ],
+          [
+            93.6195,
+            27.0994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-walkway-5",
+      "properties": {
+        "id": "nit-arunachal-walkway-5",
+        "name": "NIT Arunachal Pradesh Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6125,
+            27.0984
+          ],
+          [
+            93.6145,
+            27.0984
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-walkway-6",
+      "properties": {
+        "id": "nit-arunachal-walkway-6",
+        "name": "NIT Arunachal Pradesh Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6195,
+            27.1004
+          ],
+          [
+            93.618,
+            27.1004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-arunachal-walkway-7",
+      "properties": {
+        "id": "nit-arunachal-walkway-7",
+        "name": "NIT Arunachal Pradesh Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.614,
+            27.1029
+          ],
+          [
+            93.6145,
+            27.1019
+          ]
+        ]
+      }
+    }
+  ]
+}

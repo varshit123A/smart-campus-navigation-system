@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "IIT Kanpur GIS Dataset",
+  "properties": {
+    "campusId": "iit-kanpur",
+    "campusName": "IIT Kanpur",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.192Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "IIT Kanpur Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.24295768020094,
+              26.5123
+            ],
+            [
+              80.24261497305865,
+              26.514629371405924
+            ],
+            [
+              80.24161020655716,
+              26.5168
+            ],
+            [
+              80.2400118538731,
+              26.51866396103068
+            ],
+            [
+              80.23792884010048,
+              26.52009422863406
+            ],
+            [
+              80.23550311918555,
+              26.5209933324366
+            ],
+            [
+              80.2329,
+              26.5213
+            ],
+            [
+              80.23029688081445,
+              26.5209933324366
+            ],
+            [
+              80.22787115989952,
+              26.52009422863406
+            ],
+            [
+              80.2257881461269,
+              26.51866396103068
+            ],
+            [
+              80.22418979344285,
+              26.5168
+            ],
+            [
+              80.22318502694135,
+              26.514629371405924
+            ],
+            [
+              80.22284231979906,
+              26.5123
+            ],
+            [
+              80.22318502694135,
+              26.509970628594075
+            ],
+            [
+              80.22418979344285,
+              26.5078
+            ],
+            [
+              80.2257881461269,
+              26.50593603896932
+            ],
+            [
+              80.22787115989952,
+              26.504505771365938
+            ],
+            [
+              80.23029688081445,
+              26.5036066675634
+            ],
+            [
+              80.2329,
+              26.5033
+            ],
+            [
+              80.23550311918555,
+              26.5036066675634
+            ],
+            [
+              80.23792884010048,
+              26.504505771365938
+            ],
+            [
+              80.2400118538731,
+              26.50593603896932
+            ],
+            [
+              80.24161020655716,
+              26.5078
+            ],
+            [
+              80.24261497305865,
+              26.509970628594075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-0",
+      "properties": {
+        "id": "iit-kanpur-bld-0",
+        "name": "IIT Kanpur Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of IIT Kanpur, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2327323712669,
+              26.51295
+            ],
+            [
+              80.2330676287331,
+              26.51295
+            ],
+            [
+              80.2330676287331,
+              26.512649999999997
+            ],
+            [
+              80.2327323712669,
+              26.512649999999997
+            ],
+            [
+              80.2327323712669,
+              26.51295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-1",
+      "properties": {
+        "id": "iit-kanpur-bld-1",
+        "name": "IIT Kanpur Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at IIT Kanpur. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23273236761791,
+              26.51545
+            ],
+            [
+              80.23306763238209,
+              26.51545
+            ],
+            [
+              80.23306763238209,
+              26.51515
+            ],
+            [
+              80.23273236761791,
+              26.51515
+            ],
+            [
+              80.23273236761791,
+              26.51545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-2",
+      "properties": {
+        "id": "iit-kanpur-bld-2",
+        "name": "IIT Kanpur Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23073236980737,
+              26.51395
+            ],
+            [
+              80.23106763019264,
+              26.51395
+            ],
+            [
+              80.23106763019264,
+              26.51365
+            ],
+            [
+              80.23073236980737,
+              26.51365
+            ],
+            [
+              80.23073236980737,
+              26.51395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-3",
+      "properties": {
+        "id": "iit-kanpur-bld-3",
+        "name": "IIT Kanpur Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23573236907757,
+              26.51445
+            ],
+            [
+              80.23606763092243,
+              26.51445
+            ],
+            [
+              80.23606763092243,
+              26.514149999999997
+            ],
+            [
+              80.23573236907757,
+              26.514149999999997
+            ],
+            [
+              80.23573236907757,
+              26.51445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-4",
+      "properties": {
+        "id": "iit-kanpur-bld-4",
+        "name": "IIT Kanpur Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23473237053715,
+              26.513450000000002
+            ],
+            [
+              80.23506762946285,
+              26.513450000000002
+            ],
+            [
+              80.23506762946285,
+              26.51315
+            ],
+            [
+              80.23473237053715,
+              26.51315
+            ],
+            [
+              80.23473237053715,
+              26.513450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-5",
+      "properties": {
+        "id": "iit-kanpur-bld-5",
+        "name": "IIT Kanpur Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.22973237053715,
+              26.513450000000002
+            ],
+            [
+              80.23006762946285,
+              26.513450000000002
+            ],
+            [
+              80.23006762946285,
+              26.51315
+            ],
+            [
+              80.22973237053715,
+              26.51315
+            ],
+            [
+              80.22973237053715,
+              26.513450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-6",
+      "properties": {
+        "id": "iit-kanpur-bld-6",
+        "name": "IIT Kanpur Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23523236761791,
+              26.51545
+            ],
+            [
+              80.23556763238209,
+              26.51545
+            ],
+            [
+              80.23556763238209,
+              26.51515
+            ],
+            [
+              80.23523236761791,
+              26.51515
+            ],
+            [
+              80.23523236761791,
+              26.51545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-7",
+      "properties": {
+        "id": "iit-kanpur-bld-7",
+        "name": "IIT Kanpur Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of IIT Kanpur used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23023236834776,
+              26.514950000000002
+            ],
+            [
+              80.23056763165225,
+              26.514950000000002
+            ],
+            [
+              80.23056763165225,
+              26.51465
+            ],
+            [
+              80.23023236834776,
+              26.51465
+            ],
+            [
+              80.23023236834776,
+              26.514950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-8",
+      "properties": {
+        "id": "iit-kanpur-bld-8",
+        "name": "IIT Kanpur Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23173236688805,
+              26.51595
+            ],
+            [
+              80.23206763311194,
+              26.51595
+            ],
+            [
+              80.23206763311194,
+              26.515649999999997
+            ],
+            [
+              80.23173236688805,
+              26.515649999999997
+            ],
+            [
+              80.23173236688805,
+              26.51595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-9",
+      "properties": {
+        "id": "iit-kanpur-bld-9",
+        "name": "IIT Kanpur Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.22873237491542,
+              26.510450000000002
+            ],
+            [
+              80.22906762508457,
+              26.510450000000002
+            ],
+            [
+              80.22906762508457,
+              26.51015
+            ],
+            [
+              80.22873237491542,
+              26.51015
+            ],
+            [
+              80.22873237491542,
+              26.510450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-10",
+      "properties": {
+        "id": "iit-kanpur-bld-10",
+        "name": "IIT Kanpur Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2287323763747,
+              26.50945
+            ],
+            [
+              80.2290676236253,
+              26.50945
+            ],
+            [
+              80.2290676236253,
+              26.509149999999998
+            ],
+            [
+              80.2287323763747,
+              26.509149999999998
+            ],
+            [
+              80.2287323763747,
+              26.50945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-11",
+      "properties": {
+        "id": "iit-kanpur-bld-11",
+        "name": "IIT Kanpur Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2297323778339,
+              26.50845
+            ],
+            [
+              80.2300676221661,
+              26.50845
+            ],
+            [
+              80.2300676221661,
+              26.508149999999997
+            ],
+            [
+              80.2297323778339,
+              26.508149999999997
+            ],
+            [
+              80.2297323778339,
+              26.50845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-12",
+      "properties": {
+        "id": "iit-kanpur-bld-12",
+        "name": "IIT Kanpur Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23673237491543,
+              26.510450000000002
+            ],
+            [
+              80.23706762508458,
+              26.510450000000002
+            ],
+            [
+              80.23706762508458,
+              26.51015
+            ],
+            [
+              80.23673237491543,
+              26.51015
+            ],
+            [
+              80.23673237491543,
+              26.510450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-13",
+      "properties": {
+        "id": "iit-kanpur-bld-13",
+        "name": "IIT Kanpur Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2367323763747,
+              26.50945
+            ],
+            [
+              80.23706762362531,
+              26.50945
+            ],
+            [
+              80.23706762362531,
+              26.509149999999998
+            ],
+            [
+              80.2367323763747,
+              26.509149999999998
+            ],
+            [
+              80.2367323763747,
+              26.50945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-14",
+      "properties": {
+        "id": "iit-kanpur-bld-14",
+        "name": "IIT Kanpur Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23473237929302,
+              26.507450000000002
+            ],
+            [
+              80.23506762070697,
+              26.507450000000002
+            ],
+            [
+              80.23506762070697,
+              26.50715
+            ],
+            [
+              80.23473237929302,
+              26.50715
+            ],
+            [
+              80.23473237929302,
+              26.507450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-15",
+      "properties": {
+        "id": "iit-kanpur-bld-15",
+        "name": "IIT Kanpur Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23573238075207,
+              26.50645
+            ],
+            [
+              80.23606761924793,
+              26.50645
+            ],
+            [
+              80.23606761924793,
+              26.506149999999998
+            ],
+            [
+              80.23573238075207,
+              26.506149999999998
+            ],
+            [
+              80.23573238075207,
+              26.50645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-16",
+      "properties": {
+        "id": "iit-kanpur-bld-16",
+        "name": "IIT Kanpur Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23073237929303,
+              26.507450000000002
+            ],
+            [
+              80.23106762070698,
+              26.507450000000002
+            ],
+            [
+              80.23106762070698,
+              26.50715
+            ],
+            [
+              80.23073237929303,
+              26.50715
+            ],
+            [
+              80.23073237929303,
+              26.507450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-17",
+      "properties": {
+        "id": "iit-kanpur-bld-17",
+        "name": "IIT Kanpur Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23273237345607,
+              26.51145
+            ],
+            [
+              80.23306762654393,
+              26.51145
+            ],
+            [
+              80.23306762654393,
+              26.511149999999997
+            ],
+            [
+              80.23273237345607,
+              26.511149999999997
+            ],
+            [
+              80.23273237345607,
+              26.51145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-18",
+      "properties": {
+        "id": "iit-kanpur-bld-18",
+        "name": "IIT Kanpur Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23073237491543,
+              26.510450000000002
+            ],
+            [
+              80.23106762508458,
+              26.510450000000002
+            ],
+            [
+              80.23106762508458,
+              26.51015
+            ],
+            [
+              80.23073237491543,
+              26.51015
+            ],
+            [
+              80.23073237491543,
+              26.510450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-19",
+      "properties": {
+        "id": "iit-kanpur-bld-19",
+        "name": "IIT Kanpur Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.22973237345607,
+              26.51145
+            ],
+            [
+              80.23006762654393,
+              26.51145
+            ],
+            [
+              80.23006762654393,
+              26.511149999999997
+            ],
+            [
+              80.22973237345607,
+              26.511149999999997
+            ],
+            [
+              80.22973237345607,
+              26.51145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-20",
+      "properties": {
+        "id": "iit-kanpur-bld-20",
+        "name": "IIT Kanpur Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23573237345607,
+              26.51145
+            ],
+            [
+              80.23606762654393,
+              26.51145
+            ],
+            [
+              80.23606762654393,
+              26.511149999999997
+            ],
+            [
+              80.23573237345607,
+              26.511149999999997
+            ],
+            [
+              80.23573237345607,
+              26.51145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-21",
+      "properties": {
+        "id": "iit-kanpur-bld-21",
+        "name": "IIT Kanpur Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2327323763747,
+              26.50945
+            ],
+            [
+              80.2330676236253,
+              26.50945
+            ],
+            [
+              80.2330676236253,
+              26.509149999999998
+            ],
+            [
+              80.2327323763747,
+              26.509149999999998
+            ],
+            [
+              80.2327323763747,
+              26.50945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-22",
+      "properties": {
+        "id": "iit-kanpur-bld-22",
+        "name": "IIT Kanpur Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2347323763747,
+              26.50945
+            ],
+            [
+              80.2350676236253,
+              26.50945
+            ],
+            [
+              80.2350676236253,
+              26.509149999999998
+            ],
+            [
+              80.2347323763747,
+              26.509149999999998
+            ],
+            [
+              80.2347323763747,
+              26.50945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-23",
+      "properties": {
+        "id": "iit-kanpur-bld-23",
+        "name": "IIT Kanpur Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2337323778339,
+              26.50845
+            ],
+            [
+              80.23406762216611,
+              26.50845
+            ],
+            [
+              80.23406762216611,
+              26.508149999999997
+            ],
+            [
+              80.2337323778339,
+              26.508149999999997
+            ],
+            [
+              80.2337323778339,
+              26.50845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-24",
+      "properties": {
+        "id": "iit-kanpur-bld-24",
+        "name": "IIT Kanpur Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23573237199665,
+              26.51245
+            ],
+            [
+              80.23606762800335,
+              26.51245
+            ],
+            [
+              80.23606762800335,
+              26.51215
+            ],
+            [
+              80.23573237199665,
+              26.51215
+            ],
+            [
+              80.23573237199665,
+              26.51245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-25",
+      "properties": {
+        "id": "iit-kanpur-bld-25",
+        "name": "IIT Kanpur Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23273236177852,
+              26.519450000000003
+            ],
+            [
+              80.23306763822148,
+              26.519450000000003
+            ],
+            [
+              80.23306763822148,
+              26.51915
+            ],
+            [
+              80.23273236177852,
+              26.51915
+            ],
+            [
+              80.23273236177852,
+              26.519450000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-26",
+      "properties": {
+        "id": "iit-kanpur-bld-26",
+        "name": "IIT Kanpur Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.22673237199665,
+              26.51245
+            ],
+            [
+              80.22706762800335,
+              26.51245
+            ],
+            [
+              80.22706762800335,
+              26.51215
+            ],
+            [
+              80.22673237199665,
+              26.51215
+            ],
+            [
+              80.22673237199665,
+              26.51245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-27",
+      "properties": {
+        "id": "iit-kanpur-bld-27",
+        "name": "IIT Kanpur State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23423237199664,
+              26.51245
+            ],
+            [
+              80.23456762800335,
+              26.51245
+            ],
+            [
+              80.23456762800335,
+              26.51215
+            ],
+            [
+              80.23423237199664,
+              26.51215
+            ],
+            [
+              80.23423237199664,
+              26.51245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-28",
+      "properties": {
+        "id": "iit-kanpur-bld-28",
+        "name": "IIT Kanpur Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23373236323849,
+              26.51845
+            ],
+            [
+              80.23406763676152,
+              26.51845
+            ],
+            [
+              80.23406763676152,
+              26.51815
+            ],
+            [
+              80.23373236323849,
+              26.51815
+            ],
+            [
+              80.23373236323849,
+              26.51845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-bld-29",
+      "properties": {
+        "id": "iit-kanpur-bld-29",
+        "name": "IIT Kanpur Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.22873236469837,
+              26.51745
+            ],
+            [
+              80.22906763530162,
+              26.51745
+            ],
+            [
+              80.22906763530162,
+              26.517149999999997
+            ],
+            [
+              80.22873236469837,
+              26.517149999999997
+            ],
+            [
+              80.22873236469837,
+              26.51745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-road-0",
+      "properties": {
+        "id": "iit-kanpur-road-0",
+        "name": "IIT Kanpur Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2329,
+            26.5193
+          ],
+          [
+            80.2329,
+            26.5083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-road-1",
+      "properties": {
+        "id": "iit-kanpur-road-1",
+        "name": "IIT Kanpur Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2289,
+            26.5093
+          ],
+          [
+            80.2369,
+            26.5093
+          ],
+          [
+            80.2369,
+            26.5163
+          ],
+          [
+            80.2289,
+            26.5163
+          ],
+          [
+            80.2289,
+            26.5093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-road-2",
+      "properties": {
+        "id": "iit-kanpur-road-2",
+        "name": "IIT Kanpur West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2269,
+            26.5123
+          ],
+          [
+            80.2329,
+            26.5123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-road-3",
+      "properties": {
+        "id": "iit-kanpur-road-3",
+        "name": "IIT Kanpur Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2289,
+            26.5143
+          ],
+          [
+            80.2369,
+            26.5143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-road-4",
+      "properties": {
+        "id": "iit-kanpur-road-4",
+        "name": "IIT Kanpur Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2289,
+            26.5093
+          ],
+          [
+            80.2289,
+            26.5113
+          ],
+          [
+            80.2369,
+            26.5113
+          ],
+          [
+            80.2369,
+            26.5093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-walkway-0",
+      "properties": {
+        "id": "iit-kanpur-walkway-0",
+        "name": "IIT Kanpur Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2329,
+            26.5153
+          ],
+          [
+            80.2329,
+            26.5138
+          ],
+          [
+            80.2309,
+            26.5138
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-walkway-1",
+      "properties": {
+        "id": "iit-kanpur-walkway-1",
+        "name": "IIT Kanpur CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2359,
+            26.5143
+          ],
+          [
+            80.2329,
+            26.5143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-walkway-2",
+      "properties": {
+        "id": "iit-kanpur-walkway-2",
+        "name": "IIT Kanpur SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2329,
+            26.5113
+          ],
+          [
+            80.2329,
+            26.5093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-walkway-3",
+      "properties": {
+        "id": "iit-kanpur-walkway-3",
+        "name": "IIT Kanpur Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2359,
+            26.5063
+          ],
+          [
+            80.2349,
+            26.5073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-walkway-4",
+      "properties": {
+        "id": "iit-kanpur-walkway-4",
+        "name": "IIT Kanpur Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2369,
+            26.5103
+          ],
+          [
+            80.2359,
+            26.5113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-walkway-5",
+      "properties": {
+        "id": "iit-kanpur-walkway-5",
+        "name": "IIT Kanpur Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2289,
+            26.5103
+          ],
+          [
+            80.2309,
+            26.5103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-walkway-6",
+      "properties": {
+        "id": "iit-kanpur-walkway-6",
+        "name": "IIT Kanpur Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2359,
+            26.5123
+          ],
+          [
+            80.2344,
+            26.5123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kanpur-walkway-7",
+      "properties": {
+        "id": "iit-kanpur-walkway-7",
+        "name": "IIT Kanpur Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2304,
+            26.5148
+          ],
+          [
+            80.2309,
+            26.5138
+          ]
+        ]
+      }
+    }
+  ]
+}

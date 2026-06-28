@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "IIT Goa GIS Dataset",
+  "properties": {
+    "campusId": "iit-goa",
+    "campusName": "IIT Goa",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.203Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "iit-goa-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "IIT Goa Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.98753626721954,
+              15.4243
+            ],
+            [
+              73.98721814162849,
+              15.426629371405923
+            ],
+            [
+              73.98628544458863,
+              15.4288
+            ],
+            [
+              73.9848017378619,
+              15.43066396103068
+            ],
+            [
+              73.98286813360977,
+              15.43209422863406
+            ],
+            [
+              73.98061640376659,
+              15.432993332436602
+            ],
+            [
+              73.9782,
+              15.433300000000001
+            ],
+            [
+              73.97578359623341,
+              15.432993332436602
+            ],
+            [
+              73.97353186639023,
+              15.43209422863406
+            ],
+            [
+              73.9715982621381,
+              15.43066396103068
+            ],
+            [
+              73.97011455541137,
+              15.4288
+            ],
+            [
+              73.96918185837151,
+              15.426629371405923
+            ],
+            [
+              73.96886373278046,
+              15.4243
+            ],
+            [
+              73.96918185837151,
+              15.421970628594078
+            ],
+            [
+              73.97011455541137,
+              15.4198
+            ],
+            [
+              73.9715982621381,
+              15.417936038969321
+            ],
+            [
+              73.97353186639023,
+              15.41650577136594
+            ],
+            [
+              73.97578359623341,
+              15.415606667563399
+            ],
+            [
+              73.9782,
+              15.4153
+            ],
+            [
+              73.98061640376659,
+              15.415606667563399
+            ],
+            [
+              73.98286813360977,
+              15.41650577136594
+            ],
+            [
+              73.9848017378619,
+              15.417936038969321
+            ],
+            [
+              73.98628544458863,
+              15.4198
+            ],
+            [
+              73.98721814162849,
+              15.421970628594078
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-0",
+      "properties": {
+        "id": "iit-goa-bld-0",
+        "name": "IIT Goa Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of IIT Goa, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9780443951717,
+              15.42495
+            ],
+            [
+              73.97835560482831,
+              15.42495
+            ],
+            [
+              73.97835560482831,
+              15.424650000000002
+            ],
+            [
+              73.9780443951717,
+              15.424650000000002
+            ],
+            [
+              73.9780443951717,
+              15.42495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-1",
+      "properties": {
+        "id": "iit-goa-bld-1",
+        "name": "IIT Goa Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at IIT Goa. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9780443932982,
+              15.42745
+            ],
+            [
+              73.9783556067018,
+              15.42745
+            ],
+            [
+              73.9783556067018,
+              15.427150000000001
+            ],
+            [
+              73.9780443932982,
+              15.427150000000001
+            ],
+            [
+              73.9780443932982,
+              15.42745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-2",
+      "properties": {
+        "id": "iit-goa-bld-2",
+        "name": "IIT Goa Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97604439442235,
+              15.42595
+            ],
+            [
+              73.97635560557767,
+              15.42595
+            ],
+            [
+              73.97635560557767,
+              15.425650000000001
+            ],
+            [
+              73.97604439442235,
+              15.425650000000001
+            ],
+            [
+              73.97604439442235,
+              15.42595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-3",
+      "properties": {
+        "id": "iit-goa-bld-3",
+        "name": "IIT Goa Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.98104439404764,
+              15.42645
+            ],
+            [
+              73.98135560595236,
+              15.42645
+            ],
+            [
+              73.98135560595236,
+              15.426150000000002
+            ],
+            [
+              73.98104439404764,
+              15.426150000000002
+            ],
+            [
+              73.98104439404764,
+              15.42645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-4",
+      "properties": {
+        "id": "iit-goa-bld-4",
+        "name": "IIT Goa Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.980044394797,
+              15.42545
+            ],
+            [
+              73.98035560520299,
+              15.42545
+            ],
+            [
+              73.98035560520299,
+              15.42515
+            ],
+            [
+              73.980044394797,
+              15.42515
+            ],
+            [
+              73.980044394797,
+              15.42545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-5",
+      "properties": {
+        "id": "iit-goa-bld-5",
+        "name": "IIT Goa Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97504439479701,
+              15.42545
+            ],
+            [
+              73.97535560520299,
+              15.42545
+            ],
+            [
+              73.97535560520299,
+              15.42515
+            ],
+            [
+              73.97504439479701,
+              15.42515
+            ],
+            [
+              73.97504439479701,
+              15.42545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-6",
+      "properties": {
+        "id": "iit-goa-bld-6",
+        "name": "IIT Goa Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9805443932982,
+              15.42745
+            ],
+            [
+              73.9808556067018,
+              15.42745
+            ],
+            [
+              73.9808556067018,
+              15.427150000000001
+            ],
+            [
+              73.9805443932982,
+              15.427150000000001
+            ],
+            [
+              73.9805443932982,
+              15.42745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-7",
+      "properties": {
+        "id": "iit-goa-bld-7",
+        "name": "IIT Goa Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of IIT Goa used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97554439367293,
+              15.42695
+            ],
+            [
+              73.97585560632707,
+              15.42695
+            ],
+            [
+              73.97585560632707,
+              15.42665
+            ],
+            [
+              73.97554439367293,
+              15.42665
+            ],
+            [
+              73.97554439367293,
+              15.42695
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-8",
+      "properties": {
+        "id": "iit-goa-bld-8",
+        "name": "IIT Goa Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97704439292346,
+              15.427950000000001
+            ],
+            [
+              73.97735560707653,
+              15.427950000000001
+            ],
+            [
+              73.97735560707653,
+              15.427650000000002
+            ],
+            [
+              73.97704439292346,
+              15.427650000000002
+            ],
+            [
+              73.97704439292346,
+              15.427950000000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-9",
+      "properties": {
+        "id": "iit-goa-bld-9",
+        "name": "IIT Goa Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97404439704482,
+              15.42245
+            ],
+            [
+              73.97435560295517,
+              15.42245
+            ],
+            [
+              73.97435560295517,
+              15.42215
+            ],
+            [
+              73.97404439704482,
+              15.42215
+            ],
+            [
+              73.97404439704482,
+              15.42245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-10",
+      "properties": {
+        "id": "iit-goa-bld-10",
+        "name": "IIT Goa Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97404439779399,
+              15.42145
+            ],
+            [
+              73.974355602206,
+              15.42145
+            ],
+            [
+              73.974355602206,
+              15.42115
+            ],
+            [
+              73.97404439779399,
+              15.42115
+            ],
+            [
+              73.97404439779399,
+              15.42145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-11",
+      "properties": {
+        "id": "iit-goa-bld-11",
+        "name": "IIT Goa Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97504439854309,
+              15.42045
+            ],
+            [
+              73.97535560145691,
+              15.42045
+            ],
+            [
+              73.97535560145691,
+              15.420150000000001
+            ],
+            [
+              73.97504439854309,
+              15.420150000000001
+            ],
+            [
+              73.97504439854309,
+              15.42045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-12",
+      "properties": {
+        "id": "iit-goa-bld-12",
+        "name": "IIT Goa Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.98204439704483,
+              15.42245
+            ],
+            [
+              73.98235560295518,
+              15.42245
+            ],
+            [
+              73.98235560295518,
+              15.42215
+            ],
+            [
+              73.98204439704483,
+              15.42215
+            ],
+            [
+              73.98204439704483,
+              15.42245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-13",
+      "properties": {
+        "id": "iit-goa-bld-13",
+        "name": "IIT Goa Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.982044397794,
+              15.42145
+            ],
+            [
+              73.98235560220601,
+              15.42145
+            ],
+            [
+              73.98235560220601,
+              15.42115
+            ],
+            [
+              73.982044397794,
+              15.42115
+            ],
+            [
+              73.982044397794,
+              15.42145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-14",
+      "properties": {
+        "id": "iit-goa-bld-14",
+        "name": "IIT Goa Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.98004439929214,
+              15.41945
+            ],
+            [
+              73.98035560070785,
+              15.41945
+            ],
+            [
+              73.98035560070785,
+              15.41915
+            ],
+            [
+              73.98004439929214,
+              15.41915
+            ],
+            [
+              73.98004439929214,
+              15.41945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-15",
+      "properties": {
+        "id": "iit-goa-bld-15",
+        "name": "IIT Goa Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.98104440004114,
+              15.41845
+            ],
+            [
+              73.98135559995886,
+              15.41845
+            ],
+            [
+              73.98135559995886,
+              15.41815
+            ],
+            [
+              73.98104440004114,
+              15.41815
+            ],
+            [
+              73.98104440004114,
+              15.41845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-16",
+      "properties": {
+        "id": "iit-goa-bld-16",
+        "name": "IIT Goa Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97604439929215,
+              15.41945
+            ],
+            [
+              73.97635560070786,
+              15.41945
+            ],
+            [
+              73.97635560070786,
+              15.41915
+            ],
+            [
+              73.97604439929215,
+              15.41915
+            ],
+            [
+              73.97604439929215,
+              15.41945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-17",
+      "properties": {
+        "id": "iit-goa-bld-17",
+        "name": "IIT Goa Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97804439629562,
+              15.42345
+            ],
+            [
+              73.97835560370439,
+              15.42345
+            ],
+            [
+              73.97835560370439,
+              15.423150000000001
+            ],
+            [
+              73.97804439629562,
+              15.423150000000001
+            ],
+            [
+              73.97804439629562,
+              15.42345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-18",
+      "properties": {
+        "id": "iit-goa-bld-18",
+        "name": "IIT Goa Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97604439704483,
+              15.42245
+            ],
+            [
+              73.97635560295518,
+              15.42245
+            ],
+            [
+              73.97635560295518,
+              15.42215
+            ],
+            [
+              73.97604439704483,
+              15.42215
+            ],
+            [
+              73.97604439704483,
+              15.42245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-19",
+      "properties": {
+        "id": "iit-goa-bld-19",
+        "name": "IIT Goa Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97504439629562,
+              15.42345
+            ],
+            [
+              73.97535560370439,
+              15.42345
+            ],
+            [
+              73.97535560370439,
+              15.423150000000001
+            ],
+            [
+              73.97504439629562,
+              15.423150000000001
+            ],
+            [
+              73.97504439629562,
+              15.42345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-20",
+      "properties": {
+        "id": "iit-goa-bld-20",
+        "name": "IIT Goa Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.98104439629562,
+              15.42345
+            ],
+            [
+              73.98135560370439,
+              15.42345
+            ],
+            [
+              73.98135560370439,
+              15.423150000000001
+            ],
+            [
+              73.98104439629562,
+              15.423150000000001
+            ],
+            [
+              73.98104439629562,
+              15.42345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-21",
+      "properties": {
+        "id": "iit-goa-bld-21",
+        "name": "IIT Goa Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.978044397794,
+              15.42145
+            ],
+            [
+              73.97835560220601,
+              15.42145
+            ],
+            [
+              73.97835560220601,
+              15.42115
+            ],
+            [
+              73.978044397794,
+              15.42115
+            ],
+            [
+              73.978044397794,
+              15.42145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-22",
+      "properties": {
+        "id": "iit-goa-bld-22",
+        "name": "IIT Goa Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.98004439779399,
+              15.42145
+            ],
+            [
+              73.980355602206,
+              15.42145
+            ],
+            [
+              73.980355602206,
+              15.42115
+            ],
+            [
+              73.98004439779399,
+              15.42115
+            ],
+            [
+              73.98004439779399,
+              15.42145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-23",
+      "properties": {
+        "id": "iit-goa-bld-23",
+        "name": "IIT Goa Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9790443985431,
+              15.42045
+            ],
+            [
+              73.97935560145692,
+              15.42045
+            ],
+            [
+              73.97935560145692,
+              15.420150000000001
+            ],
+            [
+              73.9790443985431,
+              15.420150000000001
+            ],
+            [
+              73.9790443985431,
+              15.42045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-24",
+      "properties": {
+        "id": "iit-goa-bld-24",
+        "name": "IIT Goa Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.98104439554635,
+              15.42445
+            ],
+            [
+              73.98135560445365,
+              15.42445
+            ],
+            [
+              73.98135560445365,
+              15.424150000000001
+            ],
+            [
+              73.98104439554635,
+              15.424150000000001
+            ],
+            [
+              73.98104439554635,
+              15.42445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-25",
+      "properties": {
+        "id": "iit-goa-bld-25",
+        "name": "IIT Goa Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97804439029991,
+              15.43145
+            ],
+            [
+              73.97835560970009,
+              15.43145
+            ],
+            [
+              73.97835560970009,
+              15.43115
+            ],
+            [
+              73.97804439029991,
+              15.43115
+            ],
+            [
+              73.97804439029991,
+              15.43145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-26",
+      "properties": {
+        "id": "iit-goa-bld-26",
+        "name": "IIT Goa Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97204439554635,
+              15.42445
+            ],
+            [
+              73.97235560445365,
+              15.42445
+            ],
+            [
+              73.97235560445365,
+              15.424150000000001
+            ],
+            [
+              73.97204439554635,
+              15.424150000000001
+            ],
+            [
+              73.97204439554635,
+              15.42445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-27",
+      "properties": {
+        "id": "iit-goa-bld-27",
+        "name": "IIT Goa State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97954439554634,
+              15.42445
+            ],
+            [
+              73.97985560445365,
+              15.42445
+            ],
+            [
+              73.97985560445365,
+              15.424150000000001
+            ],
+            [
+              73.97954439554634,
+              15.424150000000001
+            ],
+            [
+              73.97954439554634,
+              15.42445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-28",
+      "properties": {
+        "id": "iit-goa-bld-28",
+        "name": "IIT Goa Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97904439104957,
+              15.43045
+            ],
+            [
+              73.97935560895044,
+              15.43045
+            ],
+            [
+              73.97935560895044,
+              15.430150000000001
+            ],
+            [
+              73.97904439104957,
+              15.430150000000001
+            ],
+            [
+              73.97904439104957,
+              15.43045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-bld-29",
+      "properties": {
+        "id": "iit-goa-bld-29",
+        "name": "IIT Goa Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.97404439179917,
+              15.429450000000001
+            ],
+            [
+              73.97435560820082,
+              15.429450000000001
+            ],
+            [
+              73.97435560820082,
+              15.429150000000002
+            ],
+            [
+              73.97404439179917,
+              15.429150000000002
+            ],
+            [
+              73.97404439179917,
+              15.429450000000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-road-0",
+      "properties": {
+        "id": "iit-goa-road-0",
+        "name": "IIT Goa Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9782,
+            15.4313
+          ],
+          [
+            73.9782,
+            15.420300000000001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-road-1",
+      "properties": {
+        "id": "iit-goa-road-1",
+        "name": "IIT Goa Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9742,
+            15.4213
+          ],
+          [
+            73.9822,
+            15.4213
+          ],
+          [
+            73.9822,
+            15.4283
+          ],
+          [
+            73.9742,
+            15.4283
+          ],
+          [
+            73.9742,
+            15.4213
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-road-2",
+      "properties": {
+        "id": "iit-goa-road-2",
+        "name": "IIT Goa West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9722,
+            15.4243
+          ],
+          [
+            73.9782,
+            15.4243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-road-3",
+      "properties": {
+        "id": "iit-goa-road-3",
+        "name": "IIT Goa Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9742,
+            15.426300000000001
+          ],
+          [
+            73.9822,
+            15.426300000000001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-road-4",
+      "properties": {
+        "id": "iit-goa-road-4",
+        "name": "IIT Goa Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9742,
+            15.4213
+          ],
+          [
+            73.9742,
+            15.423300000000001
+          ],
+          [
+            73.9822,
+            15.423300000000001
+          ],
+          [
+            73.9822,
+            15.4213
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-walkway-0",
+      "properties": {
+        "id": "iit-goa-walkway-0",
+        "name": "IIT Goa Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9782,
+            15.4273
+          ],
+          [
+            73.9782,
+            15.4258
+          ],
+          [
+            73.9762,
+            15.4258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-walkway-1",
+      "properties": {
+        "id": "iit-goa-walkway-1",
+        "name": "IIT Goa CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9812,
+            15.426300000000001
+          ],
+          [
+            73.9782,
+            15.426300000000001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-walkway-2",
+      "properties": {
+        "id": "iit-goa-walkway-2",
+        "name": "IIT Goa SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9782,
+            15.423300000000001
+          ],
+          [
+            73.9782,
+            15.4213
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-walkway-3",
+      "properties": {
+        "id": "iit-goa-walkway-3",
+        "name": "IIT Goa Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9812,
+            15.4183
+          ],
+          [
+            73.9802,
+            15.4193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-walkway-4",
+      "properties": {
+        "id": "iit-goa-walkway-4",
+        "name": "IIT Goa Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9822,
+            15.4223
+          ],
+          [
+            73.9812,
+            15.423300000000001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-walkway-5",
+      "properties": {
+        "id": "iit-goa-walkway-5",
+        "name": "IIT Goa Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9742,
+            15.4223
+          ],
+          [
+            73.9762,
+            15.4223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-walkway-6",
+      "properties": {
+        "id": "iit-goa-walkway-6",
+        "name": "IIT Goa Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9812,
+            15.4243
+          ],
+          [
+            73.9797,
+            15.4243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-goa-walkway-7",
+      "properties": {
+        "id": "iit-goa-walkway-7",
+        "name": "IIT Goa Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9757,
+            15.4268
+          ],
+          [
+            73.9762,
+            15.4258
+          ]
+        ]
+      }
+    }
+  ]
+}

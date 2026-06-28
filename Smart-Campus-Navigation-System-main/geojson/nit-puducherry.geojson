@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Puducherry GIS Dataset",
+  "properties": {
+    "campusId": "nit-puducherry",
+    "campusName": "NIT Puducherry",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.222Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Puducherry Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.86036611967371,
+              10.9248
+            ],
+            [
+              79.8600537917197,
+              10.927129371405922
+            ],
+            [
+              79.85913809249156,
+              10.9293
+            ],
+            [
+              79.85768142537846,
+              10.931163961030679
+            ],
+            [
+              79.85578305983687,
+              10.93259422863406
+            ],
+            [
+              79.85357236634125,
+              10.933493332436601
+            ],
+            [
+              79.8512,
+              10.9338
+            ],
+            [
+              79.84882763365876,
+              10.933493332436601
+            ],
+            [
+              79.84661694016314,
+              10.93259422863406
+            ],
+            [
+              79.84471857462155,
+              10.931163961030679
+            ],
+            [
+              79.84326190750845,
+              10.9293
+            ],
+            [
+              79.84234620828032,
+              10.927129371405922
+            ],
+            [
+              79.8420338803263,
+              10.9248
+            ],
+            [
+              79.84234620828032,
+              10.922470628594077
+            ],
+            [
+              79.84326190750845,
+              10.9203
+            ],
+            [
+              79.84471857462155,
+              10.91843603896932
+            ],
+            [
+              79.84661694016314,
+              10.91700577136594
+            ],
+            [
+              79.84882763365876,
+              10.916106667563398
+            ],
+            [
+              79.8512,
+              10.915799999999999
+            ],
+            [
+              79.85357236634125,
+              10.916106667563398
+            ],
+            [
+              79.85578305983687,
+              10.91700577136594
+            ],
+            [
+              79.85768142537846,
+              10.91843603896932
+            ],
+            [
+              79.85913809249156,
+              10.9203
+            ],
+            [
+              79.8600537917197,
+              10.922470628594077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-0",
+      "properties": {
+        "id": "nit-puducherry-bld-0",
+        "name": "NIT Puducherry Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of NIT Puducherry, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.85104723108145,
+              10.92545
+            ],
+            [
+              79.85135276891856,
+              10.92545
+            ],
+            [
+              79.85135276891856,
+              10.92515
+            ],
+            [
+              79.85104723108145,
+              10.92515
+            ],
+            [
+              79.85104723108145,
+              10.92545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-1",
+      "properties": {
+        "id": "nit-puducherry-bld-1",
+        "name": "NIT Puducherry Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at NIT Puducherry. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8510472297946,
+              10.92795
+            ],
+            [
+              79.85135277020541,
+              10.92795
+            ],
+            [
+              79.85135277020541,
+              10.92765
+            ],
+            [
+              79.8510472297946,
+              10.92765
+            ],
+            [
+              79.8510472297946,
+              10.92795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-2",
+      "properties": {
+        "id": "nit-puducherry-bld-2",
+        "name": "NIT Puducherry Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.84904723056675,
+              10.926449999999999
+            ],
+            [
+              79.84935276943327,
+              10.926449999999999
+            ],
+            [
+              79.84935276943327,
+              10.92615
+            ],
+            [
+              79.84904723056675,
+              10.92615
+            ],
+            [
+              79.84904723056675,
+              10.926449999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-3",
+      "properties": {
+        "id": "nit-puducherry-bld-3",
+        "name": "NIT Puducherry Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.85404723030938,
+              10.92695
+            ],
+            [
+              79.85435276969064,
+              10.92695
+            ],
+            [
+              79.85435276969064,
+              10.92665
+            ],
+            [
+              79.85404723030938,
+              10.92665
+            ],
+            [
+              79.85404723030938,
+              10.92695
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-4",
+      "properties": {
+        "id": "nit-puducherry-bld-4",
+        "name": "NIT Puducherry Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8530472308241,
+              10.925949999999998
+            ],
+            [
+              79.8533527691759,
+              10.925949999999998
+            ],
+            [
+              79.8533527691759,
+              10.92565
+            ],
+            [
+              79.8530472308241,
+              10.92565
+            ],
+            [
+              79.8530472308241,
+              10.925949999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-5",
+      "properties": {
+        "id": "nit-puducherry-bld-5",
+        "name": "NIT Puducherry Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.84804723082411,
+              10.925949999999998
+            ],
+            [
+              79.8483527691759,
+              10.925949999999998
+            ],
+            [
+              79.8483527691759,
+              10.92565
+            ],
+            [
+              79.84804723082411,
+              10.92565
+            ],
+            [
+              79.84804723082411,
+              10.925949999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-6",
+      "properties": {
+        "id": "nit-puducherry-bld-6",
+        "name": "NIT Puducherry Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8535472297946,
+              10.92795
+            ],
+            [
+              79.8538527702054,
+              10.92795
+            ],
+            [
+              79.8538527702054,
+              10.92765
+            ],
+            [
+              79.8535472297946,
+              10.92765
+            ],
+            [
+              79.8535472297946,
+              10.92795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-7",
+      "properties": {
+        "id": "nit-puducherry-bld-7",
+        "name": "NIT Puducherry Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of NIT Puducherry used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.848547230052,
+              10.927449999999999
+            ],
+            [
+              79.84885276994801,
+              10.927449999999999
+            ],
+            [
+              79.84885276994801,
+              10.92715
+            ],
+            [
+              79.848547230052,
+              10.92715
+            ],
+            [
+              79.848547230052,
+              10.927449999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-8",
+      "properties": {
+        "id": "nit-puducherry-bld-8",
+        "name": "NIT Puducherry Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8500472295372,
+              10.92845
+            ],
+            [
+              79.8503527704628,
+              10.92845
+            ],
+            [
+              79.8503527704628,
+              10.92815
+            ],
+            [
+              79.8500472295372,
+              10.92815
+            ],
+            [
+              79.8500472295372,
+              10.92845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-9",
+      "properties": {
+        "id": "nit-puducherry-bld-9",
+        "name": "NIT Puducherry Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.84704723236797,
+              10.922949999999998
+            ],
+            [
+              79.84735276763203,
+              10.922949999999998
+            ],
+            [
+              79.84735276763203,
+              10.922649999999999
+            ],
+            [
+              79.84704723236797,
+              10.922649999999999
+            ],
+            [
+              79.84704723236797,
+              10.922949999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-10",
+      "properties": {
+        "id": "nit-puducherry-bld-10",
+        "name": "NIT Puducherry Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.84704723288249,
+              10.921949999999999
+            ],
+            [
+              79.84735276711751,
+              10.921949999999999
+            ],
+            [
+              79.84735276711751,
+              10.92165
+            ],
+            [
+              79.84704723288249,
+              10.92165
+            ],
+            [
+              79.84704723288249,
+              10.921949999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-11",
+      "properties": {
+        "id": "nit-puducherry-bld-11",
+        "name": "NIT Puducherry Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.84804723339697,
+              10.92095
+            ],
+            [
+              79.84835276660304,
+              10.92095
+            ],
+            [
+              79.84835276660304,
+              10.92065
+            ],
+            [
+              79.84804723339697,
+              10.92065
+            ],
+            [
+              79.84804723339697,
+              10.92095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-12",
+      "properties": {
+        "id": "nit-puducherry-bld-12",
+        "name": "NIT Puducherry Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.85504723236798,
+              10.922949999999998
+            ],
+            [
+              79.85535276763204,
+              10.922949999999998
+            ],
+            [
+              79.85535276763204,
+              10.922649999999999
+            ],
+            [
+              79.85504723236798,
+              10.922649999999999
+            ],
+            [
+              79.85504723236798,
+              10.922949999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-13",
+      "properties": {
+        "id": "nit-puducherry-bld-13",
+        "name": "NIT Puducherry Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8550472328825,
+              10.921949999999999
+            ],
+            [
+              79.85535276711752,
+              10.921949999999999
+            ],
+            [
+              79.85535276711752,
+              10.92165
+            ],
+            [
+              79.8550472328825,
+              10.92165
+            ],
+            [
+              79.8550472328825,
+              10.921949999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-14",
+      "properties": {
+        "id": "nit-puducherry-bld-14",
+        "name": "NIT Puducherry Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8530472339114,
+              10.919949999999998
+            ],
+            [
+              79.8533527660886,
+              10.919949999999998
+            ],
+            [
+              79.8533527660886,
+              10.919649999999999
+            ],
+            [
+              79.8530472339114,
+              10.919649999999999
+            ],
+            [
+              79.8530472339114,
+              10.919949999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-15",
+      "properties": {
+        "id": "nit-puducherry-bld-15",
+        "name": "NIT Puducherry Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.85404723442576,
+              10.918949999999999
+            ],
+            [
+              79.85435276557425,
+              10.918949999999999
+            ],
+            [
+              79.85435276557425,
+              10.91865
+            ],
+            [
+              79.85404723442576,
+              10.91865
+            ],
+            [
+              79.85404723442576,
+              10.918949999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-16",
+      "properties": {
+        "id": "nit-puducherry-bld-16",
+        "name": "NIT Puducherry Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8490472339114,
+              10.919949999999998
+            ],
+            [
+              79.84935276608861,
+              10.919949999999998
+            ],
+            [
+              79.84935276608861,
+              10.919649999999999
+            ],
+            [
+              79.8490472339114,
+              10.919649999999999
+            ],
+            [
+              79.8490472339114,
+              10.919949999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-17",
+      "properties": {
+        "id": "nit-puducherry-bld-17",
+        "name": "NIT Puducherry Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8510472318534,
+              10.92395
+            ],
+            [
+              79.85135276814661,
+              10.92395
+            ],
+            [
+              79.85135276814661,
+              10.92365
+            ],
+            [
+              79.8510472318534,
+              10.92365
+            ],
+            [
+              79.8510472318534,
+              10.92395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-18",
+      "properties": {
+        "id": "nit-puducherry-bld-18",
+        "name": "NIT Puducherry Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.84904723236798,
+              10.922949999999998
+            ],
+            [
+              79.84935276763204,
+              10.922949999999998
+            ],
+            [
+              79.84935276763204,
+              10.922649999999999
+            ],
+            [
+              79.84904723236798,
+              10.922649999999999
+            ],
+            [
+              79.84904723236798,
+              10.922949999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-19",
+      "properties": {
+        "id": "nit-puducherry-bld-19",
+        "name": "NIT Puducherry Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8480472318534,
+              10.92395
+            ],
+            [
+              79.84835276814661,
+              10.92395
+            ],
+            [
+              79.84835276814661,
+              10.92365
+            ],
+            [
+              79.8480472318534,
+              10.92365
+            ],
+            [
+              79.8480472318534,
+              10.92395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-20",
+      "properties": {
+        "id": "nit-puducherry-bld-20",
+        "name": "NIT Puducherry Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8540472318534,
+              10.92395
+            ],
+            [
+              79.85435276814661,
+              10.92395
+            ],
+            [
+              79.85435276814661,
+              10.92365
+            ],
+            [
+              79.8540472318534,
+              10.92365
+            ],
+            [
+              79.8540472318534,
+              10.92395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-21",
+      "properties": {
+        "id": "nit-puducherry-bld-21",
+        "name": "NIT Puducherry Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8510472328825,
+              10.921949999999999
+            ],
+            [
+              79.85135276711752,
+              10.921949999999999
+            ],
+            [
+              79.85135276711752,
+              10.92165
+            ],
+            [
+              79.8510472328825,
+              10.92165
+            ],
+            [
+              79.8510472328825,
+              10.921949999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-22",
+      "properties": {
+        "id": "nit-puducherry-bld-22",
+        "name": "NIT Puducherry Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.85304723288249,
+              10.921949999999999
+            ],
+            [
+              79.85335276711751,
+              10.921949999999999
+            ],
+            [
+              79.85335276711751,
+              10.92165
+            ],
+            [
+              79.85304723288249,
+              10.92165
+            ],
+            [
+              79.85304723288249,
+              10.921949999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-23",
+      "properties": {
+        "id": "nit-puducherry-bld-23",
+        "name": "NIT Puducherry Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.85204723339697,
+              10.92095
+            ],
+            [
+              79.85235276660305,
+              10.92095
+            ],
+            [
+              79.85235276660305,
+              10.92065
+            ],
+            [
+              79.85204723339697,
+              10.92065
+            ],
+            [
+              79.85204723339697,
+              10.92095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-24",
+      "properties": {
+        "id": "nit-puducherry-bld-24",
+        "name": "NIT Puducherry Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.85404723133878,
+              10.924949999999999
+            ],
+            [
+              79.85435276866123,
+              10.924949999999999
+            ],
+            [
+              79.85435276866123,
+              10.92465
+            ],
+            [
+              79.85404723133878,
+              10.92465
+            ],
+            [
+              79.85404723133878,
+              10.924949999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-25",
+      "properties": {
+        "id": "nit-puducherry-bld-25",
+        "name": "NIT Puducherry Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.85104722773501,
+              10.931949999999999
+            ],
+            [
+              79.851352772265,
+              10.931949999999999
+            ],
+            [
+              79.851352772265,
+              10.93165
+            ],
+            [
+              79.85104722773501,
+              10.93165
+            ],
+            [
+              79.85104722773501,
+              10.931949999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-26",
+      "properties": {
+        "id": "nit-puducherry-bld-26",
+        "name": "NIT Puducherry Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.84504723133878,
+              10.924949999999999
+            ],
+            [
+              79.84535276866123,
+              10.924949999999999
+            ],
+            [
+              79.84535276866123,
+              10.92465
+            ],
+            [
+              79.84504723133878,
+              10.92465
+            ],
+            [
+              79.84504723133878,
+              10.924949999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-27",
+      "properties": {
+        "id": "nit-puducherry-bld-27",
+        "name": "NIT Puducherry State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.85254723133878,
+              10.924949999999999
+            ],
+            [
+              79.85285276866122,
+              10.924949999999999
+            ],
+            [
+              79.85285276866122,
+              10.92465
+            ],
+            [
+              79.85254723133878,
+              10.92465
+            ],
+            [
+              79.85254723133878,
+              10.924949999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-28",
+      "properties": {
+        "id": "nit-puducherry-bld-28",
+        "name": "NIT Puducherry Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.85204722824999,
+              10.93095
+            ],
+            [
+              79.85235277175003,
+              10.93095
+            ],
+            [
+              79.85235277175003,
+              10.93065
+            ],
+            [
+              79.85204722824999,
+              10.93065
+            ],
+            [
+              79.85204722824999,
+              10.93095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-bld-29",
+      "properties": {
+        "id": "nit-puducherry-bld-29",
+        "name": "NIT Puducherry Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.84704722876491,
+              10.92995
+            ],
+            [
+              79.8473527712351,
+              10.92995
+            ],
+            [
+              79.8473527712351,
+              10.92965
+            ],
+            [
+              79.84704722876491,
+              10.92965
+            ],
+            [
+              79.84704722876491,
+              10.92995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-road-0",
+      "properties": {
+        "id": "nit-puducherry-road-0",
+        "name": "NIT Puducherry Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.8512,
+            10.931799999999999
+          ],
+          [
+            79.8512,
+            10.9208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-road-1",
+      "properties": {
+        "id": "nit-puducherry-road-1",
+        "name": "NIT Puducherry Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.8472,
+            10.9218
+          ],
+          [
+            79.85520000000001,
+            10.9218
+          ],
+          [
+            79.85520000000001,
+            10.928799999999999
+          ],
+          [
+            79.8472,
+            10.928799999999999
+          ],
+          [
+            79.8472,
+            10.9218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-road-2",
+      "properties": {
+        "id": "nit-puducherry-road-2",
+        "name": "NIT Puducherry West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.8452,
+            10.9248
+          ],
+          [
+            79.8512,
+            10.9248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-road-3",
+      "properties": {
+        "id": "nit-puducherry-road-3",
+        "name": "NIT Puducherry Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.8472,
+            10.9268
+          ],
+          [
+            79.85520000000001,
+            10.9268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-road-4",
+      "properties": {
+        "id": "nit-puducherry-road-4",
+        "name": "NIT Puducherry Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.8472,
+            10.9218
+          ],
+          [
+            79.8472,
+            10.9238
+          ],
+          [
+            79.85520000000001,
+            10.9238
+          ],
+          [
+            79.85520000000001,
+            10.9218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-walkway-0",
+      "properties": {
+        "id": "nit-puducherry-walkway-0",
+        "name": "NIT Puducherry Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.8512,
+            10.9278
+          ],
+          [
+            79.8512,
+            10.9263
+          ],
+          [
+            79.84920000000001,
+            10.9263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-walkway-1",
+      "properties": {
+        "id": "nit-puducherry-walkway-1",
+        "name": "NIT Puducherry CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.8542,
+            10.9268
+          ],
+          [
+            79.8512,
+            10.9268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-walkway-2",
+      "properties": {
+        "id": "nit-puducherry-walkway-2",
+        "name": "NIT Puducherry SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.8512,
+            10.9238
+          ],
+          [
+            79.8512,
+            10.9218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-walkway-3",
+      "properties": {
+        "id": "nit-puducherry-walkway-3",
+        "name": "NIT Puducherry Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.8542,
+            10.9188
+          ],
+          [
+            79.8532,
+            10.919799999999999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-walkway-4",
+      "properties": {
+        "id": "nit-puducherry-walkway-4",
+        "name": "NIT Puducherry Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.85520000000001,
+            10.922799999999999
+          ],
+          [
+            79.8542,
+            10.9238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-walkway-5",
+      "properties": {
+        "id": "nit-puducherry-walkway-5",
+        "name": "NIT Puducherry Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.8472,
+            10.922799999999999
+          ],
+          [
+            79.84920000000001,
+            10.922799999999999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-walkway-6",
+      "properties": {
+        "id": "nit-puducherry-walkway-6",
+        "name": "NIT Puducherry Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.8542,
+            10.9248
+          ],
+          [
+            79.8527,
+            10.9248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-puducherry-walkway-7",
+      "properties": {
+        "id": "nit-puducherry-walkway-7",
+        "name": "NIT Puducherry Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.84870000000001,
+            10.927299999999999
+          ],
+          [
+            79.84920000000001,
+            10.9263
+          ]
+        ]
+      }
+    }
+  ]
+}

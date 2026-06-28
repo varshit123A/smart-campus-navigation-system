@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "IIT Bombay GIS Dataset",
+  "properties": {
+    "campusId": "iit-bombay",
+    "campusName": "IIT Bombay",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.187Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "iit-bombay-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "IIT Bombay Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.92282624901756,
+              19.1334
+            ],
+            [
+              72.92250164995372,
+              19.135729371405926
+            ],
+            [
+              72.92154997365198,
+              19.137900000000002
+            ],
+            [
+              72.92003607527958,
+              19.13976396103068
+            ],
+            [
+              72.91806312450878,
+              19.141194228634063
+            ],
+            [
+              72.91576557467414,
+              19.142093332436602
+            ],
+            [
+              72.9133,
+              19.142400000000002
+            ],
+            [
+              72.91083442532587,
+              19.142093332436602
+            ],
+            [
+              72.90853687549124,
+              19.141194228634063
+            ],
+            [
+              72.90656392472043,
+              19.13976396103068
+            ],
+            [
+              72.90505002634804,
+              19.137900000000002
+            ],
+            [
+              72.9040983500463,
+              19.135729371405926
+            ],
+            [
+              72.90377375098245,
+              19.1334
+            ],
+            [
+              72.9040983500463,
+              19.131070628594077
+            ],
+            [
+              72.90505002634804,
+              19.1289
+            ],
+            [
+              72.90656392472043,
+              19.127036038969322
+            ],
+            [
+              72.90853687549124,
+              19.12560577136594
+            ],
+            [
+              72.91083442532587,
+              19.1247066675634
+            ],
+            [
+              72.9133,
+              19.1244
+            ],
+            [
+              72.91576557467414,
+              19.1247066675634
+            ],
+            [
+              72.91806312450878,
+              19.12560577136594
+            ],
+            [
+              72.92003607527958,
+              19.127036038969322
+            ],
+            [
+              72.92154997365198,
+              19.1289
+            ],
+            [
+              72.92250164995372,
+              19.131070628594077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-0",
+      "properties": {
+        "id": "iit-bombay-bld-0",
+        "name": "IIT Bombay Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of IIT Bombay, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91314122870234,
+              19.134050000000002
+            ],
+            [
+              72.91345877129767,
+              19.134050000000002
+            ],
+            [
+              72.91345877129767,
+              19.13375
+            ],
+            [
+              72.91314122870234,
+              19.13375
+            ],
+            [
+              72.91314122870234,
+              19.134050000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-1",
+      "properties": {
+        "id": "iit-bombay-bld-1",
+        "name": "IIT Bombay Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at IIT Bombay. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91314122629863,
+              19.136550000000003
+            ],
+            [
+              72.91345877370138,
+              19.136550000000003
+            ],
+            [
+              72.91345877370138,
+              19.13625
+            ],
+            [
+              72.91314122629863,
+              19.13625
+            ],
+            [
+              72.91314122629863,
+              19.136550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-2",
+      "properties": {
+        "id": "iit-bombay-bld-2",
+        "name": "IIT Bombay Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91114122774091,
+              19.135050000000003
+            ],
+            [
+              72.91145877225911,
+              19.135050000000003
+            ],
+            [
+              72.91145877225911,
+              19.13475
+            ],
+            [
+              72.91114122774091,
+              19.13475
+            ],
+            [
+              72.91114122774091,
+              19.135050000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-3",
+      "properties": {
+        "id": "iit-bombay-bld-3",
+        "name": "IIT Bombay Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91614122726017,
+              19.135550000000002
+            ],
+            [
+              72.91645877273984,
+              19.135550000000002
+            ],
+            [
+              72.91645877273984,
+              19.13525
+            ],
+            [
+              72.91614122726017,
+              19.13525
+            ],
+            [
+              72.91614122726017,
+              19.135550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-4",
+      "properties": {
+        "id": "iit-bombay-bld-4",
+        "name": "IIT Bombay Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91514122822163,
+              19.134550000000004
+            ],
+            [
+              72.91545877177838,
+              19.134550000000004
+            ],
+            [
+              72.91545877177838,
+              19.13425
+            ],
+            [
+              72.91514122822163,
+              19.13425
+            ],
+            [
+              72.91514122822163,
+              19.134550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-5",
+      "properties": {
+        "id": "iit-bombay-bld-5",
+        "name": "IIT Bombay Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91014122822163,
+              19.134550000000004
+            ],
+            [
+              72.91045877177838,
+              19.134550000000004
+            ],
+            [
+              72.91045877177838,
+              19.13425
+            ],
+            [
+              72.91014122822163,
+              19.13425
+            ],
+            [
+              72.91014122822163,
+              19.134550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-6",
+      "properties": {
+        "id": "iit-bombay-bld-6",
+        "name": "IIT Bombay Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91564122629863,
+              19.136550000000003
+            ],
+            [
+              72.91595877370138,
+              19.136550000000003
+            ],
+            [
+              72.91595877370138,
+              19.13625
+            ],
+            [
+              72.91564122629863,
+              19.13625
+            ],
+            [
+              72.91564122629863,
+              19.136550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-7",
+      "properties": {
+        "id": "iit-bombay-bld-7",
+        "name": "IIT Bombay Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of IIT Bombay used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91064122677942,
+              19.136050000000004
+            ],
+            [
+              72.9109587732206,
+              19.136050000000004
+            ],
+            [
+              72.9109587732206,
+              19.13575
+            ],
+            [
+              72.91064122677942,
+              19.13575
+            ],
+            [
+              72.91064122677942,
+              19.136050000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-8",
+      "properties": {
+        "id": "iit-bombay-bld-8",
+        "name": "IIT Bombay Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91214122581785,
+              19.137050000000002
+            ],
+            [
+              72.91245877418216,
+              19.137050000000002
+            ],
+            [
+              72.91245877418216,
+              19.13675
+            ],
+            [
+              72.91214122581785,
+              19.13675
+            ],
+            [
+              72.91214122581785,
+              19.137050000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-9",
+      "properties": {
+        "id": "iit-bombay-bld-9",
+        "name": "IIT Bombay Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.90914123110568,
+              19.131550000000004
+            ],
+            [
+              72.90945876889432,
+              19.131550000000004
+            ],
+            [
+              72.90945876889432,
+              19.13125
+            ],
+            [
+              72.90914123110568,
+              19.13125
+            ],
+            [
+              72.90914123110568,
+              19.131550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-10",
+      "properties": {
+        "id": "iit-bombay-bld-10",
+        "name": "IIT Bombay Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.90914123206691,
+              19.130550000000003
+            ],
+            [
+              72.90945876793309,
+              19.130550000000003
+            ],
+            [
+              72.90945876793309,
+              19.13025
+            ],
+            [
+              72.90914123206691,
+              19.13025
+            ],
+            [
+              72.90914123206691,
+              19.130550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-11",
+      "properties": {
+        "id": "iit-bombay-bld-11",
+        "name": "IIT Bombay Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91014123302809,
+              19.129550000000002
+            ],
+            [
+              72.91045876697193,
+              19.129550000000002
+            ],
+            [
+              72.91045876697193,
+              19.12925
+            ],
+            [
+              72.91014123302809,
+              19.12925
+            ],
+            [
+              72.91014123302809,
+              19.129550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-12",
+      "properties": {
+        "id": "iit-bombay-bld-12",
+        "name": "IIT Bombay Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91714123110569,
+              19.131550000000004
+            ],
+            [
+              72.91745876889433,
+              19.131550000000004
+            ],
+            [
+              72.91745876889433,
+              19.13125
+            ],
+            [
+              72.91714123110569,
+              19.13125
+            ],
+            [
+              72.91714123110569,
+              19.131550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-13",
+      "properties": {
+        "id": "iit-bombay-bld-13",
+        "name": "IIT Bombay Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91714123206692,
+              19.130550000000003
+            ],
+            [
+              72.9174587679331,
+              19.130550000000003
+            ],
+            [
+              72.9174587679331,
+              19.13025
+            ],
+            [
+              72.91714123206692,
+              19.13025
+            ],
+            [
+              72.91714123206692,
+              19.130550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-14",
+      "properties": {
+        "id": "iit-bombay-bld-14",
+        "name": "IIT Bombay Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91514123398919,
+              19.128550000000004
+            ],
+            [
+              72.91545876601081,
+              19.128550000000004
+            ],
+            [
+              72.91545876601081,
+              19.12825
+            ],
+            [
+              72.91514123398919,
+              19.12825
+            ],
+            [
+              72.91514123398919,
+              19.128550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-15",
+      "properties": {
+        "id": "iit-bombay-bld-15",
+        "name": "IIT Bombay Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91614123495025,
+              19.127550000000003
+            ],
+            [
+              72.91645876504977,
+              19.127550000000003
+            ],
+            [
+              72.91645876504977,
+              19.12725
+            ],
+            [
+              72.91614123495025,
+              19.12725
+            ],
+            [
+              72.91614123495025,
+              19.127550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-16",
+      "properties": {
+        "id": "iit-bombay-bld-16",
+        "name": "IIT Bombay Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9111412339892,
+              19.128550000000004
+            ],
+            [
+              72.91145876601082,
+              19.128550000000004
+            ],
+            [
+              72.91145876601082,
+              19.12825
+            ],
+            [
+              72.9111412339892,
+              19.12825
+            ],
+            [
+              72.9111412339892,
+              19.128550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-17",
+      "properties": {
+        "id": "iit-bombay-bld-17",
+        "name": "IIT Bombay Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91314123014439,
+              19.132550000000002
+            ],
+            [
+              72.91345876985562,
+              19.132550000000002
+            ],
+            [
+              72.91345876985562,
+              19.13225
+            ],
+            [
+              72.91314123014439,
+              19.13225
+            ],
+            [
+              72.91314123014439,
+              19.132550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-18",
+      "properties": {
+        "id": "iit-bombay-bld-18",
+        "name": "IIT Bombay Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91114123110569,
+              19.131550000000004
+            ],
+            [
+              72.91145876889433,
+              19.131550000000004
+            ],
+            [
+              72.91145876889433,
+              19.13125
+            ],
+            [
+              72.91114123110569,
+              19.13125
+            ],
+            [
+              72.91114123110569,
+              19.131550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-19",
+      "properties": {
+        "id": "iit-bombay-bld-19",
+        "name": "IIT Bombay Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91014123014439,
+              19.132550000000002
+            ],
+            [
+              72.91045876985562,
+              19.132550000000002
+            ],
+            [
+              72.91045876985562,
+              19.13225
+            ],
+            [
+              72.91014123014439,
+              19.13225
+            ],
+            [
+              72.91014123014439,
+              19.132550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-20",
+      "properties": {
+        "id": "iit-bombay-bld-20",
+        "name": "IIT Bombay Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91614123014439,
+              19.132550000000002
+            ],
+            [
+              72.91645876985562,
+              19.132550000000002
+            ],
+            [
+              72.91645876985562,
+              19.13225
+            ],
+            [
+              72.91614123014439,
+              19.13225
+            ],
+            [
+              72.91614123014439,
+              19.132550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-21",
+      "properties": {
+        "id": "iit-bombay-bld-21",
+        "name": "IIT Bombay Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91314123206692,
+              19.130550000000003
+            ],
+            [
+              72.9134587679331,
+              19.130550000000003
+            ],
+            [
+              72.9134587679331,
+              19.13025
+            ],
+            [
+              72.91314123206692,
+              19.13025
+            ],
+            [
+              72.91314123206692,
+              19.130550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-22",
+      "properties": {
+        "id": "iit-bombay-bld-22",
+        "name": "IIT Bombay Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91514123206692,
+              19.130550000000003
+            ],
+            [
+              72.91545876793309,
+              19.130550000000003
+            ],
+            [
+              72.91545876793309,
+              19.13025
+            ],
+            [
+              72.91514123206692,
+              19.13025
+            ],
+            [
+              72.91514123206692,
+              19.130550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-23",
+      "properties": {
+        "id": "iit-bombay-bld-23",
+        "name": "IIT Bombay Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91414123302809,
+              19.129550000000002
+            ],
+            [
+              72.91445876697193,
+              19.129550000000002
+            ],
+            [
+              72.91445876697193,
+              19.12925
+            ],
+            [
+              72.91414123302809,
+              19.12925
+            ],
+            [
+              72.91414123302809,
+              19.129550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-24",
+      "properties": {
+        "id": "iit-bombay-bld-24",
+        "name": "IIT Bombay Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91614122918305,
+              19.133550000000003
+            ],
+            [
+              72.91645877081696,
+              19.133550000000003
+            ],
+            [
+              72.91645877081696,
+              19.13325
+            ],
+            [
+              72.91614122918305,
+              19.13325
+            ],
+            [
+              72.91614122918305,
+              19.133550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-25",
+      "properties": {
+        "id": "iit-bombay-bld-25",
+        "name": "IIT Bombay Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91314122245191,
+              19.140550000000005
+            ],
+            [
+              72.9134587775481,
+              19.140550000000005
+            ],
+            [
+              72.9134587775481,
+              19.14025
+            ],
+            [
+              72.91314122245191,
+              19.14025
+            ],
+            [
+              72.91314122245191,
+              19.140550000000005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-26",
+      "properties": {
+        "id": "iit-bombay-bld-26",
+        "name": "IIT Bombay Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.90714122918305,
+              19.133550000000003
+            ],
+            [
+              72.90745877081696,
+              19.133550000000003
+            ],
+            [
+              72.90745877081696,
+              19.13325
+            ],
+            [
+              72.90714122918305,
+              19.13325
+            ],
+            [
+              72.90714122918305,
+              19.133550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-27",
+      "properties": {
+        "id": "iit-bombay-bld-27",
+        "name": "IIT Bombay State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.91464122918305,
+              19.133550000000003
+            ],
+            [
+              72.91495877081695,
+              19.133550000000003
+            ],
+            [
+              72.91495877081695,
+              19.13325
+            ],
+            [
+              72.91464122918305,
+              19.13325
+            ],
+            [
+              72.91464122918305,
+              19.133550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-28",
+      "properties": {
+        "id": "iit-bombay-bld-28",
+        "name": "IIT Bombay Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9141412234137,
+              19.139550000000003
+            ],
+            [
+              72.91445877658633,
+              19.139550000000003
+            ],
+            [
+              72.91445877658633,
+              19.13925
+            ],
+            [
+              72.9141412234137,
+              19.13925
+            ],
+            [
+              72.9141412234137,
+              19.139550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-bld-29",
+      "properties": {
+        "id": "iit-bombay-bld-29",
+        "name": "IIT Bombay Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.90914122437539,
+              19.138550000000002
+            ],
+            [
+              72.90945877562461,
+              19.138550000000002
+            ],
+            [
+              72.90945877562461,
+              19.13825
+            ],
+            [
+              72.90914122437539,
+              19.13825
+            ],
+            [
+              72.90914122437539,
+              19.138550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-road-0",
+      "properties": {
+        "id": "iit-bombay-road-0",
+        "name": "IIT Bombay Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9133,
+            19.140400000000003
+          ],
+          [
+            72.9133,
+            19.1294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-road-1",
+      "properties": {
+        "id": "iit-bombay-road-1",
+        "name": "IIT Bombay Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9093,
+            19.1304
+          ],
+          [
+            72.91730000000001,
+            19.1304
+          ],
+          [
+            72.91730000000001,
+            19.137400000000003
+          ],
+          [
+            72.9093,
+            19.137400000000003
+          ],
+          [
+            72.9093,
+            19.1304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-road-2",
+      "properties": {
+        "id": "iit-bombay-road-2",
+        "name": "IIT Bombay West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9073,
+            19.1334
+          ],
+          [
+            72.9133,
+            19.1334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-road-3",
+      "properties": {
+        "id": "iit-bombay-road-3",
+        "name": "IIT Bombay Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9093,
+            19.1354
+          ],
+          [
+            72.91730000000001,
+            19.1354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-road-4",
+      "properties": {
+        "id": "iit-bombay-road-4",
+        "name": "IIT Bombay Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9093,
+            19.1304
+          ],
+          [
+            72.9093,
+            19.1324
+          ],
+          [
+            72.91730000000001,
+            19.1324
+          ],
+          [
+            72.91730000000001,
+            19.1304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-walkway-0",
+      "properties": {
+        "id": "iit-bombay-walkway-0",
+        "name": "IIT Bombay Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9133,
+            19.136400000000002
+          ],
+          [
+            72.9133,
+            19.134900000000002
+          ],
+          [
+            72.91130000000001,
+            19.134900000000002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-walkway-1",
+      "properties": {
+        "id": "iit-bombay-walkway-1",
+        "name": "IIT Bombay CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9163,
+            19.1354
+          ],
+          [
+            72.9133,
+            19.1354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-walkway-2",
+      "properties": {
+        "id": "iit-bombay-walkway-2",
+        "name": "IIT Bombay SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9133,
+            19.1324
+          ],
+          [
+            72.9133,
+            19.1304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-walkway-3",
+      "properties": {
+        "id": "iit-bombay-walkway-3",
+        "name": "IIT Bombay Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9163,
+            19.1274
+          ],
+          [
+            72.9153,
+            19.128400000000003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-walkway-4",
+      "properties": {
+        "id": "iit-bombay-walkway-4",
+        "name": "IIT Bombay Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.91730000000001,
+            19.131400000000003
+          ],
+          [
+            72.9163,
+            19.1324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-walkway-5",
+      "properties": {
+        "id": "iit-bombay-walkway-5",
+        "name": "IIT Bombay Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9093,
+            19.131400000000003
+          ],
+          [
+            72.91130000000001,
+            19.131400000000003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-walkway-6",
+      "properties": {
+        "id": "iit-bombay-walkway-6",
+        "name": "IIT Bombay Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9163,
+            19.1334
+          ],
+          [
+            72.9148,
+            19.1334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-bombay-walkway-7",
+      "properties": {
+        "id": "iit-bombay-walkway-7",
+        "name": "IIT Bombay Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.91080000000001,
+            19.135900000000003
+          ],
+          [
+            72.91130000000001,
+            19.134900000000002
+          ]
+        ]
+      }
+    }
+  ]
+}

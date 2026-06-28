@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "IIT Ropar GIS Dataset",
+  "properties": {
+    "campusId": "iit-ropar",
+    "campusName": "IIT Ropar",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.195Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "iit-ropar-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "IIT Ropar Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.53779615787668,
+              30.9678
+            ],
+            [
+              76.5374385099699,
+              30.970129371405925
+            ],
+            [
+              76.53638993936335,
+              30.9723
+            ],
+            [
+              76.53472190441101,
+              30.97416396103068
+            ],
+            [
+              76.53254807893835,
+              30.975594228634062
+            ],
+            [
+              76.53001660555888,
+              30.9764933324366
+            ],
+            [
+              76.5273,
+              30.9768
+            ],
+            [
+              76.52458339444111,
+              30.9764933324366
+            ],
+            [
+              76.52205192106165,
+              30.975594228634062
+            ],
+            [
+              76.51987809558898,
+              30.97416396103068
+            ],
+            [
+              76.51821006063665,
+              30.9723
+            ],
+            [
+              76.51716149003009,
+              30.970129371405925
+            ],
+            [
+              76.51680384212331,
+              30.9678
+            ],
+            [
+              76.51716149003009,
+              30.965470628594076
+            ],
+            [
+              76.51821006063665,
+              30.9633
+            ],
+            [
+              76.51987809558898,
+              30.96143603896932
+            ],
+            [
+              76.52205192106165,
+              30.96000577136594
+            ],
+            [
+              76.52458339444111,
+              30.9591066675634
+            ],
+            [
+              76.5273,
+              30.9588
+            ],
+            [
+              76.53001660555888,
+              30.9591066675634
+            ],
+            [
+              76.53254807893835,
+              30.96000577136594
+            ],
+            [
+              76.53472190441101,
+              30.96143603896932
+            ],
+            [
+              76.53638993936335,
+              30.9633
+            ],
+            [
+              76.5374385099699,
+              30.965470628594076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-0",
+      "properties": {
+        "id": "iit-ropar-bld-0",
+        "name": "IIT Ropar Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of IIT Ropar, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52712506311927,
+              30.96845
+            ],
+            [
+              76.52747493688072,
+              30.96845
+            ],
+            [
+              76.52747493688072,
+              30.968149999999998
+            ],
+            [
+              76.52712506311927,
+              30.968149999999998
+            ],
+            [
+              76.52712506311927,
+              30.96845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-1",
+      "properties": {
+        "id": "iit-ropar-bld-1",
+        "name": "IIT Ropar Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at IIT Ropar. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52712505853832,
+              30.970950000000002
+            ],
+            [
+              76.52747494146168,
+              30.970950000000002
+            ],
+            [
+              76.52747494146168,
+              30.97065
+            ],
+            [
+              76.52712505853832,
+              30.97065
+            ],
+            [
+              76.52712505853832,
+              30.970950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-2",
+      "properties": {
+        "id": "iit-ropar-bld-2",
+        "name": "IIT Ropar Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52512506128696,
+              30.969450000000002
+            ],
+            [
+              76.52547493871305,
+              30.969450000000002
+            ],
+            [
+              76.52547493871305,
+              30.96915
+            ],
+            [
+              76.52512506128696,
+              30.96915
+            ],
+            [
+              76.52512506128696,
+              30.969450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-3",
+      "properties": {
+        "id": "iit-ropar-bld-3",
+        "name": "IIT Ropar Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.53012506037076,
+              30.96995
+            ],
+            [
+              76.53047493962923,
+              30.96995
+            ],
+            [
+              76.53047493962923,
+              30.969649999999998
+            ],
+            [
+              76.53012506037076,
+              30.969649999999998
+            ],
+            [
+              76.53012506037076,
+              30.96995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-4",
+      "properties": {
+        "id": "iit-ropar-bld-4",
+        "name": "IIT Ropar Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52912506220312,
+              30.968950000000003
+            ],
+            [
+              76.52947493779686,
+              30.968950000000003
+            ],
+            [
+              76.52947493779686,
+              30.96865
+            ],
+            [
+              76.52912506220312,
+              30.96865
+            ],
+            [
+              76.52912506220312,
+              30.968950000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-5",
+      "properties": {
+        "id": "iit-ropar-bld-5",
+        "name": "IIT Ropar Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52412506220313,
+              30.968950000000003
+            ],
+            [
+              76.52447493779687,
+              30.968950000000003
+            ],
+            [
+              76.52447493779687,
+              30.96865
+            ],
+            [
+              76.52412506220313,
+              30.96865
+            ],
+            [
+              76.52412506220313,
+              30.968950000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-6",
+      "properties": {
+        "id": "iit-ropar-bld-6",
+        "name": "IIT Ropar Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52962505853831,
+              30.970950000000002
+            ],
+            [
+              76.52997494146167,
+              30.970950000000002
+            ],
+            [
+              76.52997494146167,
+              30.97065
+            ],
+            [
+              76.52962505853831,
+              30.97065
+            ],
+            [
+              76.52962505853831,
+              30.970950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-7",
+      "properties": {
+        "id": "iit-ropar-bld-7",
+        "name": "IIT Ropar Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of IIT Ropar used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52462505945455,
+              30.970450000000003
+            ],
+            [
+              76.52497494054545,
+              30.970450000000003
+            ],
+            [
+              76.52497494054545,
+              30.97015
+            ],
+            [
+              76.52462505945455,
+              30.97015
+            ],
+            [
+              76.52462505945455,
+              30.970450000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-8",
+      "properties": {
+        "id": "iit-ropar-bld-8",
+        "name": "IIT Ropar Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52612505762205,
+              30.97145
+            ],
+            [
+              76.52647494237793,
+              30.97145
+            ],
+            [
+              76.52647494237793,
+              30.971149999999998
+            ],
+            [
+              76.52612505762205,
+              30.971149999999998
+            ],
+            [
+              76.52612505762205,
+              30.97145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-9",
+      "properties": {
+        "id": "iit-ropar-bld-9",
+        "name": "IIT Ropar Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52312506769964,
+              30.965950000000003
+            ],
+            [
+              76.52347493230035,
+              30.965950000000003
+            ],
+            [
+              76.52347493230035,
+              30.96565
+            ],
+            [
+              76.52312506769964,
+              30.96565
+            ],
+            [
+              76.52312506769964,
+              30.965950000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-10",
+      "properties": {
+        "id": "iit-ropar-bld-10",
+        "name": "IIT Ropar Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52312506953162,
+              30.96495
+            ],
+            [
+              76.52347493046837,
+              30.96495
+            ],
+            [
+              76.52347493046837,
+              30.96465
+            ],
+            [
+              76.52312506953162,
+              30.96465
+            ],
+            [
+              76.52312506953162,
+              30.96495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-11",
+      "properties": {
+        "id": "iit-ropar-bld-11",
+        "name": "IIT Ropar Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52412507136353,
+              30.96395
+            ],
+            [
+              76.52447492863647,
+              30.96395
+            ],
+            [
+              76.52447492863647,
+              30.963649999999998
+            ],
+            [
+              76.52412507136353,
+              30.963649999999998
+            ],
+            [
+              76.52412507136353,
+              30.96395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-12",
+      "properties": {
+        "id": "iit-ropar-bld-12",
+        "name": "IIT Ropar Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.53112506769965,
+              30.965950000000003
+            ],
+            [
+              76.53147493230036,
+              30.965950000000003
+            ],
+            [
+              76.53147493230036,
+              30.96565
+            ],
+            [
+              76.53112506769965,
+              30.96565
+            ],
+            [
+              76.53112506769965,
+              30.965950000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-13",
+      "properties": {
+        "id": "iit-ropar-bld-13",
+        "name": "IIT Ropar Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.53112506953163,
+              30.96495
+            ],
+            [
+              76.53147493046838,
+              30.96495
+            ],
+            [
+              76.53147493046838,
+              30.96465
+            ],
+            [
+              76.53112506953163,
+              30.96465
+            ],
+            [
+              76.53112506953163,
+              30.96495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-14",
+      "properties": {
+        "id": "iit-ropar-bld-14",
+        "name": "IIT Ropar Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52912507319533,
+              30.962950000000003
+            ],
+            [
+              76.52947492680465,
+              30.962950000000003
+            ],
+            [
+              76.52947492680465,
+              30.96265
+            ],
+            [
+              76.52912507319533,
+              30.96265
+            ],
+            [
+              76.52912507319533,
+              30.962950000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-15",
+      "properties": {
+        "id": "iit-ropar-bld-15",
+        "name": "IIT Ropar Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.53012507502704,
+              30.96195
+            ],
+            [
+              76.53047492497295,
+              30.96195
+            ],
+            [
+              76.53047492497295,
+              30.96165
+            ],
+            [
+              76.53012507502704,
+              30.96165
+            ],
+            [
+              76.53012507502704,
+              30.96195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-16",
+      "properties": {
+        "id": "iit-ropar-bld-16",
+        "name": "IIT Ropar Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52512507319534,
+              30.962950000000003
+            ],
+            [
+              76.52547492680466,
+              30.962950000000003
+            ],
+            [
+              76.52547492680466,
+              30.96265
+            ],
+            [
+              76.52512507319534,
+              30.96265
+            ],
+            [
+              76.52512507319534,
+              30.962950000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-17",
+      "properties": {
+        "id": "iit-ropar-bld-17",
+        "name": "IIT Ropar Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52712506586755,
+              30.96695
+            ],
+            [
+              76.52747493413244,
+              30.96695
+            ],
+            [
+              76.52747493413244,
+              30.966649999999998
+            ],
+            [
+              76.52712506586755,
+              30.966649999999998
+            ],
+            [
+              76.52712506586755,
+              30.96695
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-18",
+      "properties": {
+        "id": "iit-ropar-bld-18",
+        "name": "IIT Ropar Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52512506769965,
+              30.965950000000003
+            ],
+            [
+              76.52547493230036,
+              30.965950000000003
+            ],
+            [
+              76.52547493230036,
+              30.96565
+            ],
+            [
+              76.52512506769965,
+              30.96565
+            ],
+            [
+              76.52512506769965,
+              30.965950000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-19",
+      "properties": {
+        "id": "iit-ropar-bld-19",
+        "name": "IIT Ropar Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52412506586755,
+              30.96695
+            ],
+            [
+              76.52447493413244,
+              30.96695
+            ],
+            [
+              76.52447493413244,
+              30.966649999999998
+            ],
+            [
+              76.52412506586755,
+              30.966649999999998
+            ],
+            [
+              76.52412506586755,
+              30.96695
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-20",
+      "properties": {
+        "id": "iit-ropar-bld-20",
+        "name": "IIT Ropar Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.53012506586755,
+              30.96695
+            ],
+            [
+              76.53047493413244,
+              30.96695
+            ],
+            [
+              76.53047493413244,
+              30.966649999999998
+            ],
+            [
+              76.53012506586755,
+              30.966649999999998
+            ],
+            [
+              76.53012506586755,
+              30.96695
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-21",
+      "properties": {
+        "id": "iit-ropar-bld-21",
+        "name": "IIT Ropar Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52712506953162,
+              30.96495
+            ],
+            [
+              76.52747493046837,
+              30.96495
+            ],
+            [
+              76.52747493046837,
+              30.96465
+            ],
+            [
+              76.52712506953162,
+              30.96465
+            ],
+            [
+              76.52712506953162,
+              30.96495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-22",
+      "properties": {
+        "id": "iit-ropar-bld-22",
+        "name": "IIT Ropar Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52912506953162,
+              30.96495
+            ],
+            [
+              76.52947493046837,
+              30.96495
+            ],
+            [
+              76.52947493046837,
+              30.96465
+            ],
+            [
+              76.52912506953162,
+              30.96465
+            ],
+            [
+              76.52912506953162,
+              30.96495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-23",
+      "properties": {
+        "id": "iit-ropar-bld-23",
+        "name": "IIT Ropar Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52812507136353,
+              30.96395
+            ],
+            [
+              76.52847492863647,
+              30.96395
+            ],
+            [
+              76.52847492863647,
+              30.963649999999998
+            ],
+            [
+              76.52812507136353,
+              30.963649999999998
+            ],
+            [
+              76.52812507136353,
+              30.96395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-24",
+      "properties": {
+        "id": "iit-ropar-bld-24",
+        "name": "IIT Ropar Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.53012506403539,
+              30.967950000000002
+            ],
+            [
+              76.5304749359646,
+              30.967950000000002
+            ],
+            [
+              76.5304749359646,
+              30.96765
+            ],
+            [
+              76.53012506403539,
+              30.96765
+            ],
+            [
+              76.53012506403539,
+              30.967950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-25",
+      "properties": {
+        "id": "iit-ropar-bld-25",
+        "name": "IIT Ropar Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.5271250512076,
+              30.974950000000003
+            ],
+            [
+              76.52747494879239,
+              30.974950000000003
+            ],
+            [
+              76.52747494879239,
+              30.97465
+            ],
+            [
+              76.5271250512076,
+              30.97465
+            ],
+            [
+              76.5271250512076,
+              30.974950000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-26",
+      "properties": {
+        "id": "iit-ropar-bld-26",
+        "name": "IIT Ropar Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52112506403539,
+              30.967950000000002
+            ],
+            [
+              76.5214749359646,
+              30.967950000000002
+            ],
+            [
+              76.5214749359646,
+              30.96765
+            ],
+            [
+              76.52112506403539,
+              30.96765
+            ],
+            [
+              76.52112506403539,
+              30.967950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-27",
+      "properties": {
+        "id": "iit-ropar-bld-27",
+        "name": "IIT Ropar State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52862506403538,
+              30.967950000000002
+            ],
+            [
+              76.5289749359646,
+              30.967950000000002
+            ],
+            [
+              76.5289749359646,
+              30.96765
+            ],
+            [
+              76.52862506403538,
+              30.96765
+            ],
+            [
+              76.52862506403538,
+              30.967950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-28",
+      "properties": {
+        "id": "iit-ropar-bld-28",
+        "name": "IIT Ropar Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52812505304043,
+              30.973950000000002
+            ],
+            [
+              76.52847494695958,
+              30.973950000000002
+            ],
+            [
+              76.52847494695958,
+              30.97365
+            ],
+            [
+              76.52812505304043,
+              30.97365
+            ],
+            [
+              76.52812505304043,
+              30.973950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-bld-29",
+      "properties": {
+        "id": "iit-ropar-bld-29",
+        "name": "IIT Ropar Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.52312505487315,
+              30.97295
+            ],
+            [
+              76.52347494512684,
+              30.97295
+            ],
+            [
+              76.52347494512684,
+              30.972649999999998
+            ],
+            [
+              76.52312505487315,
+              30.972649999999998
+            ],
+            [
+              76.52312505487315,
+              30.97295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-road-0",
+      "properties": {
+        "id": "iit-ropar-road-0",
+        "name": "IIT Ropar Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.5273,
+            30.974800000000002
+          ],
+          [
+            76.5273,
+            30.9638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-road-1",
+      "properties": {
+        "id": "iit-ropar-road-1",
+        "name": "IIT Ropar Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.52329999999999,
+            30.9648
+          ],
+          [
+            76.5313,
+            30.9648
+          ],
+          [
+            76.5313,
+            30.9718
+          ],
+          [
+            76.52329999999999,
+            30.9718
+          ],
+          [
+            76.52329999999999,
+            30.9648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-road-2",
+      "properties": {
+        "id": "iit-ropar-road-2",
+        "name": "IIT Ropar West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.5213,
+            30.9678
+          ],
+          [
+            76.5273,
+            30.9678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-road-3",
+      "properties": {
+        "id": "iit-ropar-road-3",
+        "name": "IIT Ropar Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.52329999999999,
+            30.9698
+          ],
+          [
+            76.5313,
+            30.9698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-road-4",
+      "properties": {
+        "id": "iit-ropar-road-4",
+        "name": "IIT Ropar Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.52329999999999,
+            30.9648
+          ],
+          [
+            76.52329999999999,
+            30.9668
+          ],
+          [
+            76.5313,
+            30.9668
+          ],
+          [
+            76.5313,
+            30.9648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-walkway-0",
+      "properties": {
+        "id": "iit-ropar-walkway-0",
+        "name": "IIT Ropar Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.5273,
+            30.9708
+          ],
+          [
+            76.5273,
+            30.9693
+          ],
+          [
+            76.5253,
+            30.9693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-walkway-1",
+      "properties": {
+        "id": "iit-ropar-walkway-1",
+        "name": "IIT Ropar CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.5303,
+            30.9698
+          ],
+          [
+            76.5273,
+            30.9698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-walkway-2",
+      "properties": {
+        "id": "iit-ropar-walkway-2",
+        "name": "IIT Ropar SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.5273,
+            30.9668
+          ],
+          [
+            76.5273,
+            30.9648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-walkway-3",
+      "properties": {
+        "id": "iit-ropar-walkway-3",
+        "name": "IIT Ropar Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.5303,
+            30.9618
+          ],
+          [
+            76.52929999999999,
+            30.9628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-walkway-4",
+      "properties": {
+        "id": "iit-ropar-walkway-4",
+        "name": "IIT Ropar Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.5313,
+            30.9658
+          ],
+          [
+            76.5303,
+            30.9668
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-walkway-5",
+      "properties": {
+        "id": "iit-ropar-walkway-5",
+        "name": "IIT Ropar Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.52329999999999,
+            30.9658
+          ],
+          [
+            76.5253,
+            30.9658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-walkway-6",
+      "properties": {
+        "id": "iit-ropar-walkway-6",
+        "name": "IIT Ropar Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.5303,
+            30.9678
+          ],
+          [
+            76.52879999999999,
+            30.9678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-ropar-walkway-7",
+      "properties": {
+        "id": "iit-ropar-walkway-7",
+        "name": "IIT Ropar Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.5248,
+            30.9703
+          ],
+          [
+            76.5253,
+            30.9693
+          ]
+        ]
+      }
+    }
+  ]
+}

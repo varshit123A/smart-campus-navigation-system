@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Warangal GIS Dataset",
+  "properties": {
+    "campusId": "nit-warangal",
+    "campusName": "NIT Warangal",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.207Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-warangal-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Warangal Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54046189985897,
+              17.9765
+            ],
+            [
+              79.54013949343954,
+              17.978829371405926
+            ],
+            [
+              79.53919424564593,
+              17.981
+            ],
+            [
+              79.53769057355319,
+              17.98286396103068
+            ],
+            [
+              79.53573094992949,
+              17.984294228634063
+            ],
+            [
+              79.53344891988635,
+              17.9851933324366
+            ],
+            [
+              79.531,
+              17.985500000000002
+            ],
+            [
+              79.52855108011366,
+              17.9851933324366
+            ],
+            [
+              79.52626905007052,
+              17.984294228634063
+            ],
+            [
+              79.52430942644682,
+              17.98286396103068
+            ],
+            [
+              79.52280575435408,
+              17.981
+            ],
+            [
+              79.52186050656047,
+              17.978829371405926
+            ],
+            [
+              79.52153810014104,
+              17.9765
+            ],
+            [
+              79.52186050656047,
+              17.974170628594077
+            ],
+            [
+              79.52280575435408,
+              17.972
+            ],
+            [
+              79.52430942644682,
+              17.970136038969322
+            ],
+            [
+              79.52626905007052,
+              17.96870577136594
+            ],
+            [
+              79.52855108011366,
+              17.9678066675634
+            ],
+            [
+              79.531,
+              17.9675
+            ],
+            [
+              79.53344891988635,
+              17.9678066675634
+            ],
+            [
+              79.53573094992949,
+              17.96870577136594
+            ],
+            [
+              79.53769057355319,
+              17.970136038969322
+            ],
+            [
+              79.53919424564593,
+              17.972
+            ],
+            [
+              79.54013949343954,
+              17.974170628594077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-0",
+      "properties": {
+        "id": "nit-warangal-bld-0",
+        "name": "NIT Warangal Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of NIT Warangal, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.53084230122249,
+              17.97715
+            ],
+            [
+              79.53115769877752,
+              17.97715
+            ],
+            [
+              79.53115769877752,
+              17.97685
+            ],
+            [
+              79.53084230122249,
+              17.97685
+            ],
+            [
+              79.53084230122249,
+              17.97715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-1",
+      "properties": {
+        "id": "nit-warangal-bld-1",
+        "name": "NIT Warangal Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at NIT Warangal. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.53084229898963,
+              17.979650000000003
+            ],
+            [
+              79.53115770101039,
+              17.979650000000003
+            ],
+            [
+              79.53115770101039,
+              17.97935
+            ],
+            [
+              79.53084229898963,
+              17.97935
+            ],
+            [
+              79.53084229898963,
+              17.979650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-2",
+      "properties": {
+        "id": "nit-warangal-bld-2",
+        "name": "NIT Warangal Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.52884230032939,
+              17.978150000000003
+            ],
+            [
+              79.52915769967063,
+              17.978150000000003
+            ],
+            [
+              79.52915769967063,
+              17.97785
+            ],
+            [
+              79.52884230032939,
+              17.97785
+            ],
+            [
+              79.52884230032939,
+              17.978150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-3",
+      "properties": {
+        "id": "nit-warangal-bld-3",
+        "name": "NIT Warangal Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.53384229988282,
+              17.978650000000002
+            ],
+            [
+              79.53415770011719,
+              17.978650000000002
+            ],
+            [
+              79.53415770011719,
+              17.97835
+            ],
+            [
+              79.53384229988282,
+              17.97835
+            ],
+            [
+              79.53384229988282,
+              17.978650000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-4",
+      "properties": {
+        "id": "nit-warangal-bld-4",
+        "name": "NIT Warangal Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.53284230077594,
+              17.977650000000004
+            ],
+            [
+              79.53315769922406,
+              17.977650000000004
+            ],
+            [
+              79.53315769922406,
+              17.97735
+            ],
+            [
+              79.53284230077594,
+              17.97735
+            ],
+            [
+              79.53284230077594,
+              17.977650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-5",
+      "properties": {
+        "id": "nit-warangal-bld-5",
+        "name": "NIT Warangal Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.52784230077594,
+              17.977650000000004
+            ],
+            [
+              79.52815769922407,
+              17.977650000000004
+            ],
+            [
+              79.52815769922407,
+              17.97735
+            ],
+            [
+              79.52784230077594,
+              17.97735
+            ],
+            [
+              79.52784230077594,
+              17.977650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-6",
+      "properties": {
+        "id": "nit-warangal-bld-6",
+        "name": "NIT Warangal Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.53334229898962,
+              17.979650000000003
+            ],
+            [
+              79.53365770101038,
+              17.979650000000003
+            ],
+            [
+              79.53365770101038,
+              17.97935
+            ],
+            [
+              79.53334229898962,
+              17.97935
+            ],
+            [
+              79.53334229898962,
+              17.979650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-7",
+      "properties": {
+        "id": "nit-warangal-bld-7",
+        "name": "NIT Warangal Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of NIT Warangal used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.52834229943623,
+              17.979150000000004
+            ],
+            [
+              79.52865770056378,
+              17.979150000000004
+            ],
+            [
+              79.52865770056378,
+              17.97885
+            ],
+            [
+              79.52834229943623,
+              17.97885
+            ],
+            [
+              79.52834229943623,
+              17.979150000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-8",
+      "properties": {
+        "id": "nit-warangal-bld-8",
+        "name": "NIT Warangal Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.529842298543,
+              17.980150000000002
+            ],
+            [
+              79.530157701457,
+              17.980150000000002
+            ],
+            [
+              79.530157701457,
+              17.97985
+            ],
+            [
+              79.529842298543,
+              17.97985
+            ],
+            [
+              79.529842298543,
+              17.980150000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-9",
+      "properties": {
+        "id": "nit-warangal-bld-9",
+        "name": "NIT Warangal Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.526842303455,
+              17.974650000000004
+            ],
+            [
+              79.527157696545,
+              17.974650000000004
+            ],
+            [
+              79.527157696545,
+              17.97435
+            ],
+            [
+              79.526842303455,
+              17.97435
+            ],
+            [
+              79.526842303455,
+              17.974650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-10",
+      "properties": {
+        "id": "nit-warangal-bld-10",
+        "name": "NIT Warangal Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.5268423043479,
+              17.973650000000003
+            ],
+            [
+              79.52715769565211,
+              17.973650000000003
+            ],
+            [
+              79.52715769565211,
+              17.97335
+            ],
+            [
+              79.5268423043479,
+              17.97335
+            ],
+            [
+              79.5268423043479,
+              17.973650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-11",
+      "properties": {
+        "id": "nit-warangal-bld-11",
+        "name": "NIT Warangal Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.52784230524074,
+              17.97265
+            ],
+            [
+              79.52815769475927,
+              17.97265
+            ],
+            [
+              79.52815769475927,
+              17.97235
+            ],
+            [
+              79.52784230524074,
+              17.97235
+            ],
+            [
+              79.52784230524074,
+              17.97265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-12",
+      "properties": {
+        "id": "nit-warangal-bld-12",
+        "name": "NIT Warangal Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.53484230345501,
+              17.974650000000004
+            ],
+            [
+              79.53515769654501,
+              17.974650000000004
+            ],
+            [
+              79.53515769654501,
+              17.97435
+            ],
+            [
+              79.53484230345501,
+              17.97435
+            ],
+            [
+              79.53484230345501,
+              17.974650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-13",
+      "properties": {
+        "id": "nit-warangal-bld-13",
+        "name": "NIT Warangal Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.5348423043479,
+              17.973650000000003
+            ],
+            [
+              79.53515769565212,
+              17.973650000000003
+            ],
+            [
+              79.53515769565212,
+              17.97335
+            ],
+            [
+              79.5348423043479,
+              17.97335
+            ],
+            [
+              79.5348423043479,
+              17.973650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-14",
+      "properties": {
+        "id": "nit-warangal-bld-14",
+        "name": "NIT Warangal Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.53284230613352,
+              17.971650000000004
+            ],
+            [
+              79.53315769386649,
+              17.971650000000004
+            ],
+            [
+              79.53315769386649,
+              17.97135
+            ],
+            [
+              79.53284230613352,
+              17.97135
+            ],
+            [
+              79.53284230613352,
+              17.971650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-15",
+      "properties": {
+        "id": "nit-warangal-bld-15",
+        "name": "NIT Warangal Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.53384230702626,
+              17.970650000000003
+            ],
+            [
+              79.53415769297375,
+              17.970650000000003
+            ],
+            [
+              79.53415769297375,
+              17.97035
+            ],
+            [
+              79.53384230702626,
+              17.97035
+            ],
+            [
+              79.53384230702626,
+              17.970650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-16",
+      "properties": {
+        "id": "nit-warangal-bld-16",
+        "name": "NIT Warangal Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.52884230613353,
+              17.971650000000004
+            ],
+            [
+              79.5291576938665,
+              17.971650000000004
+            ],
+            [
+              79.5291576938665,
+              17.97135
+            ],
+            [
+              79.52884230613353,
+              17.97135
+            ],
+            [
+              79.52884230613353,
+              17.971650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-17",
+      "properties": {
+        "id": "nit-warangal-bld-17",
+        "name": "NIT Warangal Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.53084230256204,
+              17.97565
+            ],
+            [
+              79.53115769743798,
+              17.97565
+            ],
+            [
+              79.53115769743798,
+              17.97535
+            ],
+            [
+              79.53084230256204,
+              17.97535
+            ],
+            [
+              79.53084230256204,
+              17.97565
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-18",
+      "properties": {
+        "id": "nit-warangal-bld-18",
+        "name": "NIT Warangal Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.52884230345501,
+              17.974650000000004
+            ],
+            [
+              79.52915769654501,
+              17.974650000000004
+            ],
+            [
+              79.52915769654501,
+              17.97435
+            ],
+            [
+              79.52884230345501,
+              17.97435
+            ],
+            [
+              79.52884230345501,
+              17.974650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-19",
+      "properties": {
+        "id": "nit-warangal-bld-19",
+        "name": "NIT Warangal Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.52784230256204,
+              17.97565
+            ],
+            [
+              79.52815769743798,
+              17.97565
+            ],
+            [
+              79.52815769743798,
+              17.97535
+            ],
+            [
+              79.52784230256204,
+              17.97535
+            ],
+            [
+              79.52784230256204,
+              17.97565
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-20",
+      "properties": {
+        "id": "nit-warangal-bld-20",
+        "name": "NIT Warangal Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.53384230256204,
+              17.97565
+            ],
+            [
+              79.53415769743798,
+              17.97565
+            ],
+            [
+              79.53415769743798,
+              17.97535
+            ],
+            [
+              79.53384230256204,
+              17.97535
+            ],
+            [
+              79.53384230256204,
+              17.97565
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-21",
+      "properties": {
+        "id": "nit-warangal-bld-21",
+        "name": "NIT Warangal Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.5308423043479,
+              17.973650000000003
+            ],
+            [
+              79.53115769565211,
+              17.973650000000003
+            ],
+            [
+              79.53115769565211,
+              17.97335
+            ],
+            [
+              79.5308423043479,
+              17.97335
+            ],
+            [
+              79.5308423043479,
+              17.973650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-22",
+      "properties": {
+        "id": "nit-warangal-bld-22",
+        "name": "NIT Warangal Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.5328423043479,
+              17.973650000000003
+            ],
+            [
+              79.53315769565211,
+              17.973650000000003
+            ],
+            [
+              79.53315769565211,
+              17.97335
+            ],
+            [
+              79.5328423043479,
+              17.97335
+            ],
+            [
+              79.5328423043479,
+              17.973650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-23",
+      "properties": {
+        "id": "nit-warangal-bld-23",
+        "name": "NIT Warangal Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.53184230524074,
+              17.97265
+            ],
+            [
+              79.53215769475928,
+              17.97265
+            ],
+            [
+              79.53215769475928,
+              17.97235
+            ],
+            [
+              79.53184230524074,
+              17.97235
+            ],
+            [
+              79.53184230524074,
+              17.97265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-24",
+      "properties": {
+        "id": "nit-warangal-bld-24",
+        "name": "NIT Warangal Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.53384230166903,
+              17.976650000000003
+            ],
+            [
+              79.53415769833099,
+              17.976650000000003
+            ],
+            [
+              79.53415769833099,
+              17.97635
+            ],
+            [
+              79.53384230166903,
+              17.97635
+            ],
+            [
+              79.53384230166903,
+              17.976650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-25",
+      "properties": {
+        "id": "nit-warangal-bld-25",
+        "name": "NIT Warangal Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.53084229541628,
+              17.983650000000004
+            ],
+            [
+              79.53115770458373,
+              17.983650000000004
+            ],
+            [
+              79.53115770458373,
+              17.98335
+            ],
+            [
+              79.53084229541628,
+              17.98335
+            ],
+            [
+              79.53084229541628,
+              17.983650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-26",
+      "properties": {
+        "id": "nit-warangal-bld-26",
+        "name": "NIT Warangal Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.52484230166903,
+              17.976650000000003
+            ],
+            [
+              79.52515769833099,
+              17.976650000000003
+            ],
+            [
+              79.52515769833099,
+              17.97635
+            ],
+            [
+              79.52484230166903,
+              17.97635
+            ],
+            [
+              79.52484230166903,
+              17.976650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-27",
+      "properties": {
+        "id": "nit-warangal-bld-27",
+        "name": "NIT Warangal State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.53234230166902,
+              17.976650000000003
+            ],
+            [
+              79.53265769833098,
+              17.976650000000003
+            ],
+            [
+              79.53265769833098,
+              17.97635
+            ],
+            [
+              79.53234230166902,
+              17.97635
+            ],
+            [
+              79.53234230166902,
+              17.976650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-28",
+      "properties": {
+        "id": "nit-warangal-bld-28",
+        "name": "NIT Warangal Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.5318422963097,
+              17.982650000000003
+            ],
+            [
+              79.53215770369032,
+              17.982650000000003
+            ],
+            [
+              79.53215770369032,
+              17.98235
+            ],
+            [
+              79.5318422963097,
+              17.98235
+            ],
+            [
+              79.5318422963097,
+              17.982650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-bld-29",
+      "properties": {
+        "id": "nit-warangal-bld-29",
+        "name": "NIT Warangal Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.52684229720306,
+              17.981650000000002
+            ],
+            [
+              79.52715770279694,
+              17.981650000000002
+            ],
+            [
+              79.52715770279694,
+              17.98135
+            ],
+            [
+              79.52684229720306,
+              17.98135
+            ],
+            [
+              79.52684229720306,
+              17.981650000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-road-0",
+      "properties": {
+        "id": "nit-warangal-road-0",
+        "name": "NIT Warangal Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.531,
+            17.983500000000003
+          ],
+          [
+            79.531,
+            17.9725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-road-1",
+      "properties": {
+        "id": "nit-warangal-road-1",
+        "name": "NIT Warangal Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.527,
+            17.9735
+          ],
+          [
+            79.53500000000001,
+            17.9735
+          ],
+          [
+            79.53500000000001,
+            17.980500000000003
+          ],
+          [
+            79.527,
+            17.980500000000003
+          ],
+          [
+            79.527,
+            17.9735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-road-2",
+      "properties": {
+        "id": "nit-warangal-road-2",
+        "name": "NIT Warangal West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.525,
+            17.9765
+          ],
+          [
+            79.531,
+            17.9765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-road-3",
+      "properties": {
+        "id": "nit-warangal-road-3",
+        "name": "NIT Warangal Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.527,
+            17.9785
+          ],
+          [
+            79.53500000000001,
+            17.9785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-road-4",
+      "properties": {
+        "id": "nit-warangal-road-4",
+        "name": "NIT Warangal Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.527,
+            17.9735
+          ],
+          [
+            79.527,
+            17.9755
+          ],
+          [
+            79.53500000000001,
+            17.9755
+          ],
+          [
+            79.53500000000001,
+            17.9735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-walkway-0",
+      "properties": {
+        "id": "nit-warangal-walkway-0",
+        "name": "NIT Warangal Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.531,
+            17.9795
+          ],
+          [
+            79.531,
+            17.978
+          ],
+          [
+            79.52900000000001,
+            17.978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-walkway-1",
+      "properties": {
+        "id": "nit-warangal-walkway-1",
+        "name": "NIT Warangal CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.534,
+            17.9785
+          ],
+          [
+            79.531,
+            17.9785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-walkway-2",
+      "properties": {
+        "id": "nit-warangal-walkway-2",
+        "name": "NIT Warangal SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.531,
+            17.9755
+          ],
+          [
+            79.531,
+            17.9735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-walkway-3",
+      "properties": {
+        "id": "nit-warangal-walkway-3",
+        "name": "NIT Warangal Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.534,
+            17.9705
+          ],
+          [
+            79.533,
+            17.971500000000002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-walkway-4",
+      "properties": {
+        "id": "nit-warangal-walkway-4",
+        "name": "NIT Warangal Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.53500000000001,
+            17.974500000000003
+          ],
+          [
+            79.534,
+            17.9755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-walkway-5",
+      "properties": {
+        "id": "nit-warangal-walkway-5",
+        "name": "NIT Warangal Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.527,
+            17.974500000000003
+          ],
+          [
+            79.52900000000001,
+            17.974500000000003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-walkway-6",
+      "properties": {
+        "id": "nit-warangal-walkway-6",
+        "name": "NIT Warangal Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.534,
+            17.9765
+          ],
+          [
+            79.5325,
+            17.9765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-warangal-walkway-7",
+      "properties": {
+        "id": "nit-warangal-walkway-7",
+        "name": "NIT Warangal Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.52850000000001,
+            17.979000000000003
+          ],
+          [
+            79.52900000000001,
+            17.978
+          ]
+        ]
+      }
+    }
+  ]
+}

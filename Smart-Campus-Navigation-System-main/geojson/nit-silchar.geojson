@@ -1,0 +1,2805 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Silchar GIS Dataset",
+  "properties": {
+    "campusId": "nit-silchar",
+    "campusName": "NIT Silchar",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-28T07:19:36.934Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-silchar-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Silchar Official Boundary",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.775,
+              24.765
+            ],
+            [
+              92.802,
+              24.765
+            ],
+            [
+              92.802,
+              24.748
+            ],
+            [
+              92.775,
+              24.748
+            ],
+            [
+              92.775,
+              24.765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-0",
+      "properties": {
+        "id": "nit-silchar-bld-0",
+        "name": "BHARAT RATNA DR. APJ ABDUL KALAM LEARNING RESOURCE CENTRE",
+        "category": "library",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "One of the largest digital libraries in Asia, featuring over 150,000 volumes, high-speed computer terminals, reading sections, and seminar spaces.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78946073051293,
+              24.75785
+            ],
+            [
+              92.78937220940925,
+              24.75815
+            ],
+            [
+              92.78913036525645,
+              24.758369615242273
+            ],
+            [
+              92.7888,
+              24.75845
+            ],
+            [
+              92.78846963474354,
+              24.758369615242273
+            ],
+            [
+              92.78822779059074,
+              24.75815
+            ],
+            [
+              92.78813926948706,
+              24.75785
+            ],
+            [
+              92.78822779059074,
+              24.757550000000002
+            ],
+            [
+              92.78846963474354,
+              24.75733038475773
+            ],
+            [
+              92.7888,
+              24.757250000000003
+            ],
+            [
+              92.78913036525645,
+              24.75733038475773
+            ],
+            [
+              92.78937220940925,
+              24.757550000000002
+            ],
+            [
+              92.78946073051293,
+              24.75785
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-1",
+      "properties": {
+        "id": "nit-silchar-bld-1",
+        "name": "Student Activity Center (SAC) Building",
+        "category": "sports",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "The primary hub for student extracurriculars, clubs, gymnasium, indoor court systems, music room, and the student senate headquarters.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78815,
+              24.7567
+            ],
+            [
+              92.78864999999999,
+              24.7567
+            ],
+            [
+              92.78864999999999,
+              24.7574
+            ],
+            [
+              92.78815,
+              24.7574
+            ],
+            [
+              92.78815,
+              24.7567
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-2",
+      "properties": {
+        "id": "nit-silchar-bld-2",
+        "name": "Department of Electronics and Communication Engineering",
+        "category": "academic",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Hosts advanced VLSI design, communication, signal processing, and high-tech microwave instruction systems.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7881,
+              24.7561
+            ],
+            [
+              92.78869999999999,
+              24.7561
+            ],
+            [
+              92.78869999999999,
+              24.756600000000002
+            ],
+            [
+              92.7881,
+              24.756600000000002
+            ],
+            [
+              92.7881,
+              24.7561
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-3",
+      "properties": {
+        "id": "nit-silchar-bld-3",
+        "name": "NIT Silchar Health Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "The primary care medical clinic providing 24/7 emergency care, dispensary, observation beds, and campus ambulance support.",
+        "openingHours": "24 Hours",
+        "contact": "+91-3842-242273",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78829999999999,
+              24.7548
+            ],
+            [
+              92.7887,
+              24.7548
+            ],
+            [
+              92.7887,
+              24.7552
+            ],
+            [
+              92.78829999999999,
+              24.7552
+            ],
+            [
+              92.78829999999999,
+              24.7548
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-4",
+      "properties": {
+        "id": "nit-silchar-bld-4",
+        "name": "Director's Residence",
+        "category": "admin",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "The official residence bungalow of the Director of NIT Silchar, set in beautifully landscaped, calm gardens.",
+        "openingHours": "By Appointment",
+        "contact": "+91-3842-242273",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7896,
+              24.7545
+            ],
+            [
+              92.79,
+              24.7545
+            ],
+            [
+              92.79,
+              24.7549
+            ],
+            [
+              92.7896,
+              24.7549
+            ],
+            [
+              92.7896,
+              24.7545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-5",
+      "properties": {
+        "id": "nit-silchar-bld-5",
+        "name": "Gymkhana Park, NIT Silchar",
+        "category": "sports",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "A tranquil botanical parkland featuring stone benches, decorative foliage, and jogging tracks adjacent to the Learning Resource Centre.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.79035060898237,
+              24.7579
+            ],
+            [
+              92.79027684136628,
+              24.75815
+            ],
+            [
+              92.79007530449118,
+              24.758333012701893
+            ],
+            [
+              92.7898,
+              24.758399999999998
+            ],
+            [
+              92.78952469550882,
+              24.758333012701893
+            ],
+            [
+              92.78932315863372,
+              24.75815
+            ],
+            [
+              92.78924939101763,
+              24.7579
+            ],
+            [
+              92.78932315863372,
+              24.757649999999998
+            ],
+            [
+              92.78952469550882,
+              24.757466987298105
+            ],
+            [
+              92.7898,
+              24.7574
+            ],
+            [
+              92.79007530449118,
+              24.757466987298105
+            ],
+            [
+              92.79027684136628,
+              24.757649999999998
+            ],
+            [
+              92.79035060898237,
+              24.7579
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-6",
+      "properties": {
+        "id": "nit-silchar-bld-6",
+        "name": "Central Computer Center, NIT Silchar",
+        "category": "lab",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Houses institutional high-speed servers, cluster supercomputing arrays, and major programming/examination labs.",
+        "openingHours": "08:00 AM - 10:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78955,
+              24.75695
+            ],
+            [
+              92.79005,
+              24.75695
+            ],
+            [
+              92.79005,
+              24.757450000000002
+            ],
+            [
+              92.78955,
+              24.757450000000002
+            ],
+            [
+              92.78955,
+              24.75695
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-7",
+      "properties": {
+        "id": "nit-silchar-bld-7",
+        "name": "Department of Physics (New)",
+        "category": "academic",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Focuses on condensed matter, non-linear optics, and advanced physics research laboratories.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7897,
+              24.7565
+            ],
+            [
+              92.79010000000001,
+              24.7565
+            ],
+            [
+              92.79010000000001,
+              24.756899999999998
+            ],
+            [
+              92.7897,
+              24.756899999999998
+            ],
+            [
+              92.7897,
+              24.7565
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-8",
+      "properties": {
+        "id": "nit-silchar-bld-8",
+        "name": "CET Hall",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Center for Educational Technology seminar hall, hosting placement talks, student conventions, and executive keynotes.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.79125,
+              24.7576
+            ],
+            [
+              92.79175,
+              24.7576
+            ],
+            [
+              92.79175,
+              24.758
+            ],
+            [
+              92.79125,
+              24.758
+            ],
+            [
+              92.79125,
+              24.7576
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-9",
+      "properties": {
+        "id": "nit-silchar-bld-9",
+        "name": "Electrical Engineering Department",
+        "category": "academic",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Houses smart grid testing cells, control systems simulation hubs, power electronics labs, and faculty rooms.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.79125,
+              24.756800000000002
+            ],
+            [
+              92.79175,
+              24.756800000000002
+            ],
+            [
+              92.79175,
+              24.7574
+            ],
+            [
+              92.79125,
+              24.7574
+            ],
+            [
+              92.79125,
+              24.756800000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-10",
+      "properties": {
+        "id": "nit-silchar-bld-10",
+        "name": "Department of Civil Engineering, NIT Silchar",
+        "category": "academic",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "State of the art geotech, concrete, structural, and environmental labs. Includes a comprehensive civil library.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.79115,
+              24.7559
+            ],
+            [
+              92.79164999999999,
+              24.7559
+            ],
+            [
+              92.79164999999999,
+              24.7565
+            ],
+            [
+              92.79115,
+              24.7565
+            ],
+            [
+              92.79115,
+              24.7559
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-11",
+      "properties": {
+        "id": "nit-silchar-bld-11",
+        "name": "New Gallery",
+        "category": "academic",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "State-of-the-art acoustic digital classroom galleries equipped with high-tech multimedia and smart podiums.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78955,
+              24.758200000000002
+            ],
+            [
+              92.79005,
+              24.758200000000002
+            ],
+            [
+              92.79005,
+              24.7586
+            ],
+            [
+              92.78955,
+              24.7586
+            ],
+            [
+              92.78955,
+              24.758200000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-12",
+      "properties": {
+        "id": "nit-silchar-bld-12",
+        "name": "C-DAC",
+        "category": "lab",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Centre for Development of Advanced Computing center hosting supercomputing workshops and government IT projects.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.79039999999999,
+              24.7586
+            ],
+            [
+              92.7908,
+              24.7586
+            ],
+            [
+              92.7908,
+              24.759
+            ],
+            [
+              92.79039999999999,
+              24.759
+            ],
+            [
+              92.79039999999999,
+              24.7586
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-13",
+      "properties": {
+        "id": "nit-silchar-bld-13",
+        "name": "Department of Mechanical Engineering, NIT Silchar",
+        "category": "academic",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Comprehensive workshops, thermal engines laboratories, fluid machines hall, and CAD design centers.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.79125,
+              24.7589
+            ],
+            [
+              92.79175,
+              24.7589
+            ],
+            [
+              92.79175,
+              24.7595
+            ],
+            [
+              92.79125,
+              24.7595
+            ],
+            [
+              92.79125,
+              24.7589
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-14",
+      "properties": {
+        "id": "nit-silchar-bld-14",
+        "name": "NIT's Cafe",
+        "category": "dining",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Warm community cafe serving delicious hot rolls, wraps, freshly brewed espresso, and Assamese tea.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7923,
+              24.759249999999998
+            ],
+            [
+              92.79270000000001,
+              24.759249999999998
+            ],
+            [
+              92.79270000000001,
+              24.75955
+            ],
+            [
+              92.7923,
+              24.75955
+            ],
+            [
+              92.7923,
+              24.759249999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-15",
+      "properties": {
+        "id": "nit-silchar-bld-15",
+        "name": "SBI Branch NIT Silchar",
+        "category": "atm",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "The primary on-campus financial hub assisting students with loans, fees, accounts, and 24/7 ATM booths.",
+        "openingHours": "10:00 AM - 04:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7928,
+              24.757749999999998
+            ],
+            [
+              92.79320000000001,
+              24.757749999999998
+            ],
+            [
+              92.79320000000001,
+              24.75805
+            ],
+            [
+              92.7928,
+              24.75805
+            ],
+            [
+              92.7928,
+              24.757749999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-16",
+      "properties": {
+        "id": "nit-silchar-bld-16",
+        "name": "National Institute of Technology, Silchar Administrative Block",
+        "category": "admin",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "The main administrative offices overseeing admission, finance, academic records, and the Registrar and Director chambers.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.79390000000001,
+              24.7587
+            ],
+            [
+              92.7945,
+              24.7587
+            ],
+            [
+              92.7945,
+              24.7593
+            ],
+            [
+              92.79390000000001,
+              24.7593
+            ],
+            [
+              92.79390000000001,
+              24.7587
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-17",
+      "properties": {
+        "id": "nit-silchar-bld-17",
+        "name": "Boys Hostel 1 (Aryabhatta Hall of Residence)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "The vibrant Aryabhatta residential hall for freshman students, featuring dual dining halls, and continuous Wi-Fi.",
+        "openingHours": "24 Hours",
+        "contact": "+91-3842-242273",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78540000000001,
+              24.7571
+            ],
+            [
+              92.786,
+              24.7571
+            ],
+            [
+              92.786,
+              24.7577
+            ],
+            [
+              92.78540000000001,
+              24.7577
+            ],
+            [
+              92.78540000000001,
+              24.7571
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-18",
+      "properties": {
+        "id": "nit-silchar-bld-18",
+        "name": "Synthetic Tennis Court",
+        "category": "sports",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "High-grade outdoor synthetic tennis court complete with floodlights and spectator benches.",
+        "openingHours": "05:00 AM - 09:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7858,
+              24.756449999999997
+            ],
+            [
+              92.78620000000001,
+              24.756449999999997
+            ],
+            [
+              92.78620000000001,
+              24.75675
+            ],
+            [
+              92.7858,
+              24.75675
+            ],
+            [
+              92.7858,
+              24.756449999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-19",
+      "properties": {
+        "id": "nit-silchar-bld-19",
+        "name": "NIT Silchar Water Plant",
+        "category": "admin",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Central processing, filtration, chlorination and water distribution facility catering to the entire NIT campus.",
+        "openingHours": "24 Hours",
+        "contact": "+91-3842-242273",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78429999999999,
+              24.7557
+            ],
+            [
+              92.7847,
+              24.7557
+            ],
+            [
+              92.7847,
+              24.7561
+            ],
+            [
+              92.78429999999999,
+              24.7561
+            ],
+            [
+              92.78429999999999,
+              24.7557
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-20",
+      "properties": {
+        "id": "nit-silchar-bld-20",
+        "name": "9B (Srinivasa Ramanujan Hall)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Hostel 9B residence hall offering high-speed fiber-net, recreation lounges, and beautiful lake vistas.",
+        "openingHours": "24 Hours",
+        "contact": "+91-3842-242273",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7851,
+              24.757949999999997
+            ],
+            [
+              92.78569999999999,
+              24.757949999999997
+            ],
+            [
+              92.78569999999999,
+              24.75845
+            ],
+            [
+              92.7851,
+              24.75845
+            ],
+            [
+              92.7851,
+              24.757949999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-21",
+      "properties": {
+        "id": "nit-silchar-bld-21",
+        "name": "9C (CV Raman Hall)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Hostel 9C residence complex, boasting modern architecture, high security, study halls, and dining facilities.",
+        "openingHours": "24 Hours",
+        "contact": "+91-3842-242273",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78490000000001,
+              24.75875
+            ],
+            [
+              92.7855,
+              24.75875
+            ],
+            [
+              92.7855,
+              24.75925
+            ],
+            [
+              92.78490000000001,
+              24.75925
+            ],
+            [
+              92.78490000000001,
+              24.75875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-22",
+      "properties": {
+        "id": "nit-silchar-bld-22",
+        "name": "9D (Vikram Sarabhai Hall)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Hostel 9D offering premium single rooms for senior scholars, doctoral candidates, and dynamic guest lecturers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-3842-242273",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7847,
+              24.759549999999997
+            ],
+            [
+              92.78529999999999,
+              24.759549999999997
+            ],
+            [
+              92.78529999999999,
+              24.76005
+            ],
+            [
+              92.7847,
+              24.76005
+            ],
+            [
+              92.7847,
+              24.759549999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-23",
+      "properties": {
+        "id": "nit-silchar-bld-23",
+        "name": "Hostel 9C and 9D Unified Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Modern common mess serving healthy, sanitary multi-cuisine food to Raman and Sarabhai hall scholars.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78625000000001,
+              24.759249999999998
+            ],
+            [
+              92.78675,
+              24.759249999999998
+            ],
+            [
+              92.78675,
+              24.75955
+            ],
+            [
+              92.78625000000001,
+              24.75955
+            ],
+            [
+              92.78625000000001,
+              24.759249999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-24",
+      "properties": {
+        "id": "nit-silchar-bld-24",
+        "name": "Hostel 9A Hall of Residence",
+        "category": "hostel",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Spacious hostel blocks housing sophomore student groups with robust security, mess, and badminton yard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-3842-242273",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78645,
+              24.758049999999997
+            ],
+            [
+              92.78694999999999,
+              24.758049999999997
+            ],
+            [
+              92.78694999999999,
+              24.75855
+            ],
+            [
+              92.78645,
+              24.75855
+            ],
+            [
+              92.78645,
+              24.758049999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-25",
+      "properties": {
+        "id": "nit-silchar-bld-25",
+        "name": "Hostel Kiran (Boys Hostel 7)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "The legendary Hostel 7 (Kiran Hall), offering amazing lakeside views, sprawling garden lawns, and badminton courts.",
+        "openingHours": "24 Hours",
+        "contact": "+91-3842-242273",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7817,
+              24.7585
+            ],
+            [
+              92.78229999999999,
+              24.7585
+            ],
+            [
+              92.78229999999999,
+              24.7591
+            ],
+            [
+              92.7817,
+              24.7591
+            ],
+            [
+              92.7817,
+              24.7585
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-26",
+      "properties": {
+        "id": "nit-silchar-bld-26",
+        "name": "H7 Volleyball Court",
+        "category": "sports",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Dedicated floodlit volleyball playground for Hostel 7 sports enthusiasts.",
+        "openingHours": "06:00 AM - 08:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78045,
+              24.759
+            ],
+            [
+              92.78075000000001,
+              24.759
+            ],
+            [
+              92.78075000000001,
+              24.7592
+            ],
+            [
+              92.78045,
+              24.7592
+            ],
+            [
+              92.78045,
+              24.759
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-27",
+      "properties": {
+        "id": "nit-silchar-bld-27",
+        "name": "H6 Volleyball Court",
+        "category": "sports",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Outdoor court for local recreational tournaments and matches.",
+        "openingHours": "06:00 AM - 08:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78285,
+              24.7586
+            ],
+            [
+              92.78315,
+              24.7586
+            ],
+            [
+              92.78315,
+              24.7588
+            ],
+            [
+              92.78285,
+              24.7588
+            ],
+            [
+              92.78285,
+              24.7586
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-28",
+      "properties": {
+        "id": "nit-silchar-bld-28",
+        "name": "Sipra Rani Roy Assamese Canteen",
+        "category": "dining",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Famous local Assamese dining canteen catering fresh fish, local dal, and high-quality fast snacks.",
+        "openingHours": "08:00 AM - 10:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.77879999999999,
+              24.759649999999997
+            ],
+            [
+              92.7792,
+              24.759649999999997
+            ],
+            [
+              92.7792,
+              24.75995
+            ],
+            [
+              92.77879999999999,
+              24.75995
+            ],
+            [
+              92.77879999999999,
+              24.759649999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-29",
+      "properties": {
+        "id": "nit-silchar-bld-29",
+        "name": "Main Basketball Court Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Two fully synthetic floodlit basketball courts with spectator stands and modern fiberglass boards.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.782,
+              24.75715
+            ],
+            [
+              92.78240000000001,
+              24.75715
+            ],
+            [
+              92.78240000000001,
+              24.757450000000002
+            ],
+            [
+              92.782,
+              24.757450000000002
+            ],
+            [
+              92.782,
+              24.75715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-30",
+      "properties": {
+        "id": "nit-silchar-bld-30",
+        "name": "Football ground NIT SILCHAR",
+        "category": "sports",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "The beautiful green main sports field used for football, cricket tournaments, sports festivals, and parades.",
+        "openingHours": "05:00 AM - 07:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7802,
+              24.756400000000003
+            ],
+            [
+              92.7814,
+              24.756400000000003
+            ],
+            [
+              92.7814,
+              24.7574
+            ],
+            [
+              92.7802,
+              24.7574
+            ],
+            [
+              92.7802,
+              24.756400000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-31",
+      "properties": {
+        "id": "nit-silchar-bld-31",
+        "name": "NIT Silchar Main Athletic Running Track Stadium",
+        "category": "sports",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "The 8-lane athletic standard track stadium (labeled Administrative Block on maps) featuring dynamic running, high jump, and seating gallery.",
+        "openingHours": "04:30 AM - 09:30 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78469108978653,
+              24.7571
+            ],
+            [
+              92.78455830893256,
+              24.757550000000002
+            ],
+            [
+              92.78419554489327,
+              24.757879422863407
+            ],
+            [
+              92.7837,
+              24.758000000000003
+            ],
+            [
+              92.78320445510673,
+              24.757879422863407
+            ],
+            [
+              92.78284169106743,
+              24.757550000000002
+            ],
+            [
+              92.78270891021346,
+              24.7571
+            ],
+            [
+              92.78284169106743,
+              24.75665
+            ],
+            [
+              92.78320445510673,
+              24.756320577136595
+            ],
+            [
+              92.7837,
+              24.7562
+            ],
+            [
+              92.78419554489327,
+              24.756320577136595
+            ],
+            [
+              92.78455830893256,
+              24.75665
+            ],
+            [
+              92.78469108978653,
+              24.7571
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-32",
+      "properties": {
+        "id": "nit-silchar-bld-32",
+        "name": "Central Sports Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Comprehensive multi-sport facility hosting dynamic indoor table tennis, squash, weightlifting, and sports administrative offices.",
+        "openingHours": "06:00 AM - 09:30 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7792,
+              24.75515
+            ],
+            [
+              92.7798,
+              24.75515
+            ],
+            [
+              92.7798,
+              24.755650000000003
+            ],
+            [
+              92.7792,
+              24.755650000000003
+            ],
+            [
+              92.7792,
+              24.75515
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-33",
+      "properties": {
+        "id": "nit-silchar-bld-33",
+        "name": "Indie Lake (Eco Sanctuary)",
+        "category": "sports",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "A gorgeous, massive freshwater lake featuring pristine natural surroundings, native lotus plants, and rare migratory birds.",
+        "openingHours": "24 Hours",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78130118162758,
+              24.7538
+            ],
+            [
+              92.78115365126366,
+              24.754299999999997
+            ],
+            [
+              92.78075059081378,
+              24.754666025403782
+            ],
+            [
+              92.7802,
+              24.7548
+            ],
+            [
+              92.7796494091862,
+              24.754666025403782
+            ],
+            [
+              92.77924634873632,
+              24.754299999999997
+            ],
+            [
+              92.7790988183724,
+              24.7538
+            ],
+            [
+              92.77924634873632,
+              24.7533
+            ],
+            [
+              92.7796494091862,
+              24.752933974596214
+            ],
+            [
+              92.7802,
+              24.752799999999997
+            ],
+            [
+              92.78075059081378,
+              24.752933974596214
+            ],
+            [
+              92.78115365126366,
+              24.7533
+            ],
+            [
+              92.78130118162758,
+              24.7538
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-34",
+      "properties": {
+        "id": "nit-silchar-bld-34",
+        "name": "LP School",
+        "category": "academic",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Lower Primary school educating staff children and providing quality primary instruction.",
+        "openingHours": "08:00 AM - 02:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.785,
+              24.7541
+            ],
+            [
+              92.78540000000001,
+              24.7541
+            ],
+            [
+              92.78540000000001,
+              24.7545
+            ],
+            [
+              92.785,
+              24.7545
+            ],
+            [
+              92.785,
+              24.7541
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-35",
+      "properties": {
+        "id": "nit-silchar-bld-35",
+        "name": "NIT Silchar Nursery",
+        "category": "sports",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Campus botanical nursery propagating beautiful seasonal flowers, shrubs, and trees to maintain the lush green biosphere of NIT Silchar.",
+        "openingHours": "08:00 AM - 05:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78315,
+              24.7545
+            ],
+            [
+              92.78365,
+              24.7545
+            ],
+            [
+              92.78365,
+              24.7549
+            ],
+            [
+              92.78315,
+              24.7549
+            ],
+            [
+              92.78315,
+              24.7545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-36",
+      "properties": {
+        "id": "nit-silchar-bld-36",
+        "name": "Children's Mini Park",
+        "category": "sports",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Lawn park equipped with modern play systems, sliders, multi-swings, and safe turfing for staff kids.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.79024047123318,
+              24.7534
+            ],
+            [
+              92.79018145927756,
+              24.7536
+            ],
+            [
+              92.79002023561658,
+              24.75374641016151
+            ],
+            [
+              92.7898,
+              24.7538
+            ],
+            [
+              92.78957976438342,
+              24.75374641016151
+            ],
+            [
+              92.78941854072244,
+              24.7536
+            ],
+            [
+              92.78935952876682,
+              24.7534
+            ],
+            [
+              92.78941854072244,
+              24.7532
+            ],
+            [
+              92.78957976438342,
+              24.753053589838487
+            ],
+            [
+              92.7898,
+              24.753
+            ],
+            [
+              92.79002023561658,
+              24.753053589838487
+            ],
+            [
+              92.79018145927756,
+              24.7532
+            ],
+            [
+              92.79024047123318,
+              24.7534
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-37",
+      "properties": {
+        "id": "nit-silchar-bld-37",
+        "name": "Lake Viewpoint 3",
+        "category": "sports",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Lakeside observatory point built on wooden stilts, boasting spectacular clear views of the sprawling central water reservoirs.",
+        "openingHours": "24 Hours",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.79135,
+              24.7551
+            ],
+            [
+              92.79165,
+              24.7551
+            ],
+            [
+              92.79165,
+              24.7553
+            ],
+            [
+              92.79135,
+              24.7553
+            ],
+            [
+              92.79135,
+              24.7551
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-38",
+      "properties": {
+        "id": "nit-silchar-bld-38",
+        "name": "Lake Viewpoint 2",
+        "category": "sports",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Pleasant viewpoint on the southeastern campus lake, perfect for bird-watching and sunset sights.",
+        "openingHours": "24 Hours",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.79305,
+              24.7533
+            ],
+            [
+              92.79335,
+              24.7533
+            ],
+            [
+              92.79335,
+              24.7535
+            ],
+            [
+              92.79305,
+              24.7535
+            ],
+            [
+              92.79305,
+              24.7533
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-39",
+      "properties": {
+        "id": "nit-silchar-bld-39",
+        "name": "Cake and Bake Bakery",
+        "category": "dining",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Delicious campus-famous confectionery selling customizable cakes, croissants, hot puffs, and sweet treats.",
+        "openingHours": "10:00 AM - 10:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78219999999999,
+              24.75215
+            ],
+            [
+              92.7826,
+              24.75215
+            ],
+            [
+              92.7826,
+              24.752450000000003
+            ],
+            [
+              92.78219999999999,
+              24.752450000000003
+            ],
+            [
+              92.78219999999999,
+              24.75215
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-40",
+      "properties": {
+        "id": "nit-silchar-bld-40",
+        "name": "Arunangshu Staff Residence",
+        "category": "hostel",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Quiet upscale staff quarters set in peaceful residential wooded lanes.",
+        "openingHours": "Private",
+        "contact": "+91-3842-242273",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7838,
+              24.75265
+            ],
+            [
+              92.78420000000001,
+              24.75265
+            ],
+            [
+              92.78420000000001,
+              24.752950000000002
+            ],
+            [
+              92.7838,
+              24.752950000000002
+            ],
+            [
+              92.7838,
+              24.75265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-41",
+      "properties": {
+        "id": "nit-silchar-bld-41",
+        "name": "MSH (A Lalitha Hall of Residence)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "A. Lalitha Married Scholars Hostel Wing, naming the pioneering Indian electrical engineer A. Lalitha.",
+        "openingHours": "24 Hours",
+        "contact": "+91-3842-242273",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78275000000001,
+              24.75135
+            ],
+            [
+              92.78325,
+              24.75135
+            ],
+            [
+              92.78325,
+              24.75185
+            ],
+            [
+              92.78275000000001,
+              24.75185
+            ],
+            [
+              92.78275000000001,
+              24.75135
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-42",
+      "properties": {
+        "id": "nit-silchar-bld-42",
+        "name": "Married Scholar Hostel Complex",
+        "category": "hostel",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Comfortable dynamic family residential blocks for married doctoral candidates and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-3842-242273",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7839,
+              24.75095
+            ],
+            [
+              92.7845,
+              24.75095
+            ],
+            [
+              92.7845,
+              24.751450000000002
+            ],
+            [
+              92.7839,
+              24.751450000000002
+            ],
+            [
+              92.7839,
+              24.75095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-43",
+      "properties": {
+        "id": "nit-silchar-bld-43",
+        "name": "CV Raman Staff Quarters",
+        "category": "hostel",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Exclusive duplex housing quarters designated for senior professors and visiting scientific experts.",
+        "openingHours": "Private",
+        "contact": "+91-3842-242273",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78575000000001,
+              24.7518
+            ],
+            [
+              92.78625,
+              24.7518
+            ],
+            [
+              92.78625,
+              24.7522
+            ],
+            [
+              92.78575000000001,
+              24.7522
+            ],
+            [
+              92.78575000000001,
+              24.7518
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-44",
+      "properties": {
+        "id": "nit-silchar-bld-44",
+        "name": "BH 5 Food Canteen",
+        "category": "dining",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Lively eatery situated near Hostel 5, famous for maggi, egg-rolls, coffee, and late night discussions.",
+        "openingHours": "08:00 AM - 11:30 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78965,
+              24.7595
+            ],
+            [
+              92.78995,
+              24.7595
+            ],
+            [
+              92.78995,
+              24.7597
+            ],
+            [
+              92.78965,
+              24.7597
+            ],
+            [
+              92.78965,
+              24.7595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-45",
+      "properties": {
+        "id": "nit-silchar-bld-45",
+        "name": "Hostel 5 (BH 5 Residence)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "Hostel 5 complex providing clean double-rooms for undergraduate sophomore students.",
+        "openingHours": "24 Hours",
+        "contact": "+91-3842-242273",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7889,
+              24.759149999999998
+            ],
+            [
+              92.78949999999999,
+              24.759149999999998
+            ],
+            [
+              92.78949999999999,
+              24.75965
+            ],
+            [
+              92.7889,
+              24.75965
+            ],
+            [
+              92.7889,
+              24.759149999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-46",
+      "properties": {
+        "id": "nit-silchar-bld-46",
+        "name": "Startup Centre, NIT Silchar",
+        "category": "academic",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "The technology and business incubation workspace nurturing student-led innovations and product development.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-3842-242273",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.78829999999999,
+              24.758200000000002
+            ],
+            [
+              92.7887,
+              24.758200000000002
+            ],
+            [
+              92.7887,
+              24.7586
+            ],
+            [
+              92.78829999999999,
+              24.7586
+            ],
+            [
+              92.78829999999999,
+              24.758200000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-bld-47",
+      "properties": {
+        "id": "nit-silchar-bld-47",
+        "name": "NIT Silchar Main Entrance Gate",
+        "category": "gate",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates",
+        "description": "The primary secure gateway to NIT Silchar campus, styled with security checks and magnificent institutional arches.",
+        "openingHours": "24 Hours",
+        "contact": "+91-3842-242273",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.79585,
+              24.75905
+            ],
+            [
+              92.79615000000001,
+              24.75905
+            ],
+            [
+              92.79615000000001,
+              24.75935
+            ],
+            [
+              92.79585,
+              24.75935
+            ],
+            [
+              92.79585,
+              24.75905
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-road-0",
+      "properties": {
+        "id": "nit-silchar-road-0",
+        "name": "NIT Road (Academic Boulevard)",
+        "type": "road",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.796,
+            24.7592
+          ],
+          [
+            92.7925,
+            24.7594
+          ],
+          [
+            92.7915,
+            24.7592
+          ],
+          [
+            92.7906,
+            24.7588
+          ],
+          [
+            92.7888,
+            24.7578
+          ],
+          [
+            92.7884,
+            24.7571
+          ],
+          [
+            92.7865,
+            24.7572
+          ],
+          [
+            92.7857,
+            24.7574
+          ],
+          [
+            92.7837,
+            24.7571
+          ],
+          [
+            92.782,
+            24.7588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-road-1",
+      "properties": {
+        "id": "nit-silchar-road-1",
+        "name": "Lake View Road",
+        "type": "road",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7915,
+            24.7571
+          ],
+          [
+            92.7914,
+            24.7562
+          ],
+          [
+            92.7898,
+            24.7547
+          ],
+          [
+            92.7885,
+            24.7551
+          ],
+          [
+            92.7852,
+            24.7543
+          ],
+          [
+            92.784,
+            24.7528
+          ],
+          [
+            92.783,
+            24.7516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-road-2",
+      "properties": {
+        "id": "nit-silchar-road-2",
+        "name": "Hostel 9 Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7857,
+            24.7574
+          ],
+          [
+            92.7854,
+            24.7582
+          ],
+          [
+            92.7852,
+            24.759
+          ],
+          [
+            92.785,
+            24.7598
+          ],
+          [
+            92.7865,
+            24.7594
+          ],
+          [
+            92.7867,
+            24.7583
+          ],
+          [
+            92.7857,
+            24.7574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-road-3",
+      "properties": {
+        "id": "nit-silchar-road-3",
+        "name": "Utkarsh Marg",
+        "type": "road",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.782,
+            24.7588
+          ],
+          [
+            92.7806,
+            24.7591
+          ],
+          [
+            92.779,
+            24.7598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-walkway-0",
+      "properties": {
+        "id": "nit-silchar-walkway-0",
+        "name": "Library Plaza Pedestrian Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7888,
+            24.7578
+          ],
+          [
+            92.7898,
+            24.7579
+          ],
+          [
+            92.7898,
+            24.7572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-walkway-1",
+      "properties": {
+        "id": "nit-silchar-walkway-1",
+        "name": "Academic East Corridor Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7915,
+            24.7578
+          ],
+          [
+            92.7915,
+            24.7571
+          ],
+          [
+            92.7914,
+            24.7562
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-walkway-2",
+      "properties": {
+        "id": "nit-silchar-walkway-2",
+        "name": "Hostel Kiran Sports Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.782,
+            24.7588
+          ],
+          [
+            92.7822,
+            24.7573
+          ],
+          [
+            92.7808,
+            24.7569
+          ],
+          [
+            92.7795,
+            24.7554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-silchar-walkway-3",
+      "properties": {
+        "id": "nit-silchar-walkway-3",
+        "name": "South Lakeside Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Verified Google Maps Sat Coordinates"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7898,
+            24.7547
+          ],
+          [
+            92.7898,
+            24.7534
+          ],
+          [
+            92.7915,
+            24.7552
+          ],
+          [
+            92.7932,
+            24.7534
+          ]
+        ]
+      }
+    }
+  ]
+}

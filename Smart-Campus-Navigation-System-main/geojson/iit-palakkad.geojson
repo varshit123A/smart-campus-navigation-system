@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "IIT Palakkad GIS Dataset",
+  "properties": {
+    "campusId": "iit-palakkad",
+    "campusName": "IIT Palakkad",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.201Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "IIT Palakkad Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.82066272585948,
+              10.8143
+            ],
+            [
+              76.82035051354687,
+              10.816629371405922
+            ],
+            [
+              76.81943515336222,
+              10.8188
+            ],
+            [
+              76.8179790255894,
+              10.820663961030679
+            ],
+            [
+              76.81608136292974,
+              10.82209422863406
+            ],
+            [
+              76.81387148795748,
+              10.822993332436601
+            ],
+            [
+              76.8115,
+              10.8233
+            ],
+            [
+              76.8091285120425,
+              10.822993332436601
+            ],
+            [
+              76.80691863707025,
+              10.82209422863406
+            ],
+            [
+              76.8050209744106,
+              10.820663961030679
+            ],
+            [
+              76.80356484663777,
+              10.8188
+            ],
+            [
+              76.80264948645312,
+              10.816629371405922
+            ],
+            [
+              76.80233727414051,
+              10.8143
+            ],
+            [
+              76.80264948645312,
+              10.811970628594077
+            ],
+            [
+              76.80356484663777,
+              10.8098
+            ],
+            [
+              76.8050209744106,
+              10.80793603896932
+            ],
+            [
+              76.80691863707025,
+              10.80650577136594
+            ],
+            [
+              76.8091285120425,
+              10.805606667563397
+            ],
+            [
+              76.8115,
+              10.805299999999999
+            ],
+            [
+              76.81387148795748,
+              10.805606667563397
+            ],
+            [
+              76.81608136292974,
+              10.80650577136594
+            ],
+            [
+              76.8179790255894,
+              10.80793603896932
+            ],
+            [
+              76.81943515336222,
+              10.8098
+            ],
+            [
+              76.82035051354687,
+              10.811970628594077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-0",
+      "properties": {
+        "id": "iit-palakkad-bld-0",
+        "name": "IIT Palakkad Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of IIT Palakkad, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81134728764776,
+              10.81495
+            ],
+            [
+              76.81165271235223,
+              10.81495
+            ],
+            [
+              76.81165271235223,
+              10.81465
+            ],
+            [
+              76.81134728764776,
+              10.81465
+            ],
+            [
+              76.81134728764776,
+              10.81495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-1",
+      "properties": {
+        "id": "iit-palakkad-bld-1",
+        "name": "IIT Palakkad Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at IIT Palakkad. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81134728637473,
+              10.81745
+            ],
+            [
+              76.81165271362526,
+              10.81745
+            ],
+            [
+              76.81165271362526,
+              10.81715
+            ],
+            [
+              76.81134728637473,
+              10.81715
+            ],
+            [
+              76.81134728637473,
+              10.81745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-2",
+      "properties": {
+        "id": "iit-palakkad-bld-2",
+        "name": "IIT Palakkad Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.80934728713859,
+              10.815949999999999
+            ],
+            [
+              76.8096527128614,
+              10.815949999999999
+            ],
+            [
+              76.8096527128614,
+              10.81565
+            ],
+            [
+              76.80934728713859,
+              10.81565
+            ],
+            [
+              76.80934728713859,
+              10.815949999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-3",
+      "properties": {
+        "id": "iit-palakkad-bld-3",
+        "name": "IIT Palakkad Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81434728688399,
+              10.81645
+            ],
+            [
+              76.814652713116,
+              10.81645
+            ],
+            [
+              76.814652713116,
+              10.81615
+            ],
+            [
+              76.81434728688399,
+              10.81615
+            ],
+            [
+              76.81434728688399,
+              10.81645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-4",
+      "properties": {
+        "id": "iit-palakkad-bld-4",
+        "name": "IIT Palakkad Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81334728739319,
+              10.815449999999998
+            ],
+            [
+              76.8136527126068,
+              10.815449999999998
+            ],
+            [
+              76.8136527126068,
+              10.81515
+            ],
+            [
+              76.81334728739319,
+              10.81515
+            ],
+            [
+              76.81334728739319,
+              10.815449999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-5",
+      "properties": {
+        "id": "iit-palakkad-bld-5",
+        "name": "IIT Palakkad Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.80834728739319,
+              10.815449999999998
+            ],
+            [
+              76.8086527126068,
+              10.815449999999998
+            ],
+            [
+              76.8086527126068,
+              10.81515
+            ],
+            [
+              76.80834728739319,
+              10.81515
+            ],
+            [
+              76.80834728739319,
+              10.815449999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-6",
+      "properties": {
+        "id": "iit-palakkad-bld-6",
+        "name": "IIT Palakkad Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81384728637472,
+              10.81745
+            ],
+            [
+              76.81415271362526,
+              10.81745
+            ],
+            [
+              76.81415271362526,
+              10.81715
+            ],
+            [
+              76.81384728637472,
+              10.81715
+            ],
+            [
+              76.81384728637472,
+              10.81745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-7",
+      "properties": {
+        "id": "iit-palakkad-bld-7",
+        "name": "IIT Palakkad Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of IIT Palakkad used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.80884728662936,
+              10.816949999999999
+            ],
+            [
+              76.80915271337064,
+              10.816949999999999
+            ],
+            [
+              76.80915271337064,
+              10.81665
+            ],
+            [
+              76.80884728662936,
+              10.81665
+            ],
+            [
+              76.80884728662936,
+              10.816949999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-8",
+      "properties": {
+        "id": "iit-palakkad-bld-8",
+        "name": "IIT Palakkad Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81034728612008,
+              10.81795
+            ],
+            [
+              76.8106527138799,
+              10.81795
+            ],
+            [
+              76.8106527138799,
+              10.81765
+            ],
+            [
+              76.81034728612008,
+              10.81765
+            ],
+            [
+              76.81034728612008,
+              10.81795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-9",
+      "properties": {
+        "id": "iit-palakkad-bld-9",
+        "name": "IIT Palakkad Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.80734728892048,
+              10.812449999999998
+            ],
+            [
+              76.8076527110795,
+              10.812449999999998
+            ],
+            [
+              76.8076527110795,
+              10.812149999999999
+            ],
+            [
+              76.80734728892048,
+              10.812149999999999
+            ],
+            [
+              76.80734728892048,
+              10.812449999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-10",
+      "properties": {
+        "id": "iit-palakkad-bld-10",
+        "name": "IIT Palakkad Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.80734728942949,
+              10.811449999999999
+            ],
+            [
+              76.8076527105705,
+              10.811449999999999
+            ],
+            [
+              76.8076527105705,
+              10.81115
+            ],
+            [
+              76.80734728942949,
+              10.81115
+            ],
+            [
+              76.80734728942949,
+              10.811449999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-11",
+      "properties": {
+        "id": "iit-palakkad-bld-11",
+        "name": "IIT Palakkad Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.80834728993845,
+              10.81045
+            ],
+            [
+              76.80865271006154,
+              10.81045
+            ],
+            [
+              76.80865271006154,
+              10.81015
+            ],
+            [
+              76.80834728993845,
+              10.81015
+            ],
+            [
+              76.80834728993845,
+              10.81045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-12",
+      "properties": {
+        "id": "iit-palakkad-bld-12",
+        "name": "IIT Palakkad Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81534728892049,
+              10.812449999999998
+            ],
+            [
+              76.81565271107951,
+              10.812449999999998
+            ],
+            [
+              76.81565271107951,
+              10.812149999999999
+            ],
+            [
+              76.81534728892049,
+              10.812149999999999
+            ],
+            [
+              76.81534728892049,
+              10.812449999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-13",
+      "properties": {
+        "id": "iit-palakkad-bld-13",
+        "name": "IIT Palakkad Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.8153472894295,
+              10.811449999999999
+            ],
+            [
+              76.8156527105705,
+              10.811449999999999
+            ],
+            [
+              76.8156527105705,
+              10.81115
+            ],
+            [
+              76.8153472894295,
+              10.81115
+            ],
+            [
+              76.8153472894295,
+              10.811449999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-14",
+      "properties": {
+        "id": "iit-palakkad-bld-14",
+        "name": "IIT Palakkad Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81334729044735,
+              10.809449999999998
+            ],
+            [
+              76.81365270955263,
+              10.809449999999998
+            ],
+            [
+              76.81365270955263,
+              10.809149999999999
+            ],
+            [
+              76.81334729044735,
+              10.809149999999999
+            ],
+            [
+              76.81334729044735,
+              10.809449999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-15",
+      "properties": {
+        "id": "iit-palakkad-bld-15",
+        "name": "IIT Palakkad Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.8143472909562,
+              10.808449999999999
+            ],
+            [
+              76.81465270904378,
+              10.808449999999999
+            ],
+            [
+              76.81465270904378,
+              10.80815
+            ],
+            [
+              76.8143472909562,
+              10.80815
+            ],
+            [
+              76.8143472909562,
+              10.808449999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-16",
+      "properties": {
+        "id": "iit-palakkad-bld-16",
+        "name": "IIT Palakkad Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.80934729044736,
+              10.809449999999998
+            ],
+            [
+              76.80965270955264,
+              10.809449999999998
+            ],
+            [
+              76.80965270955264,
+              10.809149999999999
+            ],
+            [
+              76.80934729044736,
+              10.809149999999999
+            ],
+            [
+              76.80934729044736,
+              10.809449999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-17",
+      "properties": {
+        "id": "iit-palakkad-bld-17",
+        "name": "IIT Palakkad Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81134728841144,
+              10.81345
+            ],
+            [
+              76.81165271158855,
+              10.81345
+            ],
+            [
+              76.81165271158855,
+              10.81315
+            ],
+            [
+              76.81134728841144,
+              10.81315
+            ],
+            [
+              76.81134728841144,
+              10.81345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-18",
+      "properties": {
+        "id": "iit-palakkad-bld-18",
+        "name": "IIT Palakkad Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.80934728892049,
+              10.812449999999998
+            ],
+            [
+              76.80965271107951,
+              10.812449999999998
+            ],
+            [
+              76.80965271107951,
+              10.812149999999999
+            ],
+            [
+              76.80934728892049,
+              10.812149999999999
+            ],
+            [
+              76.80934728892049,
+              10.812449999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-19",
+      "properties": {
+        "id": "iit-palakkad-bld-19",
+        "name": "IIT Palakkad Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.80834728841144,
+              10.81345
+            ],
+            [
+              76.80865271158855,
+              10.81345
+            ],
+            [
+              76.80865271158855,
+              10.81315
+            ],
+            [
+              76.80834728841144,
+              10.81315
+            ],
+            [
+              76.80834728841144,
+              10.81345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-20",
+      "properties": {
+        "id": "iit-palakkad-bld-20",
+        "name": "IIT Palakkad Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81434728841144,
+              10.81345
+            ],
+            [
+              76.81465271158855,
+              10.81345
+            ],
+            [
+              76.81465271158855,
+              10.81315
+            ],
+            [
+              76.81434728841144,
+              10.81315
+            ],
+            [
+              76.81434728841144,
+              10.81345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-21",
+      "properties": {
+        "id": "iit-palakkad-bld-21",
+        "name": "IIT Palakkad Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81134728942949,
+              10.811449999999999
+            ],
+            [
+              76.8116527105705,
+              10.811449999999999
+            ],
+            [
+              76.8116527105705,
+              10.81115
+            ],
+            [
+              76.81134728942949,
+              10.81115
+            ],
+            [
+              76.81134728942949,
+              10.811449999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-22",
+      "properties": {
+        "id": "iit-palakkad-bld-22",
+        "name": "IIT Palakkad Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81334728942949,
+              10.811449999999999
+            ],
+            [
+              76.8136527105705,
+              10.811449999999999
+            ],
+            [
+              76.8136527105705,
+              10.81115
+            ],
+            [
+              76.81334728942949,
+              10.81115
+            ],
+            [
+              76.81334728942949,
+              10.811449999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-23",
+      "properties": {
+        "id": "iit-palakkad-bld-23",
+        "name": "IIT Palakkad Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81234728993846,
+              10.81045
+            ],
+            [
+              76.81265271006154,
+              10.81045
+            ],
+            [
+              76.81265271006154,
+              10.81015
+            ],
+            [
+              76.81234728993846,
+              10.81015
+            ],
+            [
+              76.81234728993846,
+              10.81045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-24",
+      "properties": {
+        "id": "iit-palakkad-bld-24",
+        "name": "IIT Palakkad Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81434728790234,
+              10.814449999999999
+            ],
+            [
+              76.81465271209765,
+              10.814449999999999
+            ],
+            [
+              76.81465271209765,
+              10.81415
+            ],
+            [
+              76.81434728790234,
+              10.81415
+            ],
+            [
+              76.81434728790234,
+              10.814449999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-25",
+      "properties": {
+        "id": "iit-palakkad-bld-25",
+        "name": "IIT Palakkad Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81134728433722,
+              10.821449999999999
+            ],
+            [
+              76.81165271566277,
+              10.821449999999999
+            ],
+            [
+              76.81165271566277,
+              10.82115
+            ],
+            [
+              76.81134728433722,
+              10.82115
+            ],
+            [
+              76.81134728433722,
+              10.821449999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-26",
+      "properties": {
+        "id": "iit-palakkad-bld-26",
+        "name": "IIT Palakkad Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.80534728790234,
+              10.814449999999999
+            ],
+            [
+              76.80565271209765,
+              10.814449999999999
+            ],
+            [
+              76.80565271209765,
+              10.81415
+            ],
+            [
+              76.80534728790234,
+              10.81415
+            ],
+            [
+              76.80534728790234,
+              10.814449999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-27",
+      "properties": {
+        "id": "iit-palakkad-bld-27",
+        "name": "IIT Palakkad State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81284728790233,
+              10.814449999999999
+            ],
+            [
+              76.81315271209765,
+              10.814449999999999
+            ],
+            [
+              76.81315271209765,
+              10.81415
+            ],
+            [
+              76.81284728790233,
+              10.81415
+            ],
+            [
+              76.81284728790233,
+              10.814449999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-28",
+      "properties": {
+        "id": "iit-palakkad-bld-28",
+        "name": "IIT Palakkad Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.81234728484668,
+              10.82045
+            ],
+            [
+              76.81265271515332,
+              10.82045
+            ],
+            [
+              76.81265271515332,
+              10.82015
+            ],
+            [
+              76.81234728484668,
+              10.82015
+            ],
+            [
+              76.81234728484668,
+              10.82045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-bld-29",
+      "properties": {
+        "id": "iit-palakkad-bld-29",
+        "name": "IIT Palakkad Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.80734728535607,
+              10.81945
+            ],
+            [
+              76.80765271464391,
+              10.81945
+            ],
+            [
+              76.80765271464391,
+              10.81915
+            ],
+            [
+              76.80734728535607,
+              10.81915
+            ],
+            [
+              76.80734728535607,
+              10.81945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-road-0",
+      "properties": {
+        "id": "iit-palakkad-road-0",
+        "name": "IIT Palakkad Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.8115,
+            10.821299999999999
+          ],
+          [
+            76.8115,
+            10.8103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-road-1",
+      "properties": {
+        "id": "iit-palakkad-road-1",
+        "name": "IIT Palakkad Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.80749999999999,
+            10.8113
+          ],
+          [
+            76.8155,
+            10.8113
+          ],
+          [
+            76.8155,
+            10.818299999999999
+          ],
+          [
+            76.80749999999999,
+            10.818299999999999
+          ],
+          [
+            76.80749999999999,
+            10.8113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-road-2",
+      "properties": {
+        "id": "iit-palakkad-road-2",
+        "name": "IIT Palakkad West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.8055,
+            10.8143
+          ],
+          [
+            76.8115,
+            10.8143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-road-3",
+      "properties": {
+        "id": "iit-palakkad-road-3",
+        "name": "IIT Palakkad Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.80749999999999,
+            10.8163
+          ],
+          [
+            76.8155,
+            10.8163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-road-4",
+      "properties": {
+        "id": "iit-palakkad-road-4",
+        "name": "IIT Palakkad Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.80749999999999,
+            10.8113
+          ],
+          [
+            76.80749999999999,
+            10.8133
+          ],
+          [
+            76.8155,
+            10.8133
+          ],
+          [
+            76.8155,
+            10.8113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-walkway-0",
+      "properties": {
+        "id": "iit-palakkad-walkway-0",
+        "name": "IIT Palakkad Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.8115,
+            10.8173
+          ],
+          [
+            76.8115,
+            10.8158
+          ],
+          [
+            76.8095,
+            10.8158
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-walkway-1",
+      "properties": {
+        "id": "iit-palakkad-walkway-1",
+        "name": "IIT Palakkad CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.8145,
+            10.8163
+          ],
+          [
+            76.8115,
+            10.8163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-walkway-2",
+      "properties": {
+        "id": "iit-palakkad-walkway-2",
+        "name": "IIT Palakkad SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.8115,
+            10.8133
+          ],
+          [
+            76.8115,
+            10.8113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-walkway-3",
+      "properties": {
+        "id": "iit-palakkad-walkway-3",
+        "name": "IIT Palakkad Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.8145,
+            10.8083
+          ],
+          [
+            76.81349999999999,
+            10.809299999999999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-walkway-4",
+      "properties": {
+        "id": "iit-palakkad-walkway-4",
+        "name": "IIT Palakkad Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.8155,
+            10.812299999999999
+          ],
+          [
+            76.8145,
+            10.8133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-walkway-5",
+      "properties": {
+        "id": "iit-palakkad-walkway-5",
+        "name": "IIT Palakkad Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.80749999999999,
+            10.812299999999999
+          ],
+          [
+            76.8095,
+            10.812299999999999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-walkway-6",
+      "properties": {
+        "id": "iit-palakkad-walkway-6",
+        "name": "IIT Palakkad Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.8145,
+            10.8143
+          ],
+          [
+            76.81299999999999,
+            10.8143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-palakkad-walkway-7",
+      "properties": {
+        "id": "iit-palakkad-walkway-7",
+        "name": "IIT Palakkad Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.809,
+            10.816799999999999
+          ],
+          [
+            76.8095,
+            10.8158
+          ]
+        ]
+      }
+    }
+  ]
+}

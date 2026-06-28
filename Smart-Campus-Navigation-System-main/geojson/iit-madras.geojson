@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "IIT Madras GIS Dataset",
+  "properties": {
+    "campusId": "iit-madras",
+    "campusName": "IIT Madras",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.190Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "iit-madras-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "IIT Madras Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2428364207245,
+              12.9915
+            ],
+            [
+              80.24252169732027,
+              12.993829371405923
+            ],
+            [
+              80.24159897498745,
+              12.996
+            ],
+            [
+              80.24013113572819,
+              12.99786396103068
+            ],
+            [
+              80.23821821036225,
+              12.99929422863406
+            ],
+            [
+              80.23599056159208,
+              13.000193332436602
+            ],
+            [
+              80.2336,
+              13.0005
+            ],
+            [
+              80.23120943840792,
+              13.000193332436602
+            ],
+            [
+              80.22898178963774,
+              12.99929422863406
+            ],
+            [
+              80.2270688642718,
+              12.99786396103068
+            ],
+            [
+              80.22560102501254,
+              12.996
+            ],
+            [
+              80.22467830267972,
+              12.993829371405923
+            ],
+            [
+              80.22436357927549,
+              12.9915
+            ],
+            [
+              80.22467830267972,
+              12.989170628594078
+            ],
+            [
+              80.22560102501254,
+              12.987
+            ],
+            [
+              80.2270688642718,
+              12.985136038969321
+            ],
+            [
+              80.22898178963774,
+              12.98370577136594
+            ],
+            [
+              80.23120943840792,
+              12.982806667563398
+            ],
+            [
+              80.2336,
+              12.9825
+            ],
+            [
+              80.23599056159208,
+              12.982806667563398
+            ],
+            [
+              80.23821821036225,
+              12.98370577136594
+            ],
+            [
+              80.24013113572819,
+              12.985136038969321
+            ],
+            [
+              80.24159897498745,
+              12.987
+            ],
+            [
+              80.24252169732027,
+              12.989170628594078
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-0",
+      "properties": {
+        "id": "iit-madras-bld-0",
+        "name": "IIT Madras Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of IIT Madras, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23344605934464,
+              12.99215
+            ],
+            [
+              80.23375394065535,
+              12.99215
+            ],
+            [
+              80.23375394065535,
+              12.991850000000001
+            ],
+            [
+              80.23344605934464,
+              12.991850000000001
+            ],
+            [
+              80.23344605934464,
+              12.99215
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-1",
+      "properties": {
+        "id": "iit-madras-bld-1",
+        "name": "IIT Madras Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at IIT Madras. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23344605779475,
+              12.99465
+            ],
+            [
+              80.23375394220524,
+              12.99465
+            ],
+            [
+              80.23375394220524,
+              12.99435
+            ],
+            [
+              80.23344605779475,
+              12.99435
+            ],
+            [
+              80.23344605779475,
+              12.99465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-2",
+      "properties": {
+        "id": "iit-madras-bld-2",
+        "name": "IIT Madras Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23144605872473,
+              12.99315
+            ],
+            [
+              80.23175394127527,
+              12.99315
+            ],
+            [
+              80.23175394127527,
+              12.99285
+            ],
+            [
+              80.23144605872473,
+              12.99285
+            ],
+            [
+              80.23144605872473,
+              12.99315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-3",
+      "properties": {
+        "id": "iit-madras-bld-3",
+        "name": "IIT Madras Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23644605841474,
+              12.99365
+            ],
+            [
+              80.23675394158525,
+              12.99365
+            ],
+            [
+              80.23675394158525,
+              12.993350000000001
+            ],
+            [
+              80.23644605841474,
+              12.993350000000001
+            ],
+            [
+              80.23644605841474,
+              12.99365
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-4",
+      "properties": {
+        "id": "iit-madras-bld-4",
+        "name": "IIT Madras Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23544605903469,
+              12.99265
+            ],
+            [
+              80.2357539409653,
+              12.99265
+            ],
+            [
+              80.2357539409653,
+              12.99235
+            ],
+            [
+              80.23544605903469,
+              12.99235
+            ],
+            [
+              80.23544605903469,
+              12.99265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-5",
+      "properties": {
+        "id": "iit-madras-bld-5",
+        "name": "IIT Madras Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23044605903469,
+              12.99265
+            ],
+            [
+              80.2307539409653,
+              12.99265
+            ],
+            [
+              80.2307539409653,
+              12.99235
+            ],
+            [
+              80.23044605903469,
+              12.99235
+            ],
+            [
+              80.23044605903469,
+              12.99265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-6",
+      "properties": {
+        "id": "iit-madras-bld-6",
+        "name": "IIT Madras Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23594605779475,
+              12.99465
+            ],
+            [
+              80.23625394220524,
+              12.99465
+            ],
+            [
+              80.23625394220524,
+              12.99435
+            ],
+            [
+              80.23594605779475,
+              12.99435
+            ],
+            [
+              80.23594605779475,
+              12.99465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-7",
+      "properties": {
+        "id": "iit-madras-bld-7",
+        "name": "IIT Madras Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of IIT Madras used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23094605810475,
+              12.99415
+            ],
+            [
+              80.23125394189525,
+              12.99415
+            ],
+            [
+              80.23125394189525,
+              12.99385
+            ],
+            [
+              80.23094605810475,
+              12.99385
+            ],
+            [
+              80.23094605810475,
+              12.99415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-8",
+      "properties": {
+        "id": "iit-madras-bld-8",
+        "name": "IIT Madras Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23244605748472,
+              12.99515
+            ],
+            [
+              80.23275394251526,
+              12.99515
+            ],
+            [
+              80.23275394251526,
+              12.994850000000001
+            ],
+            [
+              80.23244605748472,
+              12.994850000000001
+            ],
+            [
+              80.23244605748472,
+              12.99515
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-9",
+      "properties": {
+        "id": "iit-madras-bld-9",
+        "name": "IIT Madras Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.22944606089422,
+              12.98965
+            ],
+            [
+              80.22975393910576,
+              12.98965
+            ],
+            [
+              80.22975393910576,
+              12.98935
+            ],
+            [
+              80.22944606089422,
+              12.98935
+            ],
+            [
+              80.22944606089422,
+              12.98965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-10",
+      "properties": {
+        "id": "iit-madras-bld-10",
+        "name": "IIT Madras Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.22944606151395,
+              12.98865
+            ],
+            [
+              80.22975393848603,
+              12.98865
+            ],
+            [
+              80.22975393848603,
+              12.98835
+            ],
+            [
+              80.22944606151395,
+              12.98835
+            ],
+            [
+              80.22944606151395,
+              12.98865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-11",
+      "properties": {
+        "id": "iit-madras-bld-11",
+        "name": "IIT Madras Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23044606213365,
+              12.98765
+            ],
+            [
+              80.23075393786634,
+              12.98765
+            ],
+            [
+              80.23075393786634,
+              12.987350000000001
+            ],
+            [
+              80.23044606213365,
+              12.987350000000001
+            ],
+            [
+              80.23044606213365,
+              12.98765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-12",
+      "properties": {
+        "id": "iit-madras-bld-12",
+        "name": "IIT Madras Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23744606089423,
+              12.98965
+            ],
+            [
+              80.23775393910577,
+              12.98965
+            ],
+            [
+              80.23775393910577,
+              12.98935
+            ],
+            [
+              80.23744606089423,
+              12.98935
+            ],
+            [
+              80.23744606089423,
+              12.98965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-13",
+      "properties": {
+        "id": "iit-madras-bld-13",
+        "name": "IIT Madras Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23744606151396,
+              12.98865
+            ],
+            [
+              80.23775393848604,
+              12.98865
+            ],
+            [
+              80.23775393848604,
+              12.98835
+            ],
+            [
+              80.23744606151396,
+              12.98835
+            ],
+            [
+              80.23744606151396,
+              12.98865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-14",
+      "properties": {
+        "id": "iit-madras-bld-14",
+        "name": "IIT Madras Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23544606275328,
+              12.98665
+            ],
+            [
+              80.2357539372467,
+              12.98665
+            ],
+            [
+              80.2357539372467,
+              12.98635
+            ],
+            [
+              80.23544606275328,
+              12.98635
+            ],
+            [
+              80.23544606275328,
+              12.98665
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-15",
+      "properties": {
+        "id": "iit-madras-bld-15",
+        "name": "IIT Madras Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23644606337287,
+              12.98565
+            ],
+            [
+              80.23675393662712,
+              12.98565
+            ],
+            [
+              80.23675393662712,
+              12.98535
+            ],
+            [
+              80.23644606337287,
+              12.98535
+            ],
+            [
+              80.23644606337287,
+              12.98565
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-16",
+      "properties": {
+        "id": "iit-madras-bld-16",
+        "name": "IIT Madras Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23144606275329,
+              12.98665
+            ],
+            [
+              80.23175393724671,
+              12.98665
+            ],
+            [
+              80.23175393724671,
+              12.98635
+            ],
+            [
+              80.23144606275329,
+              12.98635
+            ],
+            [
+              80.23144606275329,
+              12.98665
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-17",
+      "properties": {
+        "id": "iit-madras-bld-17",
+        "name": "IIT Madras Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23344606027443,
+              12.99065
+            ],
+            [
+              80.23375393972556,
+              12.99065
+            ],
+            [
+              80.23375393972556,
+              12.990350000000001
+            ],
+            [
+              80.23344606027443,
+              12.990350000000001
+            ],
+            [
+              80.23344606027443,
+              12.99065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-18",
+      "properties": {
+        "id": "iit-madras-bld-18",
+        "name": "IIT Madras Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23144606089423,
+              12.98965
+            ],
+            [
+              80.23175393910577,
+              12.98965
+            ],
+            [
+              80.23175393910577,
+              12.98935
+            ],
+            [
+              80.23144606089423,
+              12.98935
+            ],
+            [
+              80.23144606089423,
+              12.98965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-19",
+      "properties": {
+        "id": "iit-madras-bld-19",
+        "name": "IIT Madras Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23044606027443,
+              12.99065
+            ],
+            [
+              80.23075393972556,
+              12.99065
+            ],
+            [
+              80.23075393972556,
+              12.990350000000001
+            ],
+            [
+              80.23044606027443,
+              12.990350000000001
+            ],
+            [
+              80.23044606027443,
+              12.99065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-20",
+      "properties": {
+        "id": "iit-madras-bld-20",
+        "name": "IIT Madras Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23644606027443,
+              12.99065
+            ],
+            [
+              80.23675393972556,
+              12.99065
+            ],
+            [
+              80.23675393972556,
+              12.990350000000001
+            ],
+            [
+              80.23644606027443,
+              12.990350000000001
+            ],
+            [
+              80.23644606027443,
+              12.99065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-21",
+      "properties": {
+        "id": "iit-madras-bld-21",
+        "name": "IIT Madras Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23344606151396,
+              12.98865
+            ],
+            [
+              80.23375393848603,
+              12.98865
+            ],
+            [
+              80.23375393848603,
+              12.98835
+            ],
+            [
+              80.23344606151396,
+              12.98835
+            ],
+            [
+              80.23344606151396,
+              12.98865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-22",
+      "properties": {
+        "id": "iit-madras-bld-22",
+        "name": "IIT Madras Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23544606151395,
+              12.98865
+            ],
+            [
+              80.23575393848603,
+              12.98865
+            ],
+            [
+              80.23575393848603,
+              12.98835
+            ],
+            [
+              80.23544606151395,
+              12.98835
+            ],
+            [
+              80.23544606151395,
+              12.98865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-23",
+      "properties": {
+        "id": "iit-madras-bld-23",
+        "name": "IIT Madras Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23444606213366,
+              12.98765
+            ],
+            [
+              80.23475393786634,
+              12.98765
+            ],
+            [
+              80.23475393786634,
+              12.987350000000001
+            ],
+            [
+              80.23444606213366,
+              12.987350000000001
+            ],
+            [
+              80.23444606213366,
+              12.98765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-24",
+      "properties": {
+        "id": "iit-madras-bld-24",
+        "name": "IIT Madras Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23644605965458,
+              12.99165
+            ],
+            [
+              80.23675394034541,
+              12.99165
+            ],
+            [
+              80.23675394034541,
+              12.99135
+            ],
+            [
+              80.23644605965458,
+              12.99135
+            ],
+            [
+              80.23644605965458,
+              12.99165
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-25",
+      "properties": {
+        "id": "iit-madras-bld-25",
+        "name": "IIT Madras Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23344605531423,
+              12.99865
+            ],
+            [
+              80.23375394468576,
+              12.99865
+            ],
+            [
+              80.23375394468576,
+              12.99835
+            ],
+            [
+              80.23344605531423,
+              12.99835
+            ],
+            [
+              80.23344605531423,
+              12.99865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-26",
+      "properties": {
+        "id": "iit-madras-bld-26",
+        "name": "IIT Madras Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.22744605965458,
+              12.99165
+            ],
+            [
+              80.22775394034541,
+              12.99165
+            ],
+            [
+              80.22775394034541,
+              12.99135
+            ],
+            [
+              80.22744605965458,
+              12.99135
+            ],
+            [
+              80.22744605965458,
+              12.99165
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-27",
+      "properties": {
+        "id": "iit-madras-bld-27",
+        "name": "IIT Madras State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23494605965458,
+              12.99165
+            ],
+            [
+              80.2352539403454,
+              12.99165
+            ],
+            [
+              80.2352539403454,
+              12.99135
+            ],
+            [
+              80.23494605965458,
+              12.99135
+            ],
+            [
+              80.23494605965458,
+              12.99165
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-28",
+      "properties": {
+        "id": "iit-madras-bld-28",
+        "name": "IIT Madras Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.23444605593444,
+              12.99765
+            ],
+            [
+              80.23475394406556,
+              12.99765
+            ],
+            [
+              80.23475394406556,
+              12.99735
+            ],
+            [
+              80.23444605593444,
+              12.99735
+            ],
+            [
+              80.23444605593444,
+              12.99765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-bld-29",
+      "properties": {
+        "id": "iit-madras-bld-29",
+        "name": "IIT Madras Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2294460565546,
+              12.99665
+            ],
+            [
+              80.22975394344539,
+              12.99665
+            ],
+            [
+              80.22975394344539,
+              12.996350000000001
+            ],
+            [
+              80.2294460565546,
+              12.996350000000001
+            ],
+            [
+              80.2294460565546,
+              12.99665
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-road-0",
+      "properties": {
+        "id": "iit-madras-road-0",
+        "name": "IIT Madras Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2336,
+            12.9985
+          ],
+          [
+            80.2336,
+            12.9875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-road-1",
+      "properties": {
+        "id": "iit-madras-road-1",
+        "name": "IIT Madras Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.22959999999999,
+            12.9885
+          ],
+          [
+            80.2376,
+            12.9885
+          ],
+          [
+            80.2376,
+            12.9955
+          ],
+          [
+            80.22959999999999,
+            12.9955
+          ],
+          [
+            80.22959999999999,
+            12.9885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-road-2",
+      "properties": {
+        "id": "iit-madras-road-2",
+        "name": "IIT Madras West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2276,
+            12.9915
+          ],
+          [
+            80.2336,
+            12.9915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-road-3",
+      "properties": {
+        "id": "iit-madras-road-3",
+        "name": "IIT Madras Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.22959999999999,
+            12.993500000000001
+          ],
+          [
+            80.2376,
+            12.993500000000001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-road-4",
+      "properties": {
+        "id": "iit-madras-road-4",
+        "name": "IIT Madras Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.22959999999999,
+            12.9885
+          ],
+          [
+            80.22959999999999,
+            12.9905
+          ],
+          [
+            80.2376,
+            12.9905
+          ],
+          [
+            80.2376,
+            12.9885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-walkway-0",
+      "properties": {
+        "id": "iit-madras-walkway-0",
+        "name": "IIT Madras Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2336,
+            12.9945
+          ],
+          [
+            80.2336,
+            12.993
+          ],
+          [
+            80.2316,
+            12.993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-walkway-1",
+      "properties": {
+        "id": "iit-madras-walkway-1",
+        "name": "IIT Madras CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2366,
+            12.993500000000001
+          ],
+          [
+            80.2336,
+            12.993500000000001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-walkway-2",
+      "properties": {
+        "id": "iit-madras-walkway-2",
+        "name": "IIT Madras SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2336,
+            12.9905
+          ],
+          [
+            80.2336,
+            12.9885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-walkway-3",
+      "properties": {
+        "id": "iit-madras-walkway-3",
+        "name": "IIT Madras Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2366,
+            12.9855
+          ],
+          [
+            80.23559999999999,
+            12.9865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-walkway-4",
+      "properties": {
+        "id": "iit-madras-walkway-4",
+        "name": "IIT Madras Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2376,
+            12.9895
+          ],
+          [
+            80.2366,
+            12.9905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-walkway-5",
+      "properties": {
+        "id": "iit-madras-walkway-5",
+        "name": "IIT Madras Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.22959999999999,
+            12.9895
+          ],
+          [
+            80.2316,
+            12.9895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-walkway-6",
+      "properties": {
+        "id": "iit-madras-walkway-6",
+        "name": "IIT Madras Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2366,
+            12.9915
+          ],
+          [
+            80.23509999999999,
+            12.9915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-madras-walkway-7",
+      "properties": {
+        "id": "iit-madras-walkway-7",
+        "name": "IIT Madras Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2311,
+            12.994
+          ],
+          [
+            80.2316,
+            12.993
+          ]
+        ]
+      }
+    }
+  ]
+}

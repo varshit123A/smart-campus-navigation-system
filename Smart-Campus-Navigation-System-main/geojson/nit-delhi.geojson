@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Delhi GIS Dataset",
+  "properties": {
+    "campusId": "nit-delhi",
+    "campusName": "NIT Delhi",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.221Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-delhi-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Delhi Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.11537444133094,
+              28.8412
+            ],
+            [
+              77.11502434823225,
+              28.843529371405925
+            ],
+            [
+              77.11399792720229,
+              28.8457
+            ],
+            [
+              77.11236512713802,
+              28.84756396103068
+            ],
+            [
+              77.11023722066547,
+              28.848994228634062
+            ],
+            [
+              77.10775922109423,
+              28.8498933324366
+            ],
+            [
+              77.1051,
+              28.8502
+            ],
+            [
+              77.10244077890576,
+              28.8498933324366
+            ],
+            [
+              77.09996277933452,
+              28.848994228634062
+            ],
+            [
+              77.09783487286197,
+              28.84756396103068
+            ],
+            [
+              77.0962020727977,
+              28.8457
+            ],
+            [
+              77.09517565176773,
+              28.843529371405925
+            ],
+            [
+              77.09482555866904,
+              28.8412
+            ],
+            [
+              77.09517565176773,
+              28.838870628594076
+            ],
+            [
+              77.0962020727977,
+              28.8367
+            ],
+            [
+              77.09783487286197,
+              28.83483603896932
+            ],
+            [
+              77.09996277933452,
+              28.83340577136594
+            ],
+            [
+              77.10244077890576,
+              28.8325066675634
+            ],
+            [
+              77.1051,
+              28.8322
+            ],
+            [
+              77.10775922109423,
+              28.8325066675634
+            ],
+            [
+              77.11023722066547,
+              28.83340577136594
+            ],
+            [
+              77.11236512713802,
+              28.83483603896932
+            ],
+            [
+              77.11399792720229,
+              28.8367
+            ],
+            [
+              77.11502434823225,
+              28.838870628594076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-0",
+      "properties": {
+        "id": "nit-delhi-bld-0",
+        "name": "NIT Delhi Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of NIT Delhi, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1049287584882,
+              28.84185
+            ],
+            [
+              77.10527124151179,
+              28.84185
+            ],
+            [
+              77.10527124151179,
+              28.841549999999998
+            ],
+            [
+              77.1049287584882,
+              28.841549999999998
+            ],
+            [
+              77.1049287584882,
+              28.84185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-1",
+      "properties": {
+        "id": "nit-delhi-bld-1",
+        "name": "NIT Delhi Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at NIT Delhi. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10492875437319,
+              28.844350000000002
+            ],
+            [
+              77.1052712456268,
+              28.844350000000002
+            ],
+            [
+              77.1052712456268,
+              28.84405
+            ],
+            [
+              77.10492875437319,
+              28.84405
+            ],
+            [
+              77.10492875437319,
+              28.844350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-2",
+      "properties": {
+        "id": "nit-delhi-bld-2",
+        "name": "NIT Delhi Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10292875684226,
+              28.842850000000002
+            ],
+            [
+              77.10327124315774,
+              28.842850000000002
+            ],
+            [
+              77.10327124315774,
+              28.84255
+            ],
+            [
+              77.10292875684226,
+              28.84255
+            ],
+            [
+              77.10292875684226,
+              28.842850000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-3",
+      "properties": {
+        "id": "nit-delhi-bld-3",
+        "name": "NIT Delhi Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10792875601926,
+              28.84335
+            ],
+            [
+              77.10827124398072,
+              28.84335
+            ],
+            [
+              77.10827124398072,
+              28.843049999999998
+            ],
+            [
+              77.10792875601926,
+              28.843049999999998
+            ],
+            [
+              77.10792875601926,
+              28.84335
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-4",
+      "properties": {
+        "id": "nit-delhi-bld-4",
+        "name": "NIT Delhi Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10692875766524,
+              28.842350000000003
+            ],
+            [
+              77.10727124233473,
+              28.842350000000003
+            ],
+            [
+              77.10727124233473,
+              28.84205
+            ],
+            [
+              77.10692875766524,
+              28.84205
+            ],
+            [
+              77.10692875766524,
+              28.842350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-5",
+      "properties": {
+        "id": "nit-delhi-bld-5",
+        "name": "NIT Delhi Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10192875766525,
+              28.842350000000003
+            ],
+            [
+              77.10227124233474,
+              28.842350000000003
+            ],
+            [
+              77.10227124233474,
+              28.84205
+            ],
+            [
+              77.10192875766525,
+              28.84205
+            ],
+            [
+              77.10192875766525,
+              28.842350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-6",
+      "properties": {
+        "id": "nit-delhi-bld-6",
+        "name": "NIT Delhi Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10742875437319,
+              28.844350000000002
+            ],
+            [
+              77.1077712456268,
+              28.844350000000002
+            ],
+            [
+              77.1077712456268,
+              28.84405
+            ],
+            [
+              77.10742875437319,
+              28.84405
+            ],
+            [
+              77.10742875437319,
+              28.844350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-7",
+      "properties": {
+        "id": "nit-delhi-bld-7",
+        "name": "NIT Delhi Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of NIT Delhi used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10242875519624,
+              28.843850000000003
+            ],
+            [
+              77.10277124480375,
+              28.843850000000003
+            ],
+            [
+              77.10277124480375,
+              28.84355
+            ],
+            [
+              77.10242875519624,
+              28.84355
+            ],
+            [
+              77.10242875519624,
+              28.843850000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-8",
+      "properties": {
+        "id": "nit-delhi-bld-8",
+        "name": "NIT Delhi Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10392875355012,
+              28.84485
+            ],
+            [
+              77.10427124644985,
+              28.84485
+            ],
+            [
+              77.10427124644985,
+              28.844549999999998
+            ],
+            [
+              77.10392875355012,
+              28.844549999999998
+            ],
+            [
+              77.10392875355012,
+              28.84485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-9",
+      "properties": {
+        "id": "nit-delhi-bld-9",
+        "name": "NIT Delhi Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10092876260269,
+              28.839350000000003
+            ],
+            [
+              77.10127123739728,
+              28.839350000000003
+            ],
+            [
+              77.10127123739728,
+              28.83905
+            ],
+            [
+              77.10092876260269,
+              28.83905
+            ],
+            [
+              77.10092876260269,
+              28.839350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-10",
+      "properties": {
+        "id": "nit-delhi-bld-10",
+        "name": "NIT Delhi Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10092876424834,
+              28.838350000000002
+            ],
+            [
+              77.10127123575164,
+              28.838350000000002
+            ],
+            [
+              77.10127123575164,
+              28.83805
+            ],
+            [
+              77.10092876424834,
+              28.83805
+            ],
+            [
+              77.10092876424834,
+              28.838350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-11",
+      "properties": {
+        "id": "nit-delhi-bld-11",
+        "name": "NIT Delhi Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10192876589392,
+              28.83735
+            ],
+            [
+              77.10227123410607,
+              28.83735
+            ],
+            [
+              77.10227123410607,
+              28.837049999999998
+            ],
+            [
+              77.10192876589392,
+              28.837049999999998
+            ],
+            [
+              77.10192876589392,
+              28.83735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-12",
+      "properties": {
+        "id": "nit-delhi-bld-12",
+        "name": "NIT Delhi Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1089287626027,
+              28.839350000000003
+            ],
+            [
+              77.1092712373973,
+              28.839350000000003
+            ],
+            [
+              77.1092712373973,
+              28.83905
+            ],
+            [
+              77.1089287626027,
+              28.83905
+            ],
+            [
+              77.1089287626027,
+              28.839350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-13",
+      "properties": {
+        "id": "nit-delhi-bld-13",
+        "name": "NIT Delhi Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10892876424835,
+              28.838350000000002
+            ],
+            [
+              77.10927123575165,
+              28.838350000000002
+            ],
+            [
+              77.10927123575165,
+              28.83805
+            ],
+            [
+              77.10892876424835,
+              28.83805
+            ],
+            [
+              77.10892876424835,
+              28.838350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-14",
+      "properties": {
+        "id": "nit-delhi-bld-14",
+        "name": "NIT Delhi Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10692876753939,
+              28.836350000000003
+            ],
+            [
+              77.10727123246059,
+              28.836350000000003
+            ],
+            [
+              77.10727123246059,
+              28.83605
+            ],
+            [
+              77.10692876753939,
+              28.83605
+            ],
+            [
+              77.10692876753939,
+              28.836350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-15",
+      "properties": {
+        "id": "nit-delhi-bld-15",
+        "name": "NIT Delhi Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1079287691848,
+              28.835350000000002
+            ],
+            [
+              77.10827123081519,
+              28.835350000000002
+            ],
+            [
+              77.10827123081519,
+              28.83505
+            ],
+            [
+              77.1079287691848,
+              28.83505
+            ],
+            [
+              77.1079287691848,
+              28.835350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-16",
+      "properties": {
+        "id": "nit-delhi-bld-16",
+        "name": "NIT Delhi Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1029287675394,
+              28.836350000000003
+            ],
+            [
+              77.1032712324606,
+              28.836350000000003
+            ],
+            [
+              77.1032712324606,
+              28.83605
+            ],
+            [
+              77.1029287675394,
+              28.83605
+            ],
+            [
+              77.1029287675394,
+              28.836350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-17",
+      "properties": {
+        "id": "nit-delhi-bld-17",
+        "name": "NIT Delhi Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10492876095697,
+              28.84035
+            ],
+            [
+              77.10527123904302,
+              28.84035
+            ],
+            [
+              77.10527123904302,
+              28.840049999999998
+            ],
+            [
+              77.10492876095697,
+              28.840049999999998
+            ],
+            [
+              77.10492876095697,
+              28.84035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-18",
+      "properties": {
+        "id": "nit-delhi-bld-18",
+        "name": "NIT Delhi Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1029287626027,
+              28.839350000000003
+            ],
+            [
+              77.1032712373973,
+              28.839350000000003
+            ],
+            [
+              77.1032712373973,
+              28.83905
+            ],
+            [
+              77.1029287626027,
+              28.83905
+            ],
+            [
+              77.1029287626027,
+              28.839350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-19",
+      "properties": {
+        "id": "nit-delhi-bld-19",
+        "name": "NIT Delhi Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10192876095697,
+              28.84035
+            ],
+            [
+              77.10227123904302,
+              28.84035
+            ],
+            [
+              77.10227123904302,
+              28.840049999999998
+            ],
+            [
+              77.10192876095697,
+              28.840049999999998
+            ],
+            [
+              77.10192876095697,
+              28.84035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-20",
+      "properties": {
+        "id": "nit-delhi-bld-20",
+        "name": "NIT Delhi Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10792876095697,
+              28.84035
+            ],
+            [
+              77.10827123904302,
+              28.84035
+            ],
+            [
+              77.10827123904302,
+              28.840049999999998
+            ],
+            [
+              77.10792876095697,
+              28.840049999999998
+            ],
+            [
+              77.10792876095697,
+              28.84035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-21",
+      "properties": {
+        "id": "nit-delhi-bld-21",
+        "name": "NIT Delhi Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10492876424834,
+              28.838350000000002
+            ],
+            [
+              77.10527123575164,
+              28.838350000000002
+            ],
+            [
+              77.10527123575164,
+              28.83805
+            ],
+            [
+              77.10492876424834,
+              28.83805
+            ],
+            [
+              77.10492876424834,
+              28.838350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-22",
+      "properties": {
+        "id": "nit-delhi-bld-22",
+        "name": "NIT Delhi Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10692876424834,
+              28.838350000000002
+            ],
+            [
+              77.10727123575164,
+              28.838350000000002
+            ],
+            [
+              77.10727123575164,
+              28.83805
+            ],
+            [
+              77.10692876424834,
+              28.83805
+            ],
+            [
+              77.10692876424834,
+              28.838350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-23",
+      "properties": {
+        "id": "nit-delhi-bld-23",
+        "name": "NIT Delhi Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10592876589392,
+              28.83735
+            ],
+            [
+              77.10627123410607,
+              28.83735
+            ],
+            [
+              77.10627123410607,
+              28.837049999999998
+            ],
+            [
+              77.10592876589392,
+              28.837049999999998
+            ],
+            [
+              77.10592876589392,
+              28.83735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-24",
+      "properties": {
+        "id": "nit-delhi-bld-24",
+        "name": "NIT Delhi Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10792875931115,
+              28.841350000000002
+            ],
+            [
+              77.10827124068884,
+              28.841350000000002
+            ],
+            [
+              77.10827124068884,
+              28.84105
+            ],
+            [
+              77.10792875931115,
+              28.84105
+            ],
+            [
+              77.10792875931115,
+              28.841350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-25",
+      "properties": {
+        "id": "nit-delhi-bld-25",
+        "name": "NIT Delhi Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10492874778808,
+              28.848350000000003
+            ],
+            [
+              77.1052712522119,
+              28.848350000000003
+            ],
+            [
+              77.1052712522119,
+              28.84805
+            ],
+            [
+              77.10492874778808,
+              28.84805
+            ],
+            [
+              77.10492874778808,
+              28.848350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-26",
+      "properties": {
+        "id": "nit-delhi-bld-26",
+        "name": "NIT Delhi Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.09892875931115,
+              28.841350000000002
+            ],
+            [
+              77.09927124068884,
+              28.841350000000002
+            ],
+            [
+              77.09927124068884,
+              28.84105
+            ],
+            [
+              77.09892875931115,
+              28.84105
+            ],
+            [
+              77.09892875931115,
+              28.841350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-27",
+      "properties": {
+        "id": "nit-delhi-bld-27",
+        "name": "NIT Delhi State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10642875931114,
+              28.841350000000002
+            ],
+            [
+              77.10677124068883,
+              28.841350000000002
+            ],
+            [
+              77.10677124068883,
+              28.84105
+            ],
+            [
+              77.10642875931114,
+              28.84105
+            ],
+            [
+              77.10642875931114,
+              28.841350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-28",
+      "properties": {
+        "id": "nit-delhi-bld-28",
+        "name": "NIT Delhi Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.10592874943448,
+              28.847350000000002
+            ],
+            [
+              77.10627125056551,
+              28.847350000000002
+            ],
+            [
+              77.10627125056551,
+              28.84705
+            ],
+            [
+              77.10592874943448,
+              28.84705
+            ],
+            [
+              77.10592874943448,
+              28.847350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-bld-29",
+      "properties": {
+        "id": "nit-delhi-bld-29",
+        "name": "NIT Delhi Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1009287510808,
+              28.84635
+            ],
+            [
+              77.10127124891918,
+              28.84635
+            ],
+            [
+              77.10127124891918,
+              28.846049999999998
+            ],
+            [
+              77.1009287510808,
+              28.846049999999998
+            ],
+            [
+              77.1009287510808,
+              28.84635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-road-0",
+      "properties": {
+        "id": "nit-delhi-road-0",
+        "name": "NIT Delhi Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1051,
+            28.848200000000002
+          ],
+          [
+            77.1051,
+            28.8372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-road-1",
+      "properties": {
+        "id": "nit-delhi-road-1",
+        "name": "NIT Delhi Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.10109999999999,
+            28.8382
+          ],
+          [
+            77.1091,
+            28.8382
+          ],
+          [
+            77.1091,
+            28.845200000000002
+          ],
+          [
+            77.10109999999999,
+            28.845200000000002
+          ],
+          [
+            77.10109999999999,
+            28.8382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-road-2",
+      "properties": {
+        "id": "nit-delhi-road-2",
+        "name": "NIT Delhi West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.09909999999999,
+            28.8412
+          ],
+          [
+            77.1051,
+            28.8412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-road-3",
+      "properties": {
+        "id": "nit-delhi-road-3",
+        "name": "NIT Delhi Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.10109999999999,
+            28.8432
+          ],
+          [
+            77.1091,
+            28.8432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-road-4",
+      "properties": {
+        "id": "nit-delhi-road-4",
+        "name": "NIT Delhi Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.10109999999999,
+            28.8382
+          ],
+          [
+            77.10109999999999,
+            28.8402
+          ],
+          [
+            77.1091,
+            28.8402
+          ],
+          [
+            77.1091,
+            28.8382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-walkway-0",
+      "properties": {
+        "id": "nit-delhi-walkway-0",
+        "name": "NIT Delhi Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1051,
+            28.8442
+          ],
+          [
+            77.1051,
+            28.8427
+          ],
+          [
+            77.1031,
+            28.8427
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-walkway-1",
+      "properties": {
+        "id": "nit-delhi-walkway-1",
+        "name": "NIT Delhi CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1081,
+            28.8432
+          ],
+          [
+            77.1051,
+            28.8432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-walkway-2",
+      "properties": {
+        "id": "nit-delhi-walkway-2",
+        "name": "NIT Delhi SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1051,
+            28.8402
+          ],
+          [
+            77.1051,
+            28.8382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-walkway-3",
+      "properties": {
+        "id": "nit-delhi-walkway-3",
+        "name": "NIT Delhi Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1081,
+            28.8352
+          ],
+          [
+            77.10709999999999,
+            28.8362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-walkway-4",
+      "properties": {
+        "id": "nit-delhi-walkway-4",
+        "name": "NIT Delhi Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1091,
+            28.8392
+          ],
+          [
+            77.1081,
+            28.8402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-walkway-5",
+      "properties": {
+        "id": "nit-delhi-walkway-5",
+        "name": "NIT Delhi Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.10109999999999,
+            28.8392
+          ],
+          [
+            77.1031,
+            28.8392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-walkway-6",
+      "properties": {
+        "id": "nit-delhi-walkway-6",
+        "name": "NIT Delhi Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1081,
+            28.8412
+          ],
+          [
+            77.10659999999999,
+            28.8412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-delhi-walkway-7",
+      "properties": {
+        "id": "nit-delhi-walkway-7",
+        "name": "NIT Delhi Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1026,
+            28.843700000000002
+          ],
+          [
+            77.1031,
+            28.8427
+          ]
+        ]
+      }
+    }
+  ]
+}

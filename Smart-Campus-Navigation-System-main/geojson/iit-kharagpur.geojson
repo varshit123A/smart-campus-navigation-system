@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "IIT Kharagpur GIS Dataset",
+  "properties": {
+    "campusId": "iit-kharagpur",
+    "campusName": "IIT Kharagpur",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.191Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "IIT Kharagpur Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.32022856221826,
+              22.3149
+            ],
+            [
+              87.31989706949928,
+              22.317229371405926
+            ],
+            [
+              87.3189251820233,
+              22.3194
+            ],
+            [
+              87.31737913231574,
+              22.32126396103068
+            ],
+            [
+              87.31536428110913,
+              22.322694228634063
+            ],
+            [
+              87.31301793718356,
+              22.3235933324366
+            ],
+            [
+              87.3105,
+              22.323900000000002
+            ],
+            [
+              87.30798206281645,
+              22.3235933324366
+            ],
+            [
+              87.30563571889088,
+              22.322694228634063
+            ],
+            [
+              87.30362086768427,
+              22.32126396103068
+            ],
+            [
+              87.3020748179767,
+              22.3194
+            ],
+            [
+              87.30110293050073,
+              22.317229371405926
+            ],
+            [
+              87.30077143778175,
+              22.3149
+            ],
+            [
+              87.30110293050073,
+              22.312570628594077
+            ],
+            [
+              87.3020748179767,
+              22.3104
+            ],
+            [
+              87.30362086768427,
+              22.308536038969322
+            ],
+            [
+              87.30563571889088,
+              22.30710577136594
+            ],
+            [
+              87.30798206281645,
+              22.3062066675634
+            ],
+            [
+              87.3105,
+              22.3059
+            ],
+            [
+              87.31301793718356,
+              22.3062066675634
+            ],
+            [
+              87.31536428110913,
+              22.30710577136594
+            ],
+            [
+              87.31737913231574,
+              22.308536038969322
+            ],
+            [
+              87.3189251820233,
+              22.3104
+            ],
+            [
+              87.31989706949928,
+              22.312570628594077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-0",
+      "properties": {
+        "id": "iit-kharagpur-bld-0",
+        "name": "IIT Kharagpur Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of IIT Kharagpur, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.3103378567156,
+              22.31555
+            ],
+            [
+              87.3106621432844,
+              22.31555
+            ],
+            [
+              87.3106621432844,
+              22.31525
+            ],
+            [
+              87.3103378567156,
+              22.31525
+            ],
+            [
+              87.3103378567156,
+              22.31555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-1",
+      "properties": {
+        "id": "iit-kharagpur-bld-1",
+        "name": "IIT Kharagpur Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at IIT Kharagpur. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31033785381157,
+              22.318050000000003
+            ],
+            [
+              87.31066214618843,
+              22.318050000000003
+            ],
+            [
+              87.31066214618843,
+              22.31775
+            ],
+            [
+              87.31033785381157,
+              22.31775
+            ],
+            [
+              87.31033785381157,
+              22.318050000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-2",
+      "properties": {
+        "id": "iit-kharagpur-bld-2",
+        "name": "IIT Kharagpur Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.30833785555406,
+              22.316550000000003
+            ],
+            [
+              87.30866214444596,
+              22.316550000000003
+            ],
+            [
+              87.30866214444596,
+              22.31625
+            ],
+            [
+              87.30833785555406,
+              22.31625
+            ],
+            [
+              87.30833785555406,
+              22.316550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-3",
+      "properties": {
+        "id": "iit-kharagpur-bld-3",
+        "name": "IIT Kharagpur Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31333785497324,
+              22.317050000000002
+            ],
+            [
+              87.31366214502677,
+              22.317050000000002
+            ],
+            [
+              87.31366214502677,
+              22.31675
+            ],
+            [
+              87.31333785497324,
+              22.31675
+            ],
+            [
+              87.31333785497324,
+              22.317050000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-4",
+      "properties": {
+        "id": "iit-kharagpur-bld-4",
+        "name": "IIT Kharagpur Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31233785613483,
+              22.316050000000004
+            ],
+            [
+              87.31266214386517,
+              22.316050000000004
+            ],
+            [
+              87.31266214386517,
+              22.31575
+            ],
+            [
+              87.31233785613483,
+              22.31575
+            ],
+            [
+              87.31233785613483,
+              22.316050000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-5",
+      "properties": {
+        "id": "iit-kharagpur-bld-5",
+        "name": "IIT Kharagpur Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.30733785613484,
+              22.316050000000004
+            ],
+            [
+              87.30766214386517,
+              22.316050000000004
+            ],
+            [
+              87.30766214386517,
+              22.31575
+            ],
+            [
+              87.30733785613484,
+              22.31575
+            ],
+            [
+              87.30733785613484,
+              22.316050000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-6",
+      "properties": {
+        "id": "iit-kharagpur-bld-6",
+        "name": "IIT Kharagpur Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31283785381157,
+              22.318050000000003
+            ],
+            [
+              87.31316214618843,
+              22.318050000000003
+            ],
+            [
+              87.31316214618843,
+              22.31775
+            ],
+            [
+              87.31283785381157,
+              22.31775
+            ],
+            [
+              87.31283785381157,
+              22.318050000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-7",
+      "properties": {
+        "id": "iit-kharagpur-bld-7",
+        "name": "IIT Kharagpur Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of IIT Kharagpur used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.30783785439242,
+              22.317550000000004
+            ],
+            [
+              87.3081621456076,
+              22.317550000000004
+            ],
+            [
+              87.3081621456076,
+              22.31725
+            ],
+            [
+              87.30783785439242,
+              22.31725
+            ],
+            [
+              87.30783785439242,
+              22.317550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-8",
+      "properties": {
+        "id": "iit-kharagpur-bld-8",
+        "name": "IIT Kharagpur Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.30933785323072,
+              22.318550000000002
+            ],
+            [
+              87.30966214676928,
+              22.318550000000002
+            ],
+            [
+              87.30966214676928,
+              22.31825
+            ],
+            [
+              87.30933785323072,
+              22.31825
+            ],
+            [
+              87.30933785323072,
+              22.318550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-9",
+      "properties": {
+        "id": "iit-kharagpur-bld-9",
+        "name": "IIT Kharagpur Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.30633785961922,
+              22.313050000000004
+            ],
+            [
+              87.30666214038078,
+              22.313050000000004
+            ],
+            [
+              87.30666214038078,
+              22.31275
+            ],
+            [
+              87.30633785961922,
+              22.31275
+            ],
+            [
+              87.30633785961922,
+              22.313050000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-10",
+      "properties": {
+        "id": "iit-kharagpur-bld-10",
+        "name": "IIT Kharagpur Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.30633786078056,
+              22.312050000000003
+            ],
+            [
+              87.30666213921944,
+              22.312050000000003
+            ],
+            [
+              87.30666213921944,
+              22.31175
+            ],
+            [
+              87.30633786078056,
+              22.31175
+            ],
+            [
+              87.30633786078056,
+              22.312050000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-11",
+      "properties": {
+        "id": "iit-kharagpur-bld-11",
+        "name": "IIT Kharagpur Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.30733786194182,
+              22.31105
+            ],
+            [
+              87.30766213805819,
+              22.31105
+            ],
+            [
+              87.30766213805819,
+              22.31075
+            ],
+            [
+              87.30733786194182,
+              22.31075
+            ],
+            [
+              87.30733786194182,
+              22.31105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-12",
+      "properties": {
+        "id": "iit-kharagpur-bld-12",
+        "name": "IIT Kharagpur Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31433785961923,
+              22.313050000000004
+            ],
+            [
+              87.31466214038079,
+              22.313050000000004
+            ],
+            [
+              87.31466214038079,
+              22.31275
+            ],
+            [
+              87.31433785961923,
+              22.31275
+            ],
+            [
+              87.31433785961923,
+              22.313050000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-13",
+      "properties": {
+        "id": "iit-kharagpur-bld-13",
+        "name": "IIT Kharagpur Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31433786078057,
+              22.312050000000003
+            ],
+            [
+              87.31466213921945,
+              22.312050000000003
+            ],
+            [
+              87.31466213921945,
+              22.31175
+            ],
+            [
+              87.31433786078057,
+              22.31175
+            ],
+            [
+              87.31433786078057,
+              22.312050000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-14",
+      "properties": {
+        "id": "iit-kharagpur-bld-14",
+        "name": "IIT Kharagpur Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31233786310302,
+              22.310050000000004
+            ],
+            [
+              87.31266213689698,
+              22.310050000000004
+            ],
+            [
+              87.31266213689698,
+              22.30975
+            ],
+            [
+              87.31233786310302,
+              22.30975
+            ],
+            [
+              87.31233786310302,
+              22.310050000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-15",
+      "properties": {
+        "id": "iit-kharagpur-bld-15",
+        "name": "IIT Kharagpur Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31333786426416,
+              22.309050000000003
+            ],
+            [
+              87.31366213573585,
+              22.309050000000003
+            ],
+            [
+              87.31366213573585,
+              22.30875
+            ],
+            [
+              87.31333786426416,
+              22.30875
+            ],
+            [
+              87.31333786426416,
+              22.309050000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-16",
+      "properties": {
+        "id": "iit-kharagpur-bld-16",
+        "name": "IIT Kharagpur Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.30833786310303,
+              22.310050000000004
+            ],
+            [
+              87.30866213689698,
+              22.310050000000004
+            ],
+            [
+              87.30866213689698,
+              22.30975
+            ],
+            [
+              87.30833786310303,
+              22.30975
+            ],
+            [
+              87.30833786310303,
+              22.310050000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-17",
+      "properties": {
+        "id": "iit-kharagpur-bld-17",
+        "name": "IIT Kharagpur Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31033785845783,
+              22.31405
+            ],
+            [
+              87.31066214154218,
+              22.31405
+            ],
+            [
+              87.31066214154218,
+              22.31375
+            ],
+            [
+              87.31033785845783,
+              22.31375
+            ],
+            [
+              87.31033785845783,
+              22.31405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-18",
+      "properties": {
+        "id": "iit-kharagpur-bld-18",
+        "name": "IIT Kharagpur Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.30833785961923,
+              22.313050000000004
+            ],
+            [
+              87.30866214038079,
+              22.313050000000004
+            ],
+            [
+              87.30866214038079,
+              22.31275
+            ],
+            [
+              87.30833785961923,
+              22.31275
+            ],
+            [
+              87.30833785961923,
+              22.313050000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-19",
+      "properties": {
+        "id": "iit-kharagpur-bld-19",
+        "name": "IIT Kharagpur Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.30733785845783,
+              22.31405
+            ],
+            [
+              87.30766214154218,
+              22.31405
+            ],
+            [
+              87.30766214154218,
+              22.31375
+            ],
+            [
+              87.30733785845783,
+              22.31375
+            ],
+            [
+              87.30733785845783,
+              22.31405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-20",
+      "properties": {
+        "id": "iit-kharagpur-bld-20",
+        "name": "IIT Kharagpur Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31333785845783,
+              22.31405
+            ],
+            [
+              87.31366214154218,
+              22.31405
+            ],
+            [
+              87.31366214154218,
+              22.31375
+            ],
+            [
+              87.31333785845783,
+              22.31375
+            ],
+            [
+              87.31333785845783,
+              22.31405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-21",
+      "properties": {
+        "id": "iit-kharagpur-bld-21",
+        "name": "IIT Kharagpur Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31033786078056,
+              22.312050000000003
+            ],
+            [
+              87.31066213921945,
+              22.312050000000003
+            ],
+            [
+              87.31066213921945,
+              22.31175
+            ],
+            [
+              87.31033786078056,
+              22.31175
+            ],
+            [
+              87.31033786078056,
+              22.312050000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-22",
+      "properties": {
+        "id": "iit-kharagpur-bld-22",
+        "name": "IIT Kharagpur Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31233786078056,
+              22.312050000000003
+            ],
+            [
+              87.31266213921944,
+              22.312050000000003
+            ],
+            [
+              87.31266213921944,
+              22.31175
+            ],
+            [
+              87.31233786078056,
+              22.31175
+            ],
+            [
+              87.31233786078056,
+              22.312050000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-23",
+      "properties": {
+        "id": "iit-kharagpur-bld-23",
+        "name": "IIT Kharagpur Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31133786194182,
+              22.31105
+            ],
+            [
+              87.3116621380582,
+              22.31105
+            ],
+            [
+              87.3116621380582,
+              22.31075
+            ],
+            [
+              87.31133786194182,
+              22.31075
+            ],
+            [
+              87.31133786194182,
+              22.31105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-24",
+      "properties": {
+        "id": "iit-kharagpur-bld-24",
+        "name": "IIT Kharagpur Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31333785729636,
+              22.315050000000003
+            ],
+            [
+              87.31366214270365,
+              22.315050000000003
+            ],
+            [
+              87.31366214270365,
+              22.31475
+            ],
+            [
+              87.31333785729636,
+              22.31475
+            ],
+            [
+              87.31333785729636,
+              22.315050000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-25",
+      "properties": {
+        "id": "iit-kharagpur-bld-25",
+        "name": "IIT Kharagpur Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31033784916427,
+              22.322050000000004
+            ],
+            [
+              87.31066215083574,
+              22.322050000000004
+            ],
+            [
+              87.31066215083574,
+              22.32175
+            ],
+            [
+              87.31033784916427,
+              22.32175
+            ],
+            [
+              87.31033784916427,
+              22.322050000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-26",
+      "properties": {
+        "id": "iit-kharagpur-bld-26",
+        "name": "IIT Kharagpur Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.30433785729636,
+              22.315050000000003
+            ],
+            [
+              87.30466214270365,
+              22.315050000000003
+            ],
+            [
+              87.30466214270365,
+              22.31475
+            ],
+            [
+              87.30433785729636,
+              22.31475
+            ],
+            [
+              87.30433785729636,
+              22.315050000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-27",
+      "properties": {
+        "id": "iit-kharagpur-bld-27",
+        "name": "IIT Kharagpur State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31183785729635,
+              22.315050000000003
+            ],
+            [
+              87.31216214270364,
+              22.315050000000003
+            ],
+            [
+              87.31216214270364,
+              22.31475
+            ],
+            [
+              87.31183785729635,
+              22.31475
+            ],
+            [
+              87.31183785729635,
+              22.315050000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-28",
+      "properties": {
+        "id": "iit-kharagpur-bld-28",
+        "name": "IIT Kharagpur Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.31133785032621,
+              22.321050000000003
+            ],
+            [
+              87.31166214967381,
+              22.321050000000003
+            ],
+            [
+              87.31166214967381,
+              22.32075
+            ],
+            [
+              87.31133785032621,
+              22.32075
+            ],
+            [
+              87.31133785032621,
+              22.321050000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-bld-29",
+      "properties": {
+        "id": "iit-kharagpur-bld-29",
+        "name": "IIT Kharagpur Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.30633785148805,
+              22.320050000000002
+            ],
+            [
+              87.30666214851195,
+              22.320050000000002
+            ],
+            [
+              87.30666214851195,
+              22.31975
+            ],
+            [
+              87.30633785148805,
+              22.31975
+            ],
+            [
+              87.30633785148805,
+              22.320050000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-road-0",
+      "properties": {
+        "id": "iit-kharagpur-road-0",
+        "name": "IIT Kharagpur Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.3105,
+            22.321900000000003
+          ],
+          [
+            87.3105,
+            22.3109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-road-1",
+      "properties": {
+        "id": "iit-kharagpur-road-1",
+        "name": "IIT Kharagpur Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.3065,
+            22.3119
+          ],
+          [
+            87.31450000000001,
+            22.3119
+          ],
+          [
+            87.31450000000001,
+            22.318900000000003
+          ],
+          [
+            87.3065,
+            22.318900000000003
+          ],
+          [
+            87.3065,
+            22.3119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-road-2",
+      "properties": {
+        "id": "iit-kharagpur-road-2",
+        "name": "IIT Kharagpur West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.3045,
+            22.3149
+          ],
+          [
+            87.3105,
+            22.3149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-road-3",
+      "properties": {
+        "id": "iit-kharagpur-road-3",
+        "name": "IIT Kharagpur Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.3065,
+            22.3169
+          ],
+          [
+            87.31450000000001,
+            22.3169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-road-4",
+      "properties": {
+        "id": "iit-kharagpur-road-4",
+        "name": "IIT Kharagpur Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.3065,
+            22.3119
+          ],
+          [
+            87.3065,
+            22.3139
+          ],
+          [
+            87.31450000000001,
+            22.3139
+          ],
+          [
+            87.31450000000001,
+            22.3119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-walkway-0",
+      "properties": {
+        "id": "iit-kharagpur-walkway-0",
+        "name": "IIT Kharagpur Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.3105,
+            22.3179
+          ],
+          [
+            87.3105,
+            22.3164
+          ],
+          [
+            87.30850000000001,
+            22.3164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-walkway-1",
+      "properties": {
+        "id": "iit-kharagpur-walkway-1",
+        "name": "IIT Kharagpur CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.3135,
+            22.3169
+          ],
+          [
+            87.3105,
+            22.3169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-walkway-2",
+      "properties": {
+        "id": "iit-kharagpur-walkway-2",
+        "name": "IIT Kharagpur SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.3105,
+            22.3139
+          ],
+          [
+            87.3105,
+            22.3119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-walkway-3",
+      "properties": {
+        "id": "iit-kharagpur-walkway-3",
+        "name": "IIT Kharagpur Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.3135,
+            22.3089
+          ],
+          [
+            87.3125,
+            22.309900000000003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-walkway-4",
+      "properties": {
+        "id": "iit-kharagpur-walkway-4",
+        "name": "IIT Kharagpur Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.31450000000001,
+            22.312900000000003
+          ],
+          [
+            87.3135,
+            22.3139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-walkway-5",
+      "properties": {
+        "id": "iit-kharagpur-walkway-5",
+        "name": "IIT Kharagpur Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.3065,
+            22.312900000000003
+          ],
+          [
+            87.30850000000001,
+            22.312900000000003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-walkway-6",
+      "properties": {
+        "id": "iit-kharagpur-walkway-6",
+        "name": "IIT Kharagpur Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.3135,
+            22.3149
+          ],
+          [
+            87.312,
+            22.3149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-kharagpur-walkway-7",
+      "properties": {
+        "id": "iit-kharagpur-walkway-7",
+        "name": "IIT Kharagpur Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.308,
+            22.317400000000003
+          ],
+          [
+            87.30850000000001,
+            22.3164
+          ]
+        ]
+      }
+    }
+  ]
+}

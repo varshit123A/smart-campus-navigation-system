@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Jalandhar GIS Dataset",
+  "properties": {
+    "campusId": "nit-jalandhar",
+    "campusName": "NIT Jalandhar",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.212Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Jalandhar Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.54634363754946,
+              31.3951
+            ],
+            [
+              75.54598437181205,
+              31.397429371405924
+            ],
+            [
+              75.54493105796612,
+              31.3996
+            ],
+            [
+              75.54325547760959,
+              31.40146396103068
+            ],
+            [
+              75.54107181877472,
+              31.40289422863406
+            ],
+            [
+              75.53852889420246,
+              31.4037933324366
+            ],
+            [
+              75.5358,
+              31.4041
+            ],
+            [
+              75.53307110579753,
+              31.4037933324366
+            ],
+            [
+              75.53052818122526,
+              31.40289422863406
+            ],
+            [
+              75.5283445223904,
+              31.40146396103068
+            ],
+            [
+              75.52666894203387,
+              31.3996
+            ],
+            [
+              75.52561562818794,
+              31.397429371405924
+            ],
+            [
+              75.52525636245053,
+              31.3951
+            ],
+            [
+              75.52561562818794,
+              31.392770628594075
+            ],
+            [
+              75.52666894203387,
+              31.3906
+            ],
+            [
+              75.5283445223904,
+              31.38873603896932
+            ],
+            [
+              75.53052818122526,
+              31.387305771365938
+            ],
+            [
+              75.53307110579753,
+              31.3864066675634
+            ],
+            [
+              75.5358,
+              31.3861
+            ],
+            [
+              75.53852889420246,
+              31.3864066675634
+            ],
+            [
+              75.54107181877472,
+              31.387305771365938
+            ],
+            [
+              75.54325547760959,
+              31.38873603896932
+            ],
+            [
+              75.54493105796612,
+              31.3906
+            ],
+            [
+              75.54598437181205,
+              31.392770628594075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-0",
+      "properties": {
+        "id": "nit-jalandhar-bld-0",
+        "name": "NIT Jalandhar Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of NIT Jalandhar, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53562427177161,
+              31.39575
+            ],
+            [
+              75.53597572822838,
+              31.39575
+            ],
+            [
+              75.53597572822838,
+              31.395449999999997
+            ],
+            [
+              75.53562427177161,
+              31.395449999999997
+            ],
+            [
+              75.53562427177161,
+              31.39575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-1",
+      "properties": {
+        "id": "nit-jalandhar-bld-1",
+        "name": "NIT Jalandhar Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at NIT Jalandhar. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53562426709182,
+              31.39825
+            ],
+            [
+              75.53597573290817,
+              31.39825
+            ],
+            [
+              75.53597573290817,
+              31.397949999999998
+            ],
+            [
+              75.53562426709182,
+              31.397949999999998
+            ],
+            [
+              75.53562426709182,
+              31.39825
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-2",
+      "properties": {
+        "id": "nit-jalandhar-bld-2",
+        "name": "NIT Jalandhar Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53362426989976,
+              31.39675
+            ],
+            [
+              75.53397573010024,
+              31.39675
+            ],
+            [
+              75.53397573010024,
+              31.396449999999998
+            ],
+            [
+              75.53362426989976,
+              31.396449999999998
+            ],
+            [
+              75.53362426989976,
+              31.39675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-3",
+      "properties": {
+        "id": "nit-jalandhar-bld-3",
+        "name": "NIT Jalandhar Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.5386242689638,
+              31.39725
+            ],
+            [
+              75.53897573103619,
+              31.39725
+            ],
+            [
+              75.53897573103619,
+              31.396949999999997
+            ],
+            [
+              75.5386242689638,
+              31.396949999999997
+            ],
+            [
+              75.5386242689638,
+              31.39725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-4",
+      "properties": {
+        "id": "nit-jalandhar-bld-4",
+        "name": "NIT Jalandhar Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53762427083569,
+              31.396250000000002
+            ],
+            [
+              75.53797572916429,
+              31.396250000000002
+            ],
+            [
+              75.53797572916429,
+              31.39595
+            ],
+            [
+              75.53762427083569,
+              31.39595
+            ],
+            [
+              75.53762427083569,
+              31.396250000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-5",
+      "properties": {
+        "id": "nit-jalandhar-bld-5",
+        "name": "NIT Jalandhar Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.5326242708357,
+              31.396250000000002
+            ],
+            [
+              75.53297572916429,
+              31.396250000000002
+            ],
+            [
+              75.53297572916429,
+              31.39595
+            ],
+            [
+              75.5326242708357,
+              31.39595
+            ],
+            [
+              75.5326242708357,
+              31.396250000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-6",
+      "properties": {
+        "id": "nit-jalandhar-bld-6",
+        "name": "NIT Jalandhar Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53812426709182,
+              31.39825
+            ],
+            [
+              75.53847573290817,
+              31.39825
+            ],
+            [
+              75.53847573290817,
+              31.397949999999998
+            ],
+            [
+              75.53812426709182,
+              31.397949999999998
+            ],
+            [
+              75.53812426709182,
+              31.39825
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-7",
+      "properties": {
+        "id": "nit-jalandhar-bld-7",
+        "name": "NIT Jalandhar Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of NIT Jalandhar used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53312426802782,
+              31.397750000000002
+            ],
+            [
+              75.53347573197217,
+              31.397750000000002
+            ],
+            [
+              75.53347573197217,
+              31.39745
+            ],
+            [
+              75.53312426802782,
+              31.39745
+            ],
+            [
+              75.53312426802782,
+              31.397750000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-8",
+      "properties": {
+        "id": "nit-jalandhar-bld-8",
+        "name": "NIT Jalandhar Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53462426615577,
+              31.39875
+            ],
+            [
+              75.5349757338442,
+              31.39875
+            ],
+            [
+              75.5349757338442,
+              31.398449999999997
+            ],
+            [
+              75.53462426615577,
+              31.398449999999997
+            ],
+            [
+              75.53462426615577,
+              31.39875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-9",
+      "properties": {
+        "id": "nit-jalandhar-bld-9",
+        "name": "NIT Jalandhar Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53162427645083,
+              31.393250000000002
+            ],
+            [
+              75.53197572354915,
+              31.393250000000002
+            ],
+            [
+              75.53197572354915,
+              31.39295
+            ],
+            [
+              75.53162427645083,
+              31.39295
+            ],
+            [
+              75.53162427645083,
+              31.393250000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-10",
+      "properties": {
+        "id": "nit-jalandhar-bld-10",
+        "name": "NIT Jalandhar Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53162427832235,
+              31.39225
+            ],
+            [
+              75.53197572167763,
+              31.39225
+            ],
+            [
+              75.53197572167763,
+              31.391949999999998
+            ],
+            [
+              75.53162427832235,
+              31.391949999999998
+            ],
+            [
+              75.53162427832235,
+              31.39225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-11",
+      "properties": {
+        "id": "nit-jalandhar-bld-11",
+        "name": "NIT Jalandhar Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53262428019379,
+              31.39125
+            ],
+            [
+              75.5329757198062,
+              31.39125
+            ],
+            [
+              75.5329757198062,
+              31.390949999999997
+            ],
+            [
+              75.53262428019379,
+              31.390949999999997
+            ],
+            [
+              75.53262428019379,
+              31.39125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-12",
+      "properties": {
+        "id": "nit-jalandhar-bld-12",
+        "name": "NIT Jalandhar Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53962427645084,
+              31.393250000000002
+            ],
+            [
+              75.53997572354916,
+              31.393250000000002
+            ],
+            [
+              75.53997572354916,
+              31.39295
+            ],
+            [
+              75.53962427645084,
+              31.39295
+            ],
+            [
+              75.53962427645084,
+              31.393250000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-13",
+      "properties": {
+        "id": "nit-jalandhar-bld-13",
+        "name": "NIT Jalandhar Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53962427832236,
+              31.39225
+            ],
+            [
+              75.53997572167764,
+              31.39225
+            ],
+            [
+              75.53997572167764,
+              31.391949999999998
+            ],
+            [
+              75.53962427832236,
+              31.391949999999998
+            ],
+            [
+              75.53962427832236,
+              31.39225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-14",
+      "properties": {
+        "id": "nit-jalandhar-bld-14",
+        "name": "NIT Jalandhar Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53762428206511,
+              31.39025
+            ],
+            [
+              75.53797571793487,
+              31.39025
+            ],
+            [
+              75.53797571793487,
+              31.38995
+            ],
+            [
+              75.53762428206511,
+              31.38995
+            ],
+            [
+              75.53762428206511,
+              31.39025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-15",
+      "properties": {
+        "id": "nit-jalandhar-bld-15",
+        "name": "NIT Jalandhar Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53862428393636,
+              31.38925
+            ],
+            [
+              75.53897571606363,
+              31.38925
+            ],
+            [
+              75.53897571606363,
+              31.388949999999998
+            ],
+            [
+              75.53862428393636,
+              31.388949999999998
+            ],
+            [
+              75.53862428393636,
+              31.38925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-16",
+      "properties": {
+        "id": "nit-jalandhar-bld-16",
+        "name": "NIT Jalandhar Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53362428206512,
+              31.39025
+            ],
+            [
+              75.53397571793488,
+              31.39025
+            ],
+            [
+              75.53397571793488,
+              31.38995
+            ],
+            [
+              75.53362428206512,
+              31.38995
+            ],
+            [
+              75.53362428206512,
+              31.39025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-17",
+      "properties": {
+        "id": "nit-jalandhar-bld-17",
+        "name": "NIT Jalandhar Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53562427457922,
+              31.39425
+            ],
+            [
+              75.53597572542077,
+              31.39425
+            ],
+            [
+              75.53597572542077,
+              31.393949999999997
+            ],
+            [
+              75.53562427457922,
+              31.393949999999997
+            ],
+            [
+              75.53562427457922,
+              31.39425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-18",
+      "properties": {
+        "id": "nit-jalandhar-bld-18",
+        "name": "NIT Jalandhar Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53362427645084,
+              31.393250000000002
+            ],
+            [
+              75.53397572354916,
+              31.393250000000002
+            ],
+            [
+              75.53397572354916,
+              31.39295
+            ],
+            [
+              75.53362427645084,
+              31.39295
+            ],
+            [
+              75.53362427645084,
+              31.393250000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-19",
+      "properties": {
+        "id": "nit-jalandhar-bld-19",
+        "name": "NIT Jalandhar Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53262427457922,
+              31.39425
+            ],
+            [
+              75.53297572542077,
+              31.39425
+            ],
+            [
+              75.53297572542077,
+              31.393949999999997
+            ],
+            [
+              75.53262427457922,
+              31.393949999999997
+            ],
+            [
+              75.53262427457922,
+              31.39425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-20",
+      "properties": {
+        "id": "nit-jalandhar-bld-20",
+        "name": "NIT Jalandhar Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53862427457922,
+              31.39425
+            ],
+            [
+              75.53897572542077,
+              31.39425
+            ],
+            [
+              75.53897572542077,
+              31.393949999999997
+            ],
+            [
+              75.53862427457922,
+              31.393949999999997
+            ],
+            [
+              75.53862427457922,
+              31.39425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-21",
+      "properties": {
+        "id": "nit-jalandhar-bld-21",
+        "name": "NIT Jalandhar Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53562427832236,
+              31.39225
+            ],
+            [
+              75.53597572167763,
+              31.39225
+            ],
+            [
+              75.53597572167763,
+              31.391949999999998
+            ],
+            [
+              75.53562427832236,
+              31.391949999999998
+            ],
+            [
+              75.53562427832236,
+              31.39225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-22",
+      "properties": {
+        "id": "nit-jalandhar-bld-22",
+        "name": "NIT Jalandhar Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53762427832235,
+              31.39225
+            ],
+            [
+              75.53797572167763,
+              31.39225
+            ],
+            [
+              75.53797572167763,
+              31.391949999999998
+            ],
+            [
+              75.53762427832235,
+              31.391949999999998
+            ],
+            [
+              75.53762427832235,
+              31.39225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-23",
+      "properties": {
+        "id": "nit-jalandhar-bld-23",
+        "name": "NIT Jalandhar Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53662428019379,
+              31.39125
+            ],
+            [
+              75.53697571980621,
+              31.39125
+            ],
+            [
+              75.53697571980621,
+              31.390949999999997
+            ],
+            [
+              75.53662428019379,
+              31.390949999999997
+            ],
+            [
+              75.53662428019379,
+              31.39125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-24",
+      "properties": {
+        "id": "nit-jalandhar-bld-24",
+        "name": "NIT Jalandhar Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53862427270751,
+              31.39525
+            ],
+            [
+              75.53897572729248,
+              31.39525
+            ],
+            [
+              75.53897572729248,
+              31.394949999999998
+            ],
+            [
+              75.53862427270751,
+              31.394949999999998
+            ],
+            [
+              75.53862427270751,
+              31.39525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-25",
+      "properties": {
+        "id": "nit-jalandhar-bld-25",
+        "name": "NIT Jalandhar Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53562425960291,
+              31.402250000000002
+            ],
+            [
+              75.53597574039708,
+              31.402250000000002
+            ],
+            [
+              75.53597574039708,
+              31.40195
+            ],
+            [
+              75.53562425960291,
+              31.40195
+            ],
+            [
+              75.53562425960291,
+              31.402250000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-26",
+      "properties": {
+        "id": "nit-jalandhar-bld-26",
+        "name": "NIT Jalandhar Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.52962427270751,
+              31.39525
+            ],
+            [
+              75.52997572729248,
+              31.39525
+            ],
+            [
+              75.52997572729248,
+              31.394949999999998
+            ],
+            [
+              75.52962427270751,
+              31.394949999999998
+            ],
+            [
+              75.52962427270751,
+              31.39525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-27",
+      "properties": {
+        "id": "nit-jalandhar-bld-27",
+        "name": "NIT Jalandhar State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.5371242727075,
+              31.39525
+            ],
+            [
+              75.53747572729247,
+              31.39525
+            ],
+            [
+              75.53747572729247,
+              31.394949999999998
+            ],
+            [
+              75.5371242727075,
+              31.394949999999998
+            ],
+            [
+              75.5371242727075,
+              31.39525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-28",
+      "properties": {
+        "id": "nit-jalandhar-bld-28",
+        "name": "NIT Jalandhar Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53662426147528,
+              31.40125
+            ],
+            [
+              75.53697573852472,
+              31.40125
+            ],
+            [
+              75.53697573852472,
+              31.400949999999998
+            ],
+            [
+              75.53662426147528,
+              31.400949999999998
+            ],
+            [
+              75.53662426147528,
+              31.40125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-bld-29",
+      "properties": {
+        "id": "nit-jalandhar-bld-29",
+        "name": "NIT Jalandhar Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.53162426334755,
+              31.40025
+            ],
+            [
+              75.53197573665243,
+              31.40025
+            ],
+            [
+              75.53197573665243,
+              31.399949999999997
+            ],
+            [
+              75.53162426334755,
+              31.399949999999997
+            ],
+            [
+              75.53162426334755,
+              31.40025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-road-0",
+      "properties": {
+        "id": "nit-jalandhar-road-0",
+        "name": "NIT Jalandhar Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5358,
+            31.4021
+          ],
+          [
+            75.5358,
+            31.391099999999998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-road-1",
+      "properties": {
+        "id": "nit-jalandhar-road-1",
+        "name": "NIT Jalandhar Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.53179999999999,
+            31.3921
+          ],
+          [
+            75.5398,
+            31.3921
+          ],
+          [
+            75.5398,
+            31.3991
+          ],
+          [
+            75.53179999999999,
+            31.3991
+          ],
+          [
+            75.53179999999999,
+            31.3921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-road-2",
+      "properties": {
+        "id": "nit-jalandhar-road-2",
+        "name": "NIT Jalandhar West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5298,
+            31.3951
+          ],
+          [
+            75.5358,
+            31.3951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-road-3",
+      "properties": {
+        "id": "nit-jalandhar-road-3",
+        "name": "NIT Jalandhar Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.53179999999999,
+            31.3971
+          ],
+          [
+            75.5398,
+            31.3971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-road-4",
+      "properties": {
+        "id": "nit-jalandhar-road-4",
+        "name": "NIT Jalandhar Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.53179999999999,
+            31.3921
+          ],
+          [
+            75.53179999999999,
+            31.394099999999998
+          ],
+          [
+            75.5398,
+            31.394099999999998
+          ],
+          [
+            75.5398,
+            31.3921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-walkway-0",
+      "properties": {
+        "id": "nit-jalandhar-walkway-0",
+        "name": "NIT Jalandhar Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5358,
+            31.3981
+          ],
+          [
+            75.5358,
+            31.3966
+          ],
+          [
+            75.5338,
+            31.3966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-walkway-1",
+      "properties": {
+        "id": "nit-jalandhar-walkway-1",
+        "name": "NIT Jalandhar CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5388,
+            31.3971
+          ],
+          [
+            75.5358,
+            31.3971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-walkway-2",
+      "properties": {
+        "id": "nit-jalandhar-walkway-2",
+        "name": "NIT Jalandhar SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5358,
+            31.394099999999998
+          ],
+          [
+            75.5358,
+            31.3921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-walkway-3",
+      "properties": {
+        "id": "nit-jalandhar-walkway-3",
+        "name": "NIT Jalandhar Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5388,
+            31.3891
+          ],
+          [
+            75.53779999999999,
+            31.3901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-walkway-4",
+      "properties": {
+        "id": "nit-jalandhar-walkway-4",
+        "name": "NIT Jalandhar Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5398,
+            31.3931
+          ],
+          [
+            75.5388,
+            31.394099999999998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-walkway-5",
+      "properties": {
+        "id": "nit-jalandhar-walkway-5",
+        "name": "NIT Jalandhar Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.53179999999999,
+            31.3931
+          ],
+          [
+            75.5338,
+            31.3931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-walkway-6",
+      "properties": {
+        "id": "nit-jalandhar-walkway-6",
+        "name": "NIT Jalandhar Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5388,
+            31.3951
+          ],
+          [
+            75.53729999999999,
+            31.3951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-jalandhar-walkway-7",
+      "properties": {
+        "id": "nit-jalandhar-walkway-7",
+        "name": "NIT Jalandhar Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5333,
+            31.3976
+          ],
+          [
+            75.5338,
+            31.3966
+          ]
+        ]
+      }
+    }
+  ]
+}

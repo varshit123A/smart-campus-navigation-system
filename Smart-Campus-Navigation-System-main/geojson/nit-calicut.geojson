@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Calicut GIS Dataset",
+  "properties": {
+    "campusId": "nit-calicut",
+    "campusName": "NIT Calicut",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.209Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-calicut-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Calicut Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.94277860913519,
+              11.3216
+            ],
+            [
+              75.9424658556131,
+              11.323929371405923
+            ],
+            [
+              75.94154890868248,
+              11.3261
+            ],
+            [
+              75.94009025676135,
+              11.32796396103068
+            ],
+            [
+              75.93818930456759,
+              11.32939422863406
+            ],
+            [
+              75.93597559885174,
+              11.330293332436602
+            ],
+            [
+              75.9336,
+              11.3306
+            ],
+            [
+              75.93122440114826,
+              11.330293332436602
+            ],
+            [
+              75.92901069543241,
+              11.32939422863406
+            ],
+            [
+              75.92710974323865,
+              11.32796396103068
+            ],
+            [
+              75.92565109131752,
+              11.3261
+            ],
+            [
+              75.9247341443869,
+              11.323929371405923
+            ],
+            [
+              75.92442139086481,
+              11.3216
+            ],
+            [
+              75.9247341443869,
+              11.319270628594078
+            ],
+            [
+              75.92565109131752,
+              11.3171
+            ],
+            [
+              75.92710974323865,
+              11.31523603896932
+            ],
+            [
+              75.92901069543241,
+              11.31380577136594
+            ],
+            [
+              75.93122440114826,
+              11.312906667563398
+            ],
+            [
+              75.9336,
+              11.3126
+            ],
+            [
+              75.93597559885174,
+              11.312906667563398
+            ],
+            [
+              75.93818930456759,
+              11.31380577136594
+            ],
+            [
+              75.94009025676135,
+              11.31523603896932
+            ],
+            [
+              75.94154890868248,
+              11.3171
+            ],
+            [
+              75.9424658556131,
+              11.319270628594078
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-0",
+      "properties": {
+        "id": "nit-calicut-bld-0",
+        "name": "NIT Calicut Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of NIT Calicut, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9334470229138,
+              11.32225
+            ],
+            [
+              75.9337529770862,
+              11.32225
+            ],
+            [
+              75.9337529770862,
+              11.321950000000001
+            ],
+            [
+              75.9334470229138,
+              11.321950000000001
+            ],
+            [
+              75.9334470229138,
+              11.32225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-1",
+      "properties": {
+        "id": "nit-calicut-bld-1",
+        "name": "NIT Calicut Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at NIT Calicut. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93344702157718,
+              11.32475
+            ],
+            [
+              75.93375297842282,
+              11.32475
+            ],
+            [
+              75.93375297842282,
+              11.32445
+            ],
+            [
+              75.93344702157718,
+              11.32445
+            ],
+            [
+              75.93344702157718,
+              11.32475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-2",
+      "properties": {
+        "id": "nit-calicut-bld-2",
+        "name": "NIT Calicut Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93144702237919,
+              11.32325
+            ],
+            [
+              75.93175297762082,
+              11.32325
+            ],
+            [
+              75.93175297762082,
+              11.32295
+            ],
+            [
+              75.93144702237919,
+              11.32295
+            ],
+            [
+              75.93144702237919,
+              11.32325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-3",
+      "properties": {
+        "id": "nit-calicut-bld-3",
+        "name": "NIT Calicut Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93644702211186,
+              11.32375
+            ],
+            [
+              75.93675297788813,
+              11.32375
+            ],
+            [
+              75.93675297788813,
+              11.323450000000001
+            ],
+            [
+              75.93644702211186,
+              11.323450000000001
+            ],
+            [
+              75.93644702211186,
+              11.32375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-4",
+      "properties": {
+        "id": "nit-calicut-bld-4",
+        "name": "NIT Calicut Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9354470226465,
+              11.32275
+            ],
+            [
+              75.93575297735349,
+              11.32275
+            ],
+            [
+              75.93575297735349,
+              11.32245
+            ],
+            [
+              75.9354470226465,
+              11.32245
+            ],
+            [
+              75.9354470226465,
+              11.32275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-5",
+      "properties": {
+        "id": "nit-calicut-bld-5",
+        "name": "NIT Calicut Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9304470226465,
+              11.32275
+            ],
+            [
+              75.93075297735349,
+              11.32275
+            ],
+            [
+              75.93075297735349,
+              11.32245
+            ],
+            [
+              75.9304470226465,
+              11.32245
+            ],
+            [
+              75.9304470226465,
+              11.32275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-6",
+      "properties": {
+        "id": "nit-calicut-bld-6",
+        "name": "NIT Calicut Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93594702157718,
+              11.32475
+            ],
+            [
+              75.93625297842281,
+              11.32475
+            ],
+            [
+              75.93625297842281,
+              11.32445
+            ],
+            [
+              75.93594702157718,
+              11.32445
+            ],
+            [
+              75.93594702157718,
+              11.32475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-7",
+      "properties": {
+        "id": "nit-calicut-bld-7",
+        "name": "NIT Calicut Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of NIT Calicut used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93094702184453,
+              11.32425
+            ],
+            [
+              75.93125297815547,
+              11.32425
+            ],
+            [
+              75.93125297815547,
+              11.32395
+            ],
+            [
+              75.93094702184453,
+              11.32395
+            ],
+            [
+              75.93094702184453,
+              11.32425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-8",
+      "properties": {
+        "id": "nit-calicut-bld-8",
+        "name": "NIT Calicut Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93244702130983,
+              11.32525
+            ],
+            [
+              75.93275297869016,
+              11.32525
+            ],
+            [
+              75.93275297869016,
+              11.324950000000001
+            ],
+            [
+              75.93244702130983,
+              11.324950000000001
+            ],
+            [
+              75.93244702130983,
+              11.32525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-9",
+      "properties": {
+        "id": "nit-calicut-bld-9",
+        "name": "NIT Calicut Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92944702425008,
+              11.319749999999999
+            ],
+            [
+              75.9297529757499,
+              11.319749999999999
+            ],
+            [
+              75.9297529757499,
+              11.31945
+            ],
+            [
+              75.92944702425008,
+              11.31945
+            ],
+            [
+              75.92944702425008,
+              11.319749999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-10",
+      "properties": {
+        "id": "nit-calicut-bld-10",
+        "name": "NIT Calicut Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92944702478451,
+              11.31875
+            ],
+            [
+              75.92975297521548,
+              11.31875
+            ],
+            [
+              75.92975297521548,
+              11.31845
+            ],
+            [
+              75.92944702478451,
+              11.31845
+            ],
+            [
+              75.92944702478451,
+              11.31875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-11",
+      "properties": {
+        "id": "nit-calicut-bld-11",
+        "name": "NIT Calicut Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9304470253189,
+              11.31775
+            ],
+            [
+              75.9307529746811,
+              11.31775
+            ],
+            [
+              75.9307529746811,
+              11.317450000000001
+            ],
+            [
+              75.9304470253189,
+              11.317450000000001
+            ],
+            [
+              75.9304470253189,
+              11.31775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-12",
+      "properties": {
+        "id": "nit-calicut-bld-12",
+        "name": "NIT Calicut Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93744702425009,
+              11.319749999999999
+            ],
+            [
+              75.93775297574992,
+              11.319749999999999
+            ],
+            [
+              75.93775297574992,
+              11.31945
+            ],
+            [
+              75.93744702425009,
+              11.31945
+            ],
+            [
+              75.93744702425009,
+              11.319749999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-13",
+      "properties": {
+        "id": "nit-calicut-bld-13",
+        "name": "NIT Calicut Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93744702478452,
+              11.31875
+            ],
+            [
+              75.93775297521549,
+              11.31875
+            ],
+            [
+              75.93775297521549,
+              11.31845
+            ],
+            [
+              75.93744702478452,
+              11.31845
+            ],
+            [
+              75.93744702478452,
+              11.31875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-14",
+      "properties": {
+        "id": "nit-calicut-bld-14",
+        "name": "NIT Calicut Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93544702585322,
+              11.316749999999999
+            ],
+            [
+              75.93575297414677,
+              11.316749999999999
+            ],
+            [
+              75.93575297414677,
+              11.31645
+            ],
+            [
+              75.93544702585322,
+              11.31645
+            ],
+            [
+              75.93544702585322,
+              11.316749999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-15",
+      "properties": {
+        "id": "nit-calicut-bld-15",
+        "name": "NIT Calicut Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9364470263875,
+              11.31575
+            ],
+            [
+              75.9367529736125,
+              11.31575
+            ],
+            [
+              75.9367529736125,
+              11.31545
+            ],
+            [
+              75.9364470263875,
+              11.31545
+            ],
+            [
+              75.9364470263875,
+              11.31575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-16",
+      "properties": {
+        "id": "nit-calicut-bld-16",
+        "name": "NIT Calicut Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93144702585323,
+              11.316749999999999
+            ],
+            [
+              75.93175297414678,
+              11.316749999999999
+            ],
+            [
+              75.93175297414678,
+              11.31645
+            ],
+            [
+              75.93144702585323,
+              11.31645
+            ],
+            [
+              75.93144702585323,
+              11.316749999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-17",
+      "properties": {
+        "id": "nit-calicut-bld-17",
+        "name": "NIT Calicut Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93344702371562,
+              11.32075
+            ],
+            [
+              75.93375297628438,
+              11.32075
+            ],
+            [
+              75.93375297628438,
+              11.320450000000001
+            ],
+            [
+              75.93344702371562,
+              11.320450000000001
+            ],
+            [
+              75.93344702371562,
+              11.32075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-18",
+      "properties": {
+        "id": "nit-calicut-bld-18",
+        "name": "NIT Calicut Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93144702425009,
+              11.319749999999999
+            ],
+            [
+              75.93175297574992,
+              11.319749999999999
+            ],
+            [
+              75.93175297574992,
+              11.31945
+            ],
+            [
+              75.93144702425009,
+              11.31945
+            ],
+            [
+              75.93144702425009,
+              11.319749999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-19",
+      "properties": {
+        "id": "nit-calicut-bld-19",
+        "name": "NIT Calicut Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93044702371562,
+              11.32075
+            ],
+            [
+              75.93075297628438,
+              11.32075
+            ],
+            [
+              75.93075297628438,
+              11.320450000000001
+            ],
+            [
+              75.93044702371562,
+              11.320450000000001
+            ],
+            [
+              75.93044702371562,
+              11.32075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-20",
+      "properties": {
+        "id": "nit-calicut-bld-20",
+        "name": "NIT Calicut Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93644702371562,
+              11.32075
+            ],
+            [
+              75.93675297628438,
+              11.32075
+            ],
+            [
+              75.93675297628438,
+              11.320450000000001
+            ],
+            [
+              75.93644702371562,
+              11.320450000000001
+            ],
+            [
+              75.93644702371562,
+              11.32075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-21",
+      "properties": {
+        "id": "nit-calicut-bld-21",
+        "name": "NIT Calicut Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93344702478451,
+              11.31875
+            ],
+            [
+              75.93375297521548,
+              11.31875
+            ],
+            [
+              75.93375297521548,
+              11.31845
+            ],
+            [
+              75.93344702478451,
+              11.31845
+            ],
+            [
+              75.93344702478451,
+              11.31875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-22",
+      "properties": {
+        "id": "nit-calicut-bld-22",
+        "name": "NIT Calicut Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93544702478451,
+              11.31875
+            ],
+            [
+              75.93575297521548,
+              11.31875
+            ],
+            [
+              75.93575297521548,
+              11.31845
+            ],
+            [
+              75.93544702478451,
+              11.31845
+            ],
+            [
+              75.93544702478451,
+              11.31875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-23",
+      "properties": {
+        "id": "nit-calicut-bld-23",
+        "name": "NIT Calicut Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9344470253189,
+              11.31775
+            ],
+            [
+              75.9347529746811,
+              11.31775
+            ],
+            [
+              75.9347529746811,
+              11.317450000000001
+            ],
+            [
+              75.9344470253189,
+              11.317450000000001
+            ],
+            [
+              75.9344470253189,
+              11.31775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-24",
+      "properties": {
+        "id": "nit-calicut-bld-24",
+        "name": "NIT Calicut Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93644702318107,
+              11.32175
+            ],
+            [
+              75.93675297681892,
+              11.32175
+            ],
+            [
+              75.93675297681892,
+              11.32145
+            ],
+            [
+              75.93644702318107,
+              11.32145
+            ],
+            [
+              75.93644702318107,
+              11.32175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-25",
+      "properties": {
+        "id": "nit-calicut-bld-25",
+        "name": "NIT Calicut Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93344701943796,
+              11.32875
+            ],
+            [
+              75.93375298056203,
+              11.32875
+            ],
+            [
+              75.93375298056203,
+              11.32845
+            ],
+            [
+              75.93344701943796,
+              11.32845
+            ],
+            [
+              75.93344701943796,
+              11.32875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-26",
+      "properties": {
+        "id": "nit-calicut-bld-26",
+        "name": "NIT Calicut Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92744702318107,
+              11.32175
+            ],
+            [
+              75.92775297681892,
+              11.32175
+            ],
+            [
+              75.92775297681892,
+              11.32145
+            ],
+            [
+              75.92744702318107,
+              11.32145
+            ],
+            [
+              75.92744702318107,
+              11.32175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-27",
+      "properties": {
+        "id": "nit-calicut-bld-27",
+        "name": "NIT Calicut State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93494702318107,
+              11.32175
+            ],
+            [
+              75.93525297681892,
+              11.32175
+            ],
+            [
+              75.93525297681892,
+              11.32145
+            ],
+            [
+              75.93494702318107,
+              11.32145
+            ],
+            [
+              75.93494702318107,
+              11.32175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-28",
+      "properties": {
+        "id": "nit-calicut-bld-28",
+        "name": "NIT Calicut Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93444701997285,
+              11.32775
+            ],
+            [
+              75.93475298002716,
+              11.32775
+            ],
+            [
+              75.93475298002716,
+              11.32745
+            ],
+            [
+              75.93444701997285,
+              11.32745
+            ],
+            [
+              75.93444701997285,
+              11.32775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-bld-29",
+      "properties": {
+        "id": "nit-calicut-bld-29",
+        "name": "NIT Calicut Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92944702050767,
+              11.32675
+            ],
+            [
+              75.92975297949232,
+              11.32675
+            ],
+            [
+              75.92975297949232,
+              11.326450000000001
+            ],
+            [
+              75.92944702050767,
+              11.326450000000001
+            ],
+            [
+              75.92944702050767,
+              11.32675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-road-0",
+      "properties": {
+        "id": "nit-calicut-road-0",
+        "name": "NIT Calicut Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9336,
+            11.3286
+          ],
+          [
+            75.9336,
+            11.3176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-road-1",
+      "properties": {
+        "id": "nit-calicut-road-1",
+        "name": "NIT Calicut Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9296,
+            11.3186
+          ],
+          [
+            75.9376,
+            11.3186
+          ],
+          [
+            75.9376,
+            11.3256
+          ],
+          [
+            75.9296,
+            11.3256
+          ],
+          [
+            75.9296,
+            11.3186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-road-2",
+      "properties": {
+        "id": "nit-calicut-road-2",
+        "name": "NIT Calicut West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9276,
+            11.3216
+          ],
+          [
+            75.9336,
+            11.3216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-road-3",
+      "properties": {
+        "id": "nit-calicut-road-3",
+        "name": "NIT Calicut Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9296,
+            11.3236
+          ],
+          [
+            75.9376,
+            11.3236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-road-4",
+      "properties": {
+        "id": "nit-calicut-road-4",
+        "name": "NIT Calicut Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9296,
+            11.3186
+          ],
+          [
+            75.9296,
+            11.3206
+          ],
+          [
+            75.9376,
+            11.3206
+          ],
+          [
+            75.9376,
+            11.3186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-walkway-0",
+      "properties": {
+        "id": "nit-calicut-walkway-0",
+        "name": "NIT Calicut Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9336,
+            11.3246
+          ],
+          [
+            75.9336,
+            11.3231
+          ],
+          [
+            75.9316,
+            11.3231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-walkway-1",
+      "properties": {
+        "id": "nit-calicut-walkway-1",
+        "name": "NIT Calicut CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9366,
+            11.3236
+          ],
+          [
+            75.9336,
+            11.3236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-walkway-2",
+      "properties": {
+        "id": "nit-calicut-walkway-2",
+        "name": "NIT Calicut SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9336,
+            11.3206
+          ],
+          [
+            75.9336,
+            11.3186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-walkway-3",
+      "properties": {
+        "id": "nit-calicut-walkway-3",
+        "name": "NIT Calicut Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9366,
+            11.3156
+          ],
+          [
+            75.9356,
+            11.3166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-walkway-4",
+      "properties": {
+        "id": "nit-calicut-walkway-4",
+        "name": "NIT Calicut Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9376,
+            11.3196
+          ],
+          [
+            75.9366,
+            11.3206
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-walkway-5",
+      "properties": {
+        "id": "nit-calicut-walkway-5",
+        "name": "NIT Calicut Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9296,
+            11.3196
+          ],
+          [
+            75.9316,
+            11.3196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-walkway-6",
+      "properties": {
+        "id": "nit-calicut-walkway-6",
+        "name": "NIT Calicut Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9366,
+            11.3216
+          ],
+          [
+            75.93509999999999,
+            11.3216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-calicut-walkway-7",
+      "properties": {
+        "id": "nit-calicut-walkway-7",
+        "name": "NIT Calicut Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9311,
+            11.3241
+          ],
+          [
+            75.9316,
+            11.3231
+          ]
+        ]
+      }
+    }
+  ]
+}

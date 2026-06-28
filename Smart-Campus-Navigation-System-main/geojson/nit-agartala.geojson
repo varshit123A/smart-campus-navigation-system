@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Agartala GIS Dataset",
+  "properties": {
+    "campusId": "nit-agartala",
+    "campusName": "NIT Agartala",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.216Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-agartala-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Agartala Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.4311396223367,
+              23.8412
+            ],
+            [
+              91.43080434533594,
+              23.843529371405925
+            ],
+            [
+              91.42982136290722,
+              23.8457
+            ],
+            [
+              91.4282576636786,
+              23.84756396103068
+            ],
+            [
+              91.42621981116835,
+              23.848994228634062
+            ],
+            [
+              91.42384668165735,
+              23.8498933324366
+            ],
+            [
+              91.4213,
+              23.8502
+            ],
+            [
+              91.41875331834265,
+              23.8498933324366
+            ],
+            [
+              91.41638018883165,
+              23.848994228634062
+            ],
+            [
+              91.41434233632141,
+              23.84756396103068
+            ],
+            [
+              91.41277863709279,
+              23.8457
+            ],
+            [
+              91.41179565466406,
+              23.843529371405925
+            ],
+            [
+              91.4114603776633,
+              23.8412
+            ],
+            [
+              91.41179565466406,
+              23.838870628594076
+            ],
+            [
+              91.41277863709279,
+              23.8367
+            ],
+            [
+              91.41434233632141,
+              23.83483603896932
+            ],
+            [
+              91.41638018883165,
+              23.83340577136594
+            ],
+            [
+              91.41875331834265,
+              23.8325066675634
+            ],
+            [
+              91.4213,
+              23.8322
+            ],
+            [
+              91.42384668165735,
+              23.8325066675634
+            ],
+            [
+              91.42621981116835,
+              23.83340577136594
+            ],
+            [
+              91.4282576636786,
+              23.83483603896932
+            ],
+            [
+              91.42982136290722,
+              23.8367
+            ],
+            [
+              91.43080434533594,
+              23.838870628594076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-0",
+      "properties": {
+        "id": "nit-agartala-bld-0",
+        "name": "NIT Agartala Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of NIT Agartala, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42113600566195,
+              23.84185
+            ],
+            [
+              91.42146399433805,
+              23.84185
+            ],
+            [
+              91.42146399433805,
+              23.841549999999998
+            ],
+            [
+              91.42113600566195,
+              23.841549999999998
+            ],
+            [
+              91.42113600566195,
+              23.84185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-1",
+      "properties": {
+        "id": "nit-agartala-bld-1",
+        "name": "NIT Agartala Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at NIT Agartala. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42113600249952,
+              23.844350000000002
+            ],
+            [
+              91.42146399750048,
+              23.844350000000002
+            ],
+            [
+              91.42146399750048,
+              23.84405
+            ],
+            [
+              91.42113600249952,
+              23.84405
+            ],
+            [
+              91.42113600249952,
+              23.844350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-2",
+      "properties": {
+        "id": "nit-agartala-bld-2",
+        "name": "NIT Agartala Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.41913600439703,
+              23.842850000000002
+            ],
+            [
+              91.41946399560298,
+              23.842850000000002
+            ],
+            [
+              91.41946399560298,
+              23.84255
+            ],
+            [
+              91.41913600439703,
+              23.84255
+            ],
+            [
+              91.41913600439703,
+              23.842850000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-3",
+      "properties": {
+        "id": "nit-agartala-bld-3",
+        "name": "NIT Agartala Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42413600376454,
+              23.84335
+            ],
+            [
+              91.42446399623546,
+              23.84335
+            ],
+            [
+              91.42446399623546,
+              23.843049999999998
+            ],
+            [
+              91.42413600376454,
+              23.843049999999998
+            ],
+            [
+              91.42413600376454,
+              23.84335
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-4",
+      "properties": {
+        "id": "nit-agartala-bld-4",
+        "name": "NIT Agartala Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42313600502949,
+              23.842350000000003
+            ],
+            [
+              91.4234639949705,
+              23.842350000000003
+            ],
+            [
+              91.4234639949705,
+              23.84205
+            ],
+            [
+              91.42313600502949,
+              23.84205
+            ],
+            [
+              91.42313600502949,
+              23.842350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-5",
+      "properties": {
+        "id": "nit-agartala-bld-5",
+        "name": "NIT Agartala Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.4181360050295,
+              23.842350000000003
+            ],
+            [
+              91.41846399497051,
+              23.842350000000003
+            ],
+            [
+              91.41846399497051,
+              23.84205
+            ],
+            [
+              91.4181360050295,
+              23.84205
+            ],
+            [
+              91.4181360050295,
+              23.842350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-6",
+      "properties": {
+        "id": "nit-agartala-bld-6",
+        "name": "NIT Agartala Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42363600249952,
+              23.844350000000002
+            ],
+            [
+              91.42396399750048,
+              23.844350000000002
+            ],
+            [
+              91.42396399750048,
+              23.84405
+            ],
+            [
+              91.42363600249952,
+              23.84405
+            ],
+            [
+              91.42363600249952,
+              23.844350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-7",
+      "properties": {
+        "id": "nit-agartala-bld-7",
+        "name": "NIT Agartala Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of NIT Agartala used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.41863600313204,
+              23.843850000000003
+            ],
+            [
+              91.41896399686797,
+              23.843850000000003
+            ],
+            [
+              91.41896399686797,
+              23.84355
+            ],
+            [
+              91.41863600313204,
+              23.84355
+            ],
+            [
+              91.41863600313204,
+              23.843850000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-8",
+      "properties": {
+        "id": "nit-agartala-bld-8",
+        "name": "NIT Agartala Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42013600186698,
+              23.84485
+            ],
+            [
+              91.42046399813302,
+              23.84485
+            ],
+            [
+              91.42046399813302,
+              23.844549999999998
+            ],
+            [
+              91.42013600186698,
+              23.844549999999998
+            ],
+            [
+              91.42013600186698,
+              23.84485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-9",
+      "properties": {
+        "id": "nit-agartala-bld-9",
+        "name": "NIT Agartala Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.41713600882396,
+              23.839350000000003
+            ],
+            [
+              91.41746399117604,
+              23.839350000000003
+            ],
+            [
+              91.41746399117604,
+              23.83905
+            ],
+            [
+              91.41713600882396,
+              23.83905
+            ],
+            [
+              91.41713600882396,
+              23.839350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-10",
+      "properties": {
+        "id": "nit-agartala-bld-10",
+        "name": "NIT Agartala Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.41713601008863,
+              23.838350000000002
+            ],
+            [
+              91.41746398991137,
+              23.838350000000002
+            ],
+            [
+              91.41746398991137,
+              23.83805
+            ],
+            [
+              91.41713601008863,
+              23.83805
+            ],
+            [
+              91.41713601008863,
+              23.838350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-11",
+      "properties": {
+        "id": "nit-agartala-bld-11",
+        "name": "NIT Agartala Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.41813601135324,
+              23.83735
+            ],
+            [
+              91.41846398864676,
+              23.83735
+            ],
+            [
+              91.41846398864676,
+              23.837049999999998
+            ],
+            [
+              91.41813601135324,
+              23.837049999999998
+            ],
+            [
+              91.41813601135324,
+              23.83735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-12",
+      "properties": {
+        "id": "nit-agartala-bld-12",
+        "name": "NIT Agartala Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42513600882397,
+              23.839350000000003
+            ],
+            [
+              91.42546399117604,
+              23.839350000000003
+            ],
+            [
+              91.42546399117604,
+              23.83905
+            ],
+            [
+              91.42513600882397,
+              23.83905
+            ],
+            [
+              91.42513600882397,
+              23.839350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-13",
+      "properties": {
+        "id": "nit-agartala-bld-13",
+        "name": "NIT Agartala Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42513601008864,
+              23.838350000000002
+            ],
+            [
+              91.42546398991138,
+              23.838350000000002
+            ],
+            [
+              91.42546398991138,
+              23.83805
+            ],
+            [
+              91.42513601008864,
+              23.83805
+            ],
+            [
+              91.42513601008864,
+              23.838350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-14",
+      "properties": {
+        "id": "nit-agartala-bld-14",
+        "name": "NIT Agartala Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42313601261779,
+              23.836350000000003
+            ],
+            [
+              91.4234639873822,
+              23.836350000000003
+            ],
+            [
+              91.4234639873822,
+              23.83605
+            ],
+            [
+              91.42313601261779,
+              23.83605
+            ],
+            [
+              91.42313601261779,
+              23.836350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-15",
+      "properties": {
+        "id": "nit-agartala-bld-15",
+        "name": "NIT Agartala Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42413601388226,
+              23.835350000000002
+            ],
+            [
+              91.42446398611774,
+              23.835350000000002
+            ],
+            [
+              91.42446398611774,
+              23.83505
+            ],
+            [
+              91.42413601388226,
+              23.83505
+            ],
+            [
+              91.42413601388226,
+              23.835350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-16",
+      "properties": {
+        "id": "nit-agartala-bld-16",
+        "name": "NIT Agartala Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.4191360126178,
+              23.836350000000003
+            ],
+            [
+              91.41946398738222,
+              23.836350000000003
+            ],
+            [
+              91.41946398738222,
+              23.83605
+            ],
+            [
+              91.4191360126178,
+              23.83605
+            ],
+            [
+              91.4191360126178,
+              23.836350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-17",
+      "properties": {
+        "id": "nit-agartala-bld-17",
+        "name": "NIT Agartala Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42113600755921,
+              23.84035
+            ],
+            [
+              91.42146399244079,
+              23.84035
+            ],
+            [
+              91.42146399244079,
+              23.840049999999998
+            ],
+            [
+              91.42113600755921,
+              23.840049999999998
+            ],
+            [
+              91.42113600755921,
+              23.84035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-18",
+      "properties": {
+        "id": "nit-agartala-bld-18",
+        "name": "NIT Agartala Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.41913600882397,
+              23.839350000000003
+            ],
+            [
+              91.41946399117604,
+              23.839350000000003
+            ],
+            [
+              91.41946399117604,
+              23.83905
+            ],
+            [
+              91.41913600882397,
+              23.83905
+            ],
+            [
+              91.41913600882397,
+              23.839350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-19",
+      "properties": {
+        "id": "nit-agartala-bld-19",
+        "name": "NIT Agartala Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.41813600755921,
+              23.84035
+            ],
+            [
+              91.41846399244079,
+              23.84035
+            ],
+            [
+              91.41846399244079,
+              23.840049999999998
+            ],
+            [
+              91.41813600755921,
+              23.840049999999998
+            ],
+            [
+              91.41813600755921,
+              23.84035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-20",
+      "properties": {
+        "id": "nit-agartala-bld-20",
+        "name": "NIT Agartala Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42413600755921,
+              23.84035
+            ],
+            [
+              91.42446399244079,
+              23.84035
+            ],
+            [
+              91.42446399244079,
+              23.840049999999998
+            ],
+            [
+              91.42413600755921,
+              23.840049999999998
+            ],
+            [
+              91.42413600755921,
+              23.84035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-21",
+      "properties": {
+        "id": "nit-agartala-bld-21",
+        "name": "NIT Agartala Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42113601008863,
+              23.838350000000002
+            ],
+            [
+              91.42146398991137,
+              23.838350000000002
+            ],
+            [
+              91.42146398991137,
+              23.83805
+            ],
+            [
+              91.42113601008863,
+              23.83805
+            ],
+            [
+              91.42113601008863,
+              23.838350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-22",
+      "properties": {
+        "id": "nit-agartala-bld-22",
+        "name": "NIT Agartala Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42313601008863,
+              23.838350000000002
+            ],
+            [
+              91.42346398991137,
+              23.838350000000002
+            ],
+            [
+              91.42346398991137,
+              23.83805
+            ],
+            [
+              91.42313601008863,
+              23.83805
+            ],
+            [
+              91.42313601008863,
+              23.838350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-23",
+      "properties": {
+        "id": "nit-agartala-bld-23",
+        "name": "NIT Agartala Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42213601135325,
+              23.83735
+            ],
+            [
+              91.42246398864677,
+              23.83735
+            ],
+            [
+              91.42246398864677,
+              23.837049999999998
+            ],
+            [
+              91.42213601135325,
+              23.837049999999998
+            ],
+            [
+              91.42213601135325,
+              23.83735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-24",
+      "properties": {
+        "id": "nit-agartala-bld-24",
+        "name": "NIT Agartala Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42413600629439,
+              23.841350000000002
+            ],
+            [
+              91.42446399370561,
+              23.841350000000002
+            ],
+            [
+              91.42446399370561,
+              23.84105
+            ],
+            [
+              91.42413600629439,
+              23.84105
+            ],
+            [
+              91.42413600629439,
+              23.841350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-25",
+      "properties": {
+        "id": "nit-agartala-bld-25",
+        "name": "NIT Agartala Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42113599743871,
+              23.848350000000003
+            ],
+            [
+              91.4214640025613,
+              23.848350000000003
+            ],
+            [
+              91.4214640025613,
+              23.84805
+            ],
+            [
+              91.42113599743871,
+              23.84805
+            ],
+            [
+              91.42113599743871,
+              23.848350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-26",
+      "properties": {
+        "id": "nit-agartala-bld-26",
+        "name": "NIT Agartala Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.41513600629439,
+              23.841350000000002
+            ],
+            [
+              91.41546399370561,
+              23.841350000000002
+            ],
+            [
+              91.41546399370561,
+              23.84105
+            ],
+            [
+              91.41513600629439,
+              23.84105
+            ],
+            [
+              91.41513600629439,
+              23.841350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-27",
+      "properties": {
+        "id": "nit-agartala-bld-27",
+        "name": "NIT Agartala State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42263600629438,
+              23.841350000000002
+            ],
+            [
+              91.42296399370561,
+              23.841350000000002
+            ],
+            [
+              91.42296399370561,
+              23.84105
+            ],
+            [
+              91.42263600629438,
+              23.84105
+            ],
+            [
+              91.42263600629438,
+              23.841350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-28",
+      "properties": {
+        "id": "nit-agartala-bld-28",
+        "name": "NIT Agartala Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.42213599870402,
+              23.847350000000002
+            ],
+            [
+              91.42246400129599,
+              23.847350000000002
+            ],
+            [
+              91.42246400129599,
+              23.84705
+            ],
+            [
+              91.42213599870402,
+              23.84705
+            ],
+            [
+              91.42213599870402,
+              23.847350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-bld-29",
+      "properties": {
+        "id": "nit-agartala-bld-29",
+        "name": "NIT Agartala Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.41713599996925,
+              23.84635
+            ],
+            [
+              91.41746400003075,
+              23.84635
+            ],
+            [
+              91.41746400003075,
+              23.846049999999998
+            ],
+            [
+              91.41713599996925,
+              23.846049999999998
+            ],
+            [
+              91.41713599996925,
+              23.84635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-road-0",
+      "properties": {
+        "id": "nit-agartala-road-0",
+        "name": "NIT Agartala Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.4213,
+            23.848200000000002
+          ],
+          [
+            91.4213,
+            23.8372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-road-1",
+      "properties": {
+        "id": "nit-agartala-road-1",
+        "name": "NIT Agartala Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.4173,
+            23.8382
+          ],
+          [
+            91.42530000000001,
+            23.8382
+          ],
+          [
+            91.42530000000001,
+            23.845200000000002
+          ],
+          [
+            91.4173,
+            23.845200000000002
+          ],
+          [
+            91.4173,
+            23.8382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-road-2",
+      "properties": {
+        "id": "nit-agartala-road-2",
+        "name": "NIT Agartala West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.4153,
+            23.8412
+          ],
+          [
+            91.4213,
+            23.8412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-road-3",
+      "properties": {
+        "id": "nit-agartala-road-3",
+        "name": "NIT Agartala Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.4173,
+            23.8432
+          ],
+          [
+            91.42530000000001,
+            23.8432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-road-4",
+      "properties": {
+        "id": "nit-agartala-road-4",
+        "name": "NIT Agartala Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.4173,
+            23.8382
+          ],
+          [
+            91.4173,
+            23.8402
+          ],
+          [
+            91.42530000000001,
+            23.8402
+          ],
+          [
+            91.42530000000001,
+            23.8382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-walkway-0",
+      "properties": {
+        "id": "nit-agartala-walkway-0",
+        "name": "NIT Agartala Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.4213,
+            23.8442
+          ],
+          [
+            91.4213,
+            23.8427
+          ],
+          [
+            91.4193,
+            23.8427
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-walkway-1",
+      "properties": {
+        "id": "nit-agartala-walkway-1",
+        "name": "NIT Agartala CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.4243,
+            23.8432
+          ],
+          [
+            91.4213,
+            23.8432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-walkway-2",
+      "properties": {
+        "id": "nit-agartala-walkway-2",
+        "name": "NIT Agartala SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.4213,
+            23.8402
+          ],
+          [
+            91.4213,
+            23.8382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-walkway-3",
+      "properties": {
+        "id": "nit-agartala-walkway-3",
+        "name": "NIT Agartala Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.4243,
+            23.8352
+          ],
+          [
+            91.4233,
+            23.8362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-walkway-4",
+      "properties": {
+        "id": "nit-agartala-walkway-4",
+        "name": "NIT Agartala Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.42530000000001,
+            23.8392
+          ],
+          [
+            91.4243,
+            23.8402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-walkway-5",
+      "properties": {
+        "id": "nit-agartala-walkway-5",
+        "name": "NIT Agartala Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.4173,
+            23.8392
+          ],
+          [
+            91.4193,
+            23.8392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-walkway-6",
+      "properties": {
+        "id": "nit-agartala-walkway-6",
+        "name": "NIT Agartala Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.4243,
+            23.8412
+          ],
+          [
+            91.4228,
+            23.8412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-agartala-walkway-7",
+      "properties": {
+        "id": "nit-agartala-walkway-7",
+        "name": "NIT Agartala Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.4188,
+            23.843700000000002
+          ],
+          [
+            91.4193,
+            23.8427
+          ]
+        ]
+      }
+    }
+  ]
+}

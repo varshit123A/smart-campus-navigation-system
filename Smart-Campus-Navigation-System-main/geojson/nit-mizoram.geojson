@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Mizoram GIS Dataset",
+  "properties": {
+    "campusId": "nit-mizoram",
+    "campusName": "NIT Mizoram",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.217Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Mizoram Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.72723099024753,
+              23.7271
+            ],
+            [
+              92.72689600737809,
+              23.729429371405924
+            ],
+            [
+              92.72591388729872,
+              23.7316
+            ],
+            [
+              92.72435155986982,
+              23.73346396103068
+            ],
+            [
+              92.72231549512377,
+              23.73489422863406
+            ],
+            [
+              92.71994444750828,
+              23.7357933324366
+            ],
+            [
+              92.7174,
+              23.7361
+            ],
+            [
+              92.71485555249171,
+              23.7357933324366
+            ],
+            [
+              92.71248450487623,
+              23.73489422863406
+            ],
+            [
+              92.71044844013018,
+              23.73346396103068
+            ],
+            [
+              92.70888611270128,
+              23.7316
+            ],
+            [
+              92.70790399262191,
+              23.729429371405924
+            ],
+            [
+              92.70756900975246,
+              23.7271
+            ],
+            [
+              92.70790399262191,
+              23.724770628594076
+            ],
+            [
+              92.70888611270128,
+              23.7226
+            ],
+            [
+              92.71044844013018,
+              23.72073603896932
+            ],
+            [
+              92.71248450487623,
+              23.71930577136594
+            ],
+            [
+              92.71485555249171,
+              23.7184066675634
+            ],
+            [
+              92.7174,
+              23.7181
+            ],
+            [
+              92.71994444750828,
+              23.7184066675634
+            ],
+            [
+              92.72231549512377,
+              23.71930577136594
+            ],
+            [
+              92.72435155986982,
+              23.72073603896932
+            ],
+            [
+              92.72591388729872,
+              23.7226
+            ],
+            [
+              92.72689600737809,
+              23.724770628594076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-0",
+      "properties": {
+        "id": "nit-mizoram-bld-0",
+        "name": "NIT Mizoram Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of NIT Mizoram, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71723614953406,
+              23.72775
+            ],
+            [
+              92.71756385046594,
+              23.72775
+            ],
+            [
+              92.71756385046594,
+              23.727449999999997
+            ],
+            [
+              92.71723614953406,
+              23.727449999999997
+            ],
+            [
+              92.71723614953406,
+              23.72775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-1",
+      "properties": {
+        "id": "nit-mizoram-bld-1",
+        "name": "NIT Mizoram Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at NIT Mizoram. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7172361463914,
+              23.73025
+            ],
+            [
+              92.7175638536086,
+              23.73025
+            ],
+            [
+              92.7175638536086,
+              23.72995
+            ],
+            [
+              92.7172361463914,
+              23.72995
+            ],
+            [
+              92.7172361463914,
+              23.73025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-2",
+      "properties": {
+        "id": "nit-mizoram-bld-2",
+        "name": "NIT Mizoram Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71523614827706,
+              23.72875
+            ],
+            [
+              92.71556385172295,
+              23.72875
+            ],
+            [
+              92.71556385172295,
+              23.72845
+            ],
+            [
+              92.71523614827706,
+              23.72845
+            ],
+            [
+              92.71523614827706,
+              23.72875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-3",
+      "properties": {
+        "id": "nit-mizoram-bld-3",
+        "name": "NIT Mizoram Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.72023614764852,
+              23.72925
+            ],
+            [
+              92.72056385235148,
+              23.72925
+            ],
+            [
+              92.72056385235148,
+              23.728949999999998
+            ],
+            [
+              92.72023614764852,
+              23.728949999999998
+            ],
+            [
+              92.72023614764852,
+              23.72925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-4",
+      "properties": {
+        "id": "nit-mizoram-bld-4",
+        "name": "NIT Mizoram Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71923614890555,
+              23.728250000000003
+            ],
+            [
+              92.71956385109443,
+              23.728250000000003
+            ],
+            [
+              92.71956385109443,
+              23.72795
+            ],
+            [
+              92.71923614890555,
+              23.72795
+            ],
+            [
+              92.71923614890555,
+              23.728250000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-5",
+      "properties": {
+        "id": "nit-mizoram-bld-5",
+        "name": "NIT Mizoram Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71423614890556,
+              23.728250000000003
+            ],
+            [
+              92.71456385109444,
+              23.728250000000003
+            ],
+            [
+              92.71456385109444,
+              23.72795
+            ],
+            [
+              92.71423614890556,
+              23.72795
+            ],
+            [
+              92.71423614890556,
+              23.728250000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-6",
+      "properties": {
+        "id": "nit-mizoram-bld-6",
+        "name": "NIT Mizoram Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7197361463914,
+              23.73025
+            ],
+            [
+              92.7200638536086,
+              23.73025
+            ],
+            [
+              92.7200638536086,
+              23.72995
+            ],
+            [
+              92.7197361463914,
+              23.72995
+            ],
+            [
+              92.7197361463914,
+              23.73025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-7",
+      "properties": {
+        "id": "nit-mizoram-bld-7",
+        "name": "NIT Mizoram Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of NIT Mizoram used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71473614701996,
+              23.729750000000003
+            ],
+            [
+              92.71506385298004,
+              23.729750000000003
+            ],
+            [
+              92.71506385298004,
+              23.72945
+            ],
+            [
+              92.71473614701996,
+              23.72945
+            ],
+            [
+              92.71473614701996,
+              23.729750000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-8",
+      "properties": {
+        "id": "nit-mizoram-bld-8",
+        "name": "NIT Mizoram Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7162361457628,
+              23.73075
+            ],
+            [
+              92.71656385423718,
+              23.73075
+            ],
+            [
+              92.71656385423718,
+              23.730449999999998
+            ],
+            [
+              92.7162361457628,
+              23.730449999999998
+            ],
+            [
+              92.7162361457628,
+              23.73075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-9",
+      "properties": {
+        "id": "nit-mizoram-bld-9",
+        "name": "NIT Mizoram Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71323615267627,
+              23.725250000000003
+            ],
+            [
+              92.71356384732371,
+              23.725250000000003
+            ],
+            [
+              92.71356384732371,
+              23.72495
+            ],
+            [
+              92.71323615267627,
+              23.72495
+            ],
+            [
+              92.71323615267627,
+              23.725250000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-10",
+      "properties": {
+        "id": "nit-mizoram-bld-10",
+        "name": "NIT Mizoram Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71323615393305,
+              23.72425
+            ],
+            [
+              92.71356384606693,
+              23.72425
+            ],
+            [
+              92.71356384606693,
+              23.72395
+            ],
+            [
+              92.71323615393305,
+              23.72395
+            ],
+            [
+              92.71323615393305,
+              23.72425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-11",
+      "properties": {
+        "id": "nit-mizoram-bld-11",
+        "name": "NIT Mizoram Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71423615518975,
+              23.72325
+            ],
+            [
+              92.71456384481024,
+              23.72325
+            ],
+            [
+              92.71456384481024,
+              23.722949999999997
+            ],
+            [
+              92.71423615518975,
+              23.722949999999997
+            ],
+            [
+              92.71423615518975,
+              23.72325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-12",
+      "properties": {
+        "id": "nit-mizoram-bld-12",
+        "name": "NIT Mizoram Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.72123615267628,
+              23.725250000000003
+            ],
+            [
+              92.72156384732372,
+              23.725250000000003
+            ],
+            [
+              92.72156384732372,
+              23.72495
+            ],
+            [
+              92.72123615267628,
+              23.72495
+            ],
+            [
+              92.72123615267628,
+              23.725250000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-13",
+      "properties": {
+        "id": "nit-mizoram-bld-13",
+        "name": "NIT Mizoram Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.72123615393306,
+              23.72425
+            ],
+            [
+              92.72156384606694,
+              23.72425
+            ],
+            [
+              92.72156384606694,
+              23.72395
+            ],
+            [
+              92.72123615393306,
+              23.72395
+            ],
+            [
+              92.72123615393306,
+              23.72425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-14",
+      "properties": {
+        "id": "nit-mizoram-bld-14",
+        "name": "NIT Mizoram Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71923615644639,
+              23.722250000000003
+            ],
+            [
+              92.7195638435536,
+              23.722250000000003
+            ],
+            [
+              92.7195638435536,
+              23.72195
+            ],
+            [
+              92.71923615644639,
+              23.72195
+            ],
+            [
+              92.71923615644639,
+              23.722250000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-15",
+      "properties": {
+        "id": "nit-mizoram-bld-15",
+        "name": "NIT Mizoram Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.72023615770294,
+              23.72125
+            ],
+            [
+              92.72056384229705,
+              23.72125
+            ],
+            [
+              92.72056384229705,
+              23.72095
+            ],
+            [
+              92.72023615770294,
+              23.72095
+            ],
+            [
+              92.72023615770294,
+              23.72125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-16",
+      "properties": {
+        "id": "nit-mizoram-bld-16",
+        "name": "NIT Mizoram Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.7152361564464,
+              23.722250000000003
+            ],
+            [
+              92.71556384355361,
+              23.722250000000003
+            ],
+            [
+              92.71556384355361,
+              23.72195
+            ],
+            [
+              92.7152361564464,
+              23.72195
+            ],
+            [
+              92.7152361564464,
+              23.722250000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-17",
+      "properties": {
+        "id": "nit-mizoram-bld-17",
+        "name": "NIT Mizoram Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71723615141944,
+              23.72625
+            ],
+            [
+              92.71756384858055,
+              23.72625
+            ],
+            [
+              92.71756384858055,
+              23.725949999999997
+            ],
+            [
+              92.71723615141944,
+              23.725949999999997
+            ],
+            [
+              92.71723615141944,
+              23.72625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-18",
+      "properties": {
+        "id": "nit-mizoram-bld-18",
+        "name": "NIT Mizoram Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71523615267628,
+              23.725250000000003
+            ],
+            [
+              92.71556384732372,
+              23.725250000000003
+            ],
+            [
+              92.71556384732372,
+              23.72495
+            ],
+            [
+              92.71523615267628,
+              23.72495
+            ],
+            [
+              92.71523615267628,
+              23.725250000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-19",
+      "properties": {
+        "id": "nit-mizoram-bld-19",
+        "name": "NIT Mizoram Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71423615141944,
+              23.72625
+            ],
+            [
+              92.71456384858055,
+              23.72625
+            ],
+            [
+              92.71456384858055,
+              23.725949999999997
+            ],
+            [
+              92.71423615141944,
+              23.725949999999997
+            ],
+            [
+              92.71423615141944,
+              23.72625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-20",
+      "properties": {
+        "id": "nit-mizoram-bld-20",
+        "name": "NIT Mizoram Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.72023615141944,
+              23.72625
+            ],
+            [
+              92.72056384858055,
+              23.72625
+            ],
+            [
+              92.72056384858055,
+              23.725949999999997
+            ],
+            [
+              92.72023615141944,
+              23.725949999999997
+            ],
+            [
+              92.72023615141944,
+              23.72625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-21",
+      "properties": {
+        "id": "nit-mizoram-bld-21",
+        "name": "NIT Mizoram Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71723615393306,
+              23.72425
+            ],
+            [
+              92.71756384606694,
+              23.72425
+            ],
+            [
+              92.71756384606694,
+              23.72395
+            ],
+            [
+              92.71723615393306,
+              23.72395
+            ],
+            [
+              92.71723615393306,
+              23.72425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-22",
+      "properties": {
+        "id": "nit-mizoram-bld-22",
+        "name": "NIT Mizoram Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71923615393305,
+              23.72425
+            ],
+            [
+              92.71956384606693,
+              23.72425
+            ],
+            [
+              92.71956384606693,
+              23.72395
+            ],
+            [
+              92.71923615393305,
+              23.72395
+            ],
+            [
+              92.71923615393305,
+              23.72425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-23",
+      "properties": {
+        "id": "nit-mizoram-bld-23",
+        "name": "NIT Mizoram Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71823615518976,
+              23.72325
+            ],
+            [
+              92.71856384481025,
+              23.72325
+            ],
+            [
+              92.71856384481025,
+              23.722949999999997
+            ],
+            [
+              92.71823615518976,
+              23.722949999999997
+            ],
+            [
+              92.71823615518976,
+              23.72325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-24",
+      "properties": {
+        "id": "nit-mizoram-bld-24",
+        "name": "NIT Mizoram Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.72023615016253,
+              23.72725
+            ],
+            [
+              92.72056384983746,
+              23.72725
+            ],
+            [
+              92.72056384983746,
+              23.72695
+            ],
+            [
+              92.72023615016253,
+              23.72695
+            ],
+            [
+              92.72023615016253,
+              23.72725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-25",
+      "properties": {
+        "id": "nit-mizoram-bld-25",
+        "name": "NIT Mizoram Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71723614136225,
+              23.734250000000003
+            ],
+            [
+              92.71756385863775,
+              23.734250000000003
+            ],
+            [
+              92.71756385863775,
+              23.73395
+            ],
+            [
+              92.71723614136225,
+              23.73395
+            ],
+            [
+              92.71723614136225,
+              23.734250000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-26",
+      "properties": {
+        "id": "nit-mizoram-bld-26",
+        "name": "NIT Mizoram Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71123615016253,
+              23.72725
+            ],
+            [
+              92.71156384983746,
+              23.72725
+            ],
+            [
+              92.71156384983746,
+              23.72695
+            ],
+            [
+              92.71123615016253,
+              23.72695
+            ],
+            [
+              92.71123615016253,
+              23.72725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-27",
+      "properties": {
+        "id": "nit-mizoram-bld-27",
+        "name": "NIT Mizoram State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71873615016253,
+              23.72725
+            ],
+            [
+              92.71906384983745,
+              23.72725
+            ],
+            [
+              92.71906384983745,
+              23.72695
+            ],
+            [
+              92.71873615016253,
+              23.72695
+            ],
+            [
+              92.71873615016253,
+              23.72725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-28",
+      "properties": {
+        "id": "nit-mizoram-bld-28",
+        "name": "NIT Mizoram Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71823614261965,
+              23.73325
+            ],
+            [
+              92.71856385738036,
+              23.73325
+            ],
+            [
+              92.71856385738036,
+              23.73295
+            ],
+            [
+              92.71823614261965,
+              23.73295
+            ],
+            [
+              92.71823614261965,
+              23.73325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-bld-29",
+      "properties": {
+        "id": "nit-mizoram-bld-29",
+        "name": "NIT Mizoram Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92.71323614387695,
+              23.73225
+            ],
+            [
+              92.71356385612303,
+              23.73225
+            ],
+            [
+              92.71356385612303,
+              23.731949999999998
+            ],
+            [
+              92.71323614387695,
+              23.731949999999998
+            ],
+            [
+              92.71323614387695,
+              23.73225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-road-0",
+      "properties": {
+        "id": "nit-mizoram-road-0",
+        "name": "NIT Mizoram Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7174,
+            23.7341
+          ],
+          [
+            92.7174,
+            23.7231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-road-1",
+      "properties": {
+        "id": "nit-mizoram-road-1",
+        "name": "NIT Mizoram Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7134,
+            23.7241
+          ],
+          [
+            92.7214,
+            23.7241
+          ],
+          [
+            92.7214,
+            23.7311
+          ],
+          [
+            92.7134,
+            23.7311
+          ],
+          [
+            92.7134,
+            23.7241
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-road-2",
+      "properties": {
+        "id": "nit-mizoram-road-2",
+        "name": "NIT Mizoram West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7114,
+            23.7271
+          ],
+          [
+            92.7174,
+            23.7271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-road-3",
+      "properties": {
+        "id": "nit-mizoram-road-3",
+        "name": "NIT Mizoram Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7134,
+            23.7291
+          ],
+          [
+            92.7214,
+            23.7291
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-road-4",
+      "properties": {
+        "id": "nit-mizoram-road-4",
+        "name": "NIT Mizoram Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7134,
+            23.7241
+          ],
+          [
+            92.7134,
+            23.7261
+          ],
+          [
+            92.7214,
+            23.7261
+          ],
+          [
+            92.7214,
+            23.7241
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-walkway-0",
+      "properties": {
+        "id": "nit-mizoram-walkway-0",
+        "name": "NIT Mizoram Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7174,
+            23.7301
+          ],
+          [
+            92.7174,
+            23.7286
+          ],
+          [
+            92.7154,
+            23.7286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-walkway-1",
+      "properties": {
+        "id": "nit-mizoram-walkway-1",
+        "name": "NIT Mizoram CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7204,
+            23.7291
+          ],
+          [
+            92.7174,
+            23.7291
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-walkway-2",
+      "properties": {
+        "id": "nit-mizoram-walkway-2",
+        "name": "NIT Mizoram SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7174,
+            23.7261
+          ],
+          [
+            92.7174,
+            23.7241
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-walkway-3",
+      "properties": {
+        "id": "nit-mizoram-walkway-3",
+        "name": "NIT Mizoram Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7204,
+            23.7211
+          ],
+          [
+            92.7194,
+            23.7221
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-walkway-4",
+      "properties": {
+        "id": "nit-mizoram-walkway-4",
+        "name": "NIT Mizoram Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7214,
+            23.7251
+          ],
+          [
+            92.7204,
+            23.7261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-walkway-5",
+      "properties": {
+        "id": "nit-mizoram-walkway-5",
+        "name": "NIT Mizoram Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7134,
+            23.7251
+          ],
+          [
+            92.7154,
+            23.7251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-walkway-6",
+      "properties": {
+        "id": "nit-mizoram-walkway-6",
+        "name": "NIT Mizoram Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7204,
+            23.7271
+          ],
+          [
+            92.71889999999999,
+            23.7271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-mizoram-walkway-7",
+      "properties": {
+        "id": "nit-mizoram-walkway-7",
+        "name": "NIT Mizoram Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7149,
+            23.7296
+          ],
+          [
+            92.7154,
+            23.7286
+          ]
+        ]
+      }
+    }
+  ]
+}

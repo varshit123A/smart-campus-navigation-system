@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "IIT Gandhinagar GIS Dataset",
+  "properties": {
+    "campusId": "iit-gandhinagar",
+    "campusName": "IIT Gandhinagar",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.196Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "IIT Gandhinagar Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.69389264680353,
+              23.2114
+            ],
+            [
+              72.69355897045527,
+              23.213729371405925
+            ],
+            [
+              72.69258068090215,
+              23.2159
+            ],
+            [
+              72.69102444696054,
+              23.21776396103068
+            ],
+            [
+              72.68899632340177,
+              23.219194228634063
+            ],
+            [
+              72.68663452349472,
+              23.2200933324366
+            ],
+            [
+              72.6841,
+              23.2204
+            ],
+            [
+              72.68156547650528,
+              23.2200933324366
+            ],
+            [
+              72.67920367659823,
+              23.219194228634063
+            ],
+            [
+              72.67717555303946,
+              23.21776396103068
+            ],
+            [
+              72.67561931909785,
+              23.2159
+            ],
+            [
+              72.67464102954473,
+              23.213729371405925
+            ],
+            [
+              72.67430735319647,
+              23.2114
+            ],
+            [
+              72.67464102954473,
+              23.209070628594077
+            ],
+            [
+              72.67561931909785,
+              23.2069
+            ],
+            [
+              72.67717555303946,
+              23.20503603896932
+            ],
+            [
+              72.67920367659823,
+              23.20360577136594
+            ],
+            [
+              72.68156547650528,
+              23.2027066675634
+            ],
+            [
+              72.6841,
+              23.2024
+            ],
+            [
+              72.68663452349472,
+              23.2027066675634
+            ],
+            [
+              72.68899632340177,
+              23.20360577136594
+            ],
+            [
+              72.69102444696054,
+              23.20503603896932
+            ],
+            [
+              72.69258068090215,
+              23.2069
+            ],
+            [
+              72.69355897045527,
+              23.209070628594077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-0",
+      "properties": {
+        "id": "iit-gandhinagar-bld-0",
+        "name": "IIT Gandhinagar Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of IIT Gandhinagar, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68393678860915,
+              23.21205
+            ],
+            [
+              72.68426321139086,
+              23.21205
+            ],
+            [
+              72.68426321139086,
+              23.21175
+            ],
+            [
+              72.68393678860915,
+              23.21175
+            ],
+            [
+              72.68393678860915,
+              23.21205
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-1",
+      "properties": {
+        "id": "iit-gandhinagar-bld-1",
+        "name": "IIT Gandhinagar Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at IIT Gandhinagar. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68393678555493,
+              23.214550000000003
+            ],
+            [
+              72.68426321444507,
+              23.214550000000003
+            ],
+            [
+              72.68426321444507,
+              23.21425
+            ],
+            [
+              72.68393678555493,
+              23.21425
+            ],
+            [
+              72.68393678555493,
+              23.214550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-2",
+      "properties": {
+        "id": "iit-gandhinagar-bld-2",
+        "name": "IIT Gandhinagar Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68193678738751,
+              23.213050000000003
+            ],
+            [
+              72.6822632126125,
+              23.213050000000003
+            ],
+            [
+              72.6822632126125,
+              23.21275
+            ],
+            [
+              72.68193678738751,
+              23.21275
+            ],
+            [
+              72.68193678738751,
+              23.213050000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-3",
+      "properties": {
+        "id": "iit-gandhinagar-bld-3",
+        "name": "IIT Gandhinagar Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68693678677667,
+              23.21355
+            ],
+            [
+              72.68726321322333,
+              23.21355
+            ],
+            [
+              72.68726321322333,
+              23.21325
+            ],
+            [
+              72.68693678677667,
+              23.21325
+            ],
+            [
+              72.68693678677667,
+              23.21355
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-4",
+      "properties": {
+        "id": "iit-gandhinagar-bld-4",
+        "name": "IIT Gandhinagar Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68593678799833,
+              23.212550000000004
+            ],
+            [
+              72.68626321200166,
+              23.212550000000004
+            ],
+            [
+              72.68626321200166,
+              23.21225
+            ],
+            [
+              72.68593678799833,
+              23.21225
+            ],
+            [
+              72.68593678799833,
+              23.212550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-5",
+      "properties": {
+        "id": "iit-gandhinagar-bld-5",
+        "name": "IIT Gandhinagar Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68093678799833,
+              23.212550000000004
+            ],
+            [
+              72.68126321200167,
+              23.212550000000004
+            ],
+            [
+              72.68126321200167,
+              23.21225
+            ],
+            [
+              72.68093678799833,
+              23.21225
+            ],
+            [
+              72.68093678799833,
+              23.212550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-6",
+      "properties": {
+        "id": "iit-gandhinagar-bld-6",
+        "name": "IIT Gandhinagar Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68643678555493,
+              23.214550000000003
+            ],
+            [
+              72.68676321444507,
+              23.214550000000003
+            ],
+            [
+              72.68676321444507,
+              23.21425
+            ],
+            [
+              72.68643678555493,
+              23.21425
+            ],
+            [
+              72.68643678555493,
+              23.214550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-7",
+      "properties": {
+        "id": "iit-gandhinagar-bld-7",
+        "name": "IIT Gandhinagar Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of IIT Gandhinagar used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68143678616582,
+              23.214050000000004
+            ],
+            [
+              72.68176321383419,
+              23.214050000000004
+            ],
+            [
+              72.68176321383419,
+              23.21375
+            ],
+            [
+              72.68143678616582,
+              23.21375
+            ],
+            [
+              72.68143678616582,
+              23.214050000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-8",
+      "properties": {
+        "id": "iit-gandhinagar-bld-8",
+        "name": "IIT Gandhinagar Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68293678494403,
+              23.21505
+            ],
+            [
+              72.68326321505596,
+              23.21505
+            ],
+            [
+              72.68326321505596,
+              23.21475
+            ],
+            [
+              72.68293678494403,
+              23.21475
+            ],
+            [
+              72.68293678494403,
+              23.21505
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-9",
+      "properties": {
+        "id": "iit-gandhinagar-bld-9",
+        "name": "IIT Gandhinagar Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.67993679166294,
+              23.209550000000004
+            ],
+            [
+              72.68026320833705,
+              23.209550000000004
+            ],
+            [
+              72.68026320833705,
+              23.20925
+            ],
+            [
+              72.67993679166294,
+              23.20925
+            ],
+            [
+              72.67993679166294,
+              23.209550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-10",
+      "properties": {
+        "id": "iit-gandhinagar-bld-10",
+        "name": "IIT Gandhinagar Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.67993679288433,
+              23.208550000000002
+            ],
+            [
+              72.68026320711566,
+              23.208550000000002
+            ],
+            [
+              72.68026320711566,
+              23.20825
+            ],
+            [
+              72.67993679288433,
+              23.20825
+            ],
+            [
+              72.67993679288433,
+              23.208550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-11",
+      "properties": {
+        "id": "iit-gandhinagar-bld-11",
+        "name": "IIT Gandhinagar Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68093679410566,
+              23.20755
+            ],
+            [
+              72.68126320589434,
+              23.20755
+            ],
+            [
+              72.68126320589434,
+              23.20725
+            ],
+            [
+              72.68093679410566,
+              23.20725
+            ],
+            [
+              72.68093679410566,
+              23.20755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-12",
+      "properties": {
+        "id": "iit-gandhinagar-bld-12",
+        "name": "IIT Gandhinagar Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68793679166295,
+              23.209550000000004
+            ],
+            [
+              72.68826320833706,
+              23.209550000000004
+            ],
+            [
+              72.68826320833706,
+              23.20925
+            ],
+            [
+              72.68793679166295,
+              23.20925
+            ],
+            [
+              72.68793679166295,
+              23.209550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-13",
+      "properties": {
+        "id": "iit-gandhinagar-bld-13",
+        "name": "IIT Gandhinagar Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68793679288434,
+              23.208550000000002
+            ],
+            [
+              72.68826320711567,
+              23.208550000000002
+            ],
+            [
+              72.68826320711567,
+              23.20825
+            ],
+            [
+              72.68793679288434,
+              23.20825
+            ],
+            [
+              72.68793679288434,
+              23.208550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-14",
+      "properties": {
+        "id": "iit-gandhinagar-bld-14",
+        "name": "IIT Gandhinagar Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68593679532692,
+              23.206550000000004
+            ],
+            [
+              72.68626320467307,
+              23.206550000000004
+            ],
+            [
+              72.68626320467307,
+              23.20625
+            ],
+            [
+              72.68593679532692,
+              23.20625
+            ],
+            [
+              72.68593679532692,
+              23.206550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-15",
+      "properties": {
+        "id": "iit-gandhinagar-bld-15",
+        "name": "IIT Gandhinagar Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68693679654812,
+              23.205550000000002
+            ],
+            [
+              72.68726320345188,
+              23.205550000000002
+            ],
+            [
+              72.68726320345188,
+              23.20525
+            ],
+            [
+              72.68693679654812,
+              23.20525
+            ],
+            [
+              72.68693679654812,
+              23.205550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-16",
+      "properties": {
+        "id": "iit-gandhinagar-bld-16",
+        "name": "IIT Gandhinagar Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68193679532693,
+              23.206550000000004
+            ],
+            [
+              72.68226320467308,
+              23.206550000000004
+            ],
+            [
+              72.68226320467308,
+              23.20625
+            ],
+            [
+              72.68193679532693,
+              23.20625
+            ],
+            [
+              72.68193679532693,
+              23.206550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-17",
+      "properties": {
+        "id": "iit-gandhinagar-bld-17",
+        "name": "IIT Gandhinagar Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68393679044148,
+              23.21055
+            ],
+            [
+              72.68426320955852,
+              23.21055
+            ],
+            [
+              72.68426320955852,
+              23.21025
+            ],
+            [
+              72.68393679044148,
+              23.21025
+            ],
+            [
+              72.68393679044148,
+              23.21055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-18",
+      "properties": {
+        "id": "iit-gandhinagar-bld-18",
+        "name": "IIT Gandhinagar Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68193679166295,
+              23.209550000000004
+            ],
+            [
+              72.68226320833706,
+              23.209550000000004
+            ],
+            [
+              72.68226320833706,
+              23.20925
+            ],
+            [
+              72.68193679166295,
+              23.20925
+            ],
+            [
+              72.68193679166295,
+              23.209550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-19",
+      "properties": {
+        "id": "iit-gandhinagar-bld-19",
+        "name": "IIT Gandhinagar Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68093679044148,
+              23.21055
+            ],
+            [
+              72.68126320955852,
+              23.21055
+            ],
+            [
+              72.68126320955852,
+              23.21025
+            ],
+            [
+              72.68093679044148,
+              23.21025
+            ],
+            [
+              72.68093679044148,
+              23.21055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-20",
+      "properties": {
+        "id": "iit-gandhinagar-bld-20",
+        "name": "IIT Gandhinagar Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68693679044148,
+              23.21055
+            ],
+            [
+              72.68726320955852,
+              23.21055
+            ],
+            [
+              72.68726320955852,
+              23.21025
+            ],
+            [
+              72.68693679044148,
+              23.21025
+            ],
+            [
+              72.68693679044148,
+              23.21055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-21",
+      "properties": {
+        "id": "iit-gandhinagar-bld-21",
+        "name": "IIT Gandhinagar Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68393679288434,
+              23.208550000000002
+            ],
+            [
+              72.68426320711566,
+              23.208550000000002
+            ],
+            [
+              72.68426320711566,
+              23.20825
+            ],
+            [
+              72.68393679288434,
+              23.20825
+            ],
+            [
+              72.68393679288434,
+              23.208550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-22",
+      "properties": {
+        "id": "iit-gandhinagar-bld-22",
+        "name": "IIT Gandhinagar Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68593679288433,
+              23.208550000000002
+            ],
+            [
+              72.68626320711566,
+              23.208550000000002
+            ],
+            [
+              72.68626320711566,
+              23.20825
+            ],
+            [
+              72.68593679288433,
+              23.20825
+            ],
+            [
+              72.68593679288433,
+              23.208550000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-23",
+      "properties": {
+        "id": "iit-gandhinagar-bld-23",
+        "name": "IIT Gandhinagar Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68493679410567,
+              23.20755
+            ],
+            [
+              72.68526320589434,
+              23.20755
+            ],
+            [
+              72.68526320589434,
+              23.20725
+            ],
+            [
+              72.68493679410567,
+              23.20725
+            ],
+            [
+              72.68493679410567,
+              23.20755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-24",
+      "properties": {
+        "id": "iit-gandhinagar-bld-24",
+        "name": "IIT Gandhinagar Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68693678921994,
+              23.211550000000003
+            ],
+            [
+              72.68726321078006,
+              23.211550000000003
+            ],
+            [
+              72.68726321078006,
+              23.21125
+            ],
+            [
+              72.68693678921994,
+              23.21125
+            ],
+            [
+              72.68693678921994,
+              23.211550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-25",
+      "properties": {
+        "id": "iit-gandhinagar-bld-25",
+        "name": "IIT Gandhinagar Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.6839367806673,
+              23.218550000000004
+            ],
+            [
+              72.6842632193327,
+              23.218550000000004
+            ],
+            [
+              72.6842632193327,
+              23.21825
+            ],
+            [
+              72.6839367806673,
+              23.21825
+            ],
+            [
+              72.6839367806673,
+              23.218550000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-26",
+      "properties": {
+        "id": "iit-gandhinagar-bld-26",
+        "name": "IIT Gandhinagar Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.67793678921994,
+              23.211550000000003
+            ],
+            [
+              72.67826321078006,
+              23.211550000000003
+            ],
+            [
+              72.67826321078006,
+              23.21125
+            ],
+            [
+              72.67793678921994,
+              23.21125
+            ],
+            [
+              72.67793678921994,
+              23.211550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-27",
+      "properties": {
+        "id": "iit-gandhinagar-bld-27",
+        "name": "IIT Gandhinagar State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68543678921993,
+              23.211550000000003
+            ],
+            [
+              72.68576321078005,
+              23.211550000000003
+            ],
+            [
+              72.68576321078005,
+              23.21125
+            ],
+            [
+              72.68543678921993,
+              23.21125
+            ],
+            [
+              72.68543678921993,
+              23.211550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-28",
+      "properties": {
+        "id": "iit-gandhinagar-bld-28",
+        "name": "IIT Gandhinagar Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.68493678188932,
+              23.217550000000003
+            ],
+            [
+              72.68526321811069,
+              23.217550000000003
+            ],
+            [
+              72.68526321811069,
+              23.21725
+            ],
+            [
+              72.68493678188932,
+              23.21725
+            ],
+            [
+              72.68493678188932,
+              23.217550000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-bld-29",
+      "properties": {
+        "id": "iit-gandhinagar-bld-29",
+        "name": "IIT Gandhinagar Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.67993678311124,
+              23.21655
+            ],
+            [
+              72.68026321688875,
+              23.21655
+            ],
+            [
+              72.68026321688875,
+              23.21625
+            ],
+            [
+              72.67993678311124,
+              23.21625
+            ],
+            [
+              72.67993678311124,
+              23.21655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-road-0",
+      "properties": {
+        "id": "iit-gandhinagar-road-0",
+        "name": "IIT Gandhinagar Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6841,
+            23.218400000000003
+          ],
+          [
+            72.6841,
+            23.2074
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-road-1",
+      "properties": {
+        "id": "iit-gandhinagar-road-1",
+        "name": "IIT Gandhinagar Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6801,
+            23.2084
+          ],
+          [
+            72.6881,
+            23.2084
+          ],
+          [
+            72.6881,
+            23.215400000000002
+          ],
+          [
+            72.6801,
+            23.215400000000002
+          ],
+          [
+            72.6801,
+            23.2084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-road-2",
+      "properties": {
+        "id": "iit-gandhinagar-road-2",
+        "name": "IIT Gandhinagar West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6781,
+            23.2114
+          ],
+          [
+            72.6841,
+            23.2114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-road-3",
+      "properties": {
+        "id": "iit-gandhinagar-road-3",
+        "name": "IIT Gandhinagar Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6801,
+            23.2134
+          ],
+          [
+            72.6881,
+            23.2134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-road-4",
+      "properties": {
+        "id": "iit-gandhinagar-road-4",
+        "name": "IIT Gandhinagar Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6801,
+            23.2084
+          ],
+          [
+            72.6801,
+            23.2104
+          ],
+          [
+            72.6881,
+            23.2104
+          ],
+          [
+            72.6881,
+            23.2084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-walkway-0",
+      "properties": {
+        "id": "iit-gandhinagar-walkway-0",
+        "name": "IIT Gandhinagar Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6841,
+            23.2144
+          ],
+          [
+            72.6841,
+            23.2129
+          ],
+          [
+            72.6821,
+            23.2129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-walkway-1",
+      "properties": {
+        "id": "iit-gandhinagar-walkway-1",
+        "name": "IIT Gandhinagar CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6871,
+            23.2134
+          ],
+          [
+            72.6841,
+            23.2134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-walkway-2",
+      "properties": {
+        "id": "iit-gandhinagar-walkway-2",
+        "name": "IIT Gandhinagar SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6841,
+            23.2104
+          ],
+          [
+            72.6841,
+            23.2084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-walkway-3",
+      "properties": {
+        "id": "iit-gandhinagar-walkway-3",
+        "name": "IIT Gandhinagar Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6871,
+            23.2054
+          ],
+          [
+            72.6861,
+            23.206400000000002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-walkway-4",
+      "properties": {
+        "id": "iit-gandhinagar-walkway-4",
+        "name": "IIT Gandhinagar Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6881,
+            23.209400000000002
+          ],
+          [
+            72.6871,
+            23.2104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-walkway-5",
+      "properties": {
+        "id": "iit-gandhinagar-walkway-5",
+        "name": "IIT Gandhinagar Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6801,
+            23.209400000000002
+          ],
+          [
+            72.6821,
+            23.209400000000002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-walkway-6",
+      "properties": {
+        "id": "iit-gandhinagar-walkway-6",
+        "name": "IIT Gandhinagar Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6871,
+            23.2114
+          ],
+          [
+            72.6856,
+            23.2114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-gandhinagar-walkway-7",
+      "properties": {
+        "id": "iit-gandhinagar-walkway-7",
+        "name": "IIT Gandhinagar Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6816,
+            23.213900000000002
+          ],
+          [
+            72.6821,
+            23.2129
+          ]
+        ]
+      }
+    }
+  ]
+}

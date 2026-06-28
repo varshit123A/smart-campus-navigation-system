@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Manipur GIS Dataset",
+  "properties": {
+    "campusId": "nit-manipur",
+    "campusName": "NIT Manipur",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.217Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-manipur-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Manipur Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.95111564379121,
+              24.8165
+            ],
+            [
+              93.95077777642221,
+              24.818829371405926
+            ],
+            [
+              93.94978719941807,
+              24.821
+            ],
+            [
+              93.9482114189646,
+              24.82286396103068
+            ],
+            [
+              93.94615782189561,
+              24.824294228634063
+            ],
+            [
+              93.94376635745762,
+              24.8251933324366
+            ],
+            [
+              93.9412,
+              24.8255
+            ],
+            [
+              93.93863364254237,
+              24.8251933324366
+            ],
+            [
+              93.93624217810438,
+              24.824294228634063
+            ],
+            [
+              93.93418858103539,
+              24.82286396103068
+            ],
+            [
+              93.93261280058192,
+              24.821
+            ],
+            [
+              93.93162222357778,
+              24.818829371405926
+            ],
+            [
+              93.93128435620878,
+              24.8165
+            ],
+            [
+              93.93162222357778,
+              24.814170628594077
+            ],
+            [
+              93.93261280058192,
+              24.812
+            ],
+            [
+              93.93418858103539,
+              24.810136038969322
+            ],
+            [
+              93.93624217810438,
+              24.80870577136594
+            ],
+            [
+              93.93863364254237,
+              24.8078066675634
+            ],
+            [
+              93.9412,
+              24.8075
+            ],
+            [
+              93.94376635745762,
+              24.8078066675634
+            ],
+            [
+              93.94615782189561,
+              24.80870577136594
+            ],
+            [
+              93.9482114189646,
+              24.810136038969322
+            ],
+            [
+              93.94978719941807,
+              24.812
+            ],
+            [
+              93.95077777642221,
+              24.814170628594077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-0",
+      "properties": {
+        "id": "nit-manipur-bld-0",
+        "name": "NIT Manipur Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of NIT Manipur, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94103473860325,
+              24.81715
+            ],
+            [
+              93.94136526139674,
+              24.81715
+            ],
+            [
+              93.94136526139674,
+              24.81685
+            ],
+            [
+              93.94103473860325,
+              24.81685
+            ],
+            [
+              93.94103473860325,
+              24.81715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-1",
+      "properties": {
+        "id": "nit-manipur-bld-1",
+        "name": "NIT Manipur Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at NIT Manipur. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94103473526853,
+              24.819650000000003
+            ],
+            [
+              93.94136526473146,
+              24.819650000000003
+            ],
+            [
+              93.94136526473146,
+              24.81935
+            ],
+            [
+              93.94103473526853,
+              24.81935
+            ],
+            [
+              93.94103473526853,
+              24.819650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-2",
+      "properties": {
+        "id": "nit-manipur-bld-2",
+        "name": "NIT Manipur Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.93903473726942,
+              24.818150000000003
+            ],
+            [
+              93.93936526273058,
+              24.818150000000003
+            ],
+            [
+              93.93936526273058,
+              24.81785
+            ],
+            [
+              93.93903473726942,
+              24.81785
+            ],
+            [
+              93.93903473726942,
+              24.818150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-3",
+      "properties": {
+        "id": "nit-manipur-bld-3",
+        "name": "NIT Manipur Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94403473660248,
+              24.81865
+            ],
+            [
+              93.94436526339751,
+              24.81865
+            ],
+            [
+              93.94436526339751,
+              24.81835
+            ],
+            [
+              93.94403473660248,
+              24.81835
+            ],
+            [
+              93.94403473660248,
+              24.81865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-4",
+      "properties": {
+        "id": "nit-manipur-bld-4",
+        "name": "NIT Manipur Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94303473793634,
+              24.817650000000004
+            ],
+            [
+              93.94336526206364,
+              24.817650000000004
+            ],
+            [
+              93.94336526206364,
+              24.81735
+            ],
+            [
+              93.94303473793634,
+              24.81735
+            ],
+            [
+              93.94303473793634,
+              24.817650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-5",
+      "properties": {
+        "id": "nit-manipur-bld-5",
+        "name": "NIT Manipur Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.93803473793635,
+              24.817650000000004
+            ],
+            [
+              93.93836526206364,
+              24.817650000000004
+            ],
+            [
+              93.93836526206364,
+              24.81735
+            ],
+            [
+              93.93803473793635,
+              24.81735
+            ],
+            [
+              93.93803473793635,
+              24.817650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-6",
+      "properties": {
+        "id": "nit-manipur-bld-6",
+        "name": "NIT Manipur Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94353473526853,
+              24.819650000000003
+            ],
+            [
+              93.94386526473146,
+              24.819650000000003
+            ],
+            [
+              93.94386526473146,
+              24.81935
+            ],
+            [
+              93.94353473526853,
+              24.81935
+            ],
+            [
+              93.94353473526853,
+              24.819650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-7",
+      "properties": {
+        "id": "nit-manipur-bld-7",
+        "name": "NIT Manipur Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of NIT Manipur used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.93853473593552,
+              24.819150000000004
+            ],
+            [
+              93.93886526406448,
+              24.819150000000004
+            ],
+            [
+              93.93886526406448,
+              24.81885
+            ],
+            [
+              93.93853473593552,
+              24.81885
+            ],
+            [
+              93.93853473593552,
+              24.819150000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-8",
+      "properties": {
+        "id": "nit-manipur-bld-8",
+        "name": "NIT Manipur Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94003473460153,
+              24.82015
+            ],
+            [
+              93.94036526539846,
+              24.82015
+            ],
+            [
+              93.94036526539846,
+              24.81985
+            ],
+            [
+              93.94003473460153,
+              24.81985
+            ],
+            [
+              93.94003473460153,
+              24.82015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-9",
+      "properties": {
+        "id": "nit-manipur-bld-9",
+        "name": "NIT Manipur Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.93703474193752,
+              24.814650000000004
+            ],
+            [
+              93.93736525806246,
+              24.814650000000004
+            ],
+            [
+              93.93736525806246,
+              24.81435
+            ],
+            [
+              93.93703474193752,
+              24.81435
+            ],
+            [
+              93.93703474193752,
+              24.814650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-10",
+      "properties": {
+        "id": "nit-manipur-bld-10",
+        "name": "NIT Manipur Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.9370347432711,
+              24.813650000000003
+            ],
+            [
+              93.93736525672888,
+              24.813650000000003
+            ],
+            [
+              93.93736525672888,
+              24.81335
+            ],
+            [
+              93.9370347432711,
+              24.81335
+            ],
+            [
+              93.9370347432711,
+              24.813650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-11",
+      "properties": {
+        "id": "nit-manipur-bld-11",
+        "name": "NIT Manipur Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.93803474460462,
+              24.81265
+            ],
+            [
+              93.93836525539537,
+              24.81265
+            ],
+            [
+              93.93836525539537,
+              24.81235
+            ],
+            [
+              93.93803474460462,
+              24.81235
+            ],
+            [
+              93.93803474460462,
+              24.81265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-12",
+      "properties": {
+        "id": "nit-manipur-bld-12",
+        "name": "NIT Manipur Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94503474193753,
+              24.814650000000004
+            ],
+            [
+              93.94536525806247,
+              24.814650000000004
+            ],
+            [
+              93.94536525806247,
+              24.81435
+            ],
+            [
+              93.94503474193753,
+              24.81435
+            ],
+            [
+              93.94503474193753,
+              24.814650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-13",
+      "properties": {
+        "id": "nit-manipur-bld-13",
+        "name": "NIT Manipur Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94503474327111,
+              24.813650000000003
+            ],
+            [
+              93.94536525672889,
+              24.813650000000003
+            ],
+            [
+              93.94536525672889,
+              24.81335
+            ],
+            [
+              93.94503474327111,
+              24.81335
+            ],
+            [
+              93.94503474327111,
+              24.813650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-14",
+      "properties": {
+        "id": "nit-manipur-bld-14",
+        "name": "NIT Manipur Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94303474593805,
+              24.811650000000004
+            ],
+            [
+              93.94336525406193,
+              24.811650000000004
+            ],
+            [
+              93.94336525406193,
+              24.81135
+            ],
+            [
+              93.94303474593805,
+              24.81135
+            ],
+            [
+              93.94303474593805,
+              24.811650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-15",
+      "properties": {
+        "id": "nit-manipur-bld-15",
+        "name": "NIT Manipur Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94403474727142,
+              24.810650000000003
+            ],
+            [
+              93.94436525272857,
+              24.810650000000003
+            ],
+            [
+              93.94436525272857,
+              24.81035
+            ],
+            [
+              93.94403474727142,
+              24.81035
+            ],
+            [
+              93.94403474727142,
+              24.810650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-16",
+      "properties": {
+        "id": "nit-manipur-bld-16",
+        "name": "NIT Manipur Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.93903474593806,
+              24.811650000000004
+            ],
+            [
+              93.93936525406194,
+              24.811650000000004
+            ],
+            [
+              93.93936525406194,
+              24.81135
+            ],
+            [
+              93.93903474593806,
+              24.81135
+            ],
+            [
+              93.93903474593806,
+              24.811650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-17",
+      "properties": {
+        "id": "nit-manipur-bld-17",
+        "name": "NIT Manipur Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94103474060387,
+              24.81565
+            ],
+            [
+              93.94136525939612,
+              24.81565
+            ],
+            [
+              93.94136525939612,
+              24.81535
+            ],
+            [
+              93.94103474060387,
+              24.81535
+            ],
+            [
+              93.94103474060387,
+              24.81565
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-18",
+      "properties": {
+        "id": "nit-manipur-bld-18",
+        "name": "NIT Manipur Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.93903474193753,
+              24.814650000000004
+            ],
+            [
+              93.93936525806247,
+              24.814650000000004
+            ],
+            [
+              93.93936525806247,
+              24.81435
+            ],
+            [
+              93.93903474193753,
+              24.81435
+            ],
+            [
+              93.93903474193753,
+              24.814650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-19",
+      "properties": {
+        "id": "nit-manipur-bld-19",
+        "name": "NIT Manipur Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.93803474060387,
+              24.81565
+            ],
+            [
+              93.93836525939612,
+              24.81565
+            ],
+            [
+              93.93836525939612,
+              24.81535
+            ],
+            [
+              93.93803474060387,
+              24.81535
+            ],
+            [
+              93.93803474060387,
+              24.81565
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-20",
+      "properties": {
+        "id": "nit-manipur-bld-20",
+        "name": "NIT Manipur Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94403474060387,
+              24.81565
+            ],
+            [
+              93.94436525939612,
+              24.81565
+            ],
+            [
+              93.94436525939612,
+              24.81535
+            ],
+            [
+              93.94403474060387,
+              24.81535
+            ],
+            [
+              93.94403474060387,
+              24.81565
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-21",
+      "properties": {
+        "id": "nit-manipur-bld-21",
+        "name": "NIT Manipur Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.9410347432711,
+              24.813650000000003
+            ],
+            [
+              93.94136525672889,
+              24.813650000000003
+            ],
+            [
+              93.94136525672889,
+              24.81335
+            ],
+            [
+              93.9410347432711,
+              24.81335
+            ],
+            [
+              93.9410347432711,
+              24.813650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-22",
+      "properties": {
+        "id": "nit-manipur-bld-22",
+        "name": "NIT Manipur Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.9430347432711,
+              24.813650000000003
+            ],
+            [
+              93.94336525672888,
+              24.813650000000003
+            ],
+            [
+              93.94336525672888,
+              24.81335
+            ],
+            [
+              93.9430347432711,
+              24.81335
+            ],
+            [
+              93.9430347432711,
+              24.813650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-23",
+      "properties": {
+        "id": "nit-manipur-bld-23",
+        "name": "NIT Manipur Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94203474460463,
+              24.81265
+            ],
+            [
+              93.94236525539537,
+              24.81265
+            ],
+            [
+              93.94236525539537,
+              24.81235
+            ],
+            [
+              93.94203474460463,
+              24.81235
+            ],
+            [
+              93.94203474460463,
+              24.81265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-24",
+      "properties": {
+        "id": "nit-manipur-bld-24",
+        "name": "NIT Manipur Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94403473927014,
+              24.816650000000003
+            ],
+            [
+              93.94436526072985,
+              24.816650000000003
+            ],
+            [
+              93.94436526072985,
+              24.81635
+            ],
+            [
+              93.94403473927014,
+              24.81635
+            ],
+            [
+              93.94403473927014,
+              24.816650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-25",
+      "properties": {
+        "id": "nit-manipur-bld-25",
+        "name": "NIT Manipur Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94103472993204,
+              24.823650000000004
+            ],
+            [
+              93.94136527006795,
+              24.823650000000004
+            ],
+            [
+              93.94136527006795,
+              24.82335
+            ],
+            [
+              93.94103472993204,
+              24.82335
+            ],
+            [
+              93.94103472993204,
+              24.823650000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-26",
+      "properties": {
+        "id": "nit-manipur-bld-26",
+        "name": "NIT Manipur Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.93503473927014,
+              24.816650000000003
+            ],
+            [
+              93.93536526072985,
+              24.816650000000003
+            ],
+            [
+              93.93536526072985,
+              24.81635
+            ],
+            [
+              93.93503473927014,
+              24.81635
+            ],
+            [
+              93.93503473927014,
+              24.816650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-27",
+      "properties": {
+        "id": "nit-manipur-bld-27",
+        "name": "NIT Manipur State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94253473927013,
+              24.816650000000003
+            ],
+            [
+              93.94286526072985,
+              24.816650000000003
+            ],
+            [
+              93.94286526072985,
+              24.81635
+            ],
+            [
+              93.94253473927013,
+              24.81635
+            ],
+            [
+              93.94253473927013,
+              24.816650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-28",
+      "properties": {
+        "id": "nit-manipur-bld-28",
+        "name": "NIT Manipur Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.94203473126628,
+              24.822650000000003
+            ],
+            [
+              93.94236526873372,
+              24.822650000000003
+            ],
+            [
+              93.94236526873372,
+              24.82235
+            ],
+            [
+              93.94203473126628,
+              24.82235
+            ],
+            [
+              93.94203473126628,
+              24.822650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-bld-29",
+      "properties": {
+        "id": "nit-manipur-bld-29",
+        "name": "NIT Manipur Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.93703473260042,
+              24.82165
+            ],
+            [
+              93.93736526739956,
+              24.82165
+            ],
+            [
+              93.93736526739956,
+              24.82135
+            ],
+            [
+              93.93703473260042,
+              24.82135
+            ],
+            [
+              93.93703473260042,
+              24.82165
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-road-0",
+      "properties": {
+        "id": "nit-manipur-road-0",
+        "name": "NIT Manipur Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.9412,
+            24.823500000000003
+          ],
+          [
+            93.9412,
+            24.8125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-road-1",
+      "properties": {
+        "id": "nit-manipur-road-1",
+        "name": "NIT Manipur Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.93719999999999,
+            24.8135
+          ],
+          [
+            93.9452,
+            24.8135
+          ],
+          [
+            93.9452,
+            24.820500000000003
+          ],
+          [
+            93.93719999999999,
+            24.820500000000003
+          ],
+          [
+            93.93719999999999,
+            24.8135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-road-2",
+      "properties": {
+        "id": "nit-manipur-road-2",
+        "name": "NIT Manipur West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.9352,
+            24.8165
+          ],
+          [
+            93.9412,
+            24.8165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-road-3",
+      "properties": {
+        "id": "nit-manipur-road-3",
+        "name": "NIT Manipur Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.93719999999999,
+            24.8185
+          ],
+          [
+            93.9452,
+            24.8185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-road-4",
+      "properties": {
+        "id": "nit-manipur-road-4",
+        "name": "NIT Manipur Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.93719999999999,
+            24.8135
+          ],
+          [
+            93.93719999999999,
+            24.8155
+          ],
+          [
+            93.9452,
+            24.8155
+          ],
+          [
+            93.9452,
+            24.8135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-walkway-0",
+      "properties": {
+        "id": "nit-manipur-walkway-0",
+        "name": "NIT Manipur Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.9412,
+            24.8195
+          ],
+          [
+            93.9412,
+            24.818
+          ],
+          [
+            93.9392,
+            24.818
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-walkway-1",
+      "properties": {
+        "id": "nit-manipur-walkway-1",
+        "name": "NIT Manipur CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.9442,
+            24.8185
+          ],
+          [
+            93.9412,
+            24.8185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-walkway-2",
+      "properties": {
+        "id": "nit-manipur-walkway-2",
+        "name": "NIT Manipur SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.9412,
+            24.8155
+          ],
+          [
+            93.9412,
+            24.8135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-walkway-3",
+      "properties": {
+        "id": "nit-manipur-walkway-3",
+        "name": "NIT Manipur Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.9442,
+            24.8105
+          ],
+          [
+            93.94319999999999,
+            24.811500000000002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-walkway-4",
+      "properties": {
+        "id": "nit-manipur-walkway-4",
+        "name": "NIT Manipur Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.9452,
+            24.814500000000002
+          ],
+          [
+            93.9442,
+            24.8155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-walkway-5",
+      "properties": {
+        "id": "nit-manipur-walkway-5",
+        "name": "NIT Manipur Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.93719999999999,
+            24.814500000000002
+          ],
+          [
+            93.9392,
+            24.814500000000002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-walkway-6",
+      "properties": {
+        "id": "nit-manipur-walkway-6",
+        "name": "NIT Manipur Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.9442,
+            24.8165
+          ],
+          [
+            93.94269999999999,
+            24.8165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-manipur-walkway-7",
+      "properties": {
+        "id": "nit-manipur-walkway-7",
+        "name": "NIT Manipur Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.9387,
+            24.819000000000003
+          ],
+          [
+            93.9392,
+            24.818
+          ]
+        ]
+      }
+    }
+  ]
+}

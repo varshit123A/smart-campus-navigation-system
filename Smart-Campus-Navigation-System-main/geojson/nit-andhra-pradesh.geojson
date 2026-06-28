@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Andhra Pradesh GIS Dataset",
+  "properties": {
+    "campusId": "nit-andhra-pradesh",
+    "campusName": "NIT Andhra Pradesh",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.222Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Andhra Pradesh Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.5383019588383,
+              16.8143
+            ],
+            [
+              81.53798159485963,
+              16.816629371405924
+            ],
+            [
+              81.53704233519932,
+              16.8188
+            ],
+            [
+              81.53554818885101,
+              16.82066396103068
+            ],
+            [
+              81.53360097941915,
+              16.82209422863406
+            ],
+            [
+              81.53133340600861,
+              16.8229933324366
+            ],
+            [
+              81.5289,
+              16.8233
+            ],
+            [
+              81.52646659399137,
+              16.8229933324366
+            ],
+            [
+              81.52419902058084,
+              16.82209422863406
+            ],
+            [
+              81.52225181114898,
+              16.82066396103068
+            ],
+            [
+              81.52075766480067,
+              16.8188
+            ],
+            [
+              81.51981840514036,
+              16.816629371405924
+            ],
+            [
+              81.51949804116168,
+              16.8143
+            ],
+            [
+              81.51981840514036,
+              16.811970628594075
+            ],
+            [
+              81.52075766480067,
+              16.8098
+            ],
+            [
+              81.52225181114898,
+              16.80793603896932
+            ],
+            [
+              81.52419902058084,
+              16.806505771365938
+            ],
+            [
+              81.52646659399137,
+              16.8056066675634
+            ],
+            [
+              81.5289,
+              16.8053
+            ],
+            [
+              81.53133340600861,
+              16.8056066675634
+            ],
+            [
+              81.53360097941915,
+              16.806505771365938
+            ],
+            [
+              81.53554818885101,
+              16.80793603896932
+            ],
+            [
+              81.53704233519932,
+              16.8098
+            ],
+            [
+              81.53798159485963,
+              16.811970628594075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-0",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-0",
+        "name": "NIT Andhra Pradesh Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of NIT Andhra Pradesh, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52874330027278,
+              16.81495
+            ],
+            [
+              81.5290566997272,
+              16.81495
+            ],
+            [
+              81.5290566997272,
+              16.814649999999997
+            ],
+            [
+              81.52874330027278,
+              16.814649999999997
+            ],
+            [
+              81.52874330027278,
+              16.81495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-1",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-1",
+        "name": "NIT Andhra Pradesh Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at NIT Andhra Pradesh. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52874329820636,
+              16.81745
+            ],
+            [
+              81.52905670179362,
+              16.81745
+            ],
+            [
+              81.52905670179362,
+              16.817149999999998
+            ],
+            [
+              81.52874329820636,
+              16.817149999999998
+            ],
+            [
+              81.52874329820636,
+              16.81745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-2",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-2",
+        "name": "NIT Andhra Pradesh Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52674329944627,
+              16.81595
+            ],
+            [
+              81.52705670055373,
+              16.81595
+            ],
+            [
+              81.52705670055373,
+              16.815649999999998
+            ],
+            [
+              81.52674329944627,
+              16.815649999999998
+            ],
+            [
+              81.52674329944627,
+              16.81595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-3",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-3",
+        "name": "NIT Andhra Pradesh Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.53174329903298,
+              16.81645
+            ],
+            [
+              81.532056700967,
+              16.81645
+            ],
+            [
+              81.532056700967,
+              16.816149999999997
+            ],
+            [
+              81.53174329903298,
+              16.816149999999997
+            ],
+            [
+              81.53174329903298,
+              16.81645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-4",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-4",
+        "name": "NIT Andhra Pradesh Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.53074329985952,
+              16.815450000000002
+            ],
+            [
+              81.53105670014045,
+              16.815450000000002
+            ],
+            [
+              81.53105670014045,
+              16.81515
+            ],
+            [
+              81.53074329985952,
+              16.81515
+            ],
+            [
+              81.53074329985952,
+              16.815450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-5",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-5",
+        "name": "NIT Andhra Pradesh Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52574329985953,
+              16.815450000000002
+            ],
+            [
+              81.52605670014046,
+              16.815450000000002
+            ],
+            [
+              81.52605670014046,
+              16.81515
+            ],
+            [
+              81.52574329985953,
+              16.81515
+            ],
+            [
+              81.52574329985953,
+              16.815450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-6",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-6",
+        "name": "NIT Andhra Pradesh Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.53124329820636,
+              16.81745
+            ],
+            [
+              81.53155670179362,
+              16.81745
+            ],
+            [
+              81.53155670179362,
+              16.817149999999998
+            ],
+            [
+              81.53124329820636,
+              16.817149999999998
+            ],
+            [
+              81.53124329820636,
+              16.81745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-7",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-7",
+        "name": "NIT Andhra Pradesh Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of NIT Andhra Pradesh used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52624329861969,
+              16.816950000000002
+            ],
+            [
+              81.5265567013803,
+              16.816950000000002
+            ],
+            [
+              81.5265567013803,
+              16.81665
+            ],
+            [
+              81.52624329861969,
+              16.81665
+            ],
+            [
+              81.52624329861969,
+              16.816950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-8",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-8",
+        "name": "NIT Andhra Pradesh Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52774329779304,
+              16.81795
+            ],
+            [
+              81.52805670220694,
+              16.81795
+            ],
+            [
+              81.52805670220694,
+              16.817649999999997
+            ],
+            [
+              81.52774329779304,
+              16.817649999999997
+            ],
+            [
+              81.52774329779304,
+              16.81795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-9",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-9",
+        "name": "NIT Andhra Pradesh Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52474330233883,
+              16.812450000000002
+            ],
+            [
+              81.52505669766114,
+              16.812450000000002
+            ],
+            [
+              81.52505669766114,
+              16.81215
+            ],
+            [
+              81.52474330233883,
+              16.81215
+            ],
+            [
+              81.52474330233883,
+              16.812450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-10",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-10",
+        "name": "NIT Andhra Pradesh Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52474330316515,
+              16.81145
+            ],
+            [
+              81.52505669683482,
+              16.81145
+            ],
+            [
+              81.52505669683482,
+              16.811149999999998
+            ],
+            [
+              81.52474330316515,
+              16.811149999999998
+            ],
+            [
+              81.52474330316515,
+              16.81145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-11",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-11",
+        "name": "NIT Andhra Pradesh Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52574330399143,
+              16.81045
+            ],
+            [
+              81.52605669600855,
+              16.81045
+            ],
+            [
+              81.52605669600855,
+              16.810149999999997
+            ],
+            [
+              81.52574330399143,
+              16.810149999999997
+            ],
+            [
+              81.52574330399143,
+              16.81045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-12",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-12",
+        "name": "NIT Andhra Pradesh Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.53274330233884,
+              16.812450000000002
+            ],
+            [
+              81.53305669766115,
+              16.812450000000002
+            ],
+            [
+              81.53305669766115,
+              16.81215
+            ],
+            [
+              81.53274330233884,
+              16.81215
+            ],
+            [
+              81.53274330233884,
+              16.812450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-13",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-13",
+        "name": "NIT Andhra Pradesh Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.53274330316516,
+              16.81145
+            ],
+            [
+              81.53305669683483,
+              16.81145
+            ],
+            [
+              81.53305669683483,
+              16.811149999999998
+            ],
+            [
+              81.53274330316516,
+              16.811149999999998
+            ],
+            [
+              81.53274330316516,
+              16.81145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-14",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-14",
+        "name": "NIT Andhra Pradesh Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.53074330481763,
+              16.809450000000002
+            ],
+            [
+              81.53105669518234,
+              16.809450000000002
+            ],
+            [
+              81.53105669518234,
+              16.80915
+            ],
+            [
+              81.53074330481763,
+              16.80915
+            ],
+            [
+              81.53074330481763,
+              16.809450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-15",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-15",
+        "name": "NIT Andhra Pradesh Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.5317433056438,
+              16.80845
+            ],
+            [
+              81.53205669435619,
+              16.80845
+            ],
+            [
+              81.53205669435619,
+              16.808149999999998
+            ],
+            [
+              81.5317433056438,
+              16.808149999999998
+            ],
+            [
+              81.5317433056438,
+              16.80845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-16",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-16",
+        "name": "NIT Andhra Pradesh Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52674330481764,
+              16.809450000000002
+            ],
+            [
+              81.52705669518235,
+              16.809450000000002
+            ],
+            [
+              81.52705669518235,
+              16.80915
+            ],
+            [
+              81.52674330481764,
+              16.80915
+            ],
+            [
+              81.52674330481764,
+              16.809450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-17",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-17",
+        "name": "NIT Andhra Pradesh Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52874330151246,
+              16.81345
+            ],
+            [
+              81.52905669848752,
+              16.81345
+            ],
+            [
+              81.52905669848752,
+              16.813149999999997
+            ],
+            [
+              81.52874330151246,
+              16.813149999999997
+            ],
+            [
+              81.52874330151246,
+              16.81345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-18",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-18",
+        "name": "NIT Andhra Pradesh Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52674330233884,
+              16.812450000000002
+            ],
+            [
+              81.52705669766115,
+              16.812450000000002
+            ],
+            [
+              81.52705669766115,
+              16.81215
+            ],
+            [
+              81.52674330233884,
+              16.81215
+            ],
+            [
+              81.52674330233884,
+              16.812450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-19",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-19",
+        "name": "NIT Andhra Pradesh Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52574330151246,
+              16.81345
+            ],
+            [
+              81.52605669848752,
+              16.81345
+            ],
+            [
+              81.52605669848752,
+              16.813149999999997
+            ],
+            [
+              81.52574330151246,
+              16.813149999999997
+            ],
+            [
+              81.52574330151246,
+              16.81345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-20",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-20",
+        "name": "NIT Andhra Pradesh Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.53174330151246,
+              16.81345
+            ],
+            [
+              81.53205669848752,
+              16.81345
+            ],
+            [
+              81.53205669848752,
+              16.813149999999997
+            ],
+            [
+              81.53174330151246,
+              16.813149999999997
+            ],
+            [
+              81.53174330151246,
+              16.81345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-21",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-21",
+        "name": "NIT Andhra Pradesh Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52874330316516,
+              16.81145
+            ],
+            [
+              81.52905669683483,
+              16.81145
+            ],
+            [
+              81.52905669683483,
+              16.811149999999998
+            ],
+            [
+              81.52874330316516,
+              16.811149999999998
+            ],
+            [
+              81.52874330316516,
+              16.81145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-22",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-22",
+        "name": "NIT Andhra Pradesh Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.53074330316515,
+              16.81145
+            ],
+            [
+              81.53105669683482,
+              16.81145
+            ],
+            [
+              81.53105669683482,
+              16.811149999999998
+            ],
+            [
+              81.53074330316515,
+              16.811149999999998
+            ],
+            [
+              81.53074330316515,
+              16.81145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-23",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-23",
+        "name": "NIT Andhra Pradesh Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52974330399144,
+              16.81045
+            ],
+            [
+              81.53005669600856,
+              16.81045
+            ],
+            [
+              81.53005669600856,
+              16.810149999999997
+            ],
+            [
+              81.52974330399144,
+              16.810149999999997
+            ],
+            [
+              81.52974330399144,
+              16.81045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-24",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-24",
+        "name": "NIT Andhra Pradesh Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.53174330068602,
+              16.81445
+            ],
+            [
+              81.53205669931397,
+              16.81445
+            ],
+            [
+              81.53205669931397,
+              16.814149999999998
+            ],
+            [
+              81.53174330068602,
+              16.814149999999998
+            ],
+            [
+              81.53174330068602,
+              16.81445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-25",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-25",
+        "name": "NIT Andhra Pradesh Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52874329489939,
+              16.821450000000002
+            ],
+            [
+              81.5290567051006,
+              16.821450000000002
+            ],
+            [
+              81.5290567051006,
+              16.82115
+            ],
+            [
+              81.52874329489939,
+              16.82115
+            ],
+            [
+              81.52874329489939,
+              16.821450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-26",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-26",
+        "name": "NIT Andhra Pradesh Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52274330068602,
+              16.81445
+            ],
+            [
+              81.52305669931397,
+              16.81445
+            ],
+            [
+              81.52305669931397,
+              16.814149999999998
+            ],
+            [
+              81.52274330068602,
+              16.814149999999998
+            ],
+            [
+              81.52274330068602,
+              16.81445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-27",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-27",
+        "name": "NIT Andhra Pradesh State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.53024330068601,
+              16.81445
+            ],
+            [
+              81.53055669931396,
+              16.81445
+            ],
+            [
+              81.53055669931396,
+              16.814149999999998
+            ],
+            [
+              81.53024330068601,
+              16.814149999999998
+            ],
+            [
+              81.53024330068601,
+              16.81445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-28",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-28",
+        "name": "NIT Andhra Pradesh Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52974329572622,
+              16.82045
+            ],
+            [
+              81.53005670427378,
+              16.82045
+            ],
+            [
+              81.53005670427378,
+              16.820149999999998
+            ],
+            [
+              81.52974329572622,
+              16.820149999999998
+            ],
+            [
+              81.52974329572622,
+              16.82045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-bld-29",
+      "properties": {
+        "id": "nit-andhra-pradesh-bld-29",
+        "name": "NIT Andhra Pradesh Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.52474329655298,
+              16.81945
+            ],
+            [
+              81.52505670344699,
+              16.81945
+            ],
+            [
+              81.52505670344699,
+              16.819149999999997
+            ],
+            [
+              81.52474329655298,
+              16.819149999999997
+            ],
+            [
+              81.52474329655298,
+              16.81945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-road-0",
+      "properties": {
+        "id": "nit-andhra-pradesh-road-0",
+        "name": "NIT Andhra Pradesh Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.5289,
+            16.8213
+          ],
+          [
+            81.5289,
+            16.810299999999998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-road-1",
+      "properties": {
+        "id": "nit-andhra-pradesh-road-1",
+        "name": "NIT Andhra Pradesh Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.52489999999999,
+            16.8113
+          ],
+          [
+            81.5329,
+            16.8113
+          ],
+          [
+            81.5329,
+            16.8183
+          ],
+          [
+            81.52489999999999,
+            16.8183
+          ],
+          [
+            81.52489999999999,
+            16.8113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-road-2",
+      "properties": {
+        "id": "nit-andhra-pradesh-road-2",
+        "name": "NIT Andhra Pradesh West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.52289999999999,
+            16.8143
+          ],
+          [
+            81.5289,
+            16.8143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-road-3",
+      "properties": {
+        "id": "nit-andhra-pradesh-road-3",
+        "name": "NIT Andhra Pradesh Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.52489999999999,
+            16.8163
+          ],
+          [
+            81.5329,
+            16.8163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-road-4",
+      "properties": {
+        "id": "nit-andhra-pradesh-road-4",
+        "name": "NIT Andhra Pradesh Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.52489999999999,
+            16.8113
+          ],
+          [
+            81.52489999999999,
+            16.813299999999998
+          ],
+          [
+            81.5329,
+            16.813299999999998
+          ],
+          [
+            81.5329,
+            16.8113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-walkway-0",
+      "properties": {
+        "id": "nit-andhra-pradesh-walkway-0",
+        "name": "NIT Andhra Pradesh Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.5289,
+            16.8173
+          ],
+          [
+            81.5289,
+            16.8158
+          ],
+          [
+            81.5269,
+            16.8158
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-walkway-1",
+      "properties": {
+        "id": "nit-andhra-pradesh-walkway-1",
+        "name": "NIT Andhra Pradesh CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.5319,
+            16.8163
+          ],
+          [
+            81.5289,
+            16.8163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-walkway-2",
+      "properties": {
+        "id": "nit-andhra-pradesh-walkway-2",
+        "name": "NIT Andhra Pradesh SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.5289,
+            16.813299999999998
+          ],
+          [
+            81.5289,
+            16.8113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-walkway-3",
+      "properties": {
+        "id": "nit-andhra-pradesh-walkway-3",
+        "name": "NIT Andhra Pradesh Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.5319,
+            16.8083
+          ],
+          [
+            81.53089999999999,
+            16.8093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-walkway-4",
+      "properties": {
+        "id": "nit-andhra-pradesh-walkway-4",
+        "name": "NIT Andhra Pradesh Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.5329,
+            16.8123
+          ],
+          [
+            81.5319,
+            16.813299999999998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-walkway-5",
+      "properties": {
+        "id": "nit-andhra-pradesh-walkway-5",
+        "name": "NIT Andhra Pradesh Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.52489999999999,
+            16.8123
+          ],
+          [
+            81.5269,
+            16.8123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-walkway-6",
+      "properties": {
+        "id": "nit-andhra-pradesh-walkway-6",
+        "name": "NIT Andhra Pradesh Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.5319,
+            16.8143
+          ],
+          [
+            81.53039999999999,
+            16.8143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-andhra-pradesh-walkway-7",
+      "properties": {
+        "id": "nit-andhra-pradesh-walkway-7",
+        "name": "NIT Andhra Pradesh Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.5264,
+            16.8168
+          ],
+          [
+            81.5269,
+            16.8158
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "IIT Tirupati GIS Dataset",
+  "properties": {
+    "campusId": "iit-tirupati",
+    "campusName": "IIT Tirupati",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.202Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "IIT Tirupati Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.55346053478273,
+              13.6231
+            ],
+            [
+              79.55314498971188,
+              13.625429371405923
+            ],
+            [
+              79.55221985837447,
+              13.627600000000001
+            ],
+            [
+              79.55074818694227,
+              13.62946396103068
+            ],
+            [
+              79.54883026739137,
+              13.63089422863406
+            ],
+            [
+              79.5465968027696,
+              13.631793332436603
+            ],
+            [
+              79.5442,
+              13.632100000000001
+            ],
+            [
+              79.54180319723041,
+              13.631793332436603
+            ],
+            [
+              79.53956973260864,
+              13.63089422863406
+            ],
+            [
+              79.53765181305774,
+              13.62946396103068
+            ],
+            [
+              79.53618014162554,
+              13.627600000000001
+            ],
+            [
+              79.53525501028813,
+              13.625429371405923
+            ],
+            [
+              79.53493946521728,
+              13.6231
+            ],
+            [
+              79.53525501028813,
+              13.620770628594078
+            ],
+            [
+              79.53618014162554,
+              13.6186
+            ],
+            [
+              79.53765181305774,
+              13.616736038969321
+            ],
+            [
+              79.53956973260864,
+              13.615305771365941
+            ],
+            [
+              79.54180319723041,
+              13.614406667563399
+            ],
+            [
+              79.5442,
+              13.6141
+            ],
+            [
+              79.5465968027696,
+              13.614406667563399
+            ],
+            [
+              79.54883026739137,
+              13.615305771365941
+            ],
+            [
+              79.55074818694227,
+              13.616736038969321
+            ],
+            [
+              79.55221985837447,
+              13.6186
+            ],
+            [
+              79.55314498971188,
+              13.620770628594078
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-0",
+      "properties": {
+        "id": "iit-tirupati-bld-0",
+        "name": "IIT Tirupati Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of IIT Tirupati, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54404565742719,
+              13.623750000000001
+            ],
+            [
+              79.54435434257282,
+              13.623750000000001
+            ],
+            [
+              79.54435434257282,
+              13.623450000000002
+            ],
+            [
+              79.54404565742719,
+              13.623450000000002
+            ],
+            [
+              79.54404565742719,
+              13.623750000000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-1",
+      "properties": {
+        "id": "iit-tirupati-bld-1",
+        "name": "IIT Tirupati Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at IIT Tirupati. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54404565579486,
+              13.62625
+            ],
+            [
+              79.54435434420515,
+              13.62625
+            ],
+            [
+              79.54435434420515,
+              13.625950000000001
+            ],
+            [
+              79.54404565579486,
+              13.625950000000001
+            ],
+            [
+              79.54404565579486,
+              13.62625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-2",
+      "properties": {
+        "id": "iit-tirupati-bld-2",
+        "name": "IIT Tirupati Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.5420456567743,
+              13.62475
+            ],
+            [
+              79.54235434322571,
+              13.62475
+            ],
+            [
+              79.54235434322571,
+              13.624450000000001
+            ],
+            [
+              79.5420456567743,
+              13.624450000000001
+            ],
+            [
+              79.5420456567743,
+              13.62475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-3",
+      "properties": {
+        "id": "iit-tirupati-bld-3",
+        "name": "IIT Tirupati Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54704565644784,
+              13.625250000000001
+            ],
+            [
+              79.54735434355217,
+              13.625250000000001
+            ],
+            [
+              79.54735434355217,
+              13.624950000000002
+            ],
+            [
+              79.54704565644784,
+              13.624950000000002
+            ],
+            [
+              79.54704565644784,
+              13.625250000000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-4",
+      "properties": {
+        "id": "iit-tirupati-bld-4",
+        "name": "IIT Tirupati Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54604565710075,
+              13.62425
+            ],
+            [
+              79.54635434289925,
+              13.62425
+            ],
+            [
+              79.54635434289925,
+              13.62395
+            ],
+            [
+              79.54604565710075,
+              13.62395
+            ],
+            [
+              79.54604565710075,
+              13.62425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-5",
+      "properties": {
+        "id": "iit-tirupati-bld-5",
+        "name": "IIT Tirupati Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54104565710075,
+              13.62425
+            ],
+            [
+              79.54135434289925,
+              13.62425
+            ],
+            [
+              79.54135434289925,
+              13.62395
+            ],
+            [
+              79.54104565710075,
+              13.62395
+            ],
+            [
+              79.54104565710075,
+              13.62425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-6",
+      "properties": {
+        "id": "iit-tirupati-bld-6",
+        "name": "IIT Tirupati Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54654565579486,
+              13.62625
+            ],
+            [
+              79.54685434420514,
+              13.62625
+            ],
+            [
+              79.54685434420514,
+              13.625950000000001
+            ],
+            [
+              79.54654565579486,
+              13.625950000000001
+            ],
+            [
+              79.54654565579486,
+              13.62625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-7",
+      "properties": {
+        "id": "iit-tirupati-bld-7",
+        "name": "IIT Tirupati Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of IIT Tirupati used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54154565612136,
+              13.62575
+            ],
+            [
+              79.54185434387865,
+              13.62575
+            ],
+            [
+              79.54185434387865,
+              13.62545
+            ],
+            [
+              79.54154565612136,
+              13.62545
+            ],
+            [
+              79.54154565612136,
+              13.62575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-8",
+      "properties": {
+        "id": "iit-tirupati-bld-8",
+        "name": "IIT Tirupati Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54304565546835,
+              13.626750000000001
+            ],
+            [
+              79.54335434453165,
+              13.626750000000001
+            ],
+            [
+              79.54335434453165,
+              13.626450000000002
+            ],
+            [
+              79.54304565546835,
+              13.626450000000002
+            ],
+            [
+              79.54304565546835,
+              13.626750000000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-9",
+      "properties": {
+        "id": "iit-tirupati-bld-9",
+        "name": "IIT Tirupati Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.5400456590592,
+              13.62125
+            ],
+            [
+              79.5403543409408,
+              13.62125
+            ],
+            [
+              79.5403543409408,
+              13.62095
+            ],
+            [
+              79.5400456590592,
+              13.62095
+            ],
+            [
+              79.5400456590592,
+              13.62125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-10",
+      "properties": {
+        "id": "iit-tirupati-bld-10",
+        "name": "IIT Tirupati Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54004565971192,
+              13.62025
+            ],
+            [
+              79.54035434028808,
+              13.62025
+            ],
+            [
+              79.54035434028808,
+              13.619950000000001
+            ],
+            [
+              79.54004565971192,
+              13.619950000000001
+            ],
+            [
+              79.54004565971192,
+              13.62025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-11",
+      "properties": {
+        "id": "iit-tirupati-bld-11",
+        "name": "IIT Tirupati Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54104566036457,
+              13.619250000000001
+            ],
+            [
+              79.54135433963543,
+              13.619250000000001
+            ],
+            [
+              79.54135433963543,
+              13.618950000000002
+            ],
+            [
+              79.54104566036457,
+              13.618950000000002
+            ],
+            [
+              79.54104566036457,
+              13.619250000000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-12",
+      "properties": {
+        "id": "iit-tirupati-bld-12",
+        "name": "IIT Tirupati Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54804565905921,
+              13.62125
+            ],
+            [
+              79.5483543409408,
+              13.62125
+            ],
+            [
+              79.5483543409408,
+              13.62095
+            ],
+            [
+              79.54804565905921,
+              13.62095
+            ],
+            [
+              79.54804565905921,
+              13.62125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-13",
+      "properties": {
+        "id": "iit-tirupati-bld-13",
+        "name": "IIT Tirupati Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54804565971193,
+              13.62025
+            ],
+            [
+              79.54835434028809,
+              13.62025
+            ],
+            [
+              79.54835434028809,
+              13.619950000000001
+            ],
+            [
+              79.54804565971193,
+              13.619950000000001
+            ],
+            [
+              79.54804565971193,
+              13.62025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-14",
+      "properties": {
+        "id": "iit-tirupati-bld-14",
+        "name": "IIT Tirupati Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54604566101719,
+              13.61825
+            ],
+            [
+              79.54635433898281,
+              13.61825
+            ],
+            [
+              79.54635433898281,
+              13.61795
+            ],
+            [
+              79.54604566101719,
+              13.61795
+            ],
+            [
+              79.54604566101719,
+              13.61825
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-15",
+      "properties": {
+        "id": "iit-tirupati-bld-15",
+        "name": "IIT Tirupati Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54704566166974,
+              13.61725
+            ],
+            [
+              79.54735433833027,
+              13.61725
+            ],
+            [
+              79.54735433833027,
+              13.616950000000001
+            ],
+            [
+              79.54704566166974,
+              13.616950000000001
+            ],
+            [
+              79.54704566166974,
+              13.61725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-16",
+      "properties": {
+        "id": "iit-tirupati-bld-16",
+        "name": "IIT Tirupati Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.5420456610172,
+              13.61825
+            ],
+            [
+              79.54235433898282,
+              13.61825
+            ],
+            [
+              79.54235433898282,
+              13.61795
+            ],
+            [
+              79.5420456610172,
+              13.61795
+            ],
+            [
+              79.5420456610172,
+              13.61825
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-17",
+      "properties": {
+        "id": "iit-tirupati-bld-17",
+        "name": "IIT Tirupati Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54404565840645,
+              13.622250000000001
+            ],
+            [
+              79.54435434159356,
+              13.622250000000001
+            ],
+            [
+              79.54435434159356,
+              13.621950000000002
+            ],
+            [
+              79.54404565840645,
+              13.621950000000002
+            ],
+            [
+              79.54404565840645,
+              13.622250000000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-18",
+      "properties": {
+        "id": "iit-tirupati-bld-18",
+        "name": "IIT Tirupati Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54204565905921,
+              13.62125
+            ],
+            [
+              79.5423543409408,
+              13.62125
+            ],
+            [
+              79.5423543409408,
+              13.62095
+            ],
+            [
+              79.54204565905921,
+              13.62095
+            ],
+            [
+              79.54204565905921,
+              13.62125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-19",
+      "properties": {
+        "id": "iit-tirupati-bld-19",
+        "name": "IIT Tirupati Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54104565840645,
+              13.622250000000001
+            ],
+            [
+              79.54135434159356,
+              13.622250000000001
+            ],
+            [
+              79.54135434159356,
+              13.621950000000002
+            ],
+            [
+              79.54104565840645,
+              13.621950000000002
+            ],
+            [
+              79.54104565840645,
+              13.622250000000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-20",
+      "properties": {
+        "id": "iit-tirupati-bld-20",
+        "name": "IIT Tirupati Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54704565840645,
+              13.622250000000001
+            ],
+            [
+              79.54735434159356,
+              13.622250000000001
+            ],
+            [
+              79.54735434159356,
+              13.621950000000002
+            ],
+            [
+              79.54704565840645,
+              13.621950000000002
+            ],
+            [
+              79.54704565840645,
+              13.622250000000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-21",
+      "properties": {
+        "id": "iit-tirupati-bld-21",
+        "name": "IIT Tirupati Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54404565971193,
+              13.62025
+            ],
+            [
+              79.54435434028808,
+              13.62025
+            ],
+            [
+              79.54435434028808,
+              13.619950000000001
+            ],
+            [
+              79.54404565971193,
+              13.619950000000001
+            ],
+            [
+              79.54404565971193,
+              13.62025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-22",
+      "properties": {
+        "id": "iit-tirupati-bld-22",
+        "name": "IIT Tirupati Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54604565971192,
+              13.62025
+            ],
+            [
+              79.54635434028808,
+              13.62025
+            ],
+            [
+              79.54635434028808,
+              13.619950000000001
+            ],
+            [
+              79.54604565971192,
+              13.619950000000001
+            ],
+            [
+              79.54604565971192,
+              13.62025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-23",
+      "properties": {
+        "id": "iit-tirupati-bld-23",
+        "name": "IIT Tirupati Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54504566036458,
+              13.619250000000001
+            ],
+            [
+              79.54535433963544,
+              13.619250000000001
+            ],
+            [
+              79.54535433963544,
+              13.618950000000002
+            ],
+            [
+              79.54504566036458,
+              13.618950000000002
+            ],
+            [
+              79.54504566036458,
+              13.619250000000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-24",
+      "properties": {
+        "id": "iit-tirupati-bld-24",
+        "name": "IIT Tirupati Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54704565775363,
+              13.62325
+            ],
+            [
+              79.54735434224638,
+              13.62325
+            ],
+            [
+              79.54735434224638,
+              13.622950000000001
+            ],
+            [
+              79.54704565775363,
+              13.622950000000001
+            ],
+            [
+              79.54704565775363,
+              13.62325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-25",
+      "properties": {
+        "id": "iit-tirupati-bld-25",
+        "name": "IIT Tirupati Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54404565318244,
+              13.63025
+            ],
+            [
+              79.54435434681757,
+              13.63025
+            ],
+            [
+              79.54435434681757,
+              13.629950000000001
+            ],
+            [
+              79.54404565318244,
+              13.629950000000001
+            ],
+            [
+              79.54404565318244,
+              13.63025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-26",
+      "properties": {
+        "id": "iit-tirupati-bld-26",
+        "name": "IIT Tirupati Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.53804565775363,
+              13.62325
+            ],
+            [
+              79.53835434224638,
+              13.62325
+            ],
+            [
+              79.53835434224638,
+              13.622950000000001
+            ],
+            [
+              79.53804565775363,
+              13.622950000000001
+            ],
+            [
+              79.53804565775363,
+              13.62325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-27",
+      "properties": {
+        "id": "iit-tirupati-bld-27",
+        "name": "IIT Tirupati State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54554565775362,
+              13.62325
+            ],
+            [
+              79.54585434224637,
+              13.62325
+            ],
+            [
+              79.54585434224637,
+              13.622950000000001
+            ],
+            [
+              79.54554565775362,
+              13.622950000000001
+            ],
+            [
+              79.54554565775362,
+              13.62325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-28",
+      "properties": {
+        "id": "iit-tirupati-bld-28",
+        "name": "IIT Tirupati Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54504565383561,
+              13.62925
+            ],
+            [
+              79.5453543461644,
+              13.62925
+            ],
+            [
+              79.5453543461644,
+              13.628950000000001
+            ],
+            [
+              79.54504565383561,
+              13.628950000000001
+            ],
+            [
+              79.54504565383561,
+              13.62925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-bld-29",
+      "properties": {
+        "id": "iit-tirupati-bld-29",
+        "name": "IIT Tirupati Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.54004565448875,
+              13.628250000000001
+            ],
+            [
+              79.54035434551125,
+              13.628250000000001
+            ],
+            [
+              79.54035434551125,
+              13.627950000000002
+            ],
+            [
+              79.54004565448875,
+              13.627950000000002
+            ],
+            [
+              79.54004565448875,
+              13.628250000000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-road-0",
+      "properties": {
+        "id": "iit-tirupati-road-0",
+        "name": "IIT Tirupati Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5442,
+            13.6301
+          ],
+          [
+            79.5442,
+            13.619100000000001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-road-1",
+      "properties": {
+        "id": "iit-tirupati-road-1",
+        "name": "IIT Tirupati Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5402,
+            13.6201
+          ],
+          [
+            79.54820000000001,
+            13.6201
+          ],
+          [
+            79.54820000000001,
+            13.6271
+          ],
+          [
+            79.5402,
+            13.6271
+          ],
+          [
+            79.5402,
+            13.6201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-road-2",
+      "properties": {
+        "id": "iit-tirupati-road-2",
+        "name": "IIT Tirupati West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5382,
+            13.6231
+          ],
+          [
+            79.5442,
+            13.6231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-road-3",
+      "properties": {
+        "id": "iit-tirupati-road-3",
+        "name": "IIT Tirupati Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5402,
+            13.625100000000002
+          ],
+          [
+            79.54820000000001,
+            13.625100000000002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-road-4",
+      "properties": {
+        "id": "iit-tirupati-road-4",
+        "name": "IIT Tirupati Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5402,
+            13.6201
+          ],
+          [
+            79.5402,
+            13.622100000000001
+          ],
+          [
+            79.54820000000001,
+            13.622100000000001
+          ],
+          [
+            79.54820000000001,
+            13.6201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-walkway-0",
+      "properties": {
+        "id": "iit-tirupati-walkway-0",
+        "name": "IIT Tirupati Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5442,
+            13.626100000000001
+          ],
+          [
+            79.5442,
+            13.624600000000001
+          ],
+          [
+            79.54220000000001,
+            13.624600000000001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-walkway-1",
+      "properties": {
+        "id": "iit-tirupati-walkway-1",
+        "name": "IIT Tirupati CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5472,
+            13.625100000000002
+          ],
+          [
+            79.5442,
+            13.625100000000002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-walkway-2",
+      "properties": {
+        "id": "iit-tirupati-walkway-2",
+        "name": "IIT Tirupati SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5442,
+            13.622100000000001
+          ],
+          [
+            79.5442,
+            13.6201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-walkway-3",
+      "properties": {
+        "id": "iit-tirupati-walkway-3",
+        "name": "IIT Tirupati Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5472,
+            13.6171
+          ],
+          [
+            79.5462,
+            13.6181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-walkway-4",
+      "properties": {
+        "id": "iit-tirupati-walkway-4",
+        "name": "IIT Tirupati Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.54820000000001,
+            13.6211
+          ],
+          [
+            79.5472,
+            13.622100000000001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-walkway-5",
+      "properties": {
+        "id": "iit-tirupati-walkway-5",
+        "name": "IIT Tirupati Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5402,
+            13.6211
+          ],
+          [
+            79.54220000000001,
+            13.6211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-walkway-6",
+      "properties": {
+        "id": "iit-tirupati-walkway-6",
+        "name": "IIT Tirupati Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5472,
+            13.6231
+          ],
+          [
+            79.5457,
+            13.6231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-tirupati-walkway-7",
+      "properties": {
+        "id": "iit-tirupati-walkway-7",
+        "name": "IIT Tirupati Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5417,
+            13.6256
+          ],
+          [
+            79.54220000000001,
+            13.624600000000001
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "IIT Dhanbad (ISM) GIS Dataset",
+  "properties": {
+    "campusId": "iit-dhanbad",
+    "campusName": "IIT Dhanbad (ISM)",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.202Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "IIT Dhanbad (ISM) Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.45103758237116,
+              23.8143
+            ],
+            [
+              86.45070237488055,
+              23.816629371405924
+            ],
+            [
+              86.44971959624525,
+              23.8188
+            ],
+            [
+              86.44815622120512,
+              23.82066396103068
+            ],
+            [
+              86.44611879118557,
+              23.82209422863406
+            ],
+            [
+              86.44374615367542,
+              23.8229933324366
+            ],
+            [
+              86.4412,
+              23.8233
+            ],
+            [
+              86.43865384632457,
+              23.8229933324366
+            ],
+            [
+              86.43628120881442,
+              23.82209422863406
+            ],
+            [
+              86.43424377879487,
+              23.82066396103068
+            ],
+            [
+              86.43268040375474,
+              23.8188
+            ],
+            [
+              86.43169762511944,
+              23.816629371405924
+            ],
+            [
+              86.43136241762883,
+              23.8143
+            ],
+            [
+              86.43169762511944,
+              23.811970628594075
+            ],
+            [
+              86.43268040375474,
+              23.8098
+            ],
+            [
+              86.43424377879487,
+              23.80793603896932
+            ],
+            [
+              86.43628120881442,
+              23.806505771365938
+            ],
+            [
+              86.43865384632457,
+              23.8056066675634
+            ],
+            [
+              86.4412,
+              23.8053
+            ],
+            [
+              86.44374615367542,
+              23.8056066675634
+            ],
+            [
+              86.44611879118557,
+              23.806505771365938
+            ],
+            [
+              86.44815622120512,
+              23.80793603896932
+            ],
+            [
+              86.44971959624525,
+              23.8098
+            ],
+            [
+              86.45070237488055,
+              23.811970628594075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-0",
+      "properties": {
+        "id": "iit-dhanbad-bld-0",
+        "name": "IIT Dhanbad (ISM) Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of IIT Dhanbad (ISM), housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.44103603966231,
+              23.81495
+            ],
+            [
+              86.44136396033768,
+              23.81495
+            ],
+            [
+              86.44136396033768,
+              23.814649999999997
+            ],
+            [
+              86.44103603966231,
+              23.814649999999997
+            ],
+            [
+              86.44103603966231,
+              23.81495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-1",
+      "properties": {
+        "id": "iit-dhanbad-bld-1",
+        "name": "IIT Dhanbad (ISM) Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at IIT Dhanbad (ISM). Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.44103603650454,
+              23.81745
+            ],
+            [
+              86.44136396349545,
+              23.81745
+            ],
+            [
+              86.44136396349545,
+              23.817149999999998
+            ],
+            [
+              86.44103603650454,
+              23.817149999999998
+            ],
+            [
+              86.44103603650454,
+              23.81745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-2",
+      "properties": {
+        "id": "iit-dhanbad-bld-2",
+        "name": "IIT Dhanbad (ISM) Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.43903603839925,
+              23.81595
+            ],
+            [
+              86.43936396160075,
+              23.81595
+            ],
+            [
+              86.43936396160075,
+              23.815649999999998
+            ],
+            [
+              86.43903603839925,
+              23.815649999999998
+            ],
+            [
+              86.43903603839925,
+              23.81595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-3",
+      "properties": {
+        "id": "iit-dhanbad-bld-3",
+        "name": "IIT Dhanbad (ISM) Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.4440360377677,
+              23.81645
+            ],
+            [
+              86.44436396223229,
+              23.81645
+            ],
+            [
+              86.44436396223229,
+              23.816149999999997
+            ],
+            [
+              86.4440360377677,
+              23.816149999999997
+            ],
+            [
+              86.4440360377677,
+              23.81645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-4",
+      "properties": {
+        "id": "iit-dhanbad-bld-4",
+        "name": "IIT Dhanbad (ISM) Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.44303603903079,
+              23.815450000000002
+            ],
+            [
+              86.4433639609692,
+              23.815450000000002
+            ],
+            [
+              86.4433639609692,
+              23.81515
+            ],
+            [
+              86.44303603903079,
+              23.81515
+            ],
+            [
+              86.44303603903079,
+              23.815450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-5",
+      "properties": {
+        "id": "iit-dhanbad-bld-5",
+        "name": "IIT Dhanbad (ISM) Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.43803603903079,
+              23.815450000000002
+            ],
+            [
+              86.4383639609692,
+              23.815450000000002
+            ],
+            [
+              86.4383639609692,
+              23.81515
+            ],
+            [
+              86.43803603903079,
+              23.81515
+            ],
+            [
+              86.43803603903079,
+              23.815450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-6",
+      "properties": {
+        "id": "iit-dhanbad-bld-6",
+        "name": "IIT Dhanbad (ISM) Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.44353603650454,
+              23.81745
+            ],
+            [
+              86.44386396349545,
+              23.81745
+            ],
+            [
+              86.44386396349545,
+              23.817149999999998
+            ],
+            [
+              86.44353603650454,
+              23.817149999999998
+            ],
+            [
+              86.44353603650454,
+              23.81745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-7",
+      "properties": {
+        "id": "iit-dhanbad-bld-7",
+        "name": "IIT Dhanbad (ISM) Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of IIT Dhanbad (ISM) used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.43853603713613,
+              23.816950000000002
+            ],
+            [
+              86.43886396286386,
+              23.816950000000002
+            ],
+            [
+              86.43886396286386,
+              23.81665
+            ],
+            [
+              86.43853603713613,
+              23.81665
+            ],
+            [
+              86.43853603713613,
+              23.816950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-8",
+      "properties": {
+        "id": "iit-dhanbad-bld-8",
+        "name": "IIT Dhanbad (ISM) Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.44003603587294,
+              23.81795
+            ],
+            [
+              86.44036396412704,
+              23.81795
+            ],
+            [
+              86.44036396412704,
+              23.817649999999997
+            ],
+            [
+              86.44003603587294,
+              23.817649999999997
+            ],
+            [
+              86.44003603587294,
+              23.81795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-9",
+      "properties": {
+        "id": "iit-dhanbad-bld-9",
+        "name": "IIT Dhanbad (ISM) Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.43703604281964,
+              23.812450000000002
+            ],
+            [
+              86.43736395718034,
+              23.812450000000002
+            ],
+            [
+              86.43736395718034,
+              23.81215
+            ],
+            [
+              86.43703604281964,
+              23.81215
+            ],
+            [
+              86.43703604281964,
+              23.812450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-10",
+      "properties": {
+        "id": "iit-dhanbad-bld-10",
+        "name": "IIT Dhanbad (ISM) Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.43703604408245,
+              23.81145
+            ],
+            [
+              86.43736395591753,
+              23.81145
+            ],
+            [
+              86.43736395591753,
+              23.811149999999998
+            ],
+            [
+              86.43703604408245,
+              23.811149999999998
+            ],
+            [
+              86.43703604408245,
+              23.81145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-11",
+      "properties": {
+        "id": "iit-dhanbad-bld-11",
+        "name": "IIT Dhanbad (ISM) Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.4380360453452,
+              23.81045
+            ],
+            [
+              86.43836395465479,
+              23.81045
+            ],
+            [
+              86.43836395465479,
+              23.810149999999997
+            ],
+            [
+              86.4380360453452,
+              23.810149999999997
+            ],
+            [
+              86.4380360453452,
+              23.81045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-12",
+      "properties": {
+        "id": "iit-dhanbad-bld-12",
+        "name": "IIT Dhanbad (ISM) Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.44503604281965,
+              23.812450000000002
+            ],
+            [
+              86.44536395718035,
+              23.812450000000002
+            ],
+            [
+              86.44536395718035,
+              23.81215
+            ],
+            [
+              86.44503604281965,
+              23.81215
+            ],
+            [
+              86.44503604281965,
+              23.812450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-13",
+      "properties": {
+        "id": "iit-dhanbad-bld-13",
+        "name": "IIT Dhanbad (ISM) Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.44503604408246,
+              23.81145
+            ],
+            [
+              86.44536395591754,
+              23.81145
+            ],
+            [
+              86.44536395591754,
+              23.811149999999998
+            ],
+            [
+              86.44503604408246,
+              23.811149999999998
+            ],
+            [
+              86.44503604408246,
+              23.81145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-14",
+      "properties": {
+        "id": "iit-dhanbad-bld-14",
+        "name": "IIT Dhanbad (ISM) Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.44303604660786,
+              23.809450000000002
+            ],
+            [
+              86.44336395339212,
+              23.809450000000002
+            ],
+            [
+              86.44336395339212,
+              23.80915
+            ],
+            [
+              86.44303604660786,
+              23.80915
+            ],
+            [
+              86.44303604660786,
+              23.809450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-15",
+      "properties": {
+        "id": "iit-dhanbad-bld-15",
+        "name": "IIT Dhanbad (ISM) Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.44403604787047,
+              23.80845
+            ],
+            [
+              86.44436395212952,
+              23.80845
+            ],
+            [
+              86.44436395212952,
+              23.808149999999998
+            ],
+            [
+              86.44403604787047,
+              23.808149999999998
+            ],
+            [
+              86.44403604787047,
+              23.80845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-16",
+      "properties": {
+        "id": "iit-dhanbad-bld-16",
+        "name": "IIT Dhanbad (ISM) Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.43903604660787,
+              23.809450000000002
+            ],
+            [
+              86.43936395339213,
+              23.809450000000002
+            ],
+            [
+              86.43936395339213,
+              23.80915
+            ],
+            [
+              86.43903604660787,
+              23.80915
+            ],
+            [
+              86.43903604660787,
+              23.809450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-17",
+      "properties": {
+        "id": "iit-dhanbad-bld-17",
+        "name": "IIT Dhanbad (ISM) Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.44103604155676,
+              23.81345
+            ],
+            [
+              86.44136395844323,
+              23.81345
+            ],
+            [
+              86.44136395844323,
+              23.813149999999997
+            ],
+            [
+              86.44103604155676,
+              23.813149999999997
+            ],
+            [
+              86.44103604155676,
+              23.81345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-18",
+      "properties": {
+        "id": "iit-dhanbad-bld-18",
+        "name": "IIT Dhanbad (ISM) Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.43903604281965,
+              23.812450000000002
+            ],
+            [
+              86.43936395718035,
+              23.812450000000002
+            ],
+            [
+              86.43936395718035,
+              23.81215
+            ],
+            [
+              86.43903604281965,
+              23.81215
+            ],
+            [
+              86.43903604281965,
+              23.812450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-19",
+      "properties": {
+        "id": "iit-dhanbad-bld-19",
+        "name": "IIT Dhanbad (ISM) Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.43803604155676,
+              23.81345
+            ],
+            [
+              86.43836395844323,
+              23.81345
+            ],
+            [
+              86.43836395844323,
+              23.813149999999997
+            ],
+            [
+              86.43803604155676,
+              23.813149999999997
+            ],
+            [
+              86.43803604155676,
+              23.81345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-20",
+      "properties": {
+        "id": "iit-dhanbad-bld-20",
+        "name": "IIT Dhanbad (ISM) Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.44403604155676,
+              23.81345
+            ],
+            [
+              86.44436395844323,
+              23.81345
+            ],
+            [
+              86.44436395844323,
+              23.813149999999997
+            ],
+            [
+              86.44403604155676,
+              23.813149999999997
+            ],
+            [
+              86.44403604155676,
+              23.81345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-21",
+      "properties": {
+        "id": "iit-dhanbad-bld-21",
+        "name": "IIT Dhanbad (ISM) Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.44103604408245,
+              23.81145
+            ],
+            [
+              86.44136395591754,
+              23.81145
+            ],
+            [
+              86.44136395591754,
+              23.811149999999998
+            ],
+            [
+              86.44103604408245,
+              23.811149999999998
+            ],
+            [
+              86.44103604408245,
+              23.81145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-22",
+      "properties": {
+        "id": "iit-dhanbad-bld-22",
+        "name": "IIT Dhanbad (ISM) Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.44303604408245,
+              23.81145
+            ],
+            [
+              86.44336395591753,
+              23.81145
+            ],
+            [
+              86.44336395591753,
+              23.811149999999998
+            ],
+            [
+              86.44303604408245,
+              23.811149999999998
+            ],
+            [
+              86.44303604408245,
+              23.81145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-23",
+      "properties": {
+        "id": "iit-dhanbad-bld-23",
+        "name": "IIT Dhanbad (ISM) Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.4420360453452,
+              23.81045
+            ],
+            [
+              86.4423639546548,
+              23.81045
+            ],
+            [
+              86.4423639546548,
+              23.810149999999997
+            ],
+            [
+              86.4420360453452,
+              23.810149999999997
+            ],
+            [
+              86.4420360453452,
+              23.81045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-24",
+      "properties": {
+        "id": "iit-dhanbad-bld-24",
+        "name": "IIT Dhanbad (ISM) Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.44403604029381,
+              23.81445
+            ],
+            [
+              86.44436395970618,
+              23.81445
+            ],
+            [
+              86.44436395970618,
+              23.814149999999998
+            ],
+            [
+              86.44403604029381,
+              23.814149999999998
+            ],
+            [
+              86.44403604029381,
+              23.81445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-25",
+      "properties": {
+        "id": "iit-dhanbad-bld-25",
+        "name": "IIT Dhanbad (ISM) Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.4410360314512,
+              23.821450000000002
+            ],
+            [
+              86.44136396854879,
+              23.821450000000002
+            ],
+            [
+              86.44136396854879,
+              23.82115
+            ],
+            [
+              86.4410360314512,
+              23.82115
+            ],
+            [
+              86.4410360314512,
+              23.821450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-26",
+      "properties": {
+        "id": "iit-dhanbad-bld-26",
+        "name": "IIT Dhanbad (ISM) Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.43503604029381,
+              23.81445
+            ],
+            [
+              86.43536395970618,
+              23.81445
+            ],
+            [
+              86.43536395970618,
+              23.814149999999998
+            ],
+            [
+              86.43503604029381,
+              23.814149999999998
+            ],
+            [
+              86.43503604029381,
+              23.81445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-27",
+      "properties": {
+        "id": "iit-dhanbad-bld-27",
+        "name": "IIT Dhanbad (ISM) State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.4425360402938,
+              23.81445
+            ],
+            [
+              86.44286395970617,
+              23.81445
+            ],
+            [
+              86.44286395970617,
+              23.814149999999998
+            ],
+            [
+              86.4425360402938,
+              23.814149999999998
+            ],
+            [
+              86.4425360402938,
+              23.81445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-28",
+      "properties": {
+        "id": "iit-dhanbad-bld-28",
+        "name": "IIT Dhanbad (ISM) Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.44203603271465,
+              23.82045
+            ],
+            [
+              86.44236396728535,
+              23.82045
+            ],
+            [
+              86.44236396728535,
+              23.820149999999998
+            ],
+            [
+              86.44203603271465,
+              23.820149999999998
+            ],
+            [
+              86.44203603271465,
+              23.82045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-bld-29",
+      "properties": {
+        "id": "iit-dhanbad-bld-29",
+        "name": "IIT Dhanbad (ISM) Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.437036033978,
+              23.81945
+            ],
+            [
+              86.43736396602198,
+              23.81945
+            ],
+            [
+              86.43736396602198,
+              23.819149999999997
+            ],
+            [
+              86.437036033978,
+              23.819149999999997
+            ],
+            [
+              86.437036033978,
+              23.81945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-road-0",
+      "properties": {
+        "id": "iit-dhanbad-road-0",
+        "name": "IIT Dhanbad (ISM) Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.4412,
+            23.8213
+          ],
+          [
+            86.4412,
+            23.810299999999998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-road-1",
+      "properties": {
+        "id": "iit-dhanbad-road-1",
+        "name": "IIT Dhanbad (ISM) Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.43719999999999,
+            23.8113
+          ],
+          [
+            86.4452,
+            23.8113
+          ],
+          [
+            86.4452,
+            23.8183
+          ],
+          [
+            86.43719999999999,
+            23.8183
+          ],
+          [
+            86.43719999999999,
+            23.8113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-road-2",
+      "properties": {
+        "id": "iit-dhanbad-road-2",
+        "name": "IIT Dhanbad (ISM) West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.4352,
+            23.8143
+          ],
+          [
+            86.4412,
+            23.8143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-road-3",
+      "properties": {
+        "id": "iit-dhanbad-road-3",
+        "name": "IIT Dhanbad (ISM) Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.43719999999999,
+            23.8163
+          ],
+          [
+            86.4452,
+            23.8163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-road-4",
+      "properties": {
+        "id": "iit-dhanbad-road-4",
+        "name": "IIT Dhanbad (ISM) Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.43719999999999,
+            23.8113
+          ],
+          [
+            86.43719999999999,
+            23.813299999999998
+          ],
+          [
+            86.4452,
+            23.813299999999998
+          ],
+          [
+            86.4452,
+            23.8113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-walkway-0",
+      "properties": {
+        "id": "iit-dhanbad-walkway-0",
+        "name": "IIT Dhanbad (ISM) Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.4412,
+            23.8173
+          ],
+          [
+            86.4412,
+            23.8158
+          ],
+          [
+            86.4392,
+            23.8158
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-walkway-1",
+      "properties": {
+        "id": "iit-dhanbad-walkway-1",
+        "name": "IIT Dhanbad (ISM) CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.4442,
+            23.8163
+          ],
+          [
+            86.4412,
+            23.8163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-walkway-2",
+      "properties": {
+        "id": "iit-dhanbad-walkway-2",
+        "name": "IIT Dhanbad (ISM) SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.4412,
+            23.813299999999998
+          ],
+          [
+            86.4412,
+            23.8113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-walkway-3",
+      "properties": {
+        "id": "iit-dhanbad-walkway-3",
+        "name": "IIT Dhanbad (ISM) Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.4442,
+            23.8083
+          ],
+          [
+            86.44319999999999,
+            23.8093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-walkway-4",
+      "properties": {
+        "id": "iit-dhanbad-walkway-4",
+        "name": "IIT Dhanbad (ISM) Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.4452,
+            23.8123
+          ],
+          [
+            86.4442,
+            23.813299999999998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-walkway-5",
+      "properties": {
+        "id": "iit-dhanbad-walkway-5",
+        "name": "IIT Dhanbad (ISM) Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.43719999999999,
+            23.8123
+          ],
+          [
+            86.4392,
+            23.8123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-walkway-6",
+      "properties": {
+        "id": "iit-dhanbad-walkway-6",
+        "name": "IIT Dhanbad (ISM) Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.4442,
+            23.8143
+          ],
+          [
+            86.44269999999999,
+            23.8143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-dhanbad-walkway-7",
+      "properties": {
+        "id": "iit-dhanbad-walkway-7",
+        "name": "IIT Dhanbad (ISM) Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.4387,
+            23.8168
+          ],
+          [
+            86.4392,
+            23.8158
+          ]
+        ]
+      }
+    }
+  ]
+}

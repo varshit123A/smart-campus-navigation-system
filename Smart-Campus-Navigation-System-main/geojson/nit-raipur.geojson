@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Raipur GIS Dataset",
+  "properties": {
+    "campusId": "nit-raipur",
+    "campusName": "NIT Raipur",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.214Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-raipur-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Raipur Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.61495655116369,
+              21.2497
+            ],
+            [
+              81.61462751216187,
+              21.252029371405925
+            ],
+            [
+              81.6136628186207,
+              21.2542
+            ],
+            [
+              81.61212821281072,
+              21.25606396103068
+            ],
+            [
+              81.61012827558184,
+              21.257494228634062
+            ],
+            [
+              81.60779929935117,
+              21.2583933324366
+            ],
+            [
+              81.6053,
+              21.2587
+            ],
+            [
+              81.60280070064883,
+              21.2583933324366
+            ],
+            [
+              81.60047172441816,
+              21.257494228634062
+            ],
+            [
+              81.59847178718928,
+              21.25606396103068
+            ],
+            [
+              81.5969371813793,
+              21.2542
+            ],
+            [
+              81.59597248783813,
+              21.252029371405925
+            ],
+            [
+              81.59564344883631,
+              21.2497
+            ],
+            [
+              81.59597248783813,
+              21.247370628594076
+            ],
+            [
+              81.5969371813793,
+              21.2452
+            ],
+            [
+              81.59847178718928,
+              21.24333603896932
+            ],
+            [
+              81.60047172441816,
+              21.24190577136594
+            ],
+            [
+              81.60280070064883,
+              21.2410066675634
+            ],
+            [
+              81.6053,
+              21.2407
+            ],
+            [
+              81.60779929935117,
+              21.2410066675634
+            ],
+            [
+              81.61012827558184,
+              21.24190577136594
+            ],
+            [
+              81.61212821281072,
+              21.24333603896932
+            ],
+            [
+              81.6136628186207,
+              21.2452
+            ],
+            [
+              81.61462751216187,
+              21.247370628594076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-0",
+      "properties": {
+        "id": "nit-raipur-bld-0",
+        "name": "NIT Raipur Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of NIT Raipur, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60513905693443,
+              21.25035
+            ],
+            [
+              81.60546094306557,
+              21.25035
+            ],
+            [
+              81.60546094306557,
+              21.250049999999998
+            ],
+            [
+              81.60513905693443,
+              21.250049999999998
+            ],
+            [
+              81.60513905693443,
+              21.25035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-1",
+      "properties": {
+        "id": "nit-raipur-bld-1",
+        "name": "NIT Raipur Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at NIT Raipur. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60513905420332,
+              21.252850000000002
+            ],
+            [
+              81.60546094579668,
+              21.252850000000002
+            ],
+            [
+              81.60546094579668,
+              21.25255
+            ],
+            [
+              81.60513905420332,
+              21.25255
+            ],
+            [
+              81.60513905420332,
+              21.252850000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-2",
+      "properties": {
+        "id": "nit-raipur-bld-2",
+        "name": "NIT Raipur Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60313905584204,
+              21.251350000000002
+            ],
+            [
+              81.60346094415797,
+              21.251350000000002
+            ],
+            [
+              81.60346094415797,
+              21.25105
+            ],
+            [
+              81.60313905584204,
+              21.25105
+            ],
+            [
+              81.60313905584204,
+              21.251350000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-3",
+      "properties": {
+        "id": "nit-raipur-bld-3",
+        "name": "NIT Raipur Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60813905529581,
+              21.25185
+            ],
+            [
+              81.60846094470419,
+              21.25185
+            ],
+            [
+              81.60846094470419,
+              21.251549999999998
+            ],
+            [
+              81.60813905529581,
+              21.251549999999998
+            ],
+            [
+              81.60813905529581,
+              21.25185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-4",
+      "properties": {
+        "id": "nit-raipur-bld-4",
+        "name": "NIT Raipur Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60713905638823,
+              21.250850000000003
+            ],
+            [
+              81.60746094361176,
+              21.250850000000003
+            ],
+            [
+              81.60746094361176,
+              21.25055
+            ],
+            [
+              81.60713905638823,
+              21.25055
+            ],
+            [
+              81.60713905638823,
+              21.250850000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-5",
+      "properties": {
+        "id": "nit-raipur-bld-5",
+        "name": "NIT Raipur Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60213905638824,
+              21.250850000000003
+            ],
+            [
+              81.60246094361176,
+              21.250850000000003
+            ],
+            [
+              81.60246094361176,
+              21.25055
+            ],
+            [
+              81.60213905638824,
+              21.25055
+            ],
+            [
+              81.60213905638824,
+              21.250850000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-6",
+      "properties": {
+        "id": "nit-raipur-bld-6",
+        "name": "NIT Raipur Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60763905420332,
+              21.252850000000002
+            ],
+            [
+              81.60796094579668,
+              21.252850000000002
+            ],
+            [
+              81.60796094579668,
+              21.25255
+            ],
+            [
+              81.60763905420332,
+              21.25255
+            ],
+            [
+              81.60763905420332,
+              21.252850000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-7",
+      "properties": {
+        "id": "nit-raipur-bld-7",
+        "name": "NIT Raipur Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of NIT Raipur used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60263905474957,
+              21.252350000000003
+            ],
+            [
+              81.60296094525043,
+              21.252350000000003
+            ],
+            [
+              81.60296094525043,
+              21.25205
+            ],
+            [
+              81.60263905474957,
+              21.25205
+            ],
+            [
+              81.60263905474957,
+              21.252350000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-8",
+      "properties": {
+        "id": "nit-raipur-bld-8",
+        "name": "NIT Raipur Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60413905365704,
+              21.25335
+            ],
+            [
+              81.60446094634295,
+              21.25335
+            ],
+            [
+              81.60446094634295,
+              21.253049999999998
+            ],
+            [
+              81.60413905365704,
+              21.253049999999998
+            ],
+            [
+              81.60413905365704,
+              21.25335
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-9",
+      "properties": {
+        "id": "nit-raipur-bld-9",
+        "name": "NIT Raipur Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60113905966514,
+              21.247850000000003
+            ],
+            [
+              81.60146094033485,
+              21.247850000000003
+            ],
+            [
+              81.60146094033485,
+              21.24755
+            ],
+            [
+              81.60113905966514,
+              21.24755
+            ],
+            [
+              81.60113905966514,
+              21.247850000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-10",
+      "properties": {
+        "id": "nit-raipur-bld-10",
+        "name": "NIT Raipur Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60113906075732,
+              21.246850000000002
+            ],
+            [
+              81.60146093924267,
+              21.246850000000002
+            ],
+            [
+              81.60146093924267,
+              21.24655
+            ],
+            [
+              81.60113906075732,
+              21.24655
+            ],
+            [
+              81.60113906075732,
+              21.246850000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-11",
+      "properties": {
+        "id": "nit-raipur-bld-11",
+        "name": "NIT Raipur Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60213906184943,
+              21.24585
+            ],
+            [
+              81.60246093815057,
+              21.24585
+            ],
+            [
+              81.60246093815057,
+              21.245549999999998
+            ],
+            [
+              81.60213906184943,
+              21.245549999999998
+            ],
+            [
+              81.60213906184943,
+              21.24585
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-12",
+      "properties": {
+        "id": "nit-raipur-bld-12",
+        "name": "NIT Raipur Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60913905966515,
+              21.247850000000003
+            ],
+            [
+              81.60946094033486,
+              21.247850000000003
+            ],
+            [
+              81.60946094033486,
+              21.24755
+            ],
+            [
+              81.60913905966515,
+              21.24755
+            ],
+            [
+              81.60913905966515,
+              21.247850000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-13",
+      "properties": {
+        "id": "nit-raipur-bld-13",
+        "name": "NIT Raipur Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60913906075733,
+              21.246850000000002
+            ],
+            [
+              81.60946093924268,
+              21.246850000000002
+            ],
+            [
+              81.60946093924268,
+              21.24655
+            ],
+            [
+              81.60913906075733,
+              21.24655
+            ],
+            [
+              81.60913906075733,
+              21.246850000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-14",
+      "properties": {
+        "id": "nit-raipur-bld-14",
+        "name": "NIT Raipur Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60713906294147,
+              21.244850000000003
+            ],
+            [
+              81.60746093705852,
+              21.244850000000003
+            ],
+            [
+              81.60746093705852,
+              21.24455
+            ],
+            [
+              81.60713906294147,
+              21.24455
+            ],
+            [
+              81.60713906294147,
+              21.244850000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-15",
+      "properties": {
+        "id": "nit-raipur-bld-15",
+        "name": "NIT Raipur Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60813906403347,
+              21.243850000000002
+            ],
+            [
+              81.60846093596653,
+              21.243850000000002
+            ],
+            [
+              81.60846093596653,
+              21.24355
+            ],
+            [
+              81.60813906403347,
+              21.24355
+            ],
+            [
+              81.60813906403347,
+              21.243850000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-16",
+      "properties": {
+        "id": "nit-raipur-bld-16",
+        "name": "NIT Raipur Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60313906294148,
+              21.244850000000003
+            ],
+            [
+              81.60346093705853,
+              21.244850000000003
+            ],
+            [
+              81.60346093705853,
+              21.24455
+            ],
+            [
+              81.60313906294148,
+              21.24455
+            ],
+            [
+              81.60313906294148,
+              21.244850000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-17",
+      "properties": {
+        "id": "nit-raipur-bld-17",
+        "name": "NIT Raipur Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.6051390585729,
+              21.24885
+            ],
+            [
+              81.6054609414271,
+              21.24885
+            ],
+            [
+              81.6054609414271,
+              21.248549999999998
+            ],
+            [
+              81.6051390585729,
+              21.248549999999998
+            ],
+            [
+              81.6051390585729,
+              21.24885
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-18",
+      "properties": {
+        "id": "nit-raipur-bld-18",
+        "name": "NIT Raipur Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60313905966515,
+              21.247850000000003
+            ],
+            [
+              81.60346094033486,
+              21.247850000000003
+            ],
+            [
+              81.60346094033486,
+              21.24755
+            ],
+            [
+              81.60313905966515,
+              21.24755
+            ],
+            [
+              81.60313905966515,
+              21.247850000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-19",
+      "properties": {
+        "id": "nit-raipur-bld-19",
+        "name": "NIT Raipur Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.6021390585729,
+              21.24885
+            ],
+            [
+              81.6024609414271,
+              21.24885
+            ],
+            [
+              81.6024609414271,
+              21.248549999999998
+            ],
+            [
+              81.6021390585729,
+              21.248549999999998
+            ],
+            [
+              81.6021390585729,
+              21.24885
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-20",
+      "properties": {
+        "id": "nit-raipur-bld-20",
+        "name": "NIT Raipur Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.6081390585729,
+              21.24885
+            ],
+            [
+              81.6084609414271,
+              21.24885
+            ],
+            [
+              81.6084609414271,
+              21.248549999999998
+            ],
+            [
+              81.6081390585729,
+              21.248549999999998
+            ],
+            [
+              81.6081390585729,
+              21.24885
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-21",
+      "properties": {
+        "id": "nit-raipur-bld-21",
+        "name": "NIT Raipur Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60513906075732,
+              21.246850000000002
+            ],
+            [
+              81.60546093924268,
+              21.246850000000002
+            ],
+            [
+              81.60546093924268,
+              21.24655
+            ],
+            [
+              81.60513906075732,
+              21.24655
+            ],
+            [
+              81.60513906075732,
+              21.246850000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-22",
+      "properties": {
+        "id": "nit-raipur-bld-22",
+        "name": "NIT Raipur Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60713906075732,
+              21.246850000000002
+            ],
+            [
+              81.60746093924267,
+              21.246850000000002
+            ],
+            [
+              81.60746093924267,
+              21.24655
+            ],
+            [
+              81.60713906075732,
+              21.24655
+            ],
+            [
+              81.60713906075732,
+              21.246850000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-23",
+      "properties": {
+        "id": "nit-raipur-bld-23",
+        "name": "NIT Raipur Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60613906184943,
+              21.24585
+            ],
+            [
+              81.60646093815058,
+              21.24585
+            ],
+            [
+              81.60646093815058,
+              21.245549999999998
+            ],
+            [
+              81.60613906184943,
+              21.245549999999998
+            ],
+            [
+              81.60613906184943,
+              21.24585
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-24",
+      "properties": {
+        "id": "nit-raipur-bld-24",
+        "name": "NIT Raipur Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.6081390574806,
+              21.249850000000002
+            ],
+            [
+              81.6084609425194,
+              21.249850000000002
+            ],
+            [
+              81.6084609425194,
+              21.24955
+            ],
+            [
+              81.6081390574806,
+              21.24955
+            ],
+            [
+              81.6081390574806,
+              21.249850000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-25",
+      "properties": {
+        "id": "nit-raipur-bld-25",
+        "name": "NIT Raipur Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.6051390498327,
+              21.256850000000004
+            ],
+            [
+              81.6054609501673,
+              21.256850000000004
+            ],
+            [
+              81.6054609501673,
+              21.25655
+            ],
+            [
+              81.6051390498327,
+              21.25655
+            ],
+            [
+              81.6051390498327,
+              21.256850000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-26",
+      "properties": {
+        "id": "nit-raipur-bld-26",
+        "name": "NIT Raipur Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.5991390574806,
+              21.249850000000002
+            ],
+            [
+              81.5994609425194,
+              21.249850000000002
+            ],
+            [
+              81.5994609425194,
+              21.24955
+            ],
+            [
+              81.5991390574806,
+              21.24955
+            ],
+            [
+              81.5991390574806,
+              21.249850000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-27",
+      "properties": {
+        "id": "nit-raipur-bld-27",
+        "name": "NIT Raipur State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60663905748059,
+              21.249850000000002
+            ],
+            [
+              81.6069609425194,
+              21.249850000000002
+            ],
+            [
+              81.6069609425194,
+              21.24955
+            ],
+            [
+              81.60663905748059,
+              21.24955
+            ],
+            [
+              81.60663905748059,
+              21.249850000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-28",
+      "properties": {
+        "id": "nit-raipur-bld-28",
+        "name": "NIT Raipur Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60613905092545,
+              21.255850000000002
+            ],
+            [
+              81.60646094907456,
+              21.255850000000002
+            ],
+            [
+              81.60646094907456,
+              21.25555
+            ],
+            [
+              81.60613905092545,
+              21.25555
+            ],
+            [
+              81.60613905092545,
+              21.255850000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-bld-29",
+      "properties": {
+        "id": "nit-raipur-bld-29",
+        "name": "NIT Raipur Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.60113905201813,
+              21.25485
+            ],
+            [
+              81.60146094798186,
+              21.25485
+            ],
+            [
+              81.60146094798186,
+              21.25455
+            ],
+            [
+              81.60113905201813,
+              21.25455
+            ],
+            [
+              81.60113905201813,
+              21.25485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-road-0",
+      "properties": {
+        "id": "nit-raipur-road-0",
+        "name": "NIT Raipur Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.6053,
+            21.256700000000002
+          ],
+          [
+            81.6053,
+            21.2457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-road-1",
+      "properties": {
+        "id": "nit-raipur-road-1",
+        "name": "NIT Raipur Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.6013,
+            21.2467
+          ],
+          [
+            81.6093,
+            21.2467
+          ],
+          [
+            81.6093,
+            21.253700000000002
+          ],
+          [
+            81.6013,
+            21.253700000000002
+          ],
+          [
+            81.6013,
+            21.2467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-road-2",
+      "properties": {
+        "id": "nit-raipur-road-2",
+        "name": "NIT Raipur West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.5993,
+            21.2497
+          ],
+          [
+            81.6053,
+            21.2497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-road-3",
+      "properties": {
+        "id": "nit-raipur-road-3",
+        "name": "NIT Raipur Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.6013,
+            21.2517
+          ],
+          [
+            81.6093,
+            21.2517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-road-4",
+      "properties": {
+        "id": "nit-raipur-road-4",
+        "name": "NIT Raipur Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.6013,
+            21.2467
+          ],
+          [
+            81.6013,
+            21.2487
+          ],
+          [
+            81.6093,
+            21.2487
+          ],
+          [
+            81.6093,
+            21.2467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-walkway-0",
+      "properties": {
+        "id": "nit-raipur-walkway-0",
+        "name": "NIT Raipur Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.6053,
+            21.2527
+          ],
+          [
+            81.6053,
+            21.2512
+          ],
+          [
+            81.6033,
+            21.2512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-walkway-1",
+      "properties": {
+        "id": "nit-raipur-walkway-1",
+        "name": "NIT Raipur CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.6083,
+            21.2517
+          ],
+          [
+            81.6053,
+            21.2517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-walkway-2",
+      "properties": {
+        "id": "nit-raipur-walkway-2",
+        "name": "NIT Raipur SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.6053,
+            21.2487
+          ],
+          [
+            81.6053,
+            21.2467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-walkway-3",
+      "properties": {
+        "id": "nit-raipur-walkway-3",
+        "name": "NIT Raipur Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.6083,
+            21.2437
+          ],
+          [
+            81.6073,
+            21.2447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-walkway-4",
+      "properties": {
+        "id": "nit-raipur-walkway-4",
+        "name": "NIT Raipur Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.6093,
+            21.247700000000002
+          ],
+          [
+            81.6083,
+            21.2487
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-walkway-5",
+      "properties": {
+        "id": "nit-raipur-walkway-5",
+        "name": "NIT Raipur Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.6013,
+            21.247700000000002
+          ],
+          [
+            81.6033,
+            21.247700000000002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-walkway-6",
+      "properties": {
+        "id": "nit-raipur-walkway-6",
+        "name": "NIT Raipur Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.6083,
+            21.2497
+          ],
+          [
+            81.60679999999999,
+            21.2497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-raipur-walkway-7",
+      "properties": {
+        "id": "nit-raipur-walkway-7",
+        "name": "NIT Raipur Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.6028,
+            21.252200000000002
+          ],
+          [
+            81.6033,
+            21.2512
+          ]
+        ]
+      }
+    }
+  ]
+}

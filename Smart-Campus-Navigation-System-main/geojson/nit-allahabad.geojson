@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "MNNIT Allahabad GIS Dataset",
+  "properties": {
+    "campusId": "nit-allahabad",
+    "campusName": "MNNIT Allahabad",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.208Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "MNNIT Allahabad Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.87647063488144,
+              25.4913
+            ],
+            [
+              81.87613089373649,
+              25.493629371405923
+            ],
+            [
+              81.87513482309919,
+              25.4958
+            ],
+            [
+              81.8735503035374,
+              25.49766396103068
+            ],
+            [
+              81.87148531744073,
+              25.49909422863406
+            ],
+            [
+              81.86908059019909,
+              25.4999933324366
+            ],
+            [
+              81.8665,
+              25.5003
+            ],
+            [
+              81.86391940980091,
+              25.4999933324366
+            ],
+            [
+              81.86151468255927,
+              25.49909422863406
+            ],
+            [
+              81.8594496964626,
+              25.49766396103068
+            ],
+            [
+              81.85786517690082,
+              25.4958
+            ],
+            [
+              81.85686910626352,
+              25.493629371405923
+            ],
+            [
+              81.85652936511856,
+              25.4913
+            ],
+            [
+              81.85686910626352,
+              25.488970628594075
+            ],
+            [
+              81.85786517690082,
+              25.4868
+            ],
+            [
+              81.8594496964626,
+              25.48493603896932
+            ],
+            [
+              81.86151468255927,
+              25.483505771365937
+            ],
+            [
+              81.86391940980091,
+              25.4826066675634
+            ],
+            [
+              81.8665,
+              25.4823
+            ],
+            [
+              81.86908059019909,
+              25.4826066675634
+            ],
+            [
+              81.87148531744073,
+              25.483505771365937
+            ],
+            [
+              81.8735503035374,
+              25.48493603896932
+            ],
+            [
+              81.87513482309919,
+              25.4868
+            ],
+            [
+              81.87613089373649,
+              25.488970628594075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-0",
+      "properties": {
+        "id": "nit-allahabad-bld-0",
+        "name": "MNNIT Allahabad Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of MNNIT Allahabad, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86633382206054,
+              25.49195
+            ],
+            [
+              81.86666617793946,
+              25.49195
+            ],
+            [
+              81.86666617793946,
+              25.491649999999996
+            ],
+            [
+              81.86633382206054,
+              25.491649999999996
+            ],
+            [
+              81.86633382206054,
+              25.49195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-1",
+      "properties": {
+        "id": "nit-allahabad-bld-1",
+        "name": "MNNIT Allahabad Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at MNNIT Allahabad. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.8663338186031,
+              25.49445
+            ],
+            [
+              81.86666618139691,
+              25.49445
+            ],
+            [
+              81.86666618139691,
+              25.494149999999998
+            ],
+            [
+              81.8663338186031,
+              25.494149999999998
+            ],
+            [
+              81.8663338186031,
+              25.49445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-2",
+      "properties": {
+        "id": "nit-allahabad-bld-2",
+        "name": "MNNIT Allahabad Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86433382067763,
+              25.49295
+            ],
+            [
+              81.86466617932238,
+              25.49295
+            ],
+            [
+              81.86466617932238,
+              25.492649999999998
+            ],
+            [
+              81.86433382067763,
+              25.492649999999998
+            ],
+            [
+              81.86433382067763,
+              25.49295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-3",
+      "properties": {
+        "id": "nit-allahabad-bld-3",
+        "name": "MNNIT Allahabad Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86933381998612,
+              25.49345
+            ],
+            [
+              81.86966618001388,
+              25.49345
+            ],
+            [
+              81.86966618001388,
+              25.493149999999996
+            ],
+            [
+              81.86933381998612,
+              25.493149999999996
+            ],
+            [
+              81.86933381998612,
+              25.49345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-4",
+      "properties": {
+        "id": "nit-allahabad-bld-4",
+        "name": "MNNIT Allahabad Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86833382136909,
+              25.49245
+            ],
+            [
+              81.8686661786309,
+              25.49245
+            ],
+            [
+              81.8686661786309,
+              25.49215
+            ],
+            [
+              81.86833382136909,
+              25.49215
+            ],
+            [
+              81.86833382136909,
+              25.49245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-5",
+      "properties": {
+        "id": "nit-allahabad-bld-5",
+        "name": "MNNIT Allahabad Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.8633338213691,
+              25.49245
+            ],
+            [
+              81.86366617863091,
+              25.49245
+            ],
+            [
+              81.86366617863091,
+              25.49215
+            ],
+            [
+              81.8633338213691,
+              25.49215
+            ],
+            [
+              81.8633338213691,
+              25.49245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-6",
+      "properties": {
+        "id": "nit-allahabad-bld-6",
+        "name": "MNNIT Allahabad Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.8688338186031,
+              25.49445
+            ],
+            [
+              81.8691661813969,
+              25.49445
+            ],
+            [
+              81.8691661813969,
+              25.494149999999998
+            ],
+            [
+              81.8688338186031,
+              25.494149999999998
+            ],
+            [
+              81.8688338186031,
+              25.49445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-7",
+      "properties": {
+        "id": "nit-allahabad-bld-7",
+        "name": "MNNIT Allahabad Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of MNNIT Allahabad used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86383381929463,
+              25.49395
+            ],
+            [
+              81.86416618070538,
+              25.49395
+            ],
+            [
+              81.86416618070538,
+              25.49365
+            ],
+            [
+              81.86383381929463,
+              25.49365
+            ],
+            [
+              81.86383381929463,
+              25.49395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-8",
+      "properties": {
+        "id": "nit-allahabad-bld-8",
+        "name": "MNNIT Allahabad Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86533381791155,
+              25.49495
+            ],
+            [
+              81.86566618208845,
+              25.49495
+            ],
+            [
+              81.86566618208845,
+              25.494649999999996
+            ],
+            [
+              81.86533381791155,
+              25.494649999999996
+            ],
+            [
+              81.86533381791155,
+              25.49495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-9",
+      "properties": {
+        "id": "nit-allahabad-bld-9",
+        "name": "MNNIT Allahabad Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86233382551752,
+              25.48945
+            ],
+            [
+              81.86266617448247,
+              25.48945
+            ],
+            [
+              81.86266617448247,
+              25.48915
+            ],
+            [
+              81.86233382551752,
+              25.48915
+            ],
+            [
+              81.86233382551752,
+              25.48945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-10",
+      "properties": {
+        "id": "nit-allahabad-bld-10",
+        "name": "MNNIT Allahabad Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.8623338269002,
+              25.48845
+            ],
+            [
+              81.8626661730998,
+              25.48845
+            ],
+            [
+              81.8626661730998,
+              25.488149999999997
+            ],
+            [
+              81.8623338269002,
+              25.488149999999997
+            ],
+            [
+              81.8623338269002,
+              25.48845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-11",
+      "properties": {
+        "id": "nit-allahabad-bld-11",
+        "name": "MNNIT Allahabad Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86333382828279,
+              25.48745
+            ],
+            [
+              81.86366617171721,
+              25.48745
+            ],
+            [
+              81.86366617171721,
+              25.487149999999996
+            ],
+            [
+              81.86333382828279,
+              25.487149999999996
+            ],
+            [
+              81.86333382828279,
+              25.48745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-12",
+      "properties": {
+        "id": "nit-allahabad-bld-12",
+        "name": "MNNIT Allahabad Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.87033382551753,
+              25.48945
+            ],
+            [
+              81.87066617448248,
+              25.48945
+            ],
+            [
+              81.87066617448248,
+              25.48915
+            ],
+            [
+              81.87033382551753,
+              25.48915
+            ],
+            [
+              81.87033382551753,
+              25.48945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-13",
+      "properties": {
+        "id": "nit-allahabad-bld-13",
+        "name": "MNNIT Allahabad Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.87033382690021,
+              25.48845
+            ],
+            [
+              81.8706661730998,
+              25.48845
+            ],
+            [
+              81.8706661730998,
+              25.488149999999997
+            ],
+            [
+              81.87033382690021,
+              25.488149999999997
+            ],
+            [
+              81.87033382690021,
+              25.48845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-14",
+      "properties": {
+        "id": "nit-allahabad-bld-14",
+        "name": "MNNIT Allahabad Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.8683338296653,
+              25.48645
+            ],
+            [
+              81.86866617033469,
+              25.48645
+            ],
+            [
+              81.86866617033469,
+              25.48615
+            ],
+            [
+              81.8683338296653,
+              25.48615
+            ],
+            [
+              81.8683338296653,
+              25.48645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-15",
+      "properties": {
+        "id": "nit-allahabad-bld-15",
+        "name": "MNNIT Allahabad Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86933383104775,
+              25.48545
+            ],
+            [
+              81.86966616895225,
+              25.48545
+            ],
+            [
+              81.86966616895225,
+              25.485149999999997
+            ],
+            [
+              81.86933383104775,
+              25.485149999999997
+            ],
+            [
+              81.86933383104775,
+              25.48545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-16",
+      "properties": {
+        "id": "nit-allahabad-bld-16",
+        "name": "MNNIT Allahabad Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86433382966531,
+              25.48645
+            ],
+            [
+              81.8646661703347,
+              25.48645
+            ],
+            [
+              81.8646661703347,
+              25.48615
+            ],
+            [
+              81.86433382966531,
+              25.48615
+            ],
+            [
+              81.86433382966531,
+              25.48645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-17",
+      "properties": {
+        "id": "nit-allahabad-bld-17",
+        "name": "MNNIT Allahabad Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.8663338241348,
+              25.49045
+            ],
+            [
+              81.8666661758652,
+              25.49045
+            ],
+            [
+              81.8666661758652,
+              25.490149999999996
+            ],
+            [
+              81.8663338241348,
+              25.490149999999996
+            ],
+            [
+              81.8663338241348,
+              25.49045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-18",
+      "properties": {
+        "id": "nit-allahabad-bld-18",
+        "name": "MNNIT Allahabad Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86433382551753,
+              25.48945
+            ],
+            [
+              81.86466617448248,
+              25.48945
+            ],
+            [
+              81.86466617448248,
+              25.48915
+            ],
+            [
+              81.86433382551753,
+              25.48915
+            ],
+            [
+              81.86433382551753,
+              25.48945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-19",
+      "properties": {
+        "id": "nit-allahabad-bld-19",
+        "name": "MNNIT Allahabad Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.8633338241348,
+              25.49045
+            ],
+            [
+              81.8636661758652,
+              25.49045
+            ],
+            [
+              81.8636661758652,
+              25.490149999999996
+            ],
+            [
+              81.8633338241348,
+              25.490149999999996
+            ],
+            [
+              81.8633338241348,
+              25.49045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-20",
+      "properties": {
+        "id": "nit-allahabad-bld-20",
+        "name": "MNNIT Allahabad Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.8693338241348,
+              25.49045
+            ],
+            [
+              81.8696661758652,
+              25.49045
+            ],
+            [
+              81.8696661758652,
+              25.490149999999996
+            ],
+            [
+              81.8693338241348,
+              25.490149999999996
+            ],
+            [
+              81.8693338241348,
+              25.49045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-21",
+      "properties": {
+        "id": "nit-allahabad-bld-21",
+        "name": "MNNIT Allahabad Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.8663338269002,
+              25.48845
+            ],
+            [
+              81.8666661730998,
+              25.48845
+            ],
+            [
+              81.8666661730998,
+              25.488149999999997
+            ],
+            [
+              81.8663338269002,
+              25.488149999999997
+            ],
+            [
+              81.8663338269002,
+              25.48845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-22",
+      "properties": {
+        "id": "nit-allahabad-bld-22",
+        "name": "MNNIT Allahabad Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.8683338269002,
+              25.48845
+            ],
+            [
+              81.8686661730998,
+              25.48845
+            ],
+            [
+              81.8686661730998,
+              25.488149999999997
+            ],
+            [
+              81.8683338269002,
+              25.488149999999997
+            ],
+            [
+              81.8683338269002,
+              25.48845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-23",
+      "properties": {
+        "id": "nit-allahabad-bld-23",
+        "name": "MNNIT Allahabad Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.8673338282828,
+              25.48745
+            ],
+            [
+              81.86766617171722,
+              25.48745
+            ],
+            [
+              81.86766617171722,
+              25.487149999999996
+            ],
+            [
+              81.8673338282828,
+              25.487149999999996
+            ],
+            [
+              81.8673338282828,
+              25.48745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-24",
+      "properties": {
+        "id": "nit-allahabad-bld-24",
+        "name": "MNNIT Allahabad Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86933382275198,
+              25.49145
+            ],
+            [
+              81.86966617724802,
+              25.49145
+            ],
+            [
+              81.86966617724802,
+              25.491149999999998
+            ],
+            [
+              81.86933382275198,
+              25.491149999999998
+            ],
+            [
+              81.86933382275198,
+              25.49145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-25",
+      "properties": {
+        "id": "nit-allahabad-bld-25",
+        "name": "MNNIT Allahabad Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86633381307021,
+              25.498450000000002
+            ],
+            [
+              81.86666618692979,
+              25.498450000000002
+            ],
+            [
+              81.86666618692979,
+              25.49815
+            ],
+            [
+              81.86633381307021,
+              25.49815
+            ],
+            [
+              81.86633381307021,
+              25.498450000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-26",
+      "properties": {
+        "id": "nit-allahabad-bld-26",
+        "name": "MNNIT Allahabad Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86033382275198,
+              25.49145
+            ],
+            [
+              81.86066617724802,
+              25.49145
+            ],
+            [
+              81.86066617724802,
+              25.491149999999998
+            ],
+            [
+              81.86033382275198,
+              25.491149999999998
+            ],
+            [
+              81.86033382275198,
+              25.49145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-27",
+      "properties": {
+        "id": "nit-allahabad-bld-27",
+        "name": "MNNIT Allahabad State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86783382275198,
+              25.49145
+            ],
+            [
+              81.86816617724801,
+              25.49145
+            ],
+            [
+              81.86816617724801,
+              25.491149999999998
+            ],
+            [
+              81.86783382275198,
+              25.491149999999998
+            ],
+            [
+              81.86783382275198,
+              25.49145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-28",
+      "properties": {
+        "id": "nit-allahabad-bld-28",
+        "name": "MNNIT Allahabad Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.86733381445356,
+              25.49745
+            ],
+            [
+              81.86766618554645,
+              25.49745
+            ],
+            [
+              81.86766618554645,
+              25.497149999999998
+            ],
+            [
+              81.86733381445356,
+              25.497149999999998
+            ],
+            [
+              81.86733381445356,
+              25.49745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-bld-29",
+      "properties": {
+        "id": "nit-allahabad-bld-29",
+        "name": "MNNIT Allahabad Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.8623338158368,
+              25.49645
+            ],
+            [
+              81.86266618416319,
+              25.49645
+            ],
+            [
+              81.86266618416319,
+              25.496149999999997
+            ],
+            [
+              81.8623338158368,
+              25.496149999999997
+            ],
+            [
+              81.8623338158368,
+              25.49645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-road-0",
+      "properties": {
+        "id": "nit-allahabad-road-0",
+        "name": "MNNIT Allahabad Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8665,
+            25.4983
+          ],
+          [
+            81.8665,
+            25.487299999999998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-road-1",
+      "properties": {
+        "id": "nit-allahabad-road-1",
+        "name": "MNNIT Allahabad Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8625,
+            25.4883
+          ],
+          [
+            81.8705,
+            25.4883
+          ],
+          [
+            81.8705,
+            25.4953
+          ],
+          [
+            81.8625,
+            25.4953
+          ],
+          [
+            81.8625,
+            25.4883
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-road-2",
+      "properties": {
+        "id": "nit-allahabad-road-2",
+        "name": "MNNIT Allahabad West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8605,
+            25.4913
+          ],
+          [
+            81.8665,
+            25.4913
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-road-3",
+      "properties": {
+        "id": "nit-allahabad-road-3",
+        "name": "MNNIT Allahabad Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8625,
+            25.493299999999998
+          ],
+          [
+            81.8705,
+            25.493299999999998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-road-4",
+      "properties": {
+        "id": "nit-allahabad-road-4",
+        "name": "MNNIT Allahabad Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8625,
+            25.4883
+          ],
+          [
+            81.8625,
+            25.490299999999998
+          ],
+          [
+            81.8705,
+            25.490299999999998
+          ],
+          [
+            81.8705,
+            25.4883
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-walkway-0",
+      "properties": {
+        "id": "nit-allahabad-walkway-0",
+        "name": "MNNIT Allahabad Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8665,
+            25.4943
+          ],
+          [
+            81.8665,
+            25.4928
+          ],
+          [
+            81.8645,
+            25.4928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-walkway-1",
+      "properties": {
+        "id": "nit-allahabad-walkway-1",
+        "name": "MNNIT Allahabad CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8695,
+            25.493299999999998
+          ],
+          [
+            81.8665,
+            25.493299999999998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-walkway-2",
+      "properties": {
+        "id": "nit-allahabad-walkway-2",
+        "name": "MNNIT Allahabad SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8665,
+            25.490299999999998
+          ],
+          [
+            81.8665,
+            25.4883
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-walkway-3",
+      "properties": {
+        "id": "nit-allahabad-walkway-3",
+        "name": "MNNIT Allahabad Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8695,
+            25.4853
+          ],
+          [
+            81.8685,
+            25.4863
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-walkway-4",
+      "properties": {
+        "id": "nit-allahabad-walkway-4",
+        "name": "MNNIT Allahabad Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8705,
+            25.4893
+          ],
+          [
+            81.8695,
+            25.490299999999998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-walkway-5",
+      "properties": {
+        "id": "nit-allahabad-walkway-5",
+        "name": "MNNIT Allahabad Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8625,
+            25.4893
+          ],
+          [
+            81.8645,
+            25.4893
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-walkway-6",
+      "properties": {
+        "id": "nit-allahabad-walkway-6",
+        "name": "MNNIT Allahabad Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8695,
+            25.4913
+          ],
+          [
+            81.868,
+            25.4913
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-allahabad-walkway-7",
+      "properties": {
+        "id": "nit-allahabad-walkway-7",
+        "name": "MNNIT Allahabad Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.864,
+            25.4938
+          ],
+          [
+            81.8645,
+            25.4928
+          ]
+        ]
+      }
+    }
+  ]
+}

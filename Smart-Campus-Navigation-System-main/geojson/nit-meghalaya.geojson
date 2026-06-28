@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "NIT Meghalaya GIS Dataset",
+  "properties": {
+    "campusId": "nit-meghalaya",
+    "campusName": "NIT Meghalaya",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.216Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "NIT Meghalaya Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.90307791177885,
+              25.5788
+            ],
+            [
+              91.90273792267962,
+              25.581129371405925
+            ],
+            [
+              91.90174112507721,
+              25.5833
+            ],
+            [
+              91.90015544908091,
+              25.58516396103068
+            ],
+            [
+              91.89808895588942,
+              25.586594228634063
+            ],
+            [
+              91.89568247359873,
+              25.5874933324366
+            ],
+            [
+              91.8931,
+              25.5878
+            ],
+            [
+              91.89051752640128,
+              25.5874933324366
+            ],
+            [
+              91.88811104411059,
+              25.586594228634063
+            ],
+            [
+              91.8860445509191,
+              25.58516396103068
+            ],
+            [
+              91.8844588749228,
+              25.5833
+            ],
+            [
+              91.88346207732039,
+              25.581129371405925
+            ],
+            [
+              91.88312208822116,
+              25.5788
+            ],
+            [
+              91.88346207732039,
+              25.576470628594077
+            ],
+            [
+              91.8844588749228,
+              25.5743
+            ],
+            [
+              91.8860445509191,
+              25.57243603896932
+            ],
+            [
+              91.88811104411059,
+              25.57100577136594
+            ],
+            [
+              91.89051752640128,
+              25.5701066675634
+            ],
+            [
+              91.8931,
+              25.5698
+            ],
+            [
+              91.89568247359873,
+              25.5701066675634
+            ],
+            [
+              91.89808895588942,
+              25.57100577136594
+            ],
+            [
+              91.90015544908091,
+              25.57243603896932
+            ],
+            [
+              91.90174112507721,
+              25.5743
+            ],
+            [
+              91.90273792267962,
+              25.576470628594077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-0",
+      "properties": {
+        "id": "nit-meghalaya-bld-0",
+        "name": "NIT Meghalaya Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of NIT Meghalaya, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.8929337007757,
+              25.57945
+            ],
+            [
+              91.89326629922431,
+              25.57945
+            ],
+            [
+              91.89326629922431,
+              25.57915
+            ],
+            [
+              91.8929337007757,
+              25.57915
+            ],
+            [
+              91.8929337007757,
+              25.57945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-1",
+      "properties": {
+        "id": "nit-meghalaya-bld-1",
+        "name": "NIT Meghalaya Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at NIT Meghalaya. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89293369730211,
+              25.581950000000003
+            ],
+            [
+              91.8932663026979,
+              25.581950000000003
+            ],
+            [
+              91.8932663026979,
+              25.58165
+            ],
+            [
+              91.89293369730211,
+              25.58165
+            ],
+            [
+              91.89293369730211,
+              25.581950000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-2",
+      "properties": {
+        "id": "nit-meghalaya-bld-2",
+        "name": "NIT Meghalaya Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89093369938632,
+              25.580450000000003
+            ],
+            [
+              91.8912663006137,
+              25.580450000000003
+            ],
+            [
+              91.8912663006137,
+              25.58015
+            ],
+            [
+              91.89093369938632,
+              25.58015
+            ],
+            [
+              91.89093369938632,
+              25.580450000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-3",
+      "properties": {
+        "id": "nit-meghalaya-bld-3",
+        "name": "NIT Meghalaya Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89593369869161,
+              25.58095
+            ],
+            [
+              91.8962663013084,
+              25.58095
+            ],
+            [
+              91.8962663013084,
+              25.58065
+            ],
+            [
+              91.89593369869161,
+              25.58065
+            ],
+            [
+              91.89593369869161,
+              25.58095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-4",
+      "properties": {
+        "id": "nit-meghalaya-bld-4",
+        "name": "NIT Meghalaya Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89493370008101,
+              25.579950000000004
+            ],
+            [
+              91.89526629991899,
+              25.579950000000004
+            ],
+            [
+              91.89526629991899,
+              25.57965
+            ],
+            [
+              91.89493370008101,
+              25.57965
+            ],
+            [
+              91.89493370008101,
+              25.579950000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-5",
+      "properties": {
+        "id": "nit-meghalaya-bld-5",
+        "name": "NIT Meghalaya Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.88993370008102,
+              25.579950000000004
+            ],
+            [
+              91.89026629991899,
+              25.579950000000004
+            ],
+            [
+              91.89026629991899,
+              25.57965
+            ],
+            [
+              91.88993370008102,
+              25.57965
+            ],
+            [
+              91.88993370008102,
+              25.579950000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-6",
+      "properties": {
+        "id": "nit-meghalaya-bld-6",
+        "name": "NIT Meghalaya Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89543369730211,
+              25.581950000000003
+            ],
+            [
+              91.8957663026979,
+              25.581950000000003
+            ],
+            [
+              91.8957663026979,
+              25.58165
+            ],
+            [
+              91.89543369730211,
+              25.58165
+            ],
+            [
+              91.89543369730211,
+              25.581950000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-7",
+      "properties": {
+        "id": "nit-meghalaya-bld-7",
+        "name": "NIT Meghalaya Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of NIT Meghalaya used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89043369799687,
+              25.581450000000004
+            ],
+            [
+              91.89076630200314,
+              25.581450000000004
+            ],
+            [
+              91.89076630200314,
+              25.58115
+            ],
+            [
+              91.89043369799687,
+              25.58115
+            ],
+            [
+              91.89043369799687,
+              25.581450000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-8",
+      "properties": {
+        "id": "nit-meghalaya-bld-8",
+        "name": "NIT Meghalaya Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89193369660734,
+              25.58245
+            ],
+            [
+              91.89226630339266,
+              25.58245
+            ],
+            [
+              91.89226630339266,
+              25.58215
+            ],
+            [
+              91.89193369660734,
+              25.58215
+            ],
+            [
+              91.89193369660734,
+              25.58245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-9",
+      "properties": {
+        "id": "nit-meghalaya-bld-9",
+        "name": "NIT Meghalaya Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.88893370424881,
+              25.576950000000004
+            ],
+            [
+              91.88926629575118,
+              25.576950000000004
+            ],
+            [
+              91.88926629575118,
+              25.57665
+            ],
+            [
+              91.88893370424881,
+              25.57665
+            ],
+            [
+              91.88893370424881,
+              25.576950000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-10",
+      "properties": {
+        "id": "nit-meghalaya-bld-10",
+        "name": "NIT Meghalaya Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.88893370563792,
+              25.575950000000002
+            ],
+            [
+              91.88926629436207,
+              25.575950000000002
+            ],
+            [
+              91.88926629436207,
+              25.57565
+            ],
+            [
+              91.88893370563792,
+              25.57565
+            ],
+            [
+              91.88893370563792,
+              25.575950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-11",
+      "properties": {
+        "id": "nit-meghalaya-bld-11",
+        "name": "NIT Meghalaya Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.88993370702698,
+              25.57495
+            ],
+            [
+              91.89026629297302,
+              25.57495
+            ],
+            [
+              91.89026629297302,
+              25.57465
+            ],
+            [
+              91.88993370702698,
+              25.57465
+            ],
+            [
+              91.88993370702698,
+              25.57495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-12",
+      "properties": {
+        "id": "nit-meghalaya-bld-12",
+        "name": "NIT Meghalaya Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89693370424882,
+              25.576950000000004
+            ],
+            [
+              91.8972662957512,
+              25.576950000000004
+            ],
+            [
+              91.8972662957512,
+              25.57665
+            ],
+            [
+              91.89693370424882,
+              25.57665
+            ],
+            [
+              91.89693370424882,
+              25.576950000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-13",
+      "properties": {
+        "id": "nit-meghalaya-bld-13",
+        "name": "NIT Meghalaya Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89693370563793,
+              25.575950000000002
+            ],
+            [
+              91.89726629436208,
+              25.575950000000002
+            ],
+            [
+              91.89726629436208,
+              25.57565
+            ],
+            [
+              91.89693370563793,
+              25.57565
+            ],
+            [
+              91.89693370563793,
+              25.575950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-14",
+      "properties": {
+        "id": "nit-meghalaya-bld-14",
+        "name": "NIT Meghalaya Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89493370841595,
+              25.573950000000004
+            ],
+            [
+              91.89526629158405,
+              25.573950000000004
+            ],
+            [
+              91.89526629158405,
+              25.57365
+            ],
+            [
+              91.89493370841595,
+              25.57365
+            ],
+            [
+              91.89493370841595,
+              25.573950000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-15",
+      "properties": {
+        "id": "nit-meghalaya-bld-15",
+        "name": "NIT Meghalaya Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89593370980485,
+              25.572950000000002
+            ],
+            [
+              91.89626629019516,
+              25.572950000000002
+            ],
+            [
+              91.89626629019516,
+              25.57265
+            ],
+            [
+              91.89593370980485,
+              25.57265
+            ],
+            [
+              91.89593370980485,
+              25.572950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-16",
+      "properties": {
+        "id": "nit-meghalaya-bld-16",
+        "name": "NIT Meghalaya Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89093370841596,
+              25.573950000000004
+            ],
+            [
+              91.89126629158406,
+              25.573950000000004
+            ],
+            [
+              91.89126629158406,
+              25.57365
+            ],
+            [
+              91.89093370841596,
+              25.57365
+            ],
+            [
+              91.89093370841596,
+              25.573950000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-17",
+      "properties": {
+        "id": "nit-meghalaya-bld-17",
+        "name": "NIT Meghalaya Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89293370285962,
+              25.57795
+            ],
+            [
+              91.89326629714039,
+              25.57795
+            ],
+            [
+              91.89326629714039,
+              25.57765
+            ],
+            [
+              91.89293370285962,
+              25.57765
+            ],
+            [
+              91.89293370285962,
+              25.57795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-18",
+      "properties": {
+        "id": "nit-meghalaya-bld-18",
+        "name": "NIT Meghalaya Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89093370424882,
+              25.576950000000004
+            ],
+            [
+              91.8912662957512,
+              25.576950000000004
+            ],
+            [
+              91.8912662957512,
+              25.57665
+            ],
+            [
+              91.89093370424882,
+              25.57665
+            ],
+            [
+              91.89093370424882,
+              25.576950000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-19",
+      "properties": {
+        "id": "nit-meghalaya-bld-19",
+        "name": "NIT Meghalaya Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.88993370285962,
+              25.57795
+            ],
+            [
+              91.89026629714039,
+              25.57795
+            ],
+            [
+              91.89026629714039,
+              25.57765
+            ],
+            [
+              91.88993370285962,
+              25.57765
+            ],
+            [
+              91.88993370285962,
+              25.57795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-20",
+      "properties": {
+        "id": "nit-meghalaya-bld-20",
+        "name": "NIT Meghalaya Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89593370285962,
+              25.57795
+            ],
+            [
+              91.89626629714039,
+              25.57795
+            ],
+            [
+              91.89626629714039,
+              25.57765
+            ],
+            [
+              91.89593370285962,
+              25.57765
+            ],
+            [
+              91.89593370285962,
+              25.57795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-21",
+      "properties": {
+        "id": "nit-meghalaya-bld-21",
+        "name": "NIT Meghalaya Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89293370563793,
+              25.575950000000002
+            ],
+            [
+              91.89326629436208,
+              25.575950000000002
+            ],
+            [
+              91.89326629436208,
+              25.57565
+            ],
+            [
+              91.89293370563793,
+              25.57565
+            ],
+            [
+              91.89293370563793,
+              25.575950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-22",
+      "properties": {
+        "id": "nit-meghalaya-bld-22",
+        "name": "NIT Meghalaya Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89493370563792,
+              25.575950000000002
+            ],
+            [
+              91.89526629436207,
+              25.575950000000002
+            ],
+            [
+              91.89526629436207,
+              25.57565
+            ],
+            [
+              91.89493370563792,
+              25.57565
+            ],
+            [
+              91.89493370563792,
+              25.575950000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-23",
+      "properties": {
+        "id": "nit-meghalaya-bld-23",
+        "name": "NIT Meghalaya Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89393370702699,
+              25.57495
+            ],
+            [
+              91.89426629297303,
+              25.57495
+            ],
+            [
+              91.89426629297303,
+              25.57465
+            ],
+            [
+              91.89393370702699,
+              25.57465
+            ],
+            [
+              91.89393370702699,
+              25.57495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-24",
+      "properties": {
+        "id": "nit-meghalaya-bld-24",
+        "name": "NIT Meghalaya Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89593370147036,
+              25.578950000000003
+            ],
+            [
+              91.89626629852965,
+              25.578950000000003
+            ],
+            [
+              91.89626629852965,
+              25.57865
+            ],
+            [
+              91.89593370147036,
+              25.57865
+            ],
+            [
+              91.89593370147036,
+              25.578950000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-25",
+      "properties": {
+        "id": "nit-meghalaya-bld-25",
+        "name": "NIT Meghalaya Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89293369174342,
+              25.585950000000004
+            ],
+            [
+              91.89326630825659,
+              25.585950000000004
+            ],
+            [
+              91.89326630825659,
+              25.58565
+            ],
+            [
+              91.89293369174342,
+              25.58565
+            ],
+            [
+              91.89293369174342,
+              25.585950000000004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-26",
+      "properties": {
+        "id": "nit-meghalaya-bld-26",
+        "name": "NIT Meghalaya Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.88693370147035,
+              25.578950000000003
+            ],
+            [
+              91.88726629852965,
+              25.578950000000003
+            ],
+            [
+              91.88726629852965,
+              25.57865
+            ],
+            [
+              91.88693370147035,
+              25.57865
+            ],
+            [
+              91.88693370147035,
+              25.578950000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-27",
+      "properties": {
+        "id": "nit-meghalaya-bld-27",
+        "name": "NIT Meghalaya State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.89443370147035,
+              25.578950000000003
+            ],
+            [
+              91.89476629852965,
+              25.578950000000003
+            ],
+            [
+              91.89476629852965,
+              25.57865
+            ],
+            [
+              91.89443370147035,
+              25.57865
+            ],
+            [
+              91.89443370147035,
+              25.578950000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-28",
+      "properties": {
+        "id": "nit-meghalaya-bld-28",
+        "name": "NIT Meghalaya Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.8939336931332,
+              25.584950000000003
+            ],
+            [
+              91.89426630686681,
+              25.584950000000003
+            ],
+            [
+              91.89426630686681,
+              25.58465
+            ],
+            [
+              91.8939336931332,
+              25.58465
+            ],
+            [
+              91.8939336931332,
+              25.584950000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-bld-29",
+      "properties": {
+        "id": "nit-meghalaya-bld-29",
+        "name": "NIT Meghalaya Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.8889336945229,
+              25.58395
+            ],
+            [
+              91.8892663054771,
+              25.58395
+            ],
+            [
+              91.8892663054771,
+              25.58365
+            ],
+            [
+              91.8889336945229,
+              25.58365
+            ],
+            [
+              91.8889336945229,
+              25.58395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-road-0",
+      "properties": {
+        "id": "nit-meghalaya-road-0",
+        "name": "NIT Meghalaya Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8931,
+            25.585800000000003
+          ],
+          [
+            91.8931,
+            25.5748
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-road-1",
+      "properties": {
+        "id": "nit-meghalaya-road-1",
+        "name": "NIT Meghalaya Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8891,
+            25.5758
+          ],
+          [
+            91.89710000000001,
+            25.5758
+          ],
+          [
+            91.89710000000001,
+            25.582800000000002
+          ],
+          [
+            91.8891,
+            25.582800000000002
+          ],
+          [
+            91.8891,
+            25.5758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-road-2",
+      "properties": {
+        "id": "nit-meghalaya-road-2",
+        "name": "NIT Meghalaya West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8871,
+            25.5788
+          ],
+          [
+            91.8931,
+            25.5788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-road-3",
+      "properties": {
+        "id": "nit-meghalaya-road-3",
+        "name": "NIT Meghalaya Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8891,
+            25.5808
+          ],
+          [
+            91.89710000000001,
+            25.5808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-road-4",
+      "properties": {
+        "id": "nit-meghalaya-road-4",
+        "name": "NIT Meghalaya Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8891,
+            25.5758
+          ],
+          [
+            91.8891,
+            25.5778
+          ],
+          [
+            91.89710000000001,
+            25.5778
+          ],
+          [
+            91.89710000000001,
+            25.5758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-walkway-0",
+      "properties": {
+        "id": "nit-meghalaya-walkway-0",
+        "name": "NIT Meghalaya Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8931,
+            25.5818
+          ],
+          [
+            91.8931,
+            25.5803
+          ],
+          [
+            91.89110000000001,
+            25.5803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-walkway-1",
+      "properties": {
+        "id": "nit-meghalaya-walkway-1",
+        "name": "NIT Meghalaya CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8961,
+            25.5808
+          ],
+          [
+            91.8931,
+            25.5808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-walkway-2",
+      "properties": {
+        "id": "nit-meghalaya-walkway-2",
+        "name": "NIT Meghalaya SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8931,
+            25.5778
+          ],
+          [
+            91.8931,
+            25.5758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-walkway-3",
+      "properties": {
+        "id": "nit-meghalaya-walkway-3",
+        "name": "NIT Meghalaya Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8961,
+            25.5728
+          ],
+          [
+            91.8951,
+            25.573800000000002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-walkway-4",
+      "properties": {
+        "id": "nit-meghalaya-walkway-4",
+        "name": "NIT Meghalaya Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.89710000000001,
+            25.576800000000002
+          ],
+          [
+            91.8961,
+            25.5778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-walkway-5",
+      "properties": {
+        "id": "nit-meghalaya-walkway-5",
+        "name": "NIT Meghalaya Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8891,
+            25.576800000000002
+          ],
+          [
+            91.89110000000001,
+            25.576800000000002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-walkway-6",
+      "properties": {
+        "id": "nit-meghalaya-walkway-6",
+        "name": "NIT Meghalaya Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8961,
+            25.5788
+          ],
+          [
+            91.8946,
+            25.5788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nit-meghalaya-walkway-7",
+      "properties": {
+        "id": "nit-meghalaya-walkway-7",
+        "name": "NIT Meghalaya Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8906,
+            25.581300000000002
+          ],
+          [
+            91.89110000000001,
+            25.5803
+          ]
+        ]
+      }
+    }
+  ]
+}

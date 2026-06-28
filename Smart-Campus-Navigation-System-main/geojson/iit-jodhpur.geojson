@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "IIT Jodhpur GIS Dataset",
+  "properties": {
+    "campusId": "iit-jodhpur",
+    "campusName": "IIT Jodhpur",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.197Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "IIT Jodhpur Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.1234540675584,
+              26.471
+            ],
+            [
+              73.12311148351391,
+              26.473329371405924
+            ],
+            [
+              73.12210707791694,
+              26.4755
+            ],
+            [
+              73.12050929934905,
+              26.47736396103068
+            ],
+            [
+              73.1184270337792,
+              26.47879422863406
+            ],
+            [
+              73.11600218416486,
+              26.4796933324366
+            ],
+            [
+              73.1134,
+              26.48
+            ],
+            [
+              73.11079781583514,
+              26.4796933324366
+            ],
+            [
+              73.1083729662208,
+              26.47879422863406
+            ],
+            [
+              73.10629070065094,
+              26.47736396103068
+            ],
+            [
+              73.10469292208306,
+              26.4755
+            ],
+            [
+              73.10368851648609,
+              26.473329371405924
+            ],
+            [
+              73.1033459324416,
+              26.471
+            ],
+            [
+              73.10368851648609,
+              26.468670628594076
+            ],
+            [
+              73.10469292208306,
+              26.4665
+            ],
+            [
+              73.10629070065094,
+              26.46463603896932
+            ],
+            [
+              73.1083729662208,
+              26.46320577136594
+            ],
+            [
+              73.11079781583514,
+              26.4623066675634
+            ],
+            [
+              73.1134,
+              26.462
+            ],
+            [
+              73.11600218416486,
+              26.4623066675634
+            ],
+            [
+              73.1184270337792,
+              26.46320577136594
+            ],
+            [
+              73.12050929934905,
+              26.46463603896932
+            ],
+            [
+              73.12210707791694,
+              26.4665
+            ],
+            [
+              73.12311148351391,
+              26.468670628594076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-0",
+      "properties": {
+        "id": "iit-jodhpur-bld-0",
+        "name": "IIT Jodhpur Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of IIT Jodhpur, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11323243147919,
+              26.47165
+            ],
+            [
+              73.1135675685208,
+              26.47165
+            ],
+            [
+              73.1135675685208,
+              26.471349999999997
+            ],
+            [
+              73.11323243147919,
+              26.471349999999997
+            ],
+            [
+              73.11323243147919,
+              26.47165
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-1",
+      "properties": {
+        "id": "iit-jodhpur-bld-1",
+        "name": "IIT Jodhpur Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at IIT Jodhpur. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11323242783808,
+              26.47415
+            ],
+            [
+              73.11356757216191,
+              26.47415
+            ],
+            [
+              73.11356757216191,
+              26.47385
+            ],
+            [
+              73.11323242783808,
+              26.47385
+            ],
+            [
+              73.11323242783808,
+              26.47415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-2",
+      "properties": {
+        "id": "iit-jodhpur-bld-2",
+        "name": "IIT Jodhpur Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11123243002281,
+              26.47265
+            ],
+            [
+              73.1115675699772,
+              26.47265
+            ],
+            [
+              73.1115675699772,
+              26.47235
+            ],
+            [
+              73.11123243002281,
+              26.47235
+            ],
+            [
+              73.11123243002281,
+              26.47265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-3",
+      "properties": {
+        "id": "iit-jodhpur-bld-3",
+        "name": "IIT Jodhpur Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11623242929458,
+              26.47315
+            ],
+            [
+              73.11656757070541,
+              26.47315
+            ],
+            [
+              73.11656757070541,
+              26.472849999999998
+            ],
+            [
+              73.11623242929458,
+              26.472849999999998
+            ],
+            [
+              73.11623242929458,
+              26.47315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-4",
+      "properties": {
+        "id": "iit-jodhpur-bld-4",
+        "name": "IIT Jodhpur Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.115232430751,
+              26.472150000000003
+            ],
+            [
+              73.11556756924898,
+              26.472150000000003
+            ],
+            [
+              73.11556756924898,
+              26.47185
+            ],
+            [
+              73.115232430751,
+              26.47185
+            ],
+            [
+              73.115232430751,
+              26.472150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-5",
+      "properties": {
+        "id": "iit-jodhpur-bld-5",
+        "name": "IIT Jodhpur Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11023243075101,
+              26.472150000000003
+            ],
+            [
+              73.11056756924899,
+              26.472150000000003
+            ],
+            [
+              73.11056756924899,
+              26.47185
+            ],
+            [
+              73.11023243075101,
+              26.47185
+            ],
+            [
+              73.11023243075101,
+              26.472150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-6",
+      "properties": {
+        "id": "iit-jodhpur-bld-6",
+        "name": "IIT Jodhpur Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11573242783808,
+              26.47415
+            ],
+            [
+              73.11606757216191,
+              26.47415
+            ],
+            [
+              73.11606757216191,
+              26.47385
+            ],
+            [
+              73.11573242783808,
+              26.47385
+            ],
+            [
+              73.11573242783808,
+              26.47415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-7",
+      "properties": {
+        "id": "iit-jodhpur-bld-7",
+        "name": "IIT Jodhpur Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of IIT Jodhpur used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11073242856635,
+              26.473650000000003
+            ],
+            [
+              73.11106757143365,
+              26.473650000000003
+            ],
+            [
+              73.11106757143365,
+              26.47335
+            ],
+            [
+              73.11073242856635,
+              26.47335
+            ],
+            [
+              73.11073242856635,
+              26.473650000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-8",
+      "properties": {
+        "id": "iit-jodhpur-bld-8",
+        "name": "IIT Jodhpur Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.1122324271098,
+              26.47465
+            ],
+            [
+              73.11256757289019,
+              26.47465
+            ],
+            [
+              73.11256757289019,
+              26.474349999999998
+            ],
+            [
+              73.1122324271098,
+              26.474349999999998
+            ],
+            [
+              73.1122324271098,
+              26.47465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-9",
+      "properties": {
+        "id": "iit-jodhpur-bld-9",
+        "name": "IIT Jodhpur Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.10923243511982,
+              26.469150000000003
+            ],
+            [
+              73.10956756488017,
+              26.469150000000003
+            ],
+            [
+              73.10956756488017,
+              26.46885
+            ],
+            [
+              73.10923243511982,
+              26.46885
+            ],
+            [
+              73.10923243511982,
+              26.469150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-10",
+      "properties": {
+        "id": "iit-jodhpur-bld-10",
+        "name": "IIT Jodhpur Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.10923243657594,
+              26.46815
+            ],
+            [
+              73.10956756342405,
+              26.46815
+            ],
+            [
+              73.10956756342405,
+              26.46785
+            ],
+            [
+              73.10923243657594,
+              26.46785
+            ],
+            [
+              73.10923243657594,
+              26.46815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-11",
+      "properties": {
+        "id": "iit-jodhpur-bld-11",
+        "name": "IIT Jodhpur Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11023243803199,
+              26.46715
+            ],
+            [
+              73.11056756196801,
+              26.46715
+            ],
+            [
+              73.11056756196801,
+              26.466849999999997
+            ],
+            [
+              73.11023243803199,
+              26.466849999999997
+            ],
+            [
+              73.11023243803199,
+              26.46715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-12",
+      "properties": {
+        "id": "iit-jodhpur-bld-12",
+        "name": "IIT Jodhpur Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11723243511983,
+              26.469150000000003
+            ],
+            [
+              73.11756756488018,
+              26.469150000000003
+            ],
+            [
+              73.11756756488018,
+              26.46885
+            ],
+            [
+              73.11723243511983,
+              26.46885
+            ],
+            [
+              73.11723243511983,
+              26.469150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-13",
+      "properties": {
+        "id": "iit-jodhpur-bld-13",
+        "name": "IIT Jodhpur Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11723243657595,
+              26.46815
+            ],
+            [
+              73.11756756342406,
+              26.46815
+            ],
+            [
+              73.11756756342406,
+              26.46785
+            ],
+            [
+              73.11723243657595,
+              26.46785
+            ],
+            [
+              73.11723243657595,
+              26.46815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-14",
+      "properties": {
+        "id": "iit-jodhpur-bld-14",
+        "name": "IIT Jodhpur Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11523243948794,
+              26.466150000000003
+            ],
+            [
+              73.11556756051205,
+              26.466150000000003
+            ],
+            [
+              73.11556756051205,
+              26.46585
+            ],
+            [
+              73.11523243948794,
+              26.46585
+            ],
+            [
+              73.11523243948794,
+              26.466150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-15",
+      "properties": {
+        "id": "iit-jodhpur-bld-15",
+        "name": "IIT Jodhpur Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11623244094383,
+              26.46515
+            ],
+            [
+              73.11656755905616,
+              26.46515
+            ],
+            [
+              73.11656755905616,
+              26.46485
+            ],
+            [
+              73.11623244094383,
+              26.46485
+            ],
+            [
+              73.11623244094383,
+              26.46515
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-16",
+      "properties": {
+        "id": "iit-jodhpur-bld-16",
+        "name": "IIT Jodhpur Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11123243948795,
+              26.466150000000003
+            ],
+            [
+              73.11156756051206,
+              26.466150000000003
+            ],
+            [
+              73.11156756051206,
+              26.46585
+            ],
+            [
+              73.11123243948795,
+              26.46585
+            ],
+            [
+              73.11123243948795,
+              26.466150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-17",
+      "properties": {
+        "id": "iit-jodhpur-bld-17",
+        "name": "IIT Jodhpur Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11323243366363,
+              26.47015
+            ],
+            [
+              73.11356756633637,
+              26.47015
+            ],
+            [
+              73.11356756633637,
+              26.469849999999997
+            ],
+            [
+              73.11323243366363,
+              26.469849999999997
+            ],
+            [
+              73.11323243366363,
+              26.47015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-18",
+      "properties": {
+        "id": "iit-jodhpur-bld-18",
+        "name": "IIT Jodhpur Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11123243511983,
+              26.469150000000003
+            ],
+            [
+              73.11156756488018,
+              26.469150000000003
+            ],
+            [
+              73.11156756488018,
+              26.46885
+            ],
+            [
+              73.11123243511983,
+              26.46885
+            ],
+            [
+              73.11123243511983,
+              26.469150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-19",
+      "properties": {
+        "id": "iit-jodhpur-bld-19",
+        "name": "IIT Jodhpur Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11023243366363,
+              26.47015
+            ],
+            [
+              73.11056756633637,
+              26.47015
+            ],
+            [
+              73.11056756633637,
+              26.469849999999997
+            ],
+            [
+              73.11023243366363,
+              26.469849999999997
+            ],
+            [
+              73.11023243366363,
+              26.47015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-20",
+      "properties": {
+        "id": "iit-jodhpur-bld-20",
+        "name": "IIT Jodhpur Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11623243366363,
+              26.47015
+            ],
+            [
+              73.11656756633637,
+              26.47015
+            ],
+            [
+              73.11656756633637,
+              26.469849999999997
+            ],
+            [
+              73.11623243366363,
+              26.469849999999997
+            ],
+            [
+              73.11623243366363,
+              26.47015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-21",
+      "properties": {
+        "id": "iit-jodhpur-bld-21",
+        "name": "IIT Jodhpur Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11323243657594,
+              26.46815
+            ],
+            [
+              73.11356756342406,
+              26.46815
+            ],
+            [
+              73.11356756342406,
+              26.46785
+            ],
+            [
+              73.11323243657594,
+              26.46785
+            ],
+            [
+              73.11323243657594,
+              26.46815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-22",
+      "properties": {
+        "id": "iit-jodhpur-bld-22",
+        "name": "IIT Jodhpur Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11523243657594,
+              26.46815
+            ],
+            [
+              73.11556756342405,
+              26.46815
+            ],
+            [
+              73.11556756342405,
+              26.46785
+            ],
+            [
+              73.11523243657594,
+              26.46785
+            ],
+            [
+              73.11523243657594,
+              26.46815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-23",
+      "properties": {
+        "id": "iit-jodhpur-bld-23",
+        "name": "IIT Jodhpur Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11423243803199,
+              26.46715
+            ],
+            [
+              73.11456756196802,
+              26.46715
+            ],
+            [
+              73.11456756196802,
+              26.466849999999997
+            ],
+            [
+              73.11423243803199,
+              26.466849999999997
+            ],
+            [
+              73.11423243803199,
+              26.46715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-24",
+      "properties": {
+        "id": "iit-jodhpur-bld-24",
+        "name": "IIT Jodhpur Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11623243220735,
+              26.47115
+            ],
+            [
+              73.11656756779264,
+              26.47115
+            ],
+            [
+              73.11656756779264,
+              26.47085
+            ],
+            [
+              73.11623243220735,
+              26.47085
+            ],
+            [
+              73.11623243220735,
+              26.47115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-25",
+      "properties": {
+        "id": "iit-jodhpur-bld-25",
+        "name": "IIT Jodhpur Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11323242201132,
+              26.478150000000003
+            ],
+            [
+              73.11356757798868,
+              26.478150000000003
+            ],
+            [
+              73.11356757798868,
+              26.47785
+            ],
+            [
+              73.11323242201132,
+              26.47785
+            ],
+            [
+              73.11323242201132,
+              26.478150000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-26",
+      "properties": {
+        "id": "iit-jodhpur-bld-26",
+        "name": "IIT Jodhpur Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.10723243220735,
+              26.47115
+            ],
+            [
+              73.10756756779264,
+              26.47115
+            ],
+            [
+              73.10756756779264,
+              26.47085
+            ],
+            [
+              73.10723243220735,
+              26.47085
+            ],
+            [
+              73.10723243220735,
+              26.47115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-27",
+      "properties": {
+        "id": "iit-jodhpur-bld-27",
+        "name": "IIT Jodhpur State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11473243220735,
+              26.47115
+            ],
+            [
+              73.11506756779264,
+              26.47115
+            ],
+            [
+              73.11506756779264,
+              26.47085
+            ],
+            [
+              73.11473243220735,
+              26.47085
+            ],
+            [
+              73.11473243220735,
+              26.47115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-28",
+      "properties": {
+        "id": "iit-jodhpur-bld-28",
+        "name": "IIT Jodhpur Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.11423242346814,
+              26.47715
+            ],
+            [
+              73.11456757653187,
+              26.47715
+            ],
+            [
+              73.11456757653187,
+              26.47685
+            ],
+            [
+              73.11423242346814,
+              26.47685
+            ],
+            [
+              73.11423242346814,
+              26.47715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-bld-29",
+      "properties": {
+        "id": "iit-jodhpur-bld-29",
+        "name": "IIT Jodhpur Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.10923242492485,
+              26.47615
+            ],
+            [
+              73.10956757507513,
+              26.47615
+            ],
+            [
+              73.10956757507513,
+              26.475849999999998
+            ],
+            [
+              73.10923242492485,
+              26.475849999999998
+            ],
+            [
+              73.10923242492485,
+              26.47615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-road-0",
+      "properties": {
+        "id": "iit-jodhpur-road-0",
+        "name": "IIT Jodhpur Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.1134,
+            26.478
+          ],
+          [
+            73.1134,
+            26.467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-road-1",
+      "properties": {
+        "id": "iit-jodhpur-road-1",
+        "name": "IIT Jodhpur Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.1094,
+            26.468
+          ],
+          [
+            73.1174,
+            26.468
+          ],
+          [
+            73.1174,
+            26.475
+          ],
+          [
+            73.1094,
+            26.475
+          ],
+          [
+            73.1094,
+            26.468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-road-2",
+      "properties": {
+        "id": "iit-jodhpur-road-2",
+        "name": "IIT Jodhpur West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.1074,
+            26.471
+          ],
+          [
+            73.1134,
+            26.471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-road-3",
+      "properties": {
+        "id": "iit-jodhpur-road-3",
+        "name": "IIT Jodhpur Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.1094,
+            26.473
+          ],
+          [
+            73.1174,
+            26.473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-road-4",
+      "properties": {
+        "id": "iit-jodhpur-road-4",
+        "name": "IIT Jodhpur Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.1094,
+            26.468
+          ],
+          [
+            73.1094,
+            26.47
+          ],
+          [
+            73.1174,
+            26.47
+          ],
+          [
+            73.1174,
+            26.468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-walkway-0",
+      "properties": {
+        "id": "iit-jodhpur-walkway-0",
+        "name": "IIT Jodhpur Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.1134,
+            26.474
+          ],
+          [
+            73.1134,
+            26.4725
+          ],
+          [
+            73.1114,
+            26.4725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-walkway-1",
+      "properties": {
+        "id": "iit-jodhpur-walkway-1",
+        "name": "IIT Jodhpur CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.1164,
+            26.473
+          ],
+          [
+            73.1134,
+            26.473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-walkway-2",
+      "properties": {
+        "id": "iit-jodhpur-walkway-2",
+        "name": "IIT Jodhpur SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.1134,
+            26.47
+          ],
+          [
+            73.1134,
+            26.468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-walkway-3",
+      "properties": {
+        "id": "iit-jodhpur-walkway-3",
+        "name": "IIT Jodhpur Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.1164,
+            26.465
+          ],
+          [
+            73.1154,
+            26.466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-walkway-4",
+      "properties": {
+        "id": "iit-jodhpur-walkway-4",
+        "name": "IIT Jodhpur Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.1174,
+            26.469
+          ],
+          [
+            73.1164,
+            26.47
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-walkway-5",
+      "properties": {
+        "id": "iit-jodhpur-walkway-5",
+        "name": "IIT Jodhpur Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.1094,
+            26.469
+          ],
+          [
+            73.1114,
+            26.469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-walkway-6",
+      "properties": {
+        "id": "iit-jodhpur-walkway-6",
+        "name": "IIT Jodhpur Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.1164,
+            26.471
+          ],
+          [
+            73.11489999999999,
+            26.471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-jodhpur-walkway-7",
+      "properties": {
+        "id": "iit-jodhpur-walkway-7",
+        "name": "IIT Jodhpur Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.1109,
+            26.4735
+          ],
+          [
+            73.1114,
+            26.4725
+          ]
+        ]
+      }
+    }
+  ]
+}

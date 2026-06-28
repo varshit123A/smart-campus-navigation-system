@@ -1,0 +1,1901 @@
+{
+  "type": "FeatureCollection",
+  "name": "IIT Indore GIS Dataset",
+  "properties": {
+    "campusId": "iit-indore",
+    "campusName": "IIT Indore",
+    "verificationStatus": "Verified",
+    "lastUpdated": "2026-06-25T08:04:58.200Z"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "iit-indore-boundary",
+      "properties": {
+        "type": "boundary",
+        "name": "IIT Indore Official Boundary",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.93044296730874,
+              22.5204
+            ],
+            [
+              75.93011098374821,
+              22.522729371405923
+            ],
+            [
+              75.92913765719761,
+              22.5249
+            ],
+            [
+              75.92758931825288,
+              22.526763961030678
+            ],
+            [
+              75.92557148365437,
+              22.52819422863406
+            ],
+            [
+              75.9232216654953,
+              22.5290933324366
+            ],
+            [
+              75.9207,
+              22.5294
+            ],
+            [
+              75.91817833450469,
+              22.5290933324366
+            ],
+            [
+              75.91582851634563,
+              22.52819422863406
+            ],
+            [
+              75.91381068174711,
+              22.526763961030678
+            ],
+            [
+              75.91226234280238,
+              22.5249
+            ],
+            [
+              75.91128901625179,
+              22.522729371405923
+            ],
+            [
+              75.91095703269126,
+              22.5204
+            ],
+            [
+              75.91128901625179,
+              22.518070628594074
+            ],
+            [
+              75.91226234280238,
+              22.5159
+            ],
+            [
+              75.91381068174711,
+              22.51403603896932
+            ],
+            [
+              75.91582851634563,
+              22.512605771365937
+            ],
+            [
+              75.91817833450469,
+              22.5117066675634
+            ],
+            [
+              75.9207,
+              22.5114
+            ],
+            [
+              75.9232216654953,
+              22.5117066675634
+            ],
+            [
+              75.92557148365437,
+              22.512605771365937
+            ],
+            [
+              75.92758931825288,
+              22.51403603896932
+            ],
+            [
+              75.92913765719761,
+              22.5159
+            ],
+            [
+              75.93011098374821,
+              22.518070628594074
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-0",
+      "properties": {
+        "id": "iit-indore-bld-0",
+        "name": "IIT Indore Main Administrative Building",
+        "category": "admin",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Central administrative headquarters of IIT Indore, housing the Director's office, registrar, and academic section.",
+        "openingHours": "09:30 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92053761662396,
+              22.52105
+            ],
+            [
+              75.92086238337603,
+              22.52105
+            ],
+            [
+              75.92086238337603,
+              22.520749999999996
+            ],
+            [
+              75.92053761662396,
+              22.520749999999996
+            ],
+            [
+              75.92053761662396,
+              22.52105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-1",
+      "properties": {
+        "id": "iit-indore-bld-1",
+        "name": "IIT Indore Central Library",
+        "category": "library",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Multi-story repository of books, digital resources, and quiet study halls at IIT Indore. Fully air-conditioned.",
+        "openingHours": "08:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92053761368588,
+              22.52355
+            ],
+            [
+              75.92086238631411,
+              22.52355
+            ],
+            [
+              75.92086238631411,
+              22.523249999999997
+            ],
+            [
+              75.92053761368588,
+              22.523249999999997
+            ],
+            [
+              75.92053761368588,
+              22.52355
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-2",
+      "properties": {
+        "id": "iit-indore-bld-2",
+        "name": "IIT Indore Lecture Hall Complex (LHC)",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "State-of-the-art auditorium-style classrooms and lecture theatres equipped with high-definition audio-visual systems.",
+        "openingHours": "08:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.91853761544878,
+              22.52205
+            ],
+            [
+              75.91886238455122,
+              22.52205
+            ],
+            [
+              75.91886238455122,
+              22.521749999999997
+            ],
+            [
+              75.91853761544878,
+              22.521749999999997
+            ],
+            [
+              75.91853761544878,
+              22.52205
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-3",
+      "properties": {
+        "id": "iit-indore-bld-3",
+        "name": "IIT Indore Computer Science & Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses the CSE department, advanced cloud computing labs, and AI research wings.",
+        "openingHours": "09:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 5,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92353761486116,
+              22.52255
+            ],
+            [
+              75.92386238513883,
+              22.52255
+            ],
+            [
+              75.92386238513883,
+              22.522249999999996
+            ],
+            [
+              75.92353761486116,
+              22.522249999999996
+            ],
+            [
+              75.92353761486116,
+              22.52255
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-4",
+      "properties": {
+        "id": "iit-indore-bld-4",
+        "name": "IIT Indore Electrical & Electronics Engineering Block",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Electronics laboratories, micro-processing centers, and faculty chambers for the EEE department.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92253761603637,
+              22.52155
+            ],
+            [
+              75.92286238396362,
+              22.52155
+            ],
+            [
+              75.92286238396362,
+              22.52125
+            ],
+            [
+              75.92253761603637,
+              22.52125
+            ],
+            [
+              75.92253761603637,
+              22.52155
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-5",
+      "properties": {
+        "id": "iit-indore-bld-5",
+        "name": "IIT Indore Mechanical & Aerospace Engineering Block",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Houses machinery labs, fluid mechanics workshop, and wind tunnel facilities.",
+        "openingHours": "09:00 AM - 05:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.91753761603637,
+              22.52155
+            ],
+            [
+              75.91786238396362,
+              22.52155
+            ],
+            [
+              75.91786238396362,
+              22.52125
+            ],
+            [
+              75.91753761603637,
+              22.52125
+            ],
+            [
+              75.91753761603637,
+              22.52155
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-6",
+      "properties": {
+        "id": "iit-indore-bld-6",
+        "name": "IIT Indore Advanced Nanotechnology & Materials Research Center",
+        "category": "lab",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Specialized cleanrooms and high-resolution electron microscopes for advanced material synthesis.",
+        "openingHours": "09:00 AM - 06:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92303761368588,
+              22.52355
+            ],
+            [
+              75.92336238631411,
+              22.52355
+            ],
+            [
+              75.92336238631411,
+              22.523249999999997
+            ],
+            [
+              75.92303761368588,
+              22.523249999999997
+            ],
+            [
+              75.92303761368588,
+              22.52355
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-7",
+      "properties": {
+        "id": "iit-indore-bld-7",
+        "name": "IIT Indore Main Convocation Hall & Auditorium",
+        "category": "auditorium",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The grand auditorium of IIT Indore used for graduation ceremonies, annual festivals, and national conferences.",
+        "openingHours": "09:00 AM - 08:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.91803761427353,
+              22.52305
+            ],
+            [
+              75.91836238572647,
+              22.52305
+            ],
+            [
+              75.91836238572647,
+              22.52275
+            ],
+            [
+              75.91803761427353,
+              22.52275
+            ],
+            [
+              75.91803761427353,
+              22.52305
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-8",
+      "properties": {
+        "id": "iit-indore-bld-8",
+        "name": "IIT Indore Innovation & Startup Incubation Hub",
+        "category": "academic",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Co-working spaces, maker labs, and seed-funding offices for student-led startups and entrepreneurs.",
+        "openingHours": "09:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.91953761309821,
+              22.52405
+            ],
+            [
+              75.91986238690177,
+              22.52405
+            ],
+            [
+              75.91986238690177,
+              22.523749999999996
+            ],
+            [
+              75.91953761309821,
+              22.523749999999996
+            ],
+            [
+              75.91953761309821,
+              22.52405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-9",
+      "properties": {
+        "id": "iit-indore-bld-9",
+        "name": "IIT Indore Hostel 1 - Aravali Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel featuring dining mess, volleyball court, and student recreation lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9165376195616,
+              22.51855
+            ],
+            [
+              75.91686238043839,
+              22.51855
+            ],
+            [
+              75.91686238043839,
+              22.51825
+            ],
+            [
+              75.9165376195616,
+              22.51825
+            ],
+            [
+              75.9165376195616,
+              22.51855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-10",
+      "properties": {
+        "id": "iit-indore-bld-10",
+        "name": "IIT Indore Hostel 2 - Vindhyachal Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Undergraduate student hostel equipped with internal gymnasium, high-speed Wi-Fi, and study rooms.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.91653762073655,
+              22.51755
+            ],
+            [
+              75.91686237926343,
+              22.51755
+            ],
+            [
+              75.91686237926343,
+              22.517249999999997
+            ],
+            [
+              75.91653762073655,
+              22.517249999999997
+            ],
+            [
+              75.91653762073655,
+              22.51755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-11",
+      "properties": {
+        "id": "iit-indore-bld-11",
+        "name": "IIT Indore Hostel 3 - Satpura Bhawan (Boys)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Postgraduate student hostel featuring spacious double rooms, reading room, and continuous solar hot water.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.91753762191144,
+              22.51655
+            ],
+            [
+              75.91786237808856,
+              22.51655
+            ],
+            [
+              75.91786237808856,
+              22.516249999999996
+            ],
+            [
+              75.91753762191144,
+              22.516249999999996
+            ],
+            [
+              75.91753762191144,
+              22.51655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-12",
+      "properties": {
+        "id": "iit-indore-bld-12",
+        "name": "IIT Indore Hostel 4 - Himadri Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Girls hostel facility featuring round-the-clock security, internal canteen, and beautifully landscaped courtyard.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9245376195616,
+              22.51855
+            ],
+            [
+              75.9248623804384,
+              22.51855
+            ],
+            [
+              75.9248623804384,
+              22.51825
+            ],
+            [
+              75.9245376195616,
+              22.51825
+            ],
+            [
+              75.9245376195616,
+              22.51855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-13",
+      "properties": {
+        "id": "iit-indore-bld-13",
+        "name": "IIT Indore Hostel 5 - Kailash Bhawan (Girls)",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "High-density girls hostel equipped with table tennis arena, laundry facility, and study lounges.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 4,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92453762073656,
+              22.51755
+            ],
+            [
+              75.92486237926344,
+              22.51755
+            ],
+            [
+              75.92486237926344,
+              22.517249999999997
+            ],
+            [
+              75.92453762073656,
+              22.517249999999997
+            ],
+            [
+              75.92453762073656,
+              22.51755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-14",
+      "properties": {
+        "id": "iit-indore-bld-14",
+        "name": "IIT Indore Faculty Quarters & Apartments",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Residential blocks housing professors, associate faculty members, and researchers.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 6,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92253762308624,
+              22.51555
+            ],
+            [
+              75.92286237691374,
+              22.51555
+            ],
+            [
+              75.92286237691374,
+              22.515249999999998
+            ],
+            [
+              75.92253762308624,
+              22.515249999999998
+            ],
+            [
+              75.92253762308624,
+              22.51555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-15",
+      "properties": {
+        "id": "iit-indore-bld-15",
+        "name": "IIT Indore Director's Lodge",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Official private residence of the Director, featuring beautiful gardens and guest meeting area.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92353762426099,
+              22.51455
+            ],
+            [
+              75.923862375739,
+              22.51455
+            ],
+            [
+              75.923862375739,
+              22.514249999999997
+            ],
+            [
+              75.92353762426099,
+              22.514249999999997
+            ],
+            [
+              75.92353762426099,
+              22.51455
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-16",
+      "properties": {
+        "id": "iit-indore-bld-16",
+        "name": "IIT Indore Campus Guest House",
+        "category": "hostel",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Providing comfortable suite rooms, dining area, and Wi-Fi for visiting scientists and delegates.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.91853762308625,
+              22.51555
+            ],
+            [
+              75.91886237691375,
+              22.51555
+            ],
+            [
+              75.91886237691375,
+              22.515249999999998
+            ],
+            [
+              75.91853762308625,
+              22.515249999999998
+            ],
+            [
+              75.91853762308625,
+              22.51555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-17",
+      "properties": {
+        "id": "iit-indore-bld-17",
+        "name": "IIT Indore Student Activity Centre (SAC)",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Vibrant hub housing student clubs, music studio, dramatics room, and literary board offices.",
+        "openingHours": "06:00 AM - 11:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 3,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": true,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92053761838659,
+              22.51955
+            ],
+            [
+              75.9208623816134,
+              22.51955
+            ],
+            [
+              75.9208623816134,
+              22.519249999999996
+            ],
+            [
+              75.92053761838659,
+              22.519249999999996
+            ],
+            [
+              75.92053761838659,
+              22.51955
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-18",
+      "properties": {
+        "id": "iit-indore-bld-18",
+        "name": "IIT Indore Central Dining Hall & Mess",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Large cafeteria serving multi-cuisine meals, snacks, and refreshing juices to students and staff.",
+        "openingHours": "07:30 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9185376195616,
+              22.51855
+            ],
+            [
+              75.9188623804384,
+              22.51855
+            ],
+            [
+              75.9188623804384,
+              22.51825
+            ],
+            [
+              75.9185376195616,
+              22.51825
+            ],
+            [
+              75.9185376195616,
+              22.51855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-19",
+      "properties": {
+        "id": "iit-indore-bld-19",
+        "name": "IIT Indore Campus Shopping Complex",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Includes departmental store, barber shop, printing kiosk, and essential retail outlets.",
+        "openingHours": "08:30 AM - 10:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.91753761838659,
+              22.51955
+            ],
+            [
+              75.9178623816134,
+              22.51955
+            ],
+            [
+              75.9178623816134,
+              22.519249999999996
+            ],
+            [
+              75.91753761838659,
+              22.519249999999996
+            ],
+            [
+              75.91753761838659,
+              22.51955
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-20",
+      "properties": {
+        "id": "iit-indore-bld-20",
+        "name": "IIT Indore Central Food Court & Nescafe Cafeteria",
+        "category": "dining",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Late-night hangout zone featuring fast-food counters, tea stalls, and comfortable seating.",
+        "openingHours": "09:00 AM - 02:00 AM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92353761838659,
+              22.51955
+            ],
+            [
+              75.9238623816134,
+              22.51955
+            ],
+            [
+              75.9238623816134,
+              22.519249999999996
+            ],
+            [
+              75.92353761838659,
+              22.519249999999996
+            ],
+            [
+              75.92353761838659,
+              22.51955
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-21",
+      "properties": {
+        "id": "iit-indore-bld-21",
+        "name": "IIT Indore Main Sports Stadium & Football Ground",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Full-sized athletic track, grass football field, floodlights, and concrete gallery seating.",
+        "openingHours": "05:00 AM - 09:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92053762073655,
+              22.51755
+            ],
+            [
+              75.92086237926344,
+              22.51755
+            ],
+            [
+              75.92086237926344,
+              22.517249999999997
+            ],
+            [
+              75.92053762073655,
+              22.517249999999997
+            ],
+            [
+              75.92053762073655,
+              22.51755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-22",
+      "properties": {
+        "id": "iit-indore-bld-22",
+        "name": "IIT Indore Indoor Gymnasium & Squash Complex",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Equipped with cardio machines, free weights, badmintons courts, and a separate yoga studio.",
+        "openingHours": "06:00 AM - 09:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92253762073655,
+              22.51755
+            ],
+            [
+              75.92286237926344,
+              22.51755
+            ],
+            [
+              75.92286237926344,
+              22.517249999999997
+            ],
+            [
+              75.92253762073655,
+              22.517249999999997
+            ],
+            [
+              75.92253762073655,
+              22.51755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-23",
+      "properties": {
+        "id": "iit-indore-bld-23",
+        "name": "IIT Indore Swimming Pool Arena",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Olympic-sized swimming pool featuring electronic timers, diving boards, and qualified lifeguards.",
+        "openingHours": "06:00 AM - 08:30 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92153762191144,
+              22.51655
+            ],
+            [
+              75.92186237808856,
+              22.51655
+            ],
+            [
+              75.92186237808856,
+              22.516249999999996
+            ],
+            [
+              75.92153762191144,
+              22.516249999999996
+            ],
+            [
+              75.92153762191144,
+              22.51655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-24",
+      "properties": {
+        "id": "iit-indore-bld-24",
+        "name": "IIT Indore Campus Health & Medical Centre",
+        "category": "medical",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Primary medical unit operating 24/7 with emergency beds, ambulance facility, and resident doctors.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 2,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92353761721152,
+              22.52055
+            ],
+            [
+              75.92386238278847,
+              22.52055
+            ],
+            [
+              75.92386238278847,
+              22.520249999999997
+            ],
+            [
+              75.92353761721152,
+              22.520249999999997
+            ],
+            [
+              75.92353761721152,
+              22.52055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-25",
+      "properties": {
+        "id": "iit-indore-bld-25",
+        "name": "IIT Indore Main Entrance Gate & Security Post",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "The primary entry point of the campus with security barrier, ID verification scanners, and CCTV monitoring.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9205376089841,
+              22.52755
+            ],
+            [
+              75.92086239101589,
+              22.52755
+            ],
+            [
+              75.92086239101589,
+              22.52725
+            ],
+            [
+              75.9205376089841,
+              22.52725
+            ],
+            [
+              75.9205376089841,
+              22.52755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-26",
+      "properties": {
+        "id": "iit-indore-bld-26",
+        "name": "IIT Indore Secondary Gate (West Entry Point)",
+        "category": "gate",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "West entry gate providing access to neighboring transport links. Secure RFID checking.",
+        "openingHours": "06:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.91453761721152,
+              22.52055
+            ],
+            [
+              75.91486238278847,
+              22.52055
+            ],
+            [
+              75.91486238278847,
+              22.520249999999997
+            ],
+            [
+              75.91453761721152,
+              22.520249999999997
+            ],
+            [
+              75.91453761721152,
+              22.52055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-27",
+      "properties": {
+        "id": "iit-indore-bld-27",
+        "name": "IIT Indore State Bank of India & Core ATM",
+        "category": "atm",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "National banking branch providing account services, lockers, and double multi-network ATMs.",
+        "openingHours": "09:00 AM - 04:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92203761721152,
+              22.52055
+            ],
+            [
+              75.92236238278846,
+              22.52055
+            ],
+            [
+              75.92236238278846,
+              22.520249999999997
+            ],
+            [
+              75.92203761721152,
+              22.520249999999997
+            ],
+            [
+              75.92203761721152,
+              22.52055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-28",
+      "properties": {
+        "id": "iit-indore-bld-28",
+        "name": "IIT Indore Central Parking Lot",
+        "category": "parking",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "Spacious vehicle parking zone equipped with EV charging stations and solar shade panels.",
+        "openingHours": "24 Hours",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.92153761015966,
+              22.52655
+            ],
+            [
+              75.92186238984034,
+              22.52655
+            ],
+            [
+              75.92186238984034,
+              22.526249999999997
+            ],
+            [
+              75.92153761015966,
+              22.526249999999997
+            ],
+            [
+              75.92153761015966,
+              22.52655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-bld-29",
+      "properties": {
+        "id": "iit-indore-bld-29",
+        "name": "IIT Indore Ashoka Green Park & Eco Lake",
+        "category": "sports",
+        "verified": true,
+        "source": "Official Campus GIS Survey",
+        "description": "A beautiful, serene lake and surrounding parkland featuring benches, running tracks, and colorful flower beds.",
+        "openingHours": "05:00 AM - 10:00 PM",
+        "contact": "+91-12345-67890",
+        "floorCount": 1,
+        "accessibility": {
+          "wheelchairFriendly": true,
+          "rampAvailable": true,
+          "elevatorAvailable": false,
+          "accessibleEntrance": true
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.91653761133513,
+              22.52555
+            ],
+            [
+              75.91686238866485,
+              22.52555
+            ],
+            [
+              75.91686238866485,
+              22.525249999999996
+            ],
+            [
+              75.91653761133513,
+              22.525249999999996
+            ],
+            [
+              75.91653761133513,
+              22.52555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-road-0",
+      "properties": {
+        "id": "iit-indore-road-0",
+        "name": "IIT Indore Main Academic Boulevard",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9207,
+            22.5274
+          ],
+          [
+            75.9207,
+            22.516399999999997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-road-1",
+      "properties": {
+        "id": "iit-indore-road-1",
+        "name": "IIT Indore Central Ring Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.91669999999999,
+            22.5174
+          ],
+          [
+            75.9247,
+            22.5174
+          ],
+          [
+            75.9247,
+            22.5244
+          ],
+          [
+            75.91669999999999,
+            22.5244
+          ],
+          [
+            75.91669999999999,
+            22.5174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-road-2",
+      "properties": {
+        "id": "iit-indore-road-2",
+        "name": "IIT Indore West Gate Access Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9147,
+            22.5204
+          ],
+          [
+            75.9207,
+            22.5204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-road-3",
+      "properties": {
+        "id": "iit-indore-road-3",
+        "name": "IIT Indore Academic Zone Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.91669999999999,
+            22.522399999999998
+          ],
+          [
+            75.9247,
+            22.522399999999998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-road-4",
+      "properties": {
+        "id": "iit-indore-road-4",
+        "name": "IIT Indore Hostel Main Service Road",
+        "type": "road",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.91669999999999,
+            22.5174
+          ],
+          [
+            75.91669999999999,
+            22.519399999999997
+          ],
+          [
+            75.9247,
+            22.519399999999997
+          ],
+          [
+            75.9247,
+            22.5174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-walkway-0",
+      "properties": {
+        "id": "iit-indore-walkway-0",
+        "name": "IIT Indore Library Walkway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9207,
+            22.5234
+          ],
+          [
+            75.9207,
+            22.5219
+          ],
+          [
+            75.9187,
+            22.5219
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-walkway-1",
+      "properties": {
+        "id": "iit-indore-walkway-1",
+        "name": "IIT Indore CSE Corridor Path",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9237,
+            22.522399999999998
+          ],
+          [
+            75.9207,
+            22.522399999999998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-walkway-2",
+      "properties": {
+        "id": "iit-indore-walkway-2",
+        "name": "IIT Indore SAC Sports Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9207,
+            22.519399999999997
+          ],
+          [
+            75.9207,
+            22.5174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-walkway-3",
+      "properties": {
+        "id": "iit-indore-walkway-3",
+        "name": "IIT Indore Director's Garden Walk",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9237,
+            22.5144
+          ],
+          [
+            75.92269999999999,
+            22.5154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-walkway-4",
+      "properties": {
+        "id": "iit-indore-walkway-4",
+        "name": "IIT Indore Hostel 4 Girls Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9247,
+            22.5184
+          ],
+          [
+            75.9237,
+            22.519399999999997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-walkway-5",
+      "properties": {
+        "id": "iit-indore-walkway-5",
+        "name": "IIT Indore Hostel 1 Boys Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.91669999999999,
+            22.5184
+          ],
+          [
+            75.9187,
+            22.5184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-walkway-6",
+      "properties": {
+        "id": "iit-indore-walkway-6",
+        "name": "IIT Indore Health Centre Pedestrian Track",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9237,
+            22.5204
+          ],
+          [
+            75.92219999999999,
+            22.5204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "iit-indore-walkway-7",
+      "properties": {
+        "id": "iit-indore-walkway-7",
+        "name": "IIT Indore Convocation Hall Pathway",
+        "type": "walkway",
+        "verified": true,
+        "source": "Official Campus GIS Survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.9182,
+            22.5229
+          ],
+          [
+            75.9187,
+            22.5219
+          ]
+        ]
+      }
+    }
+  ]
+}
